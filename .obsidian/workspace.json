@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "811f976a63f1c41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5efce2a8ad01cc04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4504155adbad8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-08-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01e20c29d43d6f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "60acdb57a459c551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1172b30b6bb4c93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d566dd19d5fe8691",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c57164f5fc00bba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71316fb62f436cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a47d1c8e8e1e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6fd6295e63dcde0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2023-08-29.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66fa1499d26ed59d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2023-08-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b2d2b89ccf64393",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be60695d30d9b7d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2023-08-29.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d4504155adbad8f9",
+  "lastOpenFiles": [
+    "日记/2023-08-29.md",
+    "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
+    "计算机网络/hust课件/~$第1章 计算机网络与因特网（上课版）.pptx",
+    "计算机网络/hust课件/未命名",
+    "计算机网络/hust课件/~$计算机网络课程导论2023.08.28.pptx",
+    "计算机网络/hust课件/未命名.canvas",
+    "计算机网络/hust课件/计算机网络课程导论2023.08.28.pptx",
+    "未命名.md",
+    "计算机网络/第一章.md",
+    "计算机网络/assets/Pasted image 20230829120408.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
+    "计算机网络/assets/Pasted image 20230829114723.png",
+    "计算机网络/assets/Pasted image 20230829113819.png",
+    "计算机网络/计算机网络-自顶向下方法第七版.pdf",
+    "计算机网络/课程概述.md",
+    "计算机网络/assets/Pasted image 20230829105801.png",
+    "操作系统/第一章 操作系统接口.md",
+    "操作系统/Lec01 Introduction and Examples.md",
+    "计算机网络/assets/Pasted image 20230829105137.png",
+    "计算机网络/assets/Pasted image 20230829103921.png",
+    "计算机网络/assets/Pasted image 20230829103512.png",
+    "计算机网络/assets/Pasted image 20230829103406.png",
+    "计算机网络/assets",
+    "计算机网络/assets/Pasted image 20230829100952.png",
+    "计算机网络/第一章",
+    "日记/2023-08-28.md",
+    "日记/2023-08-27.md",
+    "Missing-Semester/Git.md",
+    "Missing-Semester/元编程.md",
+    "Missing-Semester/数据整理.md",
+    "Missing-Semester/命令行环境.md",
+    "Missing-Semester/课程感受.md",
+    "日记/2023-07/2023-07-31.md",
+    "日记/2023-08-26.md",
+    "日记/2023-08-24.md",
+    "日记/2023-08-18.md",
+    "日记/2023-08-17.md",
+    "日记/2023-08-16.md",
+    "日记/2023-08-23.md",
+    "日记/2023-08-22.md",
+    "杂项/python导出exe文件.md",
+    "日记/2023-08-21.md",
+    "日记/2023-08-20.md",
+    "TinyKv项目文档/project.md",
+    "未命名 1",
+    "操作系统/assets/Pasted image 20230815114141.png",
+    "未命名.canvas"
+  ]
+}
