@@ -13,29 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "日记/2023-08-30.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "03f3ebbb728cda9c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf"
-              }
-            }
-          },
-          {
-            "id": "b551e157ab0a79ed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf"
               }
             }
           }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "日记/2023-08-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "日记/2023-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第一章.md"
+                "file": "日记/2023-08-30.md"
               }
             }
           }
@@ -168,11 +148,14 @@
   },
   "active": "d4504155adbad8f9",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20230830212743.png",
+    "计算机网络/assets/Pasted image 20230830212730.png",
+    "计算机网络/assets/Pasted image 20230830212032.png",
+    "计算机网络/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
-    "计算机网络/第一章.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
-    "Pasted image 20230830210541.png",
+    "计算机网络/assets/Pasted image 20230830210541.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
     "日记/2023-08-30.md",
     "未命名.md",
@@ -191,9 +174,6 @@
     "计算机网络/assets/Pasted image 20230829105801.png",
     "操作系统/第一章 操作系统接口.md",
     "操作系统/Lec01 Introduction and Examples.md",
-    "计算机网络/assets/Pasted image 20230829105137.png",
-    "计算机网络/assets/Pasted image 20230829103921.png",
-    "计算机网络/assets/Pasted image 20230829103512.png",
     "计算机网络/assets",
     "计算机网络/第一章",
     "日记/2023-08-28.md",
