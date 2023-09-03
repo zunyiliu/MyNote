@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-02.md",
+                "file": "Missing-Semester/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-02.md",
+                "file": "Missing-Semester/Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-02.md",
+                "file": "Missing-Semester/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-02.md"
+                "file": "Missing-Semester/Git.md"
               }
             }
           }
@@ -180,6 +180,8 @@
   },
   "active": "f6ea66a12bb0144f",
   "lastOpenFiles": [
+    "日记/2023-09-03.md",
+    "日记/2023-09-02.md",
     "计算机网络/第一章.md",
     "Pasted image 20230902194735.png",
     "Pasted image 20230902194724.png",
@@ -191,7 +193,6 @@
     "操作系统/Lec01 Introduction and Examples.md",
     "操作系统/第一章 操作系统接口.md",
     "计算机网络/课程概述.md",
-    "日记/2023-09-02.md",
     "日记/2023-09-01.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "计算机网络/assets/Pasted image 20230901143542.png",
