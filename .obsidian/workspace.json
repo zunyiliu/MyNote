@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "计算机网络/第一章.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
+                "file": "计算机网络/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
+                "file": "计算机网络/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf"
+                "file": "计算机网络/第一章.md"
               }
             }
           }
@@ -167,14 +166,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "486aa93da69817e7",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "Attachment/计算机网络-自顶向下方法第七版 1.pdf",
+    "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "计算机网络/第一章.md",
+    "Attachment",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "日记/2023-09-04.md",
     "计算机网络/assets/Pasted image 20230904094813.png",
-    "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "计算机网络/assets/Pasted image 20230829100952.png",
     "计算机网络/assets/Pasted image 20230902194735.png",
     "Pasted image 20230902194724.png",
@@ -206,7 +207,6 @@
     "计算机网络/hust课件/未命名",
     "计算机网络/hust课件/~$计算机网络课程导论2023.08.28.pptx",
     "计算机网络/hust课件/未命名.canvas",
-    "计算机网络/hust课件/计算机网络课程导论2023.08.28.pptx",
     "日记/2023-08/2023-08-28.md",
     "日记/2023-08/2023-08-27.md",
     "Missing-Semester/Git.md",
