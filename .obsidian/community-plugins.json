@@ -1,5 +1,6 @@
 [
   "obsidian-minimal-settings",
   "obsidian-file-link",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plugin-toc"
 ]
