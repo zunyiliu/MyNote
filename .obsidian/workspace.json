@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "操作系统/Lec01 Introduction and Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "操作系统/Lec01 Introduction and Examples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "操作系统/Lec01 Introduction and Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第一章.md"
+                "file": "操作系统/Lec01 Introduction and Examples.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "a46e64bbdf113058",
   "lastOpenFiles": [
+    "操作系统/Lec03 OS Organization and System Calls.md",
+    "操作系统/Lec01 Introduction and Examples.md",
     "TinyKv项目文档/project.md",
+    "TinyKv项目文档/project1.md",
     "计算机网络/第一章.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
-    "操作系统/Lec01 Introduction and Examples.md",
-    "操作系统/Lec03 OS Organization and System Calls.md",
     "操作系统/第一章 操作系统接口.md",
     "日记/2023-09-05.md",
     "日记/2023-09-04.md",
@@ -194,7 +195,6 @@
     "日记/2023-08/2023-08-27.md",
     "Missing-Semester/Git.md",
     "Missing-Semester/元编程.md",
-    "Missing-Semester/数据整理.md",
     "未命名.canvas"
   ]
 }
