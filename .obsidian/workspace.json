@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/Lec03 OS Organization and System Calls.md",
+                "file": "日记/2023-09-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/Lec03 OS Organization and System Calls.md",
+                "file": "日记/2023-09-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/Lec03 OS Organization and System Calls.md",
+                "file": "日记/2023-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/Lec03 OS Organization and System Calls.md"
+                "file": "日记/2023-09-05.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a46e64bbdf113058",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "日记/2023-07/2023-07-31.md",
     "操作系统/Lec03 OS Organization and System Calls.md",
+    "日记/2023-07/2023-07-31.md",
     "操作系统/assets/Pasted image 20230905095547.png",
     "操作系统/Lec01 Introduction and Examples.md",
     "TinyKv项目文档/project.md",
