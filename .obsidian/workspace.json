@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6d13e0a1b42d81",
+        "id": "6d852b5cc5fbc37f",
         "type": "tabs",
         "children": [
           {
-            "id": "d6abbc7b6b537f4f",
+            "id": "a46e64bbdf113058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-04.md",
+                "file": "操作系统/Lec03 OS Organization and System Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-04.md",
+                "file": "操作系统/Lec03 OS Organization and System Calls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-04.md",
+                "file": "操作系统/Lec03 OS Organization and System Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-04.md"
+                "file": "操作系统/Lec03 OS Organization and System Calls.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6abbc7b6b537f4f",
+  "active": "a46e64bbdf113058",
   "lastOpenFiles": [
+    "操作系统/Lec03 OS Organization and System Calls.md",
+    "日记/2023-09-05.md",
     "日记/2023-09-04.md",
     "计算机网络/第一章.md",
     "操作系统/什么是操作系统.md",
@@ -193,8 +195,6 @@
     "Missing-Semester/元编程.md",
     "Missing-Semester/数据整理.md",
     "Missing-Semester/命令行环境.md",
-    "Missing-Semester/课程感受.md",
-    "日记/2023-07/2023-07-31.md",
     "未命名.canvas"
   ]
 }
