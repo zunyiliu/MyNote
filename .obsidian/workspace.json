@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-05.md",
-                "mode": "source",
+                "file": "计算机网络/第一章.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-05.md",
+                "file": "计算机网络/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-05.md",
+                "file": "计算机网络/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-05.md"
+                "file": "计算机网络/第一章.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "c1a1fe7feb357f51",
   "lastOpenFiles": [
+    "日记/2023-09-06.md",
+    "日记/2023-09-05.md",
     "计算机网络/assets/Pasted image 20230829103512.png",
     "计算机网络/assets/Pasted image 20230829103406.png",
     "计算机网络/assets/Pasted image 20230829100952.png",
-    "日记/2023-09-05.md",
     "操作系统/Lec03 OS Organization and System Calls.md",
     "日记/2023-07/2023-07-31.md",
     "操作系统/assets/Pasted image 20230905095547.png",
@@ -181,7 +182,6 @@
     "杂项/assets",
     "杂项/未命名.md",
     "杂项/未命名 1.md",
-    "杂项/assets/Pasted image 20230901145333.png",
     "杂项/wsl卡死无法启动.md",
     "日记/2023-08/2023-08-01.md",
     "日记/2023-08",
