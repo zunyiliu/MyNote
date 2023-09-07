@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-06.md",
+                "file": "计算机网络/作业/第一章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d0d8de996b16617a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-06.md",
+                "file": "计算机网络/作业/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-06.md",
+                "file": "计算机网络/作业/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-06.md"
+                "file": "计算机网络/作业/第一章.md"
               }
             }
           }
@@ -149,10 +159,14 @@
   },
   "active": "7fa76aa9fbd95c7e",
   "lastOpenFiles": [
-    "计算机网络/第二章.md",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/第一章.md",
+    "计算机网络/作业/第一章.md",
+    "计算机网络/作业",
+    "计算机网络/作业",
+    "日记/2023-09-07.md",
     "日记/2023-09-06.md",
+    "计算机网络/第二章.md",
     "日记/2023-09-05.md",
     "计算机网络/assets/Pasted image 20230829103512.png",
     "计算机网络/assets/Pasted image 20230829103406.png",
@@ -188,12 +202,7 @@
     "日记/2023-08/2023-08-01.md",
     "日记/2023-08",
     "日记/2023-08/2023-08-31.md",
-    "日记/2023-08/2023-08-30.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
-    "未命名.md",
-    "日记/2023-08/2023-08-29.md",
-    "计算机网络/hust课件/~$第1章 计算机网络与因特网（上课版）.pptx",
-    "计算机网络/hust课件/未命名",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
