@@ -23,19 +23,11 @@
             "id": "7719dd94e1d7cfab",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf"
-              }
-            }
-          },
-          {
-            "id": "a88e97a42c1d98c8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf"
+                "file": "计算机网络/习题/第一章.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
+                "file": "计算机网络/习题/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
+                "file": "计算机网络/习题/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf"
+                "file": "计算机网络/习题/第一章.md"
               }
             }
           }
@@ -170,8 +162,14 @@
   },
   "active": "7719dd94e1d7cfab",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20230907160812.png",
     "计算机网络/第一章.md",
+    "计算机网络/习题/第一章.md",
+    "计算机网络/assets/Pasted image 20230907160332.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
+    "计算机网络/习题",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
+    "计算机网络/assets/Pasted image 20230907155852.png",
     "计算机网络/作业/第一章.md",
     "计算机网络/作业",
     "计算机网络/作业",
@@ -194,18 +192,15 @@
     "操作系统/什么是操作系统.md",
     "Attachment/计算机网络-自顶向下方法第七版 1.pdf",
     "Attachment",
-    "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/assets/Pasted image 20230904094813.png",
     "计算机网络/assets/Pasted image 20230902194735.png",
     "Pasted image 20230902194724.png",
     "日记/2023-09-03.md",
     "日记/2023-09-02.md",
     "计算机网络/assets/Pasted image 20230902194547.png",
-    "计算机网络/assets/Pasted image 20230902191533.png",
     "计算机网络/课程概述.md",
     "日记/2023-09-01.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
-    "计算机网络/assets/Pasted image 20230901143542.png",
     "杂项/assets",
     "杂项/未命名.md",
     "杂项/未命名 1.md",
@@ -213,7 +208,6 @@
     "日记/2023-08/2023-08-01.md",
     "日记/2023-08",
     "日记/2023-08/2023-08-31.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
