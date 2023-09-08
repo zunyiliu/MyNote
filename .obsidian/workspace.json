@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "205ce27ab6df05f1",
+            "id": "93b47c120eef247f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
+                "file": "计算机网络/第二章.md"
               }
             }
           }
@@ -158,11 +157,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49f4467894312e35",
+  "active": "93b47c120eef247f",
   "lastOpenFiles": [
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/assets/Pasted image 20230908154517.png",
+    "计算机网络/assets/Pasted image 20230908154538.png",
     "计算机网络/第二章.md",
     "计算机网络/assets/Pasted image 20230908152721.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/assets/Pasted image 20230908151859.png",
     "计算机网络/assets/Pasted image 20230908151450.png",
     "计算机网络/第一章.md",
@@ -176,8 +177,6 @@
     "计算机网络/习题/第一章.md",
     "计算机网络/assets/Pasted image 20230907164216.png",
     "计算机网络/作业/Pasted image 20230907164155.png",
-    "计算机网络/assets/Pasted image 20230907164416.png",
-    "计算机网络/assets/Pasted image 20230907163619.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/习题",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
