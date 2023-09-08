@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "748c284d339aa328",
+        "id": "ef4f86ffe205449a",
         "type": "tabs",
         "children": [
           {
-            "id": "e819f1daf5ba455c",
+            "id": "205ce27ab6df05f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-07.md",
+                "file": "计算机网络/第二章.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "49f4467894312e35",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-07.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-07.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-07.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
               }
             }
           }
@@ -147,8 +158,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e819f1daf5ba455c",
+  "active": "49f4467894312e35",
   "lastOpenFiles": [
+    "计算机网络/第二章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "日记/2023-09-08.md",
+    "日记/2023-09-07.md",
     "计算机网络/作业/第一章.md",
     "计算机网络/习题/第一章.md",
     "计算机网络/assets/Pasted image 20230907164216.png",
@@ -160,14 +175,12 @@
     "计算机网络/assets/Pasted image 20230907160812.png",
     "计算机网络/assets/Pasted image 20230907160332.png",
     "计算机网络/assets/Pasted image 20230907155852.png",
-    "计算机网络/第二章.md",
     "计算机网络/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/习题",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/作业",
     "计算机网络/作业",
-    "日记/2023-09-07.md",
     "日记/2023-09-06.md",
     "日记/2023-09-05.md",
     "计算机网络/assets/Pasted image 20230829103512.png",
@@ -192,8 +205,6 @@
     "杂项/未命名 1.md",
     "杂项/wsl卡死无法启动.md",
     "日记/2023-08/2023-08-01.md",
-    "日记/2023-08",
-    "日记/2023-08/2023-08-31.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
