@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
+                "file": "计算机网络/第二章.md"
               }
             }
           }
@@ -158,10 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49f4467894312e35",
+  "active": "205ce27ab6df05f1",
   "lastOpenFiles": [
-    "计算机网络/第二章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/第二章.md",
+    "计算机网络/assets/Pasted image 20230908113136.png",
+    "计算机网络/assets/Pasted image 20230908112346.png",
     "日记/2023-09-08.md",
     "日记/2023-09-07.md",
     "计算机网络/作业/第一章.md",
@@ -174,7 +175,6 @@
     "计算机网络/assets/Pasted image 20230907163255.png",
     "计算机网络/assets/Pasted image 20230907160812.png",
     "计算机网络/assets/Pasted image 20230907160332.png",
-    "计算机网络/assets/Pasted image 20230907155852.png",
     "计算机网络/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/习题",
@@ -183,7 +183,6 @@
     "计算机网络/作业",
     "日记/2023-09-06.md",
     "日记/2023-09-05.md",
-    "计算机网络/assets/Pasted image 20230829103512.png",
     "操作系统/Lec03 OS Organization and System Calls.md",
     "日记/2023-07/2023-07-31.md",
     "操作系统/Lec01 Introduction and Examples.md",
