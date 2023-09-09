@@ -74,6 +74,25 @@ void procnum(uint64 *cnt)
 
 然后参阅`sys_fstat()`(**_kernel/sysfile.c_**)和`filestat()`(**_kernel/file.c_**)以获取如何使用`copyout()`执行此操作的示例，就可以开始写`sysinfo()`函数了。
 
+```C
+uint64
+sys_sysinfo(void)
+{
+    struct sysinfo info;
+    freebyte(&info.freemem);
+    procnum(&info.nproc);
+
+    uint64 addr;
+    argaddr(0,&addr);
+
+    if (copyout(myproc()->pagetable, addr, (char *)&info, sizeof info) < 0)
+        return -1;
+
+    return 0;
+}
+```
+
+
 
 
 

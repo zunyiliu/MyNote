@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "日记/2023-09-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "日记/2023-09-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "日记/2023-09-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
+                "file": "日记/2023-09-09.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "1ca42a1cba987839",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "Missing-Semester/资源汇总.md",
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "Missing-Semester/Shell概述.md",
     "Missing-Semester/Git.md",
     "Missing-Semester/元编程.md",
