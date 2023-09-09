@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d937cb59f81650cc",
+        "id": "68b0b11d7e907337",
         "type": "tabs",
         "children": [
           {
-            "id": "74dd96097cdf5b6a",
+            "id": "1ca42a1cba987839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-08.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-08.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-08.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-08.md"
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
               }
             }
           }
@@ -147,8 +147,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74dd96097cdf5b6a",
+  "active": "1ca42a1cba987839",
   "lastOpenFiles": [
+    "Missing-Semester/Shell概述.md",
+    "Missing-Semester/Git.md",
+    "Missing-Semester/元编程.md",
+    "Missing-Semester/数据整理.md",
+    "Missing-Semester/命令行环境.md",
+    "Missing-Semester/课程感受.md",
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
+    "操作系统/什么是操作系统.md",
+    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
+    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
+    "操作系统/MIT-6.S081笔记",
+    "操作系统/MIT-6.S081实验",
+    "日记/2023-09-09.md",
+    "日记/2023-09-08.md",
     "CS50/HTML、CSS、JavaScript.md",
     "计算机网络/第二章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
@@ -158,9 +173,7 @@
     "计算机网络/assets/Pasted image 20230908151859.png",
     "计算机网络/assets/Pasted image 20230908151450.png",
     "计算机网络/第一章.md",
-    "操作系统/Lec03 OS Organization and System Calls.md",
     "计算机网络/assets/Pasted image 20230908145926.png",
-    "日记/2023-09-08.md",
     "计算机网络/assets/Pasted image 20230908113136.png",
     "计算机网络/assets/Pasted image 20230908112346.png",
     "日记/2023-09-07.md",
@@ -176,25 +189,12 @@
     "日记/2023-09-06.md",
     "日记/2023-09-05.md",
     "日记/2023-07/2023-07-31.md",
-    "操作系统/Lec01 Introduction and Examples.md",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project1.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
-    "操作系统/第一章 操作系统接口.md",
     "日记/2023-09-04.md",
-    "操作系统/什么是操作系统.md",
     "Attachment/计算机网络-自顶向下方法第七版 1.pdf",
-    "Attachment",
     "日记/2023-09-03.md",
-    "日记/2023-09-02.md",
-    "计算机网络/课程概述.md",
-    "日记/2023-09-01.md",
-    "杂项/管理员模式运行cmd或Window Terminal.md",
-    "杂项/assets",
-    "杂项/未命名.md",
-    "杂项/未命名 1.md",
-    "杂项/wsl卡死无法启动.md",
-    "日记/2023-08/2023-08-01.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]

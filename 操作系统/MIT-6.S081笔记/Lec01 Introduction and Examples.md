@@ -34,10 +34,10 @@ XV6运行在一个RISC-V微处理器上。理论上，我们可以在一个RISC-
 make qemu，这条指令会编译并构建xv6内核和所有的用户进程，并将它们运行在QEMU模拟器下。make clean 会清楚仓库中不相关的文件。事实上这些都可以在Makefile中找到答案，可以看到他们具体是怎么执行的，像make clean就是清除 .o、.tex一类的不相关文件。
 
 像下图这样出现 $ 符号就是已经启动了操作系统，接着我们就可以把它当作一个XV6的Shell进行使用。
-![[./assets/Pasted image 20230815114141.png]]
+![[Pasted image 20230815114141.png]]
 
 XV6本身很小，并且自带了一小部分的工具程序，例如ls。我这里运行ls，它会输出xv6中的所有文件，这里只有20多个。可以看到这都是一些自带的命令工具。
-![Pasted image 20230815114815.png](./assets/Pasted%20image%2020230815114815.png)
+![Pasted image 20230815114815.png](Pasted%20image%2020230815114815.png)
 
 此处演示了一个copy.c的程序，其执行了三个系统调用，分别是read，write和exit。事实上在我们的书中就已经列好XV6的所有系统调用，他们也在user.h中有写明。
 ![[Pasted image 20230815115819.png]]
