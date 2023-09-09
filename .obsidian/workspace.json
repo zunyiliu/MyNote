@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-09.md",
+                "file": "计算机网络/第二章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c5473b9728b76804",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-09.md",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-09.md",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-09.md"
+                "file": "计算机网络/第二章.md"
               }
             }
           }
@@ -149,6 +159,10 @@
   },
   "active": "1ca42a1cba987839",
   "lastOpenFiles": [
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/第二章.md",
+    "Pasted image 20230909190127.png",
+    "日记/2023-09-09.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "Missing-Semester/资源汇总.md",
@@ -164,11 +178,8 @@
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记",
     "操作系统/MIT-6.S081实验",
-    "日记/2023-09-09.md",
     "日记/2023-09-08.md",
     "CS50/HTML、CSS、JavaScript.md",
-    "计算机网络/第二章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/assets/Pasted image 20230908154517.png",
     "计算机网络/assets/Pasted image 20230908154538.png",
     "计算机网络/assets/Pasted image 20230908152721.png",
@@ -182,7 +193,6 @@
     "计算机网络/作业/第一章.md",
     "计算机网络/习题/第一章.md",
     "计算机网络/assets/Pasted image 20230907164216.png",
-    "计算机网络/作业/Pasted image 20230907164155.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/习题",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
@@ -192,7 +202,6 @@
     "日记/2023-09-05.md",
     "日记/2023-07/2023-07-31.md",
     "TinyKv项目文档/project.md",
-    "TinyKv项目文档/project1.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "Attachment/计算机网络-自顶向下方法第七版 1.pdf",
     "计算机网络/hust课件/未命名.canvas",
