@@ -28,6 +28,16 @@
                 "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
               }
             }
+          },
+          {
+            "id": "d0533be21dcbcc21",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/hust课件/第2章 应用层.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -162,11 +172,16 @@
   "lastOpenFiles": [
     "计算机网络/第二章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/hust课件/第2章 应用层.pdf",
+    "日记/2023-09-11.md",
+    "计算机网络/hust课件/第2章 应用层.ppt",
+    "计算机网络/hust课件/第2章 应用层.tmp",
+    "计算机网络/assets/Pasted image 20230911093555.png",
+    "计算机网络/assets/Pasted image 20230911093614.png",
     "计算机网络/assets/Pasted image 20230911091702.png",
     "计算机网络/assets/Pasted image 20230911085719.png",
     "计算机网络/assets/Pasted image 20230911085230.png",
     "计算机网络/assets/Pasted image 20230911084341.png",
-    "日记/2023-09-11.md",
     "日记/2023-09-10.md",
     "计算机网络/作业/第一章.md",
     "拇指琴设计与制作报告.md",
@@ -192,8 +207,6 @@
     "计算机网络/assets/Pasted image 20230908154517.png",
     "计算机网络/assets/Pasted image 20230908154538.png",
     "计算机网络/assets/Pasted image 20230908152721.png",
-    "计算机网络/assets/Pasted image 20230908151859.png",
-    "计算机网络/assets/Pasted image 20230908151450.png",
     "计算机网络/第一章.md",
     "日记/2023-09-07.md",
     "计算机网络/习题/第一章.md",
@@ -201,10 +214,7 @@
     "计算机网络/习题",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/作业",
-    "计算机网络/作业",
     "日记/2023-09-06.md",
-    "计算机网络/计算机网络-自顶向下方法第七版.pdf",
-    "Attachment/计算机网络-自顶向下方法第七版 1.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
