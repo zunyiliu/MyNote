@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-10.md",
+                "file": "计算机网络/第二章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2078a78f1ae9e4cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-10.md",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-10.md",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-10.md"
+                "file": "计算机网络/第二章.md"
               }
             }
           }
@@ -150,12 +160,15 @@
   "active": "72964f160585fe18",
   "lastOpenFiles": [
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
-    "计算机网络/作业/第一章.md",
+    "计算机网络/第二章.md",
+    "计算机网络/assets/Pasted image 20230911085230.png",
+    "计算机网络/assets/Pasted image 20230911084341.png",
+    "日记/2023-09-11.md",
     "日记/2023-09-10.md",
+    "计算机网络/作业/第一章.md",
     "拇指琴设计与制作报告.md",
     "计算机网络/assets/Pasted image 20230909190127.png",
     "日记/2023-09-09.md",
-    "计算机网络/第二章.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "Missing-Semester/资源汇总.md",
@@ -181,17 +194,14 @@
     "计算机网络/第一章.md",
     "计算机网络/assets/Pasted image 20230908145926.png",
     "计算机网络/assets/Pasted image 20230908113136.png",
-    "计算机网络/assets/Pasted image 20230908112346.png",
     "日记/2023-09-07.md",
     "计算机网络/习题/第一章.md",
-    "计算机网络/assets/Pasted image 20230907164216.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/习题",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/作业",
     "计算机网络/作业",
     "日记/2023-09-06.md",
-    "日记/2023-09-05.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "Attachment/计算机网络-自顶向下方法第七版 1.pdf",
     "计算机网络/hust课件/未命名.canvas",
