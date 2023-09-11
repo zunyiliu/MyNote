@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第二章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第二章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第二章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
               }
             }
           }
@@ -157,10 +158,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72964f160585fe18",
+  "active": "2078a78f1ae9e4cc",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/第二章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/assets/Pasted image 20230911091702.png",
+    "计算机网络/assets/Pasted image 20230911085719.png",
     "计算机网络/assets/Pasted image 20230911085230.png",
     "计算机网络/assets/Pasted image 20230911084341.png",
     "日记/2023-09-11.md",
@@ -192,8 +195,6 @@
     "计算机网络/assets/Pasted image 20230908151859.png",
     "计算机网络/assets/Pasted image 20230908151450.png",
     "计算机网络/第一章.md",
-    "计算机网络/assets/Pasted image 20230908145926.png",
-    "计算机网络/assets/Pasted image 20230908113136.png",
     "日记/2023-09-07.md",
     "计算机网络/习题/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
