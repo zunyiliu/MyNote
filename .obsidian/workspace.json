@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "6254f3c95f970009",
+            "id": "20dc3b5f2fd03937",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
+                "file": "计算机网络/第二章.md"
               }
             }
           }
@@ -168,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2078a78f1ae9e4cc",
+  "active": "72964f160585fe18",
   "lastOpenFiles": [
-    "计算机网络/第二章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/第二章.md",
     "计算机网络/hust课件/第2章 应用层.pdf",
+    "计算机网络/assets/Pasted image 20230911104404.png",
     "计算机网络/assets/Pasted image 20230911100448.png",
     "日记/2023-09-11.md",
     "计算机网络/hust课件/第2章 应用层.ppt",
@@ -206,7 +206,6 @@
     "日记/2023-09-08.md",
     "CS50/HTML、CSS、JavaScript.md",
     "计算机网络/assets/Pasted image 20230908154517.png",
-    "计算机网络/assets/Pasted image 20230908154538.png",
     "计算机网络/第一章.md",
     "日记/2023-09-07.md",
     "计算机网络/习题/第一章.md",
