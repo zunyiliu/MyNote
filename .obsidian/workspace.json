@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72964f160585fe18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-09-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2078a78f1ae9e4cc",
             "type": "leaf",
             "state": {
@@ -51,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-11.md",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-11.md",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-11.md"
+                "file": "计算机网络/第二章.md"
               }
             }
           }
@@ -179,15 +168,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72964f160585fe18",
+  "active": "3d8681a56faf504b",
   "lastOpenFiles": [
-    "日记/2023-09-10.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "日记/2023-09-11.md",
+    "计算机网络/作业/第一章.md",
+    "日记/2023-09-10.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "计算机网络/第二章.md",
-    "计算机网络/作业/第一章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/习题/第一章.md",
     "Missing-Semester/Git.md",
     "计算机网络/hust课件/第2章 应用层.pdf",
