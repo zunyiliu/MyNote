@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "68b0b11d7e907337",
+        "id": "1421e33ce987aa4a",
         "type": "tabs",
         "children": [
           {
-            "id": "2662792fb48f1aa6",
+            "id": "72964f160585fe18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/作业/第一章.md",
+                "file": "日记/2023-09-10.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c5473b9728b76804",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/作业/第一章.md",
+                "file": "日记/2023-09-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/作业/第一章.md",
+                "file": "日记/2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/作业/第一章.md"
+                "file": "日记/2023-09-10.md"
               }
             }
           }
@@ -157,13 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2662792fb48f1aa6",
+  "active": "72964f160585fe18",
   "lastOpenFiles": [
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/作业/第一章.md",
     "日记/2023-09-10.md",
     "拇指琴设计与制作报告.md",
     "计算机网络/assets/Pasted image 20230909190127.png",
     "日记/2023-09-09.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/第二章.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
@@ -192,7 +183,6 @@
     "计算机网络/assets/Pasted image 20230908113136.png",
     "计算机网络/assets/Pasted image 20230908112346.png",
     "日记/2023-09-07.md",
-    "计算机网络/作业/第一章.md",
     "计算机网络/习题/第一章.md",
     "计算机网络/assets/Pasted image 20230907164216.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
