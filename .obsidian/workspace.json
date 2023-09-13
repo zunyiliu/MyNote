@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-13.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "146898d18122c9cd",
   "lastOpenFiles": [
+    "日记/2023-09-13.md",
     "assets/第一章作业.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/第三章.md",
@@ -168,7 +169,6 @@
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/第二章.md",
     "计算机网络/习题/第一章.md",
-    "日记/2023-09-13.md",
     "日记/2023-09-12.md",
     "计算机网络/assets/Pasted image 20230913094354.png",
     "计算机网络/assets/Pasted image 20230913093414.png",
