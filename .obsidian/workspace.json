@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "计算机网络/第二章.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5da6d109925eb915",
+            "id": "6901315e08735aa8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "计算机网络/hust课件/第2章 应用层.pdf"
               }
             }
           },
           {
-            "id": "1119118e72a50a52",
+            "id": "5e674a74a55daf5d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "计算机网络/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "计算机网络/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-13.md"
+                "file": "计算机网络/第二章.md"
               }
             }
           },
@@ -179,15 +179,19 @@
   },
   "active": "146898d18122c9cd",
   "lastOpenFiles": [
+    "计算机网络/hust课件/第2章 应用层.pdf",
+    "计算机网络/第二章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "计算机网络/习题/第一章.md",
+    "计算机网络/第一章.md",
+    "日记/2023-09-13.md",
+    "日记/2023-09-12.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/assets/Pasted image 20230913094354.png",
     "计算机网络/assets/Pasted image 20230913093414.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
-    "计算机网络/第二章.md",
     "CS50/HTML、CSS、JavaScript.md",
-    "日记/2023-09-13.md",
     "计算机网络/作业/第一章.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
-    "日记/2023-09-12.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/assets/Pasted image 20230912202751.png",
@@ -198,16 +202,13 @@
     "计算机网络/assets/Pasted image 20230912171234.png",
     "操作系统/assets/Pasted image 20230912115449.png",
     "操作系统/assets/Pasted image 20230912113725.png",
-    "操作系统/assets/Pasted image 20230912112741.png",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-09-11.md",
     "assets/第一章作业.md",
     "assets",
     "日记/2023-09-10.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
-    "计算机网络/习题/第一章.md",
     "Missing-Semester/Git.md",
-    "计算机网络/hust课件/第2章 应用层.pdf",
     "计算机网络/hust课件/第2章 应用层.ppt",
     "计算机网络/hust课件/第2章 应用层.tmp",
     "拇指琴设计与制作报告.md",
@@ -220,11 +221,9 @@
     "Missing-Semester/命令行环境.md",
     "Missing-Semester/课程感受.md",
     "操作系统/什么是操作系统.md",
-    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/MIT-6.S081笔记",
     "操作系统/MIT-6.S081实验",
     "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
-    "计算机网络/习题",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
