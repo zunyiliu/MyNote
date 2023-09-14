@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第三章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
               }
             }
           },
@@ -167,10 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ac2a1c36346b51c",
+  "active": "acef1ff53a1ed97d",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/第三章.md",
+    "Pasted image 20230914185502.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "Pasted image 20230914184704.png",
     "计算机网络/assets/Pasted image 20230914173211.png",
     "计算机网络/assets/Pasted image 20230914172530.png",
     "计算机网络/assets/Pasted image 20230914172500.png",
@@ -197,8 +200,6 @@
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/assets/Pasted image 20230912202751.png",
     "操作系统/assets/Pasted image 20230912195523.png",
-    "计算机网络/assets/Pasted image 20230912180308.png",
-    "计算机网络/assets/Pasted image 20230912180158.png",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-09-11.md",
     "assets",
