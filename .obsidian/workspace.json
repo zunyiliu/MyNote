@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5a07f27eec1afa",
+        "id": "5ebd369e10762232",
         "type": "tabs",
         "children": [
           {
-            "id": "146898d18122c9cd",
+            "id": "0ac2a1c36346b51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "日记/2023-09-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "日记/2023-09-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-13.md",
+                "file": "日记/2023-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-13.md"
+                "file": "日记/2023-09-14.md"
               }
             }
           },
@@ -157,8 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "146898d18122c9cd",
+  "active": "0ac2a1c36346b51c",
   "lastOpenFiles": [
+    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+    "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
+    "日记/2023-09-14.md",
     "日记/2023-09-13.md",
     "assets/第一章作业.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
@@ -200,10 +203,8 @@
     "Missing-Semester/元编程.md",
     "Missing-Semester/数据整理.md",
     "Missing-Semester/命令行环境.md",
-    "Missing-Semester/课程感受.md",
     "操作系统/MIT-6.S081笔记",
     "操作系统/MIT-6.S081实验",
-    "计算机网络/ustc课件/计算机网络-郑老师-第1章.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
