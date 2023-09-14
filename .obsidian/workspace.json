@@ -11,9 +11,11 @@
             "id": "0ac2a1c36346b51c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf"
+                "file": "计算机网络/第一章.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
+                "file": "计算机网络/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
+                "file": "计算机网络/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf"
+                "file": "计算机网络/第一章.md"
               }
             }
           },
@@ -157,8 +159,9 @@
   },
   "active": "0ac2a1c36346b51c",
   "lastOpenFiles": [
-    "计算机网络/hust课件/第2章 应用层.pdf",
+    "计算机网络/第二章.md",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
+    "计算机网络/hust课件/第2章 应用层.pdf",
     "日记/2023-09-14.md",
     "日记/2023-09-13.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
@@ -168,7 +171,6 @@
     "计算机网络/作业/第一章.md",
     "计算机网络/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
-    "计算机网络/第二章.md",
     "计算机网络/习题/第一章.md",
     "日记/2023-09-12.md",
     "计算机网络/assets/Pasted image 20230913094354.png",
