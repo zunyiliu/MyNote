@@ -28,9 +28,19 @@
                 "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
               }
             }
+          },
+          {
+            "id": "b9890f737de56563",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf"
               }
             }
           },
@@ -168,12 +178,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "acef1ff53a1ed97d",
+  "active": "b9890f737de56563",
   "lastOpenFiles": [
-    "计算机网络/第三章.md",
-    "Pasted image 20230914185502.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
-    "Pasted image 20230914184704.png",
+    "计算机网络/第三章.md",
+    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+    "计算机网络/assets/Pasted image 20230914192025.png",
+    "计算机网络/assets/Pasted image 20230914190137.png",
+    "计算机网络/assets/Pasted image 20230914185502.png",
+    "计算机网络/assets/Pasted image 20230914184704.png",
     "计算机网络/assets/Pasted image 20230914173211.png",
     "计算机网络/assets/Pasted image 20230914172530.png",
     "计算机网络/assets/Pasted image 20230914172500.png",
@@ -186,7 +199,6 @@
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
     "计算机网络/hust课件/第2章 应用层.pdf",
     "日记/2023-09-13.md",
-    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "assets/第一章作业.md",
     "计算机网络/作业/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
@@ -198,8 +210,6 @@
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
-    "操作系统/assets/Pasted image 20230912202751.png",
-    "操作系统/assets/Pasted image 20230912195523.png",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-09-11.md",
     "assets",
