@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "计算机网络/习题/第二章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "计算机网络/习题/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "计算机网络/习题/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第一章.md"
+                "file": "计算机网络/习题/第二章.md"
               }
             }
           },
@@ -159,17 +159,20 @@
   },
   "active": "0ac2a1c36346b51c",
   "lastOpenFiles": [
+    "日记/2023-09-14.md",
+    "计算机网络/习题/第二章.md",
+    "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
+    "计算机网络/第一章.md",
+    "计算机网络/作业/第二章.md",
     "计算机网络/第二章.md",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
     "计算机网络/hust课件/第2章 应用层.pdf",
-    "日记/2023-09-14.md",
     "日记/2023-09-13.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "assets/第一章作业.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/第三章.md",
     "计算机网络/作业/第一章.md",
-    "计算机网络/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/习题/第一章.md",
     "日记/2023-09-12.md",
@@ -186,7 +189,6 @@
     "计算机网络/assets/Pasted image 20230912172734.png",
     "计算机网络/assets/Pasted image 20230912171234.png",
     "操作系统/assets/Pasted image 20230912115449.png",
-    "操作系统/assets/Pasted image 20230912113725.png",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-09-11.md",
     "assets",
@@ -202,7 +204,6 @@
     "Missing-Semester/Shell概述.md",
     "Missing-Semester/元编程.md",
     "Missing-Semester/数据整理.md",
-    "Missing-Semester/命令行环境.md",
     "操作系统/MIT-6.S081笔记",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
