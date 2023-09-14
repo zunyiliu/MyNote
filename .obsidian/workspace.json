@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -178,11 +177,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9890f737de56563",
+  "active": "0ac2a1c36346b51c",
   "lastOpenFiles": [
+    "计算机网络/第一章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/第三章.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+    "Pasted image 20230914193854.png",
+    "计算机网络/assets/Pasted image 20230914193726.png",
+    "Pasted image 20230914193711.png",
     "计算机网络/assets/Pasted image 20230914192025.png",
     "计算机网络/assets/Pasted image 20230914190137.png",
     "计算机网络/assets/Pasted image 20230914185502.png",
@@ -192,8 +195,6 @@
     "计算机网络/assets/Pasted image 20230914172500.png",
     "计算机网络/习题/第二章.md",
     "日记/2023-09-14.md",
-    "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
-    "计算机网络/第一章.md",
     "计算机网络/作业/第二章.md",
     "计算机网络/第二章.md",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
@@ -204,8 +205,6 @@
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/习题/第一章.md",
     "日记/2023-09-12.md",
-    "计算机网络/assets/Pasted image 20230913094354.png",
-    "计算机网络/assets/Pasted image 20230913093414.png",
     "CS50/HTML、CSS、JavaScript.md",
     "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
