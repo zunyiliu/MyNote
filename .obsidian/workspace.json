@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dcda185437b1e2d3",
+        "id": "a259da01057e6a11",
         "type": "tabs",
         "children": [
           {
-            "id": "5fefd0df5c46846b",
+            "id": "d5bb46fb817368cb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "函数式编程/hust课件/0Lecture 1-lg-0913.pdf"
+                "file": "函数式编程/ML编程基本概念.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
+                "file": "函数式编程/ML编程基本概念.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
+                "file": "函数式编程/ML编程基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "函数式编程/hust课件/0Lecture 1-lg-0913.pdf"
+                "file": "函数式编程/ML编程基本概念.md"
               }
             }
           },
@@ -155,11 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5fefd0df5c46846b",
+  "active": "d5bb46fb817368cb",
   "lastOpenFiles": [
     "函数式编程/ML程序设计教程.pdf",
-    "计算机网络/assets/Pasted image 20230914193854.png",
+    "函数式编程/ML编程基本概念.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
+    "计算机网络/assets/Pasted image 20230914193854.png",
     "函数式编程/ML程序设计教程.tmp",
     "函数式编程/hust课件/0Lecture 1-lg-0913.tmp",
     "函数式编程/hust课件",
@@ -201,7 +204,6 @@
     "日记/2023-09-09.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "Missing-Semester/资源汇总.md",
-    "Missing-Semester/Shell概述.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
