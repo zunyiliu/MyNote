@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-15.md",
+                "file": "函数式编程/ML编程基本概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-15.md",
+                "file": "函数式编程/ML编程基本概念.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-15.md",
+                "file": "函数式编程/ML编程基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-15.md"
+                "file": "函数式编程/ML编程基本概念.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "d5bb46fb817368cb",
   "lastOpenFiles": [
+    "日记/2023-09-16.md",
+    "日记/2023-09-15.md",
     "函数式编程/ML程序设计教程.pdf",
     "函数式编程/ML编程基本概念.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
@@ -167,7 +169,6 @@
     "函数式编程/hust课件/0Lecture 1-lg-0913.tmp",
     "函数式编程/hust课件",
     "函数式编程",
-    "日记/2023-09-15.md",
     "日记/2023-09-14.md",
     "计算机网络/第三章.md",
     "计算机网络/第一章.md",
