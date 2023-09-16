@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "函数式编程/ML编程基本概念.md",
+                "file": "日记/2023-09-16.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2290b47187ebd1dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数式编程/ML编程基本概念.md",
+                "file": "日记/2023-09-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数式编程/ML编程基本概念.md",
+                "file": "日记/2023-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "函数式编程/ML编程基本概念.md"
+                "file": "日记/2023-09-16.md"
               }
             }
           },
