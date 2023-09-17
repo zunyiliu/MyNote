@@ -23,9 +23,11 @@
             "id": "2dd1fdab774f2c7c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "计算机网络/第一章.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/第一章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "计算机网络/第一章.md"
               }
             }
           },
@@ -170,8 +172,8 @@
   },
   "active": "2dd1fdab774f2c7c",
   "lastOpenFiles": [
-    "计算机网络/第三章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "计算机网络/第三章.md",
     "计算机网络/assets/Pasted image 20230917094701.png",
     "计算机网络/assets/Pasted image 20230917094638.png",
     "计算机网络/assets/Pasted image 20230917093420.png",
