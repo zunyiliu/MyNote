@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第三章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
               }
             }
           },
@@ -167,11 +168,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72aaa6fc7476dac3",
+  "active": "2dd1fdab774f2c7c",
   "lastOpenFiles": [
-    "Pasted image 20230917090412.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/第三章.md",
+    "Pasted image 20230917093420.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "Pasted image 20230917090412.png",
     "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
     "计算机网络/assets/Pasted image 20230917090127.png",
     "计算机网络/第二章.md",
@@ -186,14 +188,12 @@
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "Pasted image 20230916191227.png",
     "Pasted image 20230916191118.png",
-    "计算机网络/assets/Pasted image 20230916160235.png",
     "计算机网络/CS144实验笔记/Lab1.md",
     "计算机网络/CS144实验笔记",
     "日记/2023-09-15.md",
     "函数式编程/ML程序设计教程.pdf",
     "函数式编程/ML编程基本概念.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
-    "计算机网络/assets/Pasted image 20230914193854.png",
     "函数式编程/ML程序设计教程.tmp",
     "函数式编程/hust课件/0Lecture 1-lg-0913.tmp",
     "函数式编程/hust课件",
