@@ -11,8 +11,12 @@
             "id": "3049baafd843813b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/第三章.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/计算机网络-自顶向下方法第七版.pdf",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/计算机网络-自顶向下方法第七版.pdf",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/计算机网络-自顶向下方法第七版.pdf"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -161,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "3049baafd843813b",
   "lastOpenFiles": [
+    "计算机网络/计算机网络-自顶向下方法第七版.pdf",
     "日记/2023-09-18.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "杂项/软工想法.md",
@@ -208,7 +213,6 @@
     "计算机网络/习题/第二章.md",
     "计算机网络/作业/第二章.md",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
-    "日记/2023-09-13.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
