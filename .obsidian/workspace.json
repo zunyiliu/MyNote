@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-19.md",
+                "file": "计算机网络/第三章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "97e125f5726df074",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-19.md",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-19.md",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-19.md"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -167,8 +177,12 @@
   },
   "active": "23251272405c13ac",
   "lastOpenFiles": [
-    "杂项/软工想法.md",
+    "Pasted image 20230919185637.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "计算机网络/第三章.md",
     "日记/2023-09-19.md",
+    "Pasted image 20230919184046.png",
+    "杂项/软工想法.md",
     "操作系统/assets/Pasted image 20230919114851.png",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/assets/Pasted image 20230919113454.png",
@@ -188,7 +202,6 @@
     "操作系统/学校教材/操作系统课件/2-结构与硬件支持.pptx",
     "操作系统/学校教材/操作系统课件/6-处理机调度.pptx",
     "操作系统/学校教材/操作系统课件/8-设备管理.pptx",
-    "操作系统/学校教材/操作系统课件/9-文件系统.pptx",
     "日记/2023-09-18.md",
     "杂项/Oceanbase.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
@@ -197,7 +210,6 @@
     "杂项/VScode C++环境配置.md",
     "杂项/wsl卡死无法启动.md",
     "杂项/assets/Pasted image 20230918163741.png",
-    "计算机网络/第三章.md",
     "计算机网络/assets/Pasted image 20230918150801.png",
     "计算机网络/assets/Pasted image 20230918150745.png",
     "Missing-Semester/Shell工具与脚本.md",
@@ -205,7 +217,6 @@
     "Missing-Semester/数据整理.md",
     "Missing-Semester/元编程.md",
     "Missing-Semester/命令行环境.md",
-    "计算机网络/assets/Pasted image 20230918091059.png",
     "日记/2023-09-17.md",
     "计算机网络/第一章.md",
     "计算机网络/第二章.md",
