@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+                "file": "杂项/软工想法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+                "file": "杂项/软工想法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+                "file": "杂项/软工想法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md"
+                "file": "杂项/软工想法.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "5ef1394f6e7922a6",
   "lastOpenFiles": [
+    "日记/2023-09-19.md",
     "操作系统/assets/Pasted image 20230919114851.png",
     "杂项/软工想法.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
@@ -188,7 +189,6 @@
     "操作系统/学校教材/操作系统课件/6-处理机调度.pptx",
     "操作系统/学校教材/操作系统课件/8-设备管理.pptx",
     "操作系统/学校教材/操作系统课件/9-文件系统.pptx",
-    "日记/2023-09-19.md",
     "日记/2023-09-18.md",
     "杂项/Oceanbase.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
@@ -206,7 +206,6 @@
     "Missing-Semester/元编程.md",
     "Missing-Semester/命令行环境.md",
     "计算机网络/assets/Pasted image 20230918091059.png",
-    "计算机网络/assets/Pasted image 20230918090647.png",
     "日记/2023-09-17.md",
     "计算机网络/第一章.md",
     "计算机网络/第二章.md",
