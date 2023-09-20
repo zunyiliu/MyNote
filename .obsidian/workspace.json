@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第一章.md",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第一章.md"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -188,8 +187,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "18f8bd2086c4153e",
+  "active": "b4fcec36b8d44f66",
   "lastOpenFiles": [
+    "计算机网络/第一章.md",
     "计算机网络/第三章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/assets/Pasted image 20230920092451.png",
@@ -232,7 +232,6 @@
     "Missing-Semester/元编程.md",
     "Missing-Semester/命令行环境.md",
     "日记/2023-09-17.md",
-    "计算机网络/第一章.md",
     "日记/2023-09-16.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "计算机网络/hust课件/未命名.canvas",
