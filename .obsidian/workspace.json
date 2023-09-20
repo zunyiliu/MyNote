@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-20.md",
+                "file": "杂项/软件工程.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-20.md",
+                "file": "杂项/软件工程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-20.md",
+                "file": "杂项/软件工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-20.md"
+                "file": "杂项/软件工程.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "b4fcec36b8d44f66",
   "lastOpenFiles": [
+    "日记/2023-09-20.md",
+    "杂项/软件工程.md",
     "计算机网络/第一章.md",
     "计算机网络/第三章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
@@ -199,7 +201,6 @@
     "计算机网络/assets/Pasted image 20230920085259.png",
     "计算机网络/assets/Pasted image 20230920085229.png",
     "计算机网络/assets/Pasted image 20230920084914.png",
-    "日记/2023-09-20.md",
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "杂项/wsl卡死无法启动.md",
     "计算机网络/assets/Pasted image 20230919213318.png",
