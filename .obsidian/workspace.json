@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f71e7c54185e9fb3",
+        "id": "cc63d72fbec06777",
         "type": "tabs",
         "children": [
           {
-            "id": "03c110156501d8dd",
+            "id": "f41e5e855cbce3e3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -163,11 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "03c110156501d8dd",
+  "active": "f41e5e855cbce3e3",
   "lastOpenFiles": [
+    "日记/2023-09-20.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
-    "日记/2023-09-20.md",
     "函数式编程/assets/Pasted image 20230920165736.png",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
     "函数式编程/hust课件/~$Lecture 3-lg_ppt_0925.pptx",
