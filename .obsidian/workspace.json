@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "737ad33d05792f2a",
+        "id": "f71e7c54185e9fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "b4fcec36b8d44f66",
+            "id": "03c110156501d8dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "函数式编程/作业1.md",
-                "mode": "source",
-                "source": false
+                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数式编程/作业1.md",
+                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数式编程/作业1.md",
+                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "函数式编程/作业1.md"
+                "file": "函数式编程/hust课件/0Lecture 2-lg-0915.pdf"
               }
             }
           },
@@ -165,15 +163,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b4fcec36b8d44f66",
+  "active": "03c110156501d8dd",
   "lastOpenFiles": [
-    "Pasted image 20230920165736.png",
-    "Pasted image 20230920165638.png",
-    "函数式编程/作业1.md",
-    "计算机网络/第一章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
-    "杂项/软件工程.md",
+    "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
+    "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "日记/2023-09-20.md",
+    "函数式编程/assets/Pasted image 20230920165736.png",
+    "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
+    "函数式编程/hust课件/~$Lecture 3-lg_ppt_0925.pptx",
+    "函数式编程/assets",
+    "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pptx",
+    "函数式编程/hust课件/Lecture 3-lg_ppt_0925.tmp",
+    "函数式编程/hust课件/0Lecture 2-lg-0915.ppt",
+    "函数式编程/hust课件/0Lecture 2-lg-0915.tmp",
+    "函数式编程/作业1.pdf",
+    "函数式编程/ML编程基本概念.md",
+    "函数式编程/作业1.md",
+    "Pasted image 20230920165638.png",
+    "计算机网络/第一章.md",
+    "杂项/软件工程.md",
     "计算机网络/第三章.md",
     "计算机网络/assets/Pasted image 20230920092451.png",
     "计算机网络/assets/Pasted image 20230920092429.png",
@@ -185,7 +193,6 @@
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "杂项/wsl卡死无法启动.md",
     "计算机网络/assets/Pasted image 20230919213318.png",
-    "计算机网络/assets/Pasted image 20230919212914.png",
     "计算机网络/第二章.md",
     "日记/2023-09-19.md",
     "杂项/软工想法.md",
@@ -193,15 +200,6 @@
     "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
-    "操作系统/学校教材/操作系统课件/1-绪论.pdf",
-    "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
-    "操作系统/学校教材/操作系统课件/~$课程介绍2023.pptx",
-    "操作系统/学校教材/操作系统课件/~$1-绪论.pptx",
-    "操作系统/学校教材/操作系统课件/4-进程及进程管理.pptx",
-    "操作系统/学校教材/操作系统课件/3-用户接口.pptx",
-    "操作系统/学校教材/操作系统课件/2-结构与硬件支持.pptx",
-    "操作系统/学校教材/操作系统课件/6-处理机调度.pptx",
-    "操作系统/学校教材/操作系统课件/8-设备管理.pptx",
     "日记/2023-09-18.md",
     "杂项/Oceanbase.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
@@ -212,7 +210,6 @@
     "Missing-Semester/数据整理.md",
     "Missing-Semester/元编程.md",
     "Missing-Semester/命令行环境.md",
-    "日记/2023-09-17.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
