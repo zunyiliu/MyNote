@@ -13,31 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "函数式编程/作业1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "18f8bd2086c4153e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/第一章.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97e125f5726df074",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
               }
             }
           }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "函数式编程/作业1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "函数式编程/作业1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/软件工程.md"
+                "file": "函数式编程/作业1.md"
               }
             }
           },
@@ -189,11 +167,14 @@
   },
   "active": "b4fcec36b8d44f66",
   "lastOpenFiles": [
-    "日记/2023-09-20.md",
-    "杂项/软件工程.md",
+    "Pasted image 20230920165736.png",
+    "Pasted image 20230920165638.png",
+    "函数式编程/作业1.md",
     "计算机网络/第一章.md",
-    "计算机网络/第三章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "杂项/软件工程.md",
+    "日记/2023-09-20.md",
+    "计算机网络/第三章.md",
     "计算机网络/assets/Pasted image 20230920092451.png",
     "计算机网络/assets/Pasted image 20230920092429.png",
     "计算机网络/assets/Pasted image 20230920091605.png",
@@ -205,7 +186,6 @@
     "杂项/wsl卡死无法启动.md",
     "计算机网络/assets/Pasted image 20230919213318.png",
     "计算机网络/assets/Pasted image 20230919212914.png",
-    "计算机网络/assets/Pasted image 20230919210954.png",
     "计算机网络/第二章.md",
     "日记/2023-09-19.md",
     "杂项/软工想法.md",
@@ -233,8 +213,6 @@
     "Missing-Semester/元编程.md",
     "Missing-Semester/命令行环境.md",
     "日记/2023-09-17.md",
-    "日记/2023-09-16.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
