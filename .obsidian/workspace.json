@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/CS144实验笔记/Lab2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/CS144实验笔记/Lab2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "计算机网络/CS144实验笔记/Lab2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第三章.md"
+                "file": "计算机网络/CS144实验笔记/Lab2.md"
               }
             }
           },
@@ -167,6 +167,10 @@
   },
   "active": "d05e97a74f8e743c",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20230921203925.png",
+    "Pasted image 20230921205003.png",
+    "计算机网络/CS144实验笔记/Lab2.md",
+    "计算机网络/assets/Pasted image 20230921203848.png",
     "日记/2023-09-21.md",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
@@ -197,11 +201,8 @@
     "计算机网络/assets/Pasted image 20230920091605.png",
     "计算机网络/assets/Pasted image 20230920090912.png",
     "计算机网络/assets/Pasted image 20230920085259.png",
-    "计算机网络/assets/Pasted image 20230920085229.png",
-    "计算机网络/assets/Pasted image 20230920084914.png",
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "杂项/wsl卡死无法启动.md",
-    "计算机网络/assets/Pasted image 20230919213318.png",
     "计算机网络/第二章.md",
     "日记/2023-09-19.md",
     "杂项/软工想法.md",
@@ -211,7 +212,6 @@
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "杂项/python导出exe文件.md",
     "杂项/VScode C++环境配置.md",
-    "Missing-Semester/Shell工具与脚本.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
