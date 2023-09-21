@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-09-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-09-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/软件工程.md"
+                "file": "日记/2023-09-22.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "905184dc92df4e59",
   "lastOpenFiles": [
     "日记/2023-09-21.md",
+    "日记/2023-09-22.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/assets/Pasted image 20230921203925.png",
     "Pasted image 20230921205003.png",
