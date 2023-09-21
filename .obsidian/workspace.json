@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7150d882d95ea2c0",
+        "id": "7c8fc3ff4213aeb6",
         "type": "tabs",
         "children": [
           {
-            "id": "d05e97a74f8e743c",
+            "id": "905184dc92df4e59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab2.md",
+                "file": "杂项/软件工程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab2.md",
+                "file": "杂项/软件工程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab2.md",
+                "file": "杂项/软件工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab2.md"
+                "file": "杂项/软件工程.md"
               }
             }
           },
@@ -165,13 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d05e97a74f8e743c",
+  "active": "905184dc92df4e59",
   "lastOpenFiles": [
+    "日记/2023-09-21.md",
+    "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/assets/Pasted image 20230921203925.png",
     "Pasted image 20230921205003.png",
-    "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/assets/Pasted image 20230921203848.png",
-    "日记/2023-09-21.md",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
