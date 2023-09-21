@@ -11,9 +11,11 @@
             "id": "d05e97a74f8e743c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf"
+                "file": "杂项/Oceanbase.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
+                "file": "杂项/Oceanbase.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
+                "file": "杂项/Oceanbase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf"
+                "file": "杂项/Oceanbase.md"
               }
             }
           },
@@ -165,6 +167,7 @@
   },
   "active": "d05e97a74f8e743c",
   "lastOpenFiles": [
+    "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
@@ -185,7 +188,6 @@
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.tmp",
     "函数式编程/hust课件/0Lecture 2-lg-0915.ppt",
     "函数式编程/hust课件/0Lecture 2-lg-0915.tmp",
-    "函数式编程/作业1.pdf",
     "函数式编程/ML编程基本概念.md",
     "函数式编程/作业1.md",
     "Pasted image 20230920165638.png",
