@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e24334d064ffb5",
+        "id": "7150d882d95ea2c0",
         "type": "tabs",
         "children": [
           {
-            "id": "6877e08362a0a0b1",
+            "id": "d05e97a74f8e743c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf"
+              }
             }
           },
           {
@@ -157,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6877e08362a0a0b1",
+  "active": "d05e97a74f8e743c",
   "lastOpenFiles": [
+    "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
@@ -204,7 +211,6 @@
     "杂项/python导出exe文件.md",
     "杂项/VScode C++环境配置.md",
     "Missing-Semester/Shell工具与脚本.md",
-    "Missing-Semester/Shell概述.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
