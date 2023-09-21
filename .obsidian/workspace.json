@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-09-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-09-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/软件工程.md"
+                "file": "日记/2023-09-20.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "f41e5e855cbce3e3",
   "lastOpenFiles": [
+    "杂项/软件工程.md",
     "日记/2023-09-20.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
@@ -183,7 +184,6 @@
     "函数式编程/作业1.md",
     "Pasted image 20230920165638.png",
     "计算机网络/第一章.md",
-    "杂项/软件工程.md",
     "计算机网络/第三章.md",
     "计算机网络/assets/Pasted image 20230920092451.png",
     "计算机网络/assets/Pasted image 20230920092429.png",
