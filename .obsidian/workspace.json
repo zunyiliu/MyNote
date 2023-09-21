@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc63d72fbec06777",
+        "id": "d7e24334d064ffb5",
         "type": "tabs",
         "children": [
           {
-            "id": "f41e5e855cbce3e3",
+            "id": "6877e08362a0a0b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-09-20.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2023-09-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +157,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f41e5e855cbce3e3",
+  "active": "6877e08362a0a0b1",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
+    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
+    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "日记/2023-09-21.md",
     "日记/2023-09-20.md",
     "杂项/软件工程.md",
@@ -199,10 +197,7 @@
     "计算机网络/第二章.md",
     "日记/2023-09-19.md",
     "杂项/软工想法.md",
-    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
-    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
-    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "日记/2023-09-18.md",
     "杂项/Oceanbase.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
@@ -210,9 +205,6 @@
     "杂项/VScode C++环境配置.md",
     "Missing-Semester/Shell工具与脚本.md",
     "Missing-Semester/Shell概述.md",
-    "Missing-Semester/数据整理.md",
-    "Missing-Semester/元编程.md",
-    "Missing-Semester/命令行环境.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
