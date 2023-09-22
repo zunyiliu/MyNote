@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7c8fc3ff4213aeb6",
+        "id": "d1d3c11fc47c1971",
         "type": "tabs",
         "children": [
           {
-            "id": "905184dc92df4e59",
+            "id": "4e72362ee39ed58e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf"
+                "file": "日记/2023-09-22.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
+                "file": "日记/2023-09-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
+                "file": "日记/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf"
+                "file": "日记/2023-09-22.md"
               }
             }
           },
@@ -163,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "905184dc92df4e59",
+  "active": "4e72362ee39ed58e",
   "lastOpenFiles": [
-    "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
+    "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "日记/2023-09-22.md",
     "日记/2023-09-21.md",
     "计算机网络/CS144实验笔记/Lab2.md",
