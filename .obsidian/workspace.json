@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3f31cc58a71182",
+        "id": "c7d57db637374660",
         "type": "tabs",
         "children": [
           {
-            "id": "a1983939d67e3b4f",
+            "id": "83e6a3aaf325f12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dea5b21fc85a8821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "计算机网络/第三章.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -177,10 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a1983939d67e3b4f",
+  "active": "83e6a3aaf325f12b",
   "lastOpenFiles": [
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+    "日记/2023-09-23.md",
     "操作系统/assets/Pasted image 20230923143341.png",
     "操作系统/assets/Pasted image 20230923143218.png",
     "操作系统/assets/Pasted image 20230923143137.png",
@@ -196,7 +185,6 @@
     "计算机网络/第三章.md",
     "杂项/软件工程README.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
-    "日记/2023-09-23.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "日记/2023-09-21.md",
