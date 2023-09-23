@@ -30,8 +30,13 @@
 	- 读写SSCRATCH
 - 可以使用PTE_U为0的PTE
 
-# Trap代码执行流程
+# Trap代码执行流程（抽象）
 以write系统调用为例，对于用户空间，write就是一个C函数调用，但他实际上是通过ECALL来执行指令的。之后在内核中执行的第一个指令就是uservec，该函数在trampoline.s中。之后函数跳转到usertrap函数中，这个函数在trap.c中。在该函数中，我们执行了一个syscall的函数，用于执行write的内核代码。然后我们就要开始返回，先调用同在trap.c中的usertrapret函数，再调用位于trampoline.s中的userret函数。
 ![[Pasted image 20230923094327.png]]
 
+# Trap代码执行流程（实际）
+## ECALL指令之前
+我们以sh.c程序中调用write系统调用为例，我们在usys.pl中会生成各个系统调用的关联汇编代码，也就是usys.s。（这就是为什么我们添加系统调用的时候要在这个文件也添加对应入口）
 
+如图示，write函数在用户空间中的代码负责将SYS_write加载到a7寄存器，然后执行ecall指令
+![[Pasted image 20230923104041.png]]
