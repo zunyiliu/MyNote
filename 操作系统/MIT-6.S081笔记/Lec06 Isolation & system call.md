@@ -90,7 +90,7 @@ trampoline page第一个要执行的函数就是uservec函数，该函数首先�
 # usertrap函数
 现在我们进入了usertrap函数。
 
-在内核中执行任何操作之前，usertrap中先将STVEC指向了kernelvec变量，这是内核空间trap处理代码的位置，而不是用户空间trap处理代码的位置。（不确定有什么用）
+在内核中执行任何操作之前，usertrap中先将STVEC指向了kernelvec变量，这是内核空间trap处理代码的位置，而不是用户空间trap处理代码的位置。（不确定有什么用）——处理内核的陷阱
 ![[Pasted image 20230923115410.png]]
 
 接着我们需要找到当前运行的进程，通过myproc()一路搜索，我们可以得知其就是靠之前在trampoline.s中保存的t0寄存器来找到。
@@ -135,3 +135,23 @@ XV6会在处理系统调用的时候使能中断，这样中断可以更快的�
 ![[Pasted image 20230923121654.png]]
 
 然后我们就可以回到trampoline中的userret函数了。
+
+# userret函数
+该函数从内核空间切换到了用户空间。第一步就是切换page table。在执行_csrw satp, a1_之前，page table应该还是巨大的kernel page table。这条指令会将user page table（在usertrapret中作为第二个参数传递给了这里的userret函数，所以存在a1寄存器中）存储在SATP寄存器中。然后我们还会清空页表缓存。
+![[Pasted image 20230923142819.png]]
+
+接下来我们将SSCRATCH寄存器恢复成保存好的用户的a0寄存器。在这里a0是trapframe的地址，因为C代码usertrapret函数中将trapframe地址作为第一个参数传递过来了。112是a0寄存器在trapframe中的位置。（注，这里有点绕，本质就是通过当前的a0寄存器找出存在trapframe中的a0寄存器）我们先将这个地址里的数值保存在t0寄存器中，之后再将t0寄存器的数值保存在SSCRATCH寄存器中。
+![[Pasted image 20230923143137.png]]
+
+接下来我们将之前保存在trapframe中的用户寄存器重新加载出来。
+![[Pasted image 20230923143218.png]]
+
+接下来，在我们即将返回到用户空间之前，我们交换SSCRATCH寄存器和a0寄存器的值。前面我们看过了SSCRATCH现在的值是系统调用的返回值2，a0寄存器是trapframe的地址。交换完成之后，a0持有的是系统调用的返回值，SSCRATCH持有的是trapframe的地址。之后trapframe的地址会一直保存在SSCRATCH中，直到用户程序执行了另一次trap。现在我们还在kernel中。
+![[Pasted image 20230923143341.png]]
+sret是我们在kernel中的最后一条指令，当我执行完这条指令：
+- 程序会切换回user mode
+- SEPC寄存器的数值会被拷贝到PC寄存器（程序计数器）
+- 重新打开中断
+
+**自此，我们就完成了一次由系统调用引发的trap**。
+
