@@ -110,3 +110,28 @@ XV6会在处理系统调用的时候使能中断，这样中断可以更快的�
 
 # usertrapret函数
 接下来要完成返回到用户空间之前内核要做的工作。
+
+它首先关闭了中断。
+![[Pasted image 20230923121228.png]]
+
+在下一行我们设置了STVEC寄存器指向trampoline代码，在那里最终会执行sret指令返回到用户空间。
+![[Pasted image 20230923121305.png]]
+
+接下来的几行填入了trapframe的内容，这些内容对于执行trampoline代码非常有用。这里的代码就是：
+- 存储了kernel page table的指针
+- 存储了当前用户进程的kernel stack
+- 存储了usertrap函数的指针，这样trampoline代码才能跳转到这个函数
+- 从tp寄存器中读取当前的CPU核编号，并存储在trapframe中，这样trampoline代码才能恢复这个数字，因为用户代码可能会修改这个数字
+![[Pasted image 20230923121359.png]]
+这其实也是为了下次进入usertrap函数做的准备，解释了为什么我们在trampoline中已经能直接拿到这些值。
+
+接下来我们要设置SSTATUS寄存器，这是一个控制寄存器。（不是很懂）
+![[Pasted image 20230923121538.png]]
+
+我们在trampoline代码的最后执行了sret指令。这条指令会将程序计数器设置成SEPC寄存器的值，所以现在我们将SEPC寄存器的值设置成之前保存的用户程序计数器的值。
+![[Pasted image 20230923121620.png]]
+
+接下来，我们根据user page table地址生成相应的SATP值，这样我们在返回到用户空间的时候才能完成page table的切换。实际上，我们会在汇编代码trampoline中完成page table的切换，并且也只能在trampoline中完成切换，因为只有trampoline中代码是同时在用户和内核空间中映射。但是我们现在还没有在trampoline代码中，我们现在还在一个普通的C函数中，所以这里我们将page table指针准备好，并将这个指针作为第二个参数传递给汇编代码，这个参数会出现在a1寄存器。
+![[Pasted image 20230923121654.png]]
+
+然后我们就可以回到trampoline中的userret函数了。
