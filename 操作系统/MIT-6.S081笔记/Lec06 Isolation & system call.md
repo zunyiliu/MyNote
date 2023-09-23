@@ -38,5 +38,31 @@
 ## ECALL指令之前
 我们以sh.c程序中调用write系统调用为例，我们在usys.pl中会生成各个系统调用的关联汇编代码，也就是usys.s。（这就是为什么我们添加系统调用的时候要在这个文件也添加对应入口）
 
-如图示，write函数在用户空间中的代码负责将SYS_write加载到a7寄存器，然后执行ecall指令
+如图示，write函数在用户空间中的代码负责将SYS_write加载到a7寄存器，然后执行ecall指令。
 ![[Pasted image 20230923104041.png]]
+
+我们在ecall处打上断点，然后查看用户页表如下。这是个非常小的page table，它只包含了6条映射关系。这是用户程序Shell的page table，而Shell是一个非常小的程序，这6条映射关系是有关Shell的指令和数据，以及一个无效的page用来作为guard page，以防止Shell尝试使用过多的stack page。
+
+其中第三条没有设置PTE_U，因而使无效的，是guard page。后两条分别是trapframe page和trampoline page，也是只能在内核模式下运行。
+![[Pasted image 20230923104358.png]]
+
+
+## ECALL指令之后
+接下来我们执行ecall指令，通过查看pc寄存器我们发现程序已经跳转到了trampoline page的最开始，这就与上文页表对应了。接下来要执行的代码如下，可以看到我们要小心地保存所有用户寄存器，以便之后进行恢复。
+![[Pasted image 20230923104301.png]]
+
+到这里我们先讲讲为什么执行ecall指令后我们跳转到了这里。ecall指令做了以下三件事：
+1. ecall将代码从user mode改到supervisor mode
+2. ecall将程序计数器的值保存在了SEPC寄存器。
+3. ecall会跳转到STVEC寄存器指向的指令。STVEC寄存器存储地就是trampoline page的起始位置。
+
+因而我们保存了中断地址，跳转到了trampoline page地址，同时切换到了内核模式从而能够执行代码。
+
+根据我们开始说的Trap机制，我们还需要做以下事情：
+1. 保存32个用户寄存器的内容，这样当我们想要恢复用户代码执行时，我们才能恢复这些寄存器的内容。
+2. 现在我们还在user page table，我们需要切换到kernel page table。
+3. 创建或者找到一个kernel stack，并将Stack Pointer寄存器的内容指向那个kernel stack。这样才能给C代码提供栈。
+4. 需要跳转到内核中C代码的某些合理的位置。
+
+# uservec函数
+trampoline page第一个要执行的函数就是uservec函数，该函数首先要做的就是
