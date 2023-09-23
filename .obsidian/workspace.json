@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md"
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
               }
             }
           },
@@ -177,12 +178,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a1983939d67e3b4f",
+  "active": "dea5b21fc85a8821",
   "lastOpenFiles": [
-    "Pasted image 20230923104358.png",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/assets/Pasted image 20230923112638.png",
+    "操作系统/assets/Pasted image 20230923112636.png",
+    "操作系统/assets/Pasted image 20230923112505.png",
+    "操作系统/assets/Pasted image 20230923112229.png",
+    "操作系统/assets/Pasted image 20230923111906.png",
+    "操作系统/assets/Pasted image 20230923104358.png",
     "操作系统/assets/Pasted image 20230923104301.png",
     "操作系统/assets/Pasted image 20230923094327.png",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/assets/Pasted image 20230923104041.png",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "杂项/软件工程README.md",
@@ -194,8 +200,6 @@
     "日记/2023-09-21.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/assets/Pasted image 20230921203925.png",
-    "Pasted image 20230921205003.png",
-    "计算机网络/assets/Pasted image 20230921203848.png",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
@@ -205,7 +209,6 @@
     "日记/2023-09-20.md",
     "杂项/软件工程.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
-    "函数式编程/assets/Pasted image 20230920165736.png",
     "函数式编程/hust课件/~$Lecture 3-lg_ppt_0925.pptx",
     "函数式编程/assets",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pptx",
@@ -213,11 +216,8 @@
     "函数式编程/hust课件/0Lecture 2-lg-0915.ppt",
     "函数式编程/ML编程基本概念.md",
     "函数式编程/作业1.md",
-    "Pasted image 20230920165638.png",
     "计算机网络/第一章.md",
     "计算机网络/第三章.md",
-    "计算机网络/assets/Pasted image 20230920092451.png",
-    "计算机网络/assets/Pasted image 20230920092429.png",
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "杂项/wsl卡死无法启动.md",
     "计算机网络/第二章.md",

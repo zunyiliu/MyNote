@@ -65,4 +65,26 @@
 4. 需要跳转到内核中C代码的某些合理的位置。
 
 # uservec函数
-trampoline page第一个要执行的函数就是uservec函数，该函数首先要做的就是
+trampoline page第一个要执行的函数就是uservec函数，该函数首先要做的就是保存用户寄存器。这包含两个部分：
+1. XV6在每个user page table映射了trapframe page（内核完成），这样每个进程都有自己的trapframe page。这个page包含了很多有趣的数据，但是现在最重要的数据是用来保存用户寄存器的32个空槽位。
+2. 在进入到user space之前，内核会将trapframe page的地址保存在SSCRATCH寄存器中。
+
+这就可以解释为什么trampoline.S函数首先将a0寄存器和SSCRATCH寄存器进行交换，然后a0就保存了trapframe的地址，然后就把所有用户寄存器都保存到trapframe中。
+
+接下来uservec会找到一个kernel stack，看以下代码。高亮处的指令将a0指向的内存地址往后数的第8个字节开始的数据加载到Stack Pointer寄存器。a0的内容现在是trapframe page的地址，从本节第一张图中，trapframe的格式可以看出，第8个字节开始的数据是内核的Stack Pointer（kernel_sp）。这样我们就找到了进程的内核栈地址（共享全局内核页表）。
+![[Pasted image 20230923111906.png]]
+
+接下来uservec函数将CPU核的编号也就是hartid保存在tp寄存器上，也就是如下代码：
+![[Pasted image 20230923112229.png]]
+
+然后我们加载出usertrap函数的地址和内核页表的地址，代码如下：
+![[Pasted image 20230923112505.png]]
+
+然后我们将satp寄存器设置成内核页表的地址，并准备跳转到我们需要执行的usertrap函数。
+![[Pasted image 20230923112638.png]]
+
+这里解释一下为什么切换satp寄存器后，程序没有崩溃。因为在内核页表和用户页表中，trampline page都映射了同一位置。之所以叫trampoline page，是因为你某种程度在它上面“弹跳”了一下，然后从用户空间走到了内核空间。（确实很形象）
+
+接下来我们就要以kernel stack，kernel page table跳转到usertrap函数。
+
+# usertrap函数
