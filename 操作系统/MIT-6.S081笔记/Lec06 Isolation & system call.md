@@ -31,4 +31,7 @@
 - 可以使用PTE_U为0的PTE
 
 # Trap代码执行流程
+以write系统调用为例，对于用户空间，write就是一个C函数调用，但他实际上是通过ECALL来执行指令的。之后在内核中执行的第一个指令就是uservec，该函数在trampoline.s中。之后函数跳转到usertrap函数中，这个函数在trap.c中。在该函数中，我们执行了一个syscall的函数，用于执行write的内核代码。然后我们就要开始返回，先调用同在trap.c中的usertrapret函数，再调用位于trampoline.s中的userret函数。
+![[Pasted image 20230923094327.png]]
+
 
