@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "日记/2023-09-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "日记/2023-09-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "日记/2023-09-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第三章.md"
+                "file": "日记/2023-09-23.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "83e6a3aaf325f12b",
   "lastOpenFiles": [
+    "计算机网络/第三章.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "日记/2023-09-23.md",
@@ -182,7 +183,6 @@
     "操作系统/assets/Pasted image 20230923121305.png",
     "操作系统/assets/Pasted image 20230923121228.png",
     "日记/2023-09-20.md",
-    "计算机网络/第三章.md",
     "杂项/软件工程README.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
