@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -176,11 +175,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e40c3c5f78a462ab",
+  "active": "ceb110e4d963896a",
   "lastOpenFiles": [
-    "计算机网络/第三章.md",
-    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+    "计算机网络/assets/Pasted image 20230924161615.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "计算机网络/第三章.md",
+    "计算机网络/assets/Pasted image 20230924160656.png",
+    "计算机网络/assets/Pasted image 20230924155510.png",
+    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/assets/Pasted image 20230924152016.png",
     "计算机网络/assets/Pasted image 20230924150905.png",
     "计算机网络/assets/Pasted image 20230924150551.png",
@@ -196,9 +198,7 @@
     "操作系统/assets/Pasted image 20230923143341.png",
     "操作系统/assets/Pasted image 20230923143218.png",
     "操作系统/assets/Pasted image 20230923143137.png",
-    "操作系统/assets/Pasted image 20230923142819.png",
     "日记/2023-09-22.md",
-    "操作系统/assets/Pasted image 20230923121654.png",
     "日记/2023-09-20.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
