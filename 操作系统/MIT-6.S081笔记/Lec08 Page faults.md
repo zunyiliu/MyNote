@@ -48,6 +48,6 @@ sys_sbrk(void)
 
 我们可以利用虚拟内存和page fault handler来实现lazy allocation。其核心思想就是调用sbrk时，只修改p->sz，但不分配实际的物理内存，等到应用程序真正使用到这个内存的时候就会触发page fault，这时候我们再分配物理内存并映射到page table中，然后再返回程序继续执行。
 
-接下来老师简单讲述了如何修改sbrk，从而实现一个
+接下来老师简单讲述了如何修改sbrk，从而实现一个简单的lazy allocation，具体可见8.2。
 
 
