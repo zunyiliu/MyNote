@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "日记/2023-09-25.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e40c3c5f78a462ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "日记/2023-09-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "日记/2023-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "日记/2023-09-25.md"
               }
             }
           },
@@ -176,16 +165,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e40c3c5f78a462ab",
+  "active": "ceb110e4d963896a",
   "lastOpenFiles": [
+    "杂项/软件工程.md",
     "计算机网络/第三章.md",
+    "计算机网络/assets/Pasted image 20230924170324.png",
+    "Pasted image 20230924170316.png",
+    "计算机网络/assets/Pasted image 20230924171145.png",
+    "计算机网络/assets/Pasted image 20230925091005.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/第一章.md",
     "日记/2023-09-25.md",
     "日记/2023-09-24.md",
-    "Pasted image 20230924171145.png",
-    "Pasted image 20230924170324.png",
-    "Pasted image 20230924170316.png",
     "计算机网络/assets/Pasted image 20230924164846.png",
     "Pasted image 20230924164501.png",
     "计算机网络/习题/第二章.md",
@@ -194,9 +185,7 @@
     "计算机网络/assets/Pasted image 20230924155510.png",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/assets/Pasted image 20230924152016.png",
-    "计算机网络/assets/Pasted image 20230924150905.png",
     "杂项/README.md",
-    "杂项/软件工程.md",
     "杂项/Oceanbase.md",
     "日记/2023-09-23.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
