@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5f546c2587810c87",
+        "id": "74e042e20a6afcf0",
         "type": "tabs",
         "children": [
           {
-            "id": "cad899f989fdc88b",
+            "id": "adc252712cf0e625",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30041a0ae0164d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-09-25.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2023-09-25.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,11 +157,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "adc252712cf0e625",
   "lastOpenFiles": [
-    "计算机网络/第三章.md",
-    "日记/2023-09-25.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "Oceanbase/Oceanbase资源.md",
+    "Oceanbase",
+    "日记/2023-09-25.md",
+    "计算机网络/第三章.md",
     "操作系统/assets/Pasted image 20230925192949.png",
     "操作系统/assets/Pasted image 20230925192626.png",
     "操作系统/assets/Pasted image 20230925192618.png",
@@ -205,7 +186,6 @@
     "日记/2023-09-24.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "杂项/README.md",
-    "杂项/Oceanbase.md",
     "日记/2023-09-23.md",
     "日记/2023-09-22.md",
     "日记/2023-09-20.md",
@@ -223,7 +203,6 @@
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
     "函数式编程/hust课件/~$Lecture 3-lg_ppt_0925.pptx",
     "函数式编程/assets",
-    "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pptx",
     "函数式编程/ML编程基本概念.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
