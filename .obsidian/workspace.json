@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e30041a0ae0164d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-09-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+                "file": "日记/2023-09-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+                "file": "日记/2023-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md"
+                "file": "日记/2023-09-25.md"
               }
             }
           },
@@ -165,18 +178,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cad899f989fdc88b",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "Pasted image 20230925192949.png",
+    "计算机网络/第三章.md",
+    "日记/2023-09-25.md",
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "操作系统/assets/Pasted image 20230925192949.png",
     "操作系统/assets/Pasted image 20230925192626.png",
     "操作系统/assets/Pasted image 20230925192618.png",
     "操作系统/assets/Pasted image 20230925191611.png",
     "操作系统/assets/Pasted image 20230925191357.png",
-    "日记/2023-09-25.md",
     "操作系统/assets/Pasted image 20230925174928.png",
     "操作系统/assets/Pasted image 20230925173858.png",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
     "操作系统/assets/Pasted image 20230925142838.png",
@@ -185,10 +199,8 @@
     "计算机网络/作业/第二章.md",
     "计算机网络/习题/第二章.md",
     "杂项/软件工程.md",
-    "计算机网络/第三章.md",
     "计算机网络/assets/Pasted image 20230924170324.png",
     "Pasted image 20230924170316.png",
-    "计算机网络/assets/Pasted image 20230924171145.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "日记/2023-09-24.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
