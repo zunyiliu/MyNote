@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab3：page tables.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "cad899f989fdc88b",
   "lastOpenFiles": [
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+    "Pasted image 20230925174928.png",
+    "操作系统/assets/Pasted image 20230925173858.png",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "日记/2023-09-25.md",
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
     "操作系统/assets/Pasted image 20230925142838.png",
@@ -188,7 +191,6 @@
     "Pasted image 20230924164501.png",
     "计算机网络/assets/Pasted image 20230924161615.png",
     "计算机网络/assets/Pasted image 20230924160656.png",
-    "计算机网络/assets/Pasted image 20230924155510.png",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "杂项/README.md",
     "杂项/Oceanbase.md",
@@ -211,8 +213,6 @@
     "函数式编程/assets",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pptx",
     "函数式编程/ML编程基本概念.md",
-    "函数式编程/作业1.md",
-    "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
