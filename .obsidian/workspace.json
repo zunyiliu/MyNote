@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf36447c84d389ba",
+        "id": "bc2ad550cffad7b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e9106819141efffc",
+            "id": "d6eb42ee12e3e2a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-09-26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2023-09-26.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e9106819141efffc",
+  "active": "d6eb42ee12e3e2a6",
   "lastOpenFiles": [
+    "日记/2023-09/2023-09-25.md",
+    "日记/2023-09/2023-09-10.md",
+    "日记/2023-09/2023-09-26.md",
+    "日记/2023-09",
     "计算机网络/hust实验资料",
     "计算机网络/作业/第二章.md",
     "计算机网络/作业/第三章.md",
@@ -174,8 +170,6 @@
     "IMG_20230926_092136.jpg",
     "IMG_20230926_092129.jpg",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
-    "日记/2023-09-26.md",
-    "日记/2023-09-25.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "Oceanbase/Oceanbase资源.md",
     "Oceanbase",
@@ -195,15 +189,15 @@
     "计算机网络/习题/第二章.md",
     "杂项/软件工程.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
-    "日记/2023-09-24.md",
+    "日记/2023-09/2023-09-24.md",
     "杂项/README.md",
-    "日记/2023-09-23.md",
-    "日记/2023-09-22.md",
-    "日记/2023-09-20.md",
+    "日记/2023-09/2023-09-23.md",
+    "日记/2023-09/2023-09-22.md",
+    "日记/2023-09/2023-09-20.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
-    "日记/2023-09-21.md",
+    "日记/2023-09/2023-09-21.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
@@ -211,8 +205,6 @@
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
-    "函数式编程/hust课件/~$Lecture 3-lg_ppt_0925.pptx",
-    "函数式编程/assets",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
