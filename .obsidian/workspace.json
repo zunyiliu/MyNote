@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6eb42ee12e3e2a6",
+            "id": "6769a236410eedc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09-27.md",
+                "file": "计算机网络/第三章.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8aa63992b177be64",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-27.md",
+                "file": "计算机网络/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-27.md",
+                "file": "计算机网络/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-27.md"
+                "file": "计算机网络/第三章.md"
               }
             }
           },
@@ -175,14 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6eb42ee12e3e2a6",
+  "active": "6769a236410eedc8",
   "lastOpenFiles": [
+    "日记/2023-09-27.md",
     "计算机网络/作业/第二章.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20230926_092144.jpg",
     "计算机网络/assets/IMG_20230926_092136.jpg",
     "计算机网络/assets/IMG_20230926_092129.jpg",
-    "日记/2023-09-27.md",
     "日记/2023-09-26.md",
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-25.md",
