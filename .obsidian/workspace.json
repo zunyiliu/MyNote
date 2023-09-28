@@ -11,11 +11,9 @@
             "id": "48e1869679690a8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "日记/2023-09-27.md",
-                "mode": "source",
-                "source": false
+                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-27.md",
+                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-27.md",
+                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-27.md"
+                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg"
               }
             }
           },
@@ -167,14 +165,14 @@
   },
   "active": "48e1869679690a8c",
   "lastOpenFiles": [
-    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
+    "计算机网络/作业/第二章.md",
     "日记/2023-09-27.md",
+    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
     "计算机网络/第三章.md",
     "Pasted image 20230927150617.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
-    "计算机网络/作业/第二章.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20230926_092144.jpg",
     "计算机网络/assets/IMG_20230926_092136.jpg",
