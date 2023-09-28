@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "058cf81536a60ae2",
+        "id": "21607c294b04d059",
         "type": "tabs",
         "children": [
           {
-            "id": "48e1869679690a8c",
+            "id": "381bf7bb96e05072",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/assets/189afcaee697248a0881160da054a76.jpg"
+                "file": "TinyKv项目文档/TinyKv资源汇总.md"
               }
             }
           },
@@ -163,8 +161,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "48e1869679690a8c",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-09-28.md",
+    "TinyKv项目文档/TinyKv资源汇总.md",
+    "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
     "计算机网络/作业/第二章.md",
     "日记/2023-09-27.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
@@ -191,7 +192,6 @@
     "操作系统/assets/Pasted image 20230925192618.png",
     "操作系统/assets/Pasted image 20230925191611.png",
     "操作系统/assets/Pasted image 20230925191357.png",
-    "操作系统/assets/Pasted image 20230925174928.png",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
@@ -206,8 +206,6 @@
     "日记/2023-09/2023-09-20.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
-    "日记/2023-09/2023-09-21.md",
-    "计算机网络/CS144实验笔记/Lab2.md",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
