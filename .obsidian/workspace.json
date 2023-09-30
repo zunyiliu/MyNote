@@ -11,11 +11,26 @@
             "id": "52badc1305925ec2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/第三章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33c82677040f6935",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab3.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab3.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/CS144实验笔记/Lab3.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
               }
             }
           },
@@ -161,8 +176,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "33c82677040f6935",
   "lastOpenFiles": [
+    "计算机网络/第三章.md",
+    "日记/2023-09-30.md",
     "日记/2023-09-29.md",
     "计算机网络/CS144实验笔记/Lab3.md",
     "日记/2023-09-28.md",
@@ -173,7 +190,6 @@
     "日记/2023-09-27.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
-    "计算机网络/第三章.md",
     "Pasted image 20230927150617.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
@@ -204,7 +220,6 @@
     "日记/2023-09/2023-09-24.md",
     "杂项/README.md",
     "日记/2023-09/2023-09-23.md",
-    "日记/2023-09/2023-09-22.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
