@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52badc1305925ec2",
+            "id": "33c82677040f6935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第三章.md",
+                "file": "日记/2023-09-30.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "33c82677040f6935",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "日记/2023-09-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "日记/2023-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "日记/2023-09-30.md"
               }
             }
           },
@@ -178,11 +167,11 @@
   },
   "active": "33c82677040f6935",
   "lastOpenFiles": [
-    "计算机网络/第三章.md",
-    "日记/2023-09-30.md",
     "日记/2023-09-29.md",
-    "计算机网络/CS144实验笔记/Lab3.md",
     "日记/2023-09-28.md",
+    "日记/2023-09-30.md",
+    "计算机网络/第三章.md",
+    "计算机网络/CS144实验笔记/Lab3.md",
     "Oceanbase/Oceanbase资源.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
