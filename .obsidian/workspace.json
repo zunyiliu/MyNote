@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67b13895a9118f75",
+        "id": "a3bac0c6a7fdb85a",
         "type": "tabs",
         "children": [
           {
-            "id": "33c82677040f6935",
+            "id": "24bb4a66f534ef0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-09-30.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09-30.md"
+                "file": "华为软挑赛.png"
               }
             }
           },
@@ -165,11 +159,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33c82677040f6935",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "华为软挑赛.png",
+    "蓝桥杯国三_Page1_Image1.jpg",
+    "美赛证书.png",
+    "支撑材料.md",
+    "Pasted image 20230930184438.png",
+    "睿抗国一.jpg",
+    "软件杯国三.png",
+    "数模省三_Page1_Image1.jpg",
+    "日记/2023-09-30.md",
     "日记/2023-09-29.md",
     "日记/2023-09-28.md",
-    "日记/2023-09-30.md",
     "计算机网络/第三章.md",
     "计算机网络/CS144实验笔记/Lab3.md",
     "Oceanbase/Oceanbase资源.md",
@@ -184,8 +186,6 @@
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20230926_092144.jpg",
-    "计算机网络/assets/IMG_20230926_092136.jpg",
-    "计算机网络/assets/IMG_20230926_092129.jpg",
     "日记/2023-09-26.md",
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-25.md",
@@ -194,11 +194,6 @@
     "计算机网络/hust实验资料",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "Oceanbase",
-    "操作系统/assets/Pasted image 20230925192949.png",
-    "操作系统/assets/Pasted image 20230925192626.png",
-    "操作系统/assets/Pasted image 20230925192618.png",
-    "操作系统/assets/Pasted image 20230925191611.png",
-    "操作系统/assets/Pasted image 20230925191357.png",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
@@ -207,8 +202,6 @@
     "计算机网络/习题/第二章.md",
     "杂项/软件工程.md",
     "日记/2023-09/2023-09-24.md",
-    "杂项/README.md",
-    "日记/2023-09/2023-09-23.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
