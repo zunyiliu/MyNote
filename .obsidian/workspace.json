@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-01.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-01.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-01.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-01.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md"
               }
             }
           },
@@ -167,11 +167,15 @@
   },
   "active": "7158591a2f3391fd",
   "lastOpenFiles": [
+    "操作系统/assets/Pasted image 20231001145529.png",
+    "计算机网络/学习笔记/第二章.md",
+    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+    "日记/2023-10-01.md",
+    "计算机网络/学习笔记",
     "计算机网络/CS144实验笔记/Lab4.md",
     "计算机网络/CS144实验笔记/Lab1.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/CS144实验笔记/Lab3.md",
-    "日记/2023-10-01.md",
     "华为软挑赛.png",
     "蓝桥杯国三_Page1_Image1.jpg",
     "美赛证书.png",
@@ -183,7 +187,7 @@
     "日记/2023-09/2023-09-30.md",
     "日记/2023-09/2023-09-29.md",
     "日记/2023-09/2023-09-28.md",
-    "计算机网络/第三章.md",
+    "计算机网络/学习笔记/第三章.md",
     "Oceanbase/Oceanbase资源.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
@@ -206,13 +210,9 @@
     "Oceanbase",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "操作系统/MIT-6.S081实验/Lab4：trap.md",
-    "计算机网络/第一章.md",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
-    "函数式编程/hust课件/0Lecture 1-lg-0913.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
