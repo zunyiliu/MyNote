@@ -78,8 +78,16 @@ RISC-V有许多与中断相关的寄存器：
 
 我们会进入trap机制，在usertrap函数中，调用devintr函数，再调用plic_claim函数来获取中断。这里CPU核就会认定这个中断。
 
-plic_claim函数会识别中断号，如果是UART中断，那么会调用uartintr函数
+接着又会调用uartintr和uartstart两个函数。
 
+（说实话有点抽象，怎么绕来绕去的感觉，然后下面这段还挺清晰的）
+![[Pasted image 20231001163536.png]]
+
+# UART读取键盘输入
+![[Pasted image 20231001164534.png]]
+
+# Interrupt相关的并发
+没太看明白，可以自己去看一看
 
 
 

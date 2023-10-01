@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9dd3003f1004d31",
+        "id": "be6aa0b014144f60",
         "type": "tabs",
         "children": [
           {
-            "id": "7158591a2f3391fd",
+            "id": "88b1d061be3a4489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+                "file": "Oceanbase/Oceanbase资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+                "file": "Oceanbase/Oceanbase资源.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+                "file": "Oceanbase/Oceanbase资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md"
+                "file": "Oceanbase/Oceanbase资源.md"
               }
             }
           },
@@ -165,13 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7158591a2f3391fd",
+  "active": "88b1d061be3a4489",
   "lastOpenFiles": [
-    "Pasted image 20231001150022.png",
+    "日记/2023-10-01.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+    "操作系统/assets/Pasted image 20231001164534.png",
+    "操作系统/assets/Pasted image 20231001163536.png",
+    "Pasted image 20231001150022.png",
     "操作系统/assets/Pasted image 20231001145529.png",
     "计算机网络/学习笔记/第二章.md",
-    "日记/2023-10-01.md",
     "计算机网络/学习笔记",
     "计算机网络/CS144实验笔记/Lab4.md",
     "计算机网络/CS144实验笔记/Lab1.md",
@@ -184,14 +186,12 @@
     "Pasted image 20230930184438.png",
     "睿抗国一.jpg",
     "软件杯国三.png",
-    "数模省三_Page1_Image1.jpg",
     "日记/2023-09/2023-09-30.md",
     "日记/2023-09/2023-09-29.md",
     "日记/2023-09/2023-09-28.md",
     "计算机网络/学习笔记/第三章.md",
     "Oceanbase/Oceanbase资源.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
     "计算机网络/作业/第二章.md",
     "日记/2023-09/2023-09-27.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
