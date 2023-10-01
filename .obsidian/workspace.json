@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3bac0c6a7fdb85a",
+        "id": "f9dd3003f1004d31",
         "type": "tabs",
         "children": [
           {
-            "id": "24bb4a66f534ef0c",
+            "id": "7158591a2f3391fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-09/2023-09-26.md",
+                "file": "日记/2023-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-09/2023-09-26.md",
+                "file": "日记/2023-10-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-09/2023-09-26.md",
+                "file": "日记/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-09/2023-09-26.md"
+                "file": "日记/2023-10-01.md"
               }
             }
           },
@@ -165,8 +165,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "7158591a2f3391fd",
   "lastOpenFiles": [
+    "计算机网络/CS144实验笔记/Lab4.md",
+    "计算机网络/CS144实验笔记/Lab1.md",
+    "计算机网络/CS144实验笔记/Lab2.md",
+    "计算机网络/CS144实验笔记/Lab3.md",
     "日记/2023-10-01.md",
     "华为软挑赛.png",
     "蓝桥杯国三_Page1_Image1.jpg",
@@ -180,7 +184,6 @@
     "日记/2023-09/2023-09-29.md",
     "日记/2023-09/2023-09-28.md",
     "计算机网络/第三章.md",
-    "计算机网络/CS144实验笔记/Lab3.md",
     "Oceanbase/Oceanbase资源.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
@@ -206,9 +209,6 @@
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
     "计算机网络/第一章.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "计算机网络/习题/第二章.md",
-    "杂项/软件工程.md",
-    "日记/2023-09/2023-09-24.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
