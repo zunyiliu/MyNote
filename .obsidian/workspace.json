@@ -11,8 +11,12 @@
             "id": "24bb4a66f534ef0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-09/2023-09-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2023-09/2023-09-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2023-09/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为软挑赛.png"
+                "file": "日记/2023-09/2023-09-26.md"
               }
             }
           },
@@ -161,6 +167,7 @@
   },
   "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-10-01.md",
     "华为软挑赛.png",
     "蓝桥杯国三_Page1_Image1.jpg",
     "美赛证书.png",
@@ -169,16 +176,16 @@
     "睿抗国一.jpg",
     "软件杯国三.png",
     "数模省三_Page1_Image1.jpg",
-    "日记/2023-09-30.md",
-    "日记/2023-09-29.md",
-    "日记/2023-09-28.md",
+    "日记/2023-09/2023-09-30.md",
+    "日记/2023-09/2023-09-29.md",
+    "日记/2023-09/2023-09-28.md",
     "计算机网络/第三章.md",
     "计算机网络/CS144实验笔记/Lab3.md",
     "Oceanbase/Oceanbase资源.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "计算机网络/assets/189afcaee697248a0881160da054a76.jpg",
     "计算机网络/作业/第二章.md",
-    "日记/2023-09-27.md",
+    "日记/2023-09/2023-09-27.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
     "Pasted image 20230927150617.png",
@@ -186,7 +193,7 @@
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20230926_092144.jpg",
-    "日记/2023-09-26.md",
+    "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-25.md",
     "日记/2023-09/2023-09-10.md",
