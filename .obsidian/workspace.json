@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oceanbase/Oceanbase资源.md",
+                "file": "Oceanbase/数据库存储结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oceanbase/Oceanbase资源.md",
+                "file": "Oceanbase/数据库存储结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oceanbase/Oceanbase资源.md",
+                "file": "Oceanbase/数据库存储结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oceanbase/Oceanbase资源.md"
+                "file": "Oceanbase/数据库存储结构.md"
               }
             }
           },
@@ -167,6 +167,11 @@
   },
   "active": "88b1d061be3a4489",
   "lastOpenFiles": [
+    "Oceanbase/MiniOB框架.md",
+    "Oceanbase/数据库存储结构.md",
+    "Oceanbase/assets/Pasted image 20231001182515.png",
+    "Oceanbase/assets",
+    "Oceanbase/Oceanbase资源.md",
     "日记/2023-10-01.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/assets/Pasted image 20231001164534.png",
@@ -185,12 +190,10 @@
     "支撑材料.md",
     "Pasted image 20230930184438.png",
     "睿抗国一.jpg",
-    "软件杯国三.png",
     "日记/2023-09/2023-09-30.md",
     "日记/2023-09/2023-09-29.md",
     "日记/2023-09/2023-09-28.md",
     "计算机网络/学习笔记/第三章.md",
-    "Oceanbase/Oceanbase资源.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "计算机网络/作业/第二章.md",
     "日记/2023-09/2023-09-27.md",
@@ -208,10 +211,8 @@
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "Oceanbase",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
-    "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
