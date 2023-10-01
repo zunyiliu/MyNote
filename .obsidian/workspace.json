@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md",
+                "file": "Oceanbase/assets/数据库存储结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md",
+                "file": "Oceanbase/assets/数据库存储结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md",
+                "file": "Oceanbase/assets/数据库存储结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md"
+                "file": "Oceanbase/assets/数据库存储结构.md"
               }
             }
           },
@@ -165,10 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88b1d061be3a4489",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "Oceanbase/assets/Pasted image 20231001185637.png",
+    "Oceanbase/assets/Pasted image 20231001185419.png",
+    "Oceanbase/assets/Pasted image 20231001184250.png",
+    "Oceanbase/assets/Pasted image 20231001184151.png",
     "Oceanbase/MiniOB框架.md",
-    "Oceanbase/数据库存储结构.md",
+    "Oceanbase/assets/数据库存储结构.md",
     "Oceanbase/assets/Pasted image 20231001182515.png",
     "Oceanbase/assets",
     "Oceanbase/Oceanbase资源.md",
@@ -186,10 +190,7 @@
     "计算机网络/CS144实验笔记/Lab3.md",
     "华为软挑赛.png",
     "蓝桥杯国三_Page1_Image1.jpg",
-    "美赛证书.png",
     "支撑材料.md",
-    "Pasted image 20230930184438.png",
-    "睿抗国一.jpg",
     "日记/2023-09/2023-09-30.md",
     "日记/2023-09/2023-09-29.md",
     "日记/2023-09/2023-09-28.md",
@@ -210,7 +211,6 @@
     "计算机网络/hust实验资料",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "Oceanbase",
-    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "计算机网络/hust课件/未命名.canvas",
