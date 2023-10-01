@@ -62,9 +62,23 @@ RISC-V有许多与中断相关的寄存器：
 这里大致写一下过程：
 1. init.c中创建console设备。并将0、1、2三个文件描述符都指向console
 2. printf.c中调用write向文件描述符2写入，实际上就是向console写入
-3. write在内核中就是sys_writ
+3. write在内核中就是sys_write，其又调用了filewrite。
+4. 在filewrite函数中判断文件描述符类型，在这里属于设备，因而会调用设备对应的write函数，也就是consolewrite函数
+5. 可以认为consolewrite是一个UART驱动的top部分。uart.c文件中的uartputc函数会实际的打印字符。
+6. uartputc函数向buffer写入，然后调用uartstart函数。
+7. uartstart就是通知设备执行操作。在某个时间点，我们会收到中断，然后就会进入UART的bottom部分。
 
 # UART驱动的bottom部分
+当产生中断时，PLIC会将该中断路由到一个特定的CPU核中，并且如果这个CPU核设置了SIE寄存器的E bit（注，针对外部中断的bit位），那么会发生以下事情：
+- 首先，会清除SIE寄存器相应的bit，这样可以阻止CPU核被其他中断打扰，该CPU核可以专心处理当前中断。处理完成之后，可以再次恢复SIE寄存器相应的bit。
+- 之后，会设置SEPC寄存器为当前的程序计数器。我们假设Shell正在用户空间运行，突然来了一个中断，那么当前Shell的程序计数器会被保存。
+- 之后，要保存当前的mode。在我们的例子里面，因为当前运行的是Shell程序，所以会记录user mode。
+- 再将mode设置为Supervisor mode。
+- 最后将程序计数器的值设置成STVEC的值。
+
+我们会进入trap机制，在usertrap函数中，调用devintr函数，再调用plic_claim函数来获取中断。这里CPU核就会认定这个中断。
+
+plic_claim函数会识别中断号，如果是UART中断，那么会调用uartintr函数
 
 
 
