@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oceanbase/assets/数据库存储结构.md",
+                "file": "日记/2023-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oceanbase/assets/数据库存储结构.md",
+                "file": "日记/2023-10-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oceanbase/assets/数据库存储结构.md",
+                "file": "日记/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oceanbase/assets/数据库存储结构.md"
+                "file": "日记/2023-10-01.md"
               }
             }
           },
@@ -165,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "88b1d061be3a4489",
   "lastOpenFiles": [
     "Oceanbase/assets/Pasted image 20231001185637.png",
     "Oceanbase/assets/Pasted image 20231001185419.png",
