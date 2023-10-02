@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
+                "file": "计算机网络/学习笔记/第四章.md"
               }
             }
           },
@@ -176,24 +175,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "daf81ec4600e9449",
+  "active": "88b1d061be3a4489",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/学习笔记/第四章.md",
+    "Pasted image 20231002105555.png",
+    "Pasted image 20231002105213.png",
+    "计算机网络/assets/Pasted image 20231002104709.png",
+    "计算机网络/assets/Pasted image 20231002104653.png",
+    "计算机网络/assets/Pasted image 20231002104205.png",
+    "计算机网络/assets/Pasted image 20231002104010.png",
+    "计算机网络/assets/Pasted image 20231002103904.png",
     "计算机网络/assets/Pasted image 20231002092534.png",
     "计算机网络/assets/Pasted image 20231002101614.png",
     "计算机网络/assets/Pasted image 20231002100040.png",
-    "计算机网络/assets/Pasted image 20231002095627.png",
-    "计算机网络/assets/Pasted image 20231002091853.png",
     "日记/2023-10-02.md",
     "日记/2023-10-01.md",
-    "Oceanbase/assets/Pasted image 20231001185637.png",
-    "Oceanbase/assets/Pasted image 20231001185419.png",
-    "Oceanbase/assets/Pasted image 20231001184250.png",
-    "Oceanbase/assets/Pasted image 20231001184151.png",
     "Oceanbase/MiniOB框架.md",
     "Oceanbase/assets/数据库存储结构.md",
-    "Oceanbase/assets/Pasted image 20231001182515.png",
     "Oceanbase/assets",
     "Oceanbase/Oceanbase资源.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
