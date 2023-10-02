@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
               }
             }
           },
@@ -175,12 +176,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88b1d061be3a4489",
+  "active": "daf81ec4600e9449",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/学习笔记/第四章.md",
-    "Pasted image 20231002105555.png",
-    "Pasted image 20231002105213.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/assets/Pasted image 20231002105555.png",
+    "计算机网络/assets/Pasted image 20231002105213.png",
     "计算机网络/assets/Pasted image 20231002104709.png",
     "计算机网络/assets/Pasted image 20231002104653.png",
     "计算机网络/assets/Pasted image 20231002104205.png",
