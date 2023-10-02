@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-02.md",
+                "file": "Oceanbase/数据库存储结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "存储",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-02.md",
+                "file": "Oceanbase/数据库存储结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-02.md",
+                "file": "Oceanbase/数据库存储结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-02.md"
+                "file": "Oceanbase/数据库存储结构.md"
               }
             }
           },
@@ -165,10 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "427e10bcfcf394a4",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "Oceanbase/assets/Pasted image 20231002143252.png",
+    "Oceanbase/MiniOB框架.md",
+    "Oceanbase/Oceanbase资源.md",
     "日记/2023-10-02.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/assets/Pasted image 20231002113913.png",
     "计算机网络/assets/Pasted image 20231002105555.png",
@@ -181,10 +184,8 @@
     "计算机网络/assets/Pasted image 20231002092534.png",
     "计算机网络/assets/Pasted image 20231002101614.png",
     "日记/2023-10-01.md",
-    "Oceanbase/MiniOB框架.md",
-    "Oceanbase/assets/数据库存储结构.md",
+    "Oceanbase/数据库存储结构.md",
     "Oceanbase/assets",
-    "Oceanbase/Oceanbase资源.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记",
