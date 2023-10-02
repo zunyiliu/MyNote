@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
               }
             }
           },
@@ -175,13 +176,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88b1d061be3a4489",
+  "active": "daf81ec4600e9449",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/学习笔记/第四章.md",
-    "Pasted image 20231002100040.png",
-    "Pasted image 20231002095627.png",
-    "Pasted image 20231002092534.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/assets/Pasted image 20231002092534.png",
+    "计算机网络/assets/Pasted image 20231002101614.png",
+    "计算机网络/assets/Pasted image 20231002100040.png",
+    "计算机网络/assets/Pasted image 20231002095627.png",
     "计算机网络/assets/Pasted image 20231002091853.png",
     "日记/2023-10-02.md",
     "日记/2023-10-01.md",
@@ -195,7 +197,6 @@
     "Oceanbase/assets",
     "Oceanbase/Oceanbase资源.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
-    "操作系统/assets/Pasted image 20231001164534.png",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记",
     "计算机网络/CS144实验笔记/Lab4.md",
