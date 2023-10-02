@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md",
+                "file": "Oceanbase/Oceanbase资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md",
+                "file": "Oceanbase/Oceanbase资源.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md",
+                "file": "Oceanbase/Oceanbase资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oceanbase/数据库存储结构.md"
+                "file": "Oceanbase/Oceanbase资源.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "427e10bcfcf394a4",
   "lastOpenFiles": [
-    "Oceanbase/assets/Pasted image 20231002143252.png",
     "Oceanbase/MiniOB框架.md",
+    "Oceanbase/数据库存储结构.md",
+    "Pasted image 20231002143732.png",
+    "Oceanbase/assets/Pasted image 20231002143252.png",
     "Oceanbase/Oceanbase资源.md",
     "日记/2023-10-02.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
@@ -181,10 +183,7 @@
     "计算机网络/assets/Pasted image 20231002104205.png",
     "计算机网络/assets/Pasted image 20231002104010.png",
     "计算机网络/assets/Pasted image 20231002103904.png",
-    "计算机网络/assets/Pasted image 20231002092534.png",
-    "计算机网络/assets/Pasted image 20231002101614.png",
     "日记/2023-10-01.md",
-    "Oceanbase/数据库存储结构.md",
     "Oceanbase/assets",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/学习笔记/第二章.md",
