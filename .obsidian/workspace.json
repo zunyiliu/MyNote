@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-01.md",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "daf81ec4600e9449",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-01.md",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-01.md",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-01.md"
+                "file": "计算机网络/学习笔记/第四章.md"
               }
             }
           },
@@ -167,6 +177,12 @@
   },
   "active": "88b1d061be3a4489",
   "lastOpenFiles": [
+    "Pasted image 20231002092534.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/学习笔记/第四章.md",
+    "计算机网络/assets/Pasted image 20231002091853.png",
+    "日记/2023-10-02.md",
+    "日记/2023-10-01.md",
     "Oceanbase/assets/Pasted image 20231001185637.png",
     "Oceanbase/assets/Pasted image 20231001185419.png",
     "Oceanbase/assets/Pasted image 20231001184250.png",
@@ -176,7 +192,6 @@
     "Oceanbase/assets/Pasted image 20231001182515.png",
     "Oceanbase/assets",
     "Oceanbase/Oceanbase资源.md",
-    "日记/2023-10-01.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/assets/Pasted image 20231001164534.png",
     "操作系统/assets/Pasted image 20231001163536.png",
@@ -188,8 +203,6 @@
     "计算机网络/CS144实验笔记/Lab1.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/CS144实验笔记/Lab3.md",
-    "华为软挑赛.png",
-    "蓝桥杯国三_Page1_Image1.jpg",
     "支撑材料.md",
     "日记/2023-09/2023-09-30.md",
     "日记/2023-09/2023-09-29.md",
@@ -206,13 +219,10 @@
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-25.md",
-    "日记/2023-09/2023-09-10.md",
     "日记/2023-09",
     "计算机网络/hust实验资料",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "Oceanbase",
     "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
-    "操作系统/学校教材/计算机操作系统(第3版)课后习题答案.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
