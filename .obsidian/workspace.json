@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
+                "file": "计算机网络/学习笔记/第四章.md"
               }
             }
           },
@@ -176,14 +175,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc7b2e58a7021e6a",
+  "active": "2fa4aa3ff818ee7c",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "日记/2023-10-03.md",
+    "计算机网络/学习笔记/第四章.md",
     "计算机网络/assets/Pasted image 20231003172619.png",
     "计算机网络/assets/Pasted image 20231003170357.png",
     "计算机网络/assets/Pasted image 20231003164559.png",
-    "日记/2023-10-03.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "计算机网络/assets/Pasted image 20231003120017.png",
