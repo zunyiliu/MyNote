@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8adebc33f7349e83",
+        "id": "537f58ed9ad8f696",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa4aa3ff818ee7c",
+            "id": "905382af90b5aa0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "日记/2023-10-03.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc7b2e58a7021e6a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "日记/2023-10-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "日记/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
+                "file": "日记/2023-10-03.md"
               }
             }
           },
@@ -176,11 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc7b2e58a7021e6a",
+  "active": "905382af90b5aa0f",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第四章.md",
-    "Pasted image 20231003193801.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/学习笔记/第四章.md",
+    "计算机网络/assets/Pasted image 20231003193801.png",
     "计算机网络/assets/Pasted image 20231003192627.png",
     "计算机网络/assets/Pasted image 20231003190554.png",
     "计算机网络/assets/Pasted image 20231003190122.png",
