@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
               }
             }
           },
@@ -175,11 +176,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2fa4aa3ff818ee7c",
+  "active": "bc7b2e58a7021e6a",
   "lastOpenFiles": [
-    "Pasted image 20231003190554.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/学习笔记/第四章.md",
+    "Pasted image 20231003193801.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/assets/Pasted image 20231003192627.png",
+    "计算机网络/assets/Pasted image 20231003190554.png",
     "计算机网络/assets/Pasted image 20231003190122.png",
     "计算机网络/assets/Pasted image 20231003184651.png",
     "日记/2023-10-03.md",
@@ -190,9 +193,6 @@
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "计算机网络/assets/Pasted image 20231003120017.png",
     "计算机网络/assets/Pasted image 20231003115852.png",
-    "计算机网络/assets/Pasted image 20231003115803.png",
-    "计算机网络/assets/Pasted image 20231003114205.png",
-    "计算机网络/assets/Pasted image 20231003112811.png",
     "计算机网络/学习笔记/第三章.md",
     "日记/2023-10-02.md",
     "日记/2023-09/2023-09-25.md",
