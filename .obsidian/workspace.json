@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
+                "file": "计算机网络/学习笔记/第四章.md"
               }
             }
           },
@@ -176,10 +175,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68454d5f977cd3ac",
+  "active": "427e10bcfcf394a4",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第四章.md",
+    "计算机网络/assets/Pasted image 20231003103446.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/学习笔记/第四章.md",
+    "Pasted image 20231003103325.png",
     "计算机网络/assets/Pasted image 20231003095817.png",
     "计算机网络/学习笔记/第三章.md",
     "Pasted image 20231003095459.png",
@@ -213,7 +214,6 @@
     "计算机网络/assets/Pasted image 20231002105555.png",
     "计算机网络/assets/Pasted image 20231002105213.png",
     "计算机网络/assets/Pasted image 20231002104709.png",
-    "计算机网络/assets/Pasted image 20231002104653.png",
     "Oceanbase/assets",
     "计算机网络/学习笔记",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
