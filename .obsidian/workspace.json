@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
               }
             }
           },
@@ -175,10 +176,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "427e10bcfcf394a4",
+  "active": "68454d5f977cd3ac",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "日记/2023-10-03.md",
     "计算机网络/学习笔记/第四章.md",
+    "计算机网络/assets/Pasted image 20231003120017.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/assets/Pasted image 20231003115852.png",
+    "计算机网络/assets/Pasted image 20231003115803.png",
     "计算机网络/assets/Pasted image 20231003114205.png",
     "计算机网络/assets/Pasted image 20231003112811.png",
     "计算机网络/assets/Pasted image 20231003112516.png",
@@ -186,11 +191,7 @@
     "计算机网络/assets/Pasted image 20231003105628.png",
     "计算机网络/assets/Pasted image 20231003103446.png",
     "Pasted image 20231003103325.png",
-    "计算机网络/assets/Pasted image 20231003095817.png",
     "计算机网络/学习笔记/第三章.md",
-    "Pasted image 20231003095459.png",
-    "计算机网络/assets/Pasted image 20231003094217.png",
-    "日记/2023-10-03.md",
     "日记/2023-10-02.md",
     "日记/2023-09/2023-09-25.md",
     "日记/2023-09/2023-09-26.md",
