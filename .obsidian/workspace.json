@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校笔记/课程介绍与绪论.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校笔记/课程介绍与绪论.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校笔记/课程介绍与绪论.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校笔记/课程介绍与绪论.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "c56bb606cd8da0bb",
   "lastOpenFiles": [
+    "操作系统/学校笔记/课程介绍与绪论.md",
+    "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
-    "操作系统/学校笔记/课程介绍与绪论.md",
     "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
@@ -212,7 +213,6 @@
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "日记/2023-09",
-    "计算机网络/hust实验资料",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
