@@ -13,24 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/学习笔记/第四章.md",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75d82dfd947f4de9",
+            "id": "1fce55fde811193b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
+                "file": "计算机网络/学习笔记/第五章.md"
               }
             }
           },
@@ -176,11 +175,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "75d82dfd947f4de9",
+  "active": "11e3e2d3b49eb6f9",
   "lastOpenFiles": [
+    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+    "计算机网络/学习笔记/第五章.md",
     "计算机网络/学习笔记/第四章.md",
-    "计算机网络/assets/Pasted image 20231005101946.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/assets/Pasted image 20231005104011.png",
+    "Pasted image 20231005104009.png",
+    "Pasted image 20231005103948.png",
+    "计算机网络/assets/Pasted image 20231005103513.png",
+    "计算机网络/assets/Pasted image 20231005103445.png",
+    "计算机网络/assets/Pasted image 20231005103418.png",
+    "计算机网络/assets/Pasted image 20231005101946.png",
     "计算机网络/assets/Pasted image 20231005101849.png",
     "计算机网络/assets/Pasted image 20231005101411.png",
     "Pasted image 20231005101347.png",
@@ -194,12 +201,6 @@
     "日记/2023-09/2023-09-28.md",
     "日记/2023-09/2023-09-27.md",
     "Oceanbase/Oceanbase资源.md",
-    "计算机网络/assets/Pasted image 20231003193801.png",
-    "计算机网络/assets/Pasted image 20231003192627.png",
-    "计算机网络/assets/Pasted image 20231003190554.png",
-    "计算机网络/assets/Pasted image 20231003190122.png",
-    "计算机网络/assets/Pasted image 20231003184651.png",
-    "计算机网络/assets/Pasted image 20231003172619.png",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "计算机网络/学习笔记/第三章.md",
@@ -213,7 +214,6 @@
     "日记/2023-09/2023-09-18.md",
     "日记/2023-09/2023-09-17.md",
     "日记/2023-09/2023-09-16.md",
-    "日记/2023-09/2023-09-15.md",
     "Oceanbase/assets",
     "计算机网络/学习笔记",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
@@ -222,7 +222,6 @@
     "日记/2023-09",
     "计算机网络/hust实验资料",
     "Oceanbase",
-    "函数式编程/hust课件/0Lecture 2-lg-0915.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
