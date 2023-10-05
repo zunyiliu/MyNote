@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11e3e2d3b49eb6f9",
+            "id": "424f0e9cdfda9616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-05.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1fce55fde811193b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-05.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-05.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-05.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md"
               }
             }
           },
@@ -175,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "11e3e2d3b49eb6f9",
+  "active": "424f0e9cdfda9616",
   "lastOpenFiles": [
+    "日记/2023-10-05.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/学习笔记/第四章.md",
@@ -191,7 +182,6 @@
     "计算机网络/assets/Pasted image 20231005101849.png",
     "计算机网络/assets/Pasted image 20231005101411.png",
     "Pasted image 20231005101347.png",
-    "日记/2023-10-05.md",
     "日记/2023-10-04.md",
     "日记/2023-10-03.md",
     "日记/2023-10-02.md",
