@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0eceafd9e063195f",
+        "id": "9388e85637061d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "c56bb606cd8da0bb",
+            "id": "ad679c383cb7115e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
+                "file": "日记/2023-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
+                "file": "日记/2023-10-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
+                "file": "日记/2023-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md"
+                "file": "日记/2023-10-05.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c56bb606cd8da0bb",
+  "active": "ad679c383cb7115e",
   "lastOpenFiles": [
-    "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
+    "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
     "日记/2023-10-05.md",

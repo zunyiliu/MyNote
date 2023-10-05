@@ -42,6 +42,80 @@
 遵守全局死锁避免的顺序可能会出人意料地困难。有时锁顺序与逻辑程序结构相冲突，例如，也许代码模块M1调用模块M2，但是锁顺序要求在M1中的锁之前获取M2中的锁。有时锁的身份是事先不知道的，也许是因为必须持有一个锁才能发现下一个要获取的锁的身份。这种情况在文件系统中出现，因为它在路径名称中查找连续的组件。
 
 # 自旋锁（Spin lock）的实现
+自旋锁的实现解决了两个问题：
+1. 同一时刻只有一个进程会获得锁
+2. 防止编译器改变指令顺序
+
+对于第一个问题，各个处理器都有特殊的硬件指令，这种指令保证原子性。对于xv6而言，这个特殊的指令就是amoswap（atomic memory swap）。这个指令接收3个参数，分别是address，寄存器r1，寄存器r2。这条指令会先锁定住address，然后把address的数据存到r2中，r1的数据写入address中。
+
+接下来我们看一下如何使用这条指令来实现自旋锁。
+
+我们先看acquire函数：
+```C
+// Acquire the lock.
+// Loops (spins) until the lock is acquired.
+void
+acquire(struct spinlock *lk)
+{
+  push_off(); // disable interrupts to avoid deadlock.
+  if(holding(lk))
+    panic("acquire");
+
+  // On RISC-V, sync_lock_test_and_set turns into an atomic swap:
+  //   a5 = 1
+  //   s1 = &lk->locked
+  //   amoswap.w.aq a5, a5, (s1)
+  while(__sync_lock_test_and_set(&lk->locked, 1) != 0)
+    ;
+
+  // Tell the C compiler and the processor to not move loads or stores
+  // past this point, to ensure that the critical section's memory
+  // references happen strictly after the lock is acquired.
+  // On RISC-V, this emits a fence instruction.
+  __sync_synchronize();
+
+  // Record info about lock acquisition for holding() and debugging.
+  lk->cpu = mycpu();
+}
+```
+
+ `__sync_lock_test_and_set`函数是C标准库实现的原子操作，效果和上述硬件原子指令一样。在这个循环中，它不断将1与lock进行交换，如果lock中的数据是0，就说明获得了锁，且lock被置为1。如果lock中的数据是1，就说明锁已经被获取了，需要继续等待，同时lock中的数据仍然是1。
+
+接下来我们看release函数：
+```C
+// Release the lock.
+void
+release(struct spinlock *lk)
+{
+  if(!holding(lk))
+    panic("release");
+
+  lk->cpu = 0;
+
+  // Tell the C compiler and the CPU to not move loads or stores
+  // past this point, to ensure that all the stores in the critical
+  // section are visible to other CPUs before the lock is released,
+  // and that loads in the critical section occur strictly before
+  // the lock is released.
+  // On RISC-V, this emits a fence instruction.
+  __sync_synchronize();
+
+  // Release the lock, equivalent to lk->locked = 0.
+  // This code doesn't use a C assignment, since the C standard
+  // implies that an assignment might be implemented with
+  // multiple store instructions.
+  // On RISC-V, sync_lock_release turns into an atomic swap:
+  //   s1 = &lk->locked
+  //   amoswap.w zero, zero, (s1)
+  __sync_lock_release(&lk->locked);
+
+  pop_off();
+}
+```
+可以看到release函数中使用了`__sync_lock_release(&lk->locked)`函数，内部使用的也是atomic swap操作，将0写入到了lock中。保证了release也是一个原子操作。
+
+这里我们注意到，acquire和release中都使用了`__sync_synchronize()`函数，该函数用于表示任何在它之前的load/store指令，都不能移动到它之后。这样我们就在acquire和release之间构建了一个界限，这个界限中的指令都不会被重排到critical section以外，这样就保证了锁的正确性。
+
 
 
 
