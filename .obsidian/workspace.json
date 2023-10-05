@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-05.md",
+                "file": "计算机网络/作业/第二章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-05.md",
+                "file": "计算机网络/作业/第二章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-05.md",
+                "file": "计算机网络/作业/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-05.md"
+                "file": "计算机网络/作业/第二章.md"
               }
             }
           },
@@ -167,11 +167,12 @@
   },
   "active": "ad679c383cb7115e",
   "lastOpenFiles": [
+    "计算机网络/作业/第三章.md",
+    "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/学校教材/操作系统课件/1-绪论.pdf",
     "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
-    "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/学习笔记/第五章.md",
@@ -206,7 +207,6 @@
     "日记/2023-09/2023-09-21.md",
     "日记/2023-09/2023-09-20.md",
     "日记/2023-09/2023-09-19.md",
-    "日记/2023-09/2023-09-18.md",
     "Oceanbase/assets",
     "计算机网络/学习笔记",
     "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
