@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f3b08f25079a585",
+            "id": "ed6b366e210a7d08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-06.md",
+                "file": "计算机网络/学习笔记/第三章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-06.md",
+                "file": "计算机网络/学习笔记/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-06.md",
+                "file": "计算机网络/学习笔记/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-06.md"
+                "file": "计算机网络/学习笔记/第三章.md"
               }
             }
           },
@@ -165,8 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f3b08f25079a585",
+  "active": "ed6b366e210a7d08",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第二章.md",
+    "日记/2023-10-06.md",
+    "Pasted image 20231006143020.png",
+    "Pasted image 20231006142941.png",
+    "支撑材料.md",
     "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
     "操作系统/学校教材/操作系统课件/9-文件系统.pdf",
     "操作系统/学校教材/操作系统课件/7-主存管理.pdf",
@@ -178,7 +183,6 @@
     "计算机网络/学习笔记/第五章.md",
     "操作系统/学校教材/操作系统课件/~$9-文件系统.pptx",
     "操作系统/学校教材/操作系统课件/~$7-主存管理.pptx",
-    "操作系统/学校教材/操作系统课件/~$6-处理机调度.pptx",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/Pasted image 20231006113319.png",
     "计算机网络/assets/Pasted image 20231006112625.png",
@@ -188,9 +192,6 @@
     "计算机网络/CS144实验笔记/Pasted image 20231006105553.png",
     "Pasted image 20231006105525.png",
     "计算机网络/assets/Pasted image 20231006102116.png",
-    "计算机网络/assets/Pasted image 20231006100456.png",
-    "计算机网络/assets/Pasted image 20231006093258.png",
-    "日记/2023-10-06.md",
     "计算机网络/作业/第二章.md",
     "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
@@ -212,7 +213,6 @@
     "日记/2023-09/2023-09-25.md",
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-23.md",
-    "日记/2023-09/2023-09-22.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
