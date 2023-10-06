@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d223bdc04ee61816",
+        "id": "cb6c1babf49873ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b5fa620aeda4b9",
+            "id": "4f3b08f25079a585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md",
+                "file": "日记/2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd7a50bc2fbf6b59",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+                "file": "日记/2023-10-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+                "file": "日记/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
+                "file": "日记/2023-10-06.md"
               }
             }
           },
@@ -176,11 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd7a50bc2fbf6b59",
+  "active": "4f3b08f25079a585",
   "lastOpenFiles": [
-    "计算机网络/作业/第三章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+    "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
+    "操作系统/学校教材/操作系统课件/9-文件系统.pdf",
+    "操作系统/学校教材/操作系统课件/7-主存管理.pdf",
+    "操作系统/学校教材/操作系统课件/6-处理机调度.pdf",
+    "操作系统/学校教材/操作系统课件/5-资源分配与调度.pdf",
+    "操作系统/学校教材/操作系统课件/4-进程及进程管理.pdf",
+    "操作系统/学校教材/操作系统课件/3-用户接口.pdf",
+    "操作系统/学校教材/操作系统课件/2-结构与硬件支持.pdf",
     "计算机网络/学习笔记/第五章.md",
+    "操作系统/学校教材/操作系统课件/~$9-文件系统.pptx",
+    "操作系统/学校教材/操作系统课件/~$7-主存管理.pptx",
+    "操作系统/学校教材/操作系统课件/~$6-处理机调度.pptx",
+    "计算机网络/作业/第三章.md",
     "计算机网络/assets/Pasted image 20231006113319.png",
     "计算机网络/assets/Pasted image 20231006112625.png",
     "计算机网络/assets/Pasted image 20231006111935.png",
@@ -196,11 +195,8 @@
     "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
-    "操作系统/学校教材/操作系统课件/1-绪论.pdf",
-    "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/学习笔记/第四章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "日记/2023-10-04.md",
     "日记/2023-10-03.md",
     "日记/2023-10-02.md",
@@ -217,12 +213,6 @@
     "日记/2023-09/2023-09-26.md",
     "日记/2023-09/2023-09-23.md",
     "日记/2023-09/2023-09-22.md",
-    "Oceanbase/assets",
-    "计算机网络/学习笔记",
-    "函数式编程/hust课件/Lecture 3-lg_ppt_0925.pdf",
-    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
-    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
-    "日记/2023-09",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
