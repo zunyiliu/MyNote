@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-06.md",
+                "file": "日记/2023-10-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-06.md",
+                "file": "日记/2023-10-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-06.md",
+                "file": "日记/2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-06.md"
+                "file": "日记/2023-10-07.md"
               }
             }
           },
@@ -167,13 +167,14 @@
   },
   "active": "ed6b366e210a7d08",
   "lastOpenFiles": [
+    "日记/2023-10-06.md",
+    "日记/2023-10-07.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project1.md",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project4.md",
     "TinyKv项目文档/project/4_7d840f500e.png",
-    "日记/2023-10-06.md",
     "计算机网络/学习笔记/第二章.md",
     "Pasted image 20231006143020.png",
     "Pasted image 20231006142941.png",
@@ -212,7 +213,6 @@
     "日记/2023-09/2023-09-28.md",
     "日记/2023-09/2023-09-27.md",
     "Oceanbase/Oceanbase资源.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
