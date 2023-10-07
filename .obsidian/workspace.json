@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb6c1babf49873ec",
+        "id": "42a725ef7b64926c",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6b366e210a7d08",
+            "id": "8870370a33bb4853",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-10-07.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2023-10-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,11 +157,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed6b366e210a7d08",
+  "active": "8870370a33bb4853",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "操作系统/学校笔记/课程介绍与绪论.md",
+    "杂项/进程与线程.md",
+    "日记/2023-10-07.md",
     "操作系统/学校教材/操作系统课件/3-用户接口.pdf",
     "操作系统/学校教材/操作系统课件/2-结构与硬件支持.pdf",
-    "日记/2023-10-07.md",
     "日记/2023-10-06.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project2.md",
@@ -201,7 +198,6 @@
     "计算机网络/作业/第二章.md",
     "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
-    "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-04.md",
@@ -209,9 +205,6 @@
     "日记/2023-10-02.md",
     "日记/2023-10-01.md",
     "日记/2023-09/2023-09-30.md",
-    "日记/2023-09/2023-09-29.md",
-    "日记/2023-09/2023-09-28.md",
-    "日记/2023-09/2023-09-27.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
