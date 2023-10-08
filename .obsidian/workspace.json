@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "三好学生答辩演讲稿.md",
+                "file": "日记/2023-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "三好学生答辩演讲稿.md",
+                "file": "日记/2023-10-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "三好学生答辩演讲稿.md",
+                "file": "日记/2023-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "三好学生答辩演讲稿.md"
+                "file": "日记/2023-10-08.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "08adaae7dbafa990",
   "lastOpenFiles": [
-    "日记/2023-10-07.md",
     "三好学生答辩演讲稿.md",
+    "日记/2023-10-08.md",
+    "日记/2023-10-07.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
@@ -212,7 +213,6 @@
     "日记/2023-10-04.md",
     "日记/2023-10-03.md",
     "日记/2023-10-02.md",
-    "日记/2023-10-01.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
