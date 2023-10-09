@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md",
+                "file": "日记/2023-10-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md",
+                "file": "日记/2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md"
+                "file": "日记/2023-10-09.md"
               }
             }
           },
@@ -187,10 +188,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "050cbc631a2659b5",
+  "active": "e2437644cd797bf0",
   "lastOpenFiles": [
-    "日记/2023-10-09.md",
     "计算机网络/学习笔记/第五章.md",
+    "日记/2023-10-09.md",
     "计算机网络/assets/Pasted image 20231009093916.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/assets/Pasted image 20231009092742.png",
