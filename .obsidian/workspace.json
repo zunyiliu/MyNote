@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8bd415bf6d5718",
+        "id": "c909530d47ce0bad",
         "type": "tabs",
         "children": [
           {
-            "id": "bd157caf145ef096",
+            "id": "55c8ea45a71c28c0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "待看电子书/纳瓦尔宝典：财富与幸福指南 (埃里克．乔根森 (Eric Jorgenson)) (Z-Library).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
