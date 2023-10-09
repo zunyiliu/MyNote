@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "42a725ef7b64926c",
+        "id": "2202bcfe4d57fb6b",
         "type": "tabs",
         "children": [
           {
-            "id": "08adaae7dbafa990",
+            "id": "050cbc631a2659b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-08.md",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ca20895a60db9009",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-08.md",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-08.md",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-08.md"
+                "file": "计算机网络/学习笔记/第五章.md"
               }
             }
           },
@@ -165,14 +175,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "08adaae7dbafa990",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20231009093916.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+    "计算机网络/学习笔记/第五章.md",
+    "计算机网络/assets/Pasted image 20231009092742.png",
+    "计算机网络/assets/Pasted image 20231009090158.png",
+    "日记/2023-10-09.md",
+    "日记/2023-10-07.md",
+    "杂项/2023三好学生答辩演讲稿.md",
+    "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+    "计算机网络/hust课件/mso46F6.tmp",
+    "计算机网络/hust课件/msoCEA8.tmp",
     "计算机网络/hust课件/~$第4章 网络层（完整版）.pptx",
+    "日记/2023-10-08.md",
     "计算机网络/hust课件/第4章 网络层（完整版）.pptx",
     "计算机网络/hust课件/第4章 网络层（完整版）.tmp",
-    "三好学生答辩演讲稿.md",
-    "日记/2023-10-08.md",
-    "日记/2023-10-07.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
@@ -192,27 +211,18 @@
     "Pasted image 20231006142941.png",
     "支撑材料.md",
     "操作系统/学校教材/操作系统课件/课程介绍2023.pdf",
-    "操作系统/学校教材/操作系统课件/9-文件系统.pdf",
-    "操作系统/学校教材/操作系统课件/7-主存管理.pdf",
-    "操作系统/学校教材/操作系统课件/6-处理机调度.pdf",
-    "操作系统/学校教材/操作系统课件/5-资源分配与调度.pdf",
-    "操作系统/学校教材/操作系统课件/4-进程及进程管理.pdf",
-    "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/Pasted image 20231006113319.png",
     "计算机网络/assets/Pasted image 20231006112625.png",
     "计算机网络/assets/Pasted image 20231006111935.png",
     "计算机网络/assets/Pasted image 20231006111923.png",
     "计算机网络/assets/Pasted image 20231006110803.png",
-    "计算机网络/CS144实验笔记/Pasted image 20231006105553.png",
-    "Pasted image 20231006105525.png",
     "计算机网络/作业/第二章.md",
     "日记/2023-10-05.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-04.md",
-    "日记/2023-10-03.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
