@@ -4,22 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e273ae6f54093a69",
+        "id": "45922a4606c38add",
         "type": "tabs",
         "children": [
           {
-            "id": "1d5f5290f923dfd8",
+            "id": "d9c558b6a44e0dec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-10-10.md",
-                "mode": "source",
-                "source": false
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
+              }
+            }
+          },
+          {
+            "id": "d0fda84bd6a128e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
+              }
+            }
+          },
+          {
+            "id": "381f934125042a71",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-10.md",
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-10.md",
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-10.md"
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
               }
             }
           },
@@ -165,35 +184,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d5f5290f923dfd8",
+  "active": "d0fda84bd6a128e4",
   "lastOpenFiles": [
-    "函数式编程/作业2.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校资料/复习/操作系统总复习.md",
+    "操作系统/学校资料/复习/操作系统总复习.md.crdownload",
+    "操作系统/学校资料/教材",
+    "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
+    "操作系统/学校教材/复习/~$20-操作系统试题-A卷答案.doc",
+    "操作系统/学校教材/复习/~$20-操作系统试题-A卷(1).docx",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.doc",
+    "操作系统/学校教材/复习/2020-操作系统试题-A卷答案.doc.crdownload",
     "日记/2023-10-10.md",
     "日记/2023-10-09.md",
     "函数式编程/作业2.md",
-    "函数式编程/作业1.pdf",
     "函数式编程/作业1.md",
     "函数式编程/hust课件/未命名.md",
-    "待看电子书",
-    "待看电子书/纳瓦尔宝典：财富与幸福指南 (埃里克．乔根森 (Eric Jorgenson)) (Z-Library).pdf",
     "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/assets/Pasted image 20231009093916.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/assets/Pasted image 20231009092742.png",
     "计算机网络/assets/Pasted image 20231009090158.png",
     "日记/2023-10-07.md",
     "杂项/2023三好学生答辩演讲稿.md",
-    "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
-    "计算机网络/hust课件/mso46F6.tmp",
-    "计算机网络/hust课件/msoCEA8.tmp",
-    "计算机网络/hust课件/~$第4章 网络层（完整版）.pptx",
     "日记/2023-10-08.md",
-    "计算机网络/hust课件/第4章 网络层（完整版）.pptx",
-    "计算机网络/hust课件/第4章 网络层（完整版）.tmp",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "杂项/进程与线程.md",
@@ -208,7 +227,6 @@
     "Pasted image 20231006143020.png",
     "Pasted image 20231006142941.png",
     "支撑材料.md",
-    "计算机网络/作业/第三章.md",
     "计算机网络/assets/Pasted image 20231006113319.png",
     "计算机网络/assets/Pasted image 20231006112625.png",
     "计算机网络/assets/Pasted image 20231006111935.png",
