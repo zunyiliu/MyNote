@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "45922a4606c38add",
+        "id": "3f19a525688790b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c558b6a44e0dec",
+            "id": "0da0bf6f5a65727d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
-              }
-            }
-          },
-          {
-            "id": "d0fda84bd6a128e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
-              }
-            }
-          },
-          {
-            "id": "381f934125042a71",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -184,19 +157,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0fda84bd6a128e4",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/复习/操作系统总复习.md",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.160.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.159.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.158.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.157.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.156.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.155.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.154.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.153.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.140.png",
+    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.139.png",
+    "操作系统/学校资料/复习/操作系统总复习.zip",
+    "操作系统/学校资料/复习/操作系统总复习.zip.crdownload",
     "操作系统/学校资料/复习/操作系统总复习.md.crdownload",
     "操作系统/学校资料/教材",
     "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
     "操作系统/学校教材/复习/~$20-操作系统试题-A卷答案.doc",
     "操作系统/学校教材/复习/~$20-操作系统试题-A卷(1).docx",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.doc",
-    "操作系统/学校教材/复习/2020-操作系统试题-A卷答案.doc.crdownload",
     "日记/2023-10-10.md",
     "日记/2023-10-09.md",
     "函数式编程/作业2.md",
@@ -207,9 +190,6 @@
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "计算机网络/学习笔记/第五章.md",
-    "计算机网络/assets/Pasted image 20231009093916.png",
-    "计算机网络/assets/Pasted image 20231009092742.png",
-    "计算机网络/assets/Pasted image 20231009090158.png",
     "日记/2023-10-07.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "日记/2023-10-08.md",
@@ -222,15 +202,8 @@
     "TinyKv项目文档/project1.md",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project4.md",
-    "TinyKv项目文档/project/4_7d840f500e.png",
     "计算机网络/学习笔记/第二章.md",
-    "Pasted image 20231006143020.png",
-    "Pasted image 20231006142941.png",
     "支撑材料.md",
-    "计算机网络/assets/Pasted image 20231006113319.png",
-    "计算机网络/assets/Pasted image 20231006112625.png",
-    "计算机网络/assets/Pasted image 20231006111935.png",
-    "计算机网络/assets/Pasted image 20231006111923.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
