@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "527741f77c516395",
+        "id": "f3b8ce2748bc93b8",
         "type": "tabs",
         "children": [
           {
-            "id": "1f7fadc3d9ad00bc",
+            "id": "dd229649e3a07eb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/学习笔记/第三章.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机网络/学习笔记/第三章.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +157,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1f7fadc3d9ad00bc",
+  "active": "dd229649e3a07eb9",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第三章.md",
     "计算机网络/学习笔记/第五章.md",
     "日记/2023-10-11.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
