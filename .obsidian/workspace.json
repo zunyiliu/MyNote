@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "6717b10bf7c70f05",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
-              }
-            }
-          },
-          {
             "id": "0fb722c19abd32a1",
             "type": "leaf",
             "state": {
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,9 +180,11 @@
   },
   "active": "0fb722c19abd32a1",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第五章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+    "计算机网络/assets/Pasted image 20231011112618.png",
+    "计算机网络/学习笔记/第四章.md",
+    "计算机网络/assets/Pasted image 20231011112541.png",
     "日记/2023-10-11.md",
     "计算机网络/assets/Pasted image 20231011094919.png",
     "计算机网络/assets/Pasted image 20231011094237.png",
@@ -202,8 +194,6 @@
     "计算机网络/assets/Pasted image 20231011091302.png",
     "计算机网络/assets/Pasted image 20231011091238.png",
     "计算机网络/assets/Pasted image 20231011090149.png",
-    "Pasted image 20231011090141.png",
-    "Pasted image 20231011090120.png",
     "日记/2023-10-10.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
