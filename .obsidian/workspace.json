@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-10.md",
+                "file": "计算机网络/学习笔记/第五章.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "609195725c30c9c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-10.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-10.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-10.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf"
               }
             }
           },
@@ -165,30 +176,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0da0bf6f5a65727d",
+  "active": "609195725c30c9c6",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第五章.md",
+    "计算机网络/assets/Pasted image 20231011094919.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+    "计算机网络/assets/Pasted image 20231011094237.png",
+    "计算机网络/assets/Pasted image 20231011093330.png",
+    "计算机网络/assets/Pasted image 20231011092830.png",
+    "计算机网络/assets/Pasted image 20231011092743.png",
+    "计算机网络/assets/Pasted image 20231011091302.png",
+    "计算机网络/assets/Pasted image 20231011091238.png",
+    "计算机网络/assets/Pasted image 20231011090149.png",
+    "Pasted image 20231011090141.png",
+    "Pasted image 20231011090120.png",
+    "日记/2023-10-11.md",
+    "日记/2023-10-10.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/复习/操作系统总复习.md",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.160.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.159.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.158.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.157.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.156.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.155.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.154.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.153.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.140.png",
-    "操作系统/学校资料/复习/Aspose.Words.70e70967-fed0-435a-87bc-d9614f9bc5da.139.png",
     "操作系统/学校资料/复习/操作系统总复习.zip",
     "操作系统/学校资料/复习/操作系统总复习.zip.crdownload",
     "操作系统/学校资料/复习/操作系统总复习.md.crdownload",
     "操作系统/学校资料/教材",
     "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
     "操作系统/学校教材/复习/~$20-操作系统试题-A卷答案.doc",
-    "操作系统/学校教材/复习/~$20-操作系统试题-A卷(1).docx",
-    "日记/2023-10-10.md",
     "日记/2023-10-09.md",
     "函数式编程/作业2.md",
     "函数式编程/作业1.md",
@@ -197,7 +210,6 @@
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
-    "计算机网络/学习笔记/第五章.md",
     "日记/2023-10-07.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "日记/2023-10-08.md",
@@ -211,7 +223,6 @@
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project4.md",
     "计算机网络/学习笔记/第二章.md",
-    "支撑材料.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
