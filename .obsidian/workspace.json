@@ -11,8 +11,12 @@
             "id": "99ec1e5d0d54d105",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-10-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2023-10-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2023-10-12.md"
+              }
             }
           },
           {
@@ -159,6 +167,7 @@
   },
   "active": "99ec1e5d0d54d105",
   "lastOpenFiles": [
+    "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
     "日记/2023-10-12.md",
     "日记/2023-10-09.md",
     "日记/2023-10-11.md",
@@ -204,7 +213,6 @@
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project1.md",
-    "TinyKv项目文档/project.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
