@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b65e6359c6036203",
+        "id": "fd54f3687cb58cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba212d246b75841",
+            "id": "cf2ef132f29c023f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf"
+                "file": "日记/2023-10-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+                "file": "日记/2023-10-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+                "file": "日记/2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf"
+                "file": "日记/2023-10-12.md"
               }
             }
           },
@@ -163,10 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "cf2ef132f29c023f",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第二章.md",
+    "计算机网络/assets/IMG_20231012_190510.jpg",
+    "计算机网络/assets/IMG_20231012_190505.jpg",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+    "计算机网络/作业/第四+第五章.md",
+    "计算机网络/学习笔记/第二章.md",
     "日记/2023-10-12.md",
     "日记/2023-10-09.md",
     "日记/2023-10-11.md",
@@ -185,7 +190,6 @@
     "计算机网络/assets/Pasted image 20231011092743.png",
     "计算机网络/assets/Pasted image 20231011091302.png",
     "计算机网络/assets/Pasted image 20231011091238.png",
-    "计算机网络/assets/Pasted image 20231011090149.png",
     "日记/2023-10-10.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
@@ -209,8 +213,6 @@
     "杂项/进程与线程.md",
     "日记/2023-10-06.md",
     "TinyKv项目文档/project3.md",
-    "TinyKv项目文档/project2.md",
-    "TinyKv项目文档/project1.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
