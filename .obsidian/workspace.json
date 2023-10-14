@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f4323cd0c4bf56",
+        "id": "480744aba7b623e7",
         "type": "tabs",
         "children": [
           {
-            "id": "06c8f8c5cf96baa1",
+            "id": "05019af703178da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-14.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-14.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-14.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-14.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md"
               }
             }
           },
@@ -165,11 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06c8f8c5cf96baa1",
+  "active": "05019af703178da1",
   "lastOpenFiles": [
+    "操作系统/学校笔记/课程介绍与绪论.md",
+    "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
+    "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
+    "日记/2023-10-14.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
-    "日记/2023-10-14.md",
     "日记/2023-10-12.md",
     "日记/2023-10-13.md",
     "计算机网络/学习笔记/第二章.md",
@@ -206,10 +209,8 @@
     "函数式编程/作业2.md",
     "函数式编程/作业1.md",
     "函数式编程/hust课件/未命名.md",
-    "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
-    "操作系统/学校笔记/课程介绍与绪论.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "计算机网络/hust课件/未命名.canvas",
