@@ -183,3 +183,69 @@ piperead(struct pipe *pi, uint64 addr, int n)
 之后read进程尽可能读取字符，直到缓冲区再次为空，此时i就是实际读取的字符数量。同时使用copyout将字符写入页表指定地址处。
 
 # exit系统调用
+这个直接看代码比较好，还是能理解的，简单概括其流程如下：
+1. 关闭当前进程所有打开的文件
+2. 进程有一个对于当前目录的记录，这个记录会随着你执行cd指令而改变。将对这个目录的引用释放给文件系统。
+3. 如果该进程有子进程，将所有子进程的父进程设置为initproc
+	- 唤醒initproc
+	- 调用reparent
+4. 唤醒该进程的父进程，将该进程的状态设置为ZOMBIE
+5. 调用shed()函数，进入调度器线程。
+
+到目前位置，进程的状态是ZOMBIE，并且进程不会再运行，因为调度器只会运行RUNNABLE进程。同时进程资源也并没有完全释放，如果释放了进程的状态应该是UNUSED。
+
+# wait系统调用
+wait()将扫描进程表单，找到父进程是自己且状态是ZOMBIE的进程。然后调用freeproc()函数，完成进程释放的最后一步。freeproc()代码如下：
+```C
+// free a proc structure and the data hanging from it,
+// including user pages.
+// p->lock must be held.
+static void
+freeproc(struct proc *p)
+{
+  if(p->trapframe)
+    kfree((void*)p->trapframe);
+  p->trapframe = 0;
+  if(p->pagetable)
+    proc_freepagetable(p->pagetable, p->sz);
+  p->pagetable = 0;
+  p->sz = 0;
+  p->pid = 0;
+  p->parent = 0;
+  p->name[0] = 0;
+  p->chan = 0;
+  p->killed = 0;
+  p->xstate = 0;
+  p->state = UNUSED;
+}
+```
+
+wait不仅是为了父进程方便的知道子进程退出，wait实际上也是进程退出的一个重要组成部分。在Unix中，对于每一个退出的进程，都需要有一个对应的wait系统调用，这就是为什么当一个进程退出时，它的子进程需要变成init进程的子进程。init进程的工作就是在一个循环中不停调用wait，因为每个进程都需要对应一个wait，这样它的父进程才能调用freeproc函数，并清理进程的资源。
+
+# kill系统调用
+kill系统调用不能就直接停止目标进程的运行。实际上，在XV6和其他的Unix系统中，kill系统调用基本上不做任何事情。kill代码如下：
+```C
+int
+kill(int pid)
+{
+  struct proc *p;
+
+  for(p = proc; p < &proc[NPROC]; p++){
+    acquire(&p->lock);
+    if(p->pid == pid){
+      p->killed = 1;
+      if(p->state == SLEEPING){
+        // Wake process from sleep().
+        p->state = RUNNABLE;
+      }
+      release(&p->lock);
+      return 0;
+    }
+    release(&p->lock);
+  }
+  return -1;
+}
+```
+这里只是将对应进程的killed标志位设置为1，并没有停止进程的运行。
+
+而目标进程运行到内核代码中能安全停止运行的位置时，会检查自己的killed标志位，如果设置为1，目标进程会自愿的执行exit系统调用。可以在trap.c中看到所有可以安全停止运行的位置，
