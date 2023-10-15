@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+                "file": "计算机网络/学习笔记/第六章.md"
               }
             }
           },
@@ -176,11 +175,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "79aac2973464b5b0",
+  "active": "61bf0e84e5dd38b8",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第六章.md",
-    "计算机网络/assets/Pasted image 20231015095126.png",
+    "计算机网络/assets/Pasted image 20231015110136.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/学习笔记/第六章.md",
+    "Pasted image 20231015110124.png",
+    "计算机网络/assets/Pasted image 20231015105825.png",
+    "计算机网络/assets/Pasted image 20231015105709.png",
+    "计算机网络/assets/Pasted image 20231015100845.png",
+    "计算机网络/assets/Pasted image 20231015100527.png",
+    "计算机网络/assets/Pasted image 20231015095126.png",
     "计算机网络/assets/Pasted image 20231015095116.png",
     "计算机网络/assets/Pasted image 20231015095106.png",
     "计算机网络/assets/Pasted image 20231015094315.png",
@@ -192,7 +197,6 @@
     "日记/2023-10-13.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20231014_170456_edit_647123122511672.jpg",
-    "计算机网络/assets/IMG_20231014_170446.jpg",
     "计算机网络/学习笔记/第三章.md",
     "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
     "CS50/HTML、CSS、JavaScript.md",
@@ -202,8 +206,6 @@
     "日记/2023-10-12.md",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记/第五章.md",
-    "计算机网络/assets/IMG_20231012_190510.jpg",
-    "计算机网络/assets/IMG_20231012_190505.jpg",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
     "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-09.md",
@@ -211,8 +213,6 @@
     "日记/2023-10-07.md",
     "日记/2023-10-08.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
-    "计算机网络/assets/Pasted image 20231011112618.png",
-    "计算机网络/assets/Pasted image 20231011112541.png",
     "日记/2023-10-10.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
