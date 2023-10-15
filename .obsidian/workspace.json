@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-14.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "79aac2973464b5b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-14.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-14.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-14.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
               }
             }
           },
@@ -165,12 +176,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "61bf0e84e5dd38b8",
+  "active": "79aac2973464b5b0",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
+    "计算机网络/assets/Pasted image 20231015095126.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/assets/Pasted image 20231015095116.png",
+    "计算机网络/assets/Pasted image 20231015095106.png",
+    "计算机网络/assets/Pasted image 20231015094315.png",
+    "计算机网络/学习笔记/第一章.md",
+    "计算机网络/学习笔记/第四章.md",
+    "日记/2023-10-15.md",
     "日记/2023-10-14.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
     "日记/2023-10-13.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20231014_170456_edit_647123122511672.jpg",
@@ -183,8 +201,6 @@
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "日记/2023-10-12.md",
     "计算机网络/学习笔记/第二章.md",
-    "计算机网络/学习笔记/第一章.md",
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/assets/IMG_20231012_190510.jpg",
     "计算机网络/assets/IMG_20231012_190505.jpg",
@@ -197,10 +213,6 @@
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/assets/Pasted image 20231011112618.png",
     "计算机网络/assets/Pasted image 20231011112541.png",
-    "计算机网络/assets/Pasted image 20231011094919.png",
-    "计算机网络/assets/Pasted image 20231011094237.png",
-    "计算机网络/assets/Pasted image 20231011093330.png",
-    "计算机网络/assets/Pasted image 20231011092830.png",
     "日记/2023-10-10.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
@@ -211,7 +223,6 @@
     "函数式编程/作业2.md",
     "函数式编程/作业1.md",
     "函数式编程/hust课件/未命名.md",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
