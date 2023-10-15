@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cfbcd79d3b44bd55",
+        "id": "9a391ff292836360",
         "type": "tabs",
         "children": [
           {
-            "id": "61bf0e84e5dd38b8",
+            "id": "ca6217c7b31fc17f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "日记/2023-10-15.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "79aac2973464b5b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "日记/2023-10-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "日记/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md"
+                "file": "日记/2023-10-15.md"
               }
             }
           },
@@ -175,11 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "ca6217c7b31fc17f",
   "lastOpenFiles": [
-    "计算机网络/assets/Pasted image 20231015120150.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/assets/Pasted image 20231015120150.png",
     "计算机网络/assets/Pasted image 20231015120139.png",
     "计算机网络/assets/Pasted image 20231015114452.png",
     "计算机网络/assets/Pasted image 20231015112945.png",
@@ -189,7 +179,6 @@
     "计算机网络/assets/Pasted image 20231015105825.png",
     "计算机网络/assets/Pasted image 20231015105709.png",
     "计算机网络/assets/Pasted image 20231015100845.png",
-    "计算机网络/assets/Pasted image 20231015100527.png",
     "计算机网络/学习笔记/第一章.md",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-15.md",
