@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d510ffa7f03dce51",
+        "id": "cfbcd79d3b44bd55",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2ac23061aa49e5",
+            "id": "61bf0e84e5dd38b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,10 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eb2ac23061aa49e5",
+  "active": "61bf0e84e5dd38b8",
   "lastOpenFiles": [
-    "日记/2023-10-13.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/学习笔记/第六章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
     "日记/2023-10-14.md",
+    "日记/2023-10-13.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/assets/IMG_20231014_170456_edit_647123122511672.jpg",
     "计算机网络/assets/IMG_20231014_170446.jpg",
@@ -205,13 +208,10 @@
     "操作系统/学校资料/复习/操作系统总复习.md",
     "操作系统/学校资料/复习/操作系统总复习.zip",
     "操作系统/学校资料/复习/操作系统总复习.zip.crdownload",
-    "操作系统/学校资料/复习/操作系统总复习.md.crdownload",
-    "操作系统/学校资料/教材",
     "函数式编程/作业2.md",
     "函数式编程/作业1.md",
     "函数式编程/hust课件/未命名.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
