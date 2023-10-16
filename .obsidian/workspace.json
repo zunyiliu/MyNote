@@ -11,8 +11,12 @@
             "id": "a73426f941b30f77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-10-16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "函数式编程/作业3.pdf",
+                "file": "日记/2023-10-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "函数式编程/作业3.pdf",
+                "file": "日记/2023-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "函数式编程/作业3.pdf"
+                "file": "日记/2023-10-16.md"
               }
             }
           },
@@ -161,12 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "a73426f941b30f77",
   "lastOpenFiles": [
+    "杂项/软件工程.md",
+    "函数式编程/周楷U202115469Q4.sml",
+    "函数式编程/周楷U202115469.sml",
+    "日记/2023-10-16.md",
     "函数式编程/作业3.md",
     "函数式编程/课堂小测.md",
-    "杂项/软件工程.md",
-    "日记/2023-10-16.md",
     "函数式编程/作业3.pdf",
     "杂项/VScode C++环境配置.md",
     "杂项/README.md",
@@ -206,8 +212,6 @@
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
