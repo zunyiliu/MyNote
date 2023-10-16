@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "b605b1b7c218d8dd",
+            "id": "884230bcd0a23b22",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+                "file": "计算机网络/学习笔记/第四章.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+                "file": "计算机网络/学习笔记/第四章.md"
               }
             }
           },
@@ -176,11 +178,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b605b1b7c218d8dd",
+  "active": "884230bcd0a23b22",
   "lastOpenFiles": [
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/学习笔记/第四章.md",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/assets/Pasted image 20231016102357.png",
+    "计算机网络/assets/Pasted image 20231016102341.png",
+    "计算机网络/assets/Pasted image 20231016102226.png",
     "计算机网络/assets/Pasted image 20231016100343.png",
     "计算机网络/assets/Pasted image 20231016095558.png",
     "计算机网络/assets/Pasted image 20231016093930.png",
@@ -188,9 +195,6 @@
     "计算机网络/assets/Pasted image 20231016085906.png",
     "计算机网络/assets/Pasted image 20231016084359.png",
     "计算机网络/assets/Pasted image 20231016083822.png",
-    "计算机网络/assets/Pasted image 20231016083722.png",
-    "计算机网络/assets/Pasted image 20231016083204.png",
-    "计算机网络/assets/Pasted image 20231016082544.png",
     "日记/2023-10-16.md",
     "日记/2023-10-15.md",
     "日记/2023-10-11.md",
@@ -205,7 +209,6 @@
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "计算机网络/学习笔记/第一章.md",
-    "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-14.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
     "日记/2023-10-13.md",
