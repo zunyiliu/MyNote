@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9a391ff292836360",
+        "id": "4986dae4e14d38c1",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6217c7b31fc17f",
+            "id": "11f2cd09cfc5bbc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-15.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b605b1b7c218d8dd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "存储",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-15.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-15.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-15.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
               }
             }
           },
@@ -165,32 +176,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca6217c7b31fc17f",
+  "active": "b605b1b7c218d8dd",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第六章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/assets/Pasted image 20231016085906.png",
+    "计算机网络/assets/Pasted image 20231016084359.png",
+    "计算机网络/assets/Pasted image 20231016083822.png",
+    "计算机网络/assets/Pasted image 20231016083722.png",
+    "计算机网络/assets/Pasted image 20231016083204.png",
+    "计算机网络/assets/Pasted image 20231016082544.png",
+    "计算机网络/assets/Pasted image 20231016082407.png",
+    "日记/2023-10-16.md",
+    "日记/2023-10-15.md",
     "日记/2023-10-11.md",
     "日记/2023-10-10.md",
     "日记/2023-10-09.md",
     "日记/2023-10-08.md",
     "日记/2023-10-12.md",
-    "日记/2023-10-15.md",
     "日记/2023-10-04.md",
     "日记/2023-10-05.md",
     "日记/2023-10-06.md",
     "日记/2023-10-07.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
-    "计算机网络/学习笔记/第六章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/assets/Pasted image 20231015120150.png",
     "计算机网络/assets/Pasted image 20231015120139.png",
     "计算机网络/assets/Pasted image 20231015114452.png",
-    "计算机网络/assets/Pasted image 20231015112945.png",
-    "计算机网络/assets/Pasted image 20231015112342.png",
-    "计算机网络/assets/Pasted image 20231015110136.png",
-    "Pasted image 20231015110124.png",
-    "计算机网络/assets/Pasted image 20231015105825.png",
-    "计算机网络/assets/Pasted image 20231015105709.png",
-    "计算机网络/assets/Pasted image 20231015100845.png",
     "计算机网络/学习笔记/第一章.md",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-14.md",
@@ -204,9 +216,7 @@
     "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/学习笔记/第二章.md",
-    "计算机网络/学习笔记/第五章.md",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
-    "计算机网络/作业/第四+第五章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
