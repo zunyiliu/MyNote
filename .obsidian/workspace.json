@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4986dae4e14d38c1",
+        "id": "1a27d72534831e91",
         "type": "tabs",
         "children": [
           {
-            "id": "11f2cd09cfc5bbc4",
+            "id": "a73426f941b30f77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂项/软件工程.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "函数式编程/作业3.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "函数式编程/作业3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/软件工程.md"
+                "file": "函数式编程/作业3.pdf"
               }
             }
           },
@@ -165,12 +161,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "11f2cd09cfc5bbc4",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "函数式编程/作业3.md",
+    "函数式编程/课堂小测.md",
+    "杂项/软件工程.md",
     "日记/2023-10-16.md",
+    "函数式编程/作业3.pdf",
     "杂项/VScode C++环境配置.md",
     "杂项/README.md",
-    "杂项/软件工程.md",
     "杂项/python导出exe文件.md",
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "杂项/进程与线程.md",
@@ -203,16 +202,12 @@
     "日记/2023-10-06.md",
     "日记/2023-10-07.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
-    "操作系统/MIT-6.S081实验/Lab8：Locks.md",
-    "计算机网络/学习笔记/第一章.md",
-    "日记/2023-10-14.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第8章.pdf",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
-    "操作系统/学校资料/复习/操作系统总复习.zip",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
