@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-16.md",
+                "file": "日记/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-16.md",
+                "file": "日记/2023-10-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-16.md",
+                "file": "日记/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-16.md"
+                "file": "日记/2023-10-17.md"
               }
             }
           },
@@ -167,10 +167,11 @@
   },
   "active": "a73426f941b30f77",
   "lastOpenFiles": [
+    "日记/2023-10-16.md",
+    "日记/2023-10-17.md",
     "杂项/软件工程.md",
     "函数式编程/周楷U202115469Q4.sml",
     "函数式编程/周楷U202115469.sml",
-    "日记/2023-10-16.md",
     "函数式编程/作业3.md",
     "函数式编程/课堂小测.md",
     "函数式编程/作业3.pdf",
