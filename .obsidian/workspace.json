@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1a27d72534831e91",
+        "id": "0ce2a768223e8308",
         "type": "tabs",
         "children": [
           {
-            "id": "a73426f941b30f77",
+            "id": "402406127a4e3835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f550e1dd65f0a4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-10-16.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-16.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-16.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-16.md"
+                "file": "计算机网络/学习笔记/第六章.md"
               }
             }
           },
@@ -178,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f550e1dd65f0a4c8",
+  "active": "402406127a4e3835",
   "lastOpenFiles": [
     "日记/2023-10-17.md",
     "日记/2023-10-16.md",
