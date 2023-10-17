@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce2a768223e8308",
+        "id": "d09df61f2e555843",
         "type": "tabs",
         "children": [
           {
-            "id": "402406127a4e3835",
+            "id": "93bffbe9adea05cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "日记/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "日记/2023-10-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "日记/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md"
+                "file": "日记/2023-10-17.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "402406127a4e3835",
+  "active": "93bffbe9adea05cf",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第六章.md",
+    "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-17.md",
     "日记/2023-10-16.md",
     "杂项/软件工程.md",
@@ -184,10 +186,8 @@
     "杂项/wsl卡死无法启动.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "日记/2023-10-15.md",
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/assets/Pasted image 20231016102357.png",
     "计算机网络/assets/Pasted image 20231016102341.png",
