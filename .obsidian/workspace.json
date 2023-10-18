@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+                "file": "计算机网络/学习笔记/第六章.md"
               }
             }
           },
@@ -176,13 +175,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cfd8d5b234089343",
+  "active": "683cbc3dfc609dd3",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
-    "Pasted image 20231018090121.png",
-    "Pasted image 20231018084436.png",
-    "Pasted image 20231018083825.png",
+    "计算机网络/学习笔记/第六章.md",
+    "Pasted image 20231018101644.png",
+    "Pasted image 20231018101604.png",
+    "计算机网络/assets/Pasted image 20231018084436.png",
+    "计算机网络/assets/Pasted image 20231018093214.png",
+    "计算机网络/assets/Pasted image 20231018092957.png",
+    "计算机网络/assets/Pasted image 20231018092753.png",
+    "计算机网络/assets/Pasted image 20231018090121.png",
+    "计算机网络/assets/Pasted image 20231018083825.png",
     "日记/2023-10-18.md",
     "日记/2023-10-17.md",
     "日记/2023-10-16.md",
@@ -213,11 +217,6 @@
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "计算机网络/assets/Pasted image 20231016102357.png",
     "计算机网络/assets/Pasted image 20231016102341.png",
-    "计算机网络/assets/Pasted image 20231016102226.png",
-    "计算机网络/assets/Pasted image 20231016100343.png",
-    "计算机网络/assets/Pasted image 20231016095558.png",
-    "计算机网络/assets/Pasted image 20231016093930.png",
-    "计算机网络/assets/Pasted image 20231016091843.png",
     "日记/2023-10-11.md",
     "日记/2023-10-10.md",
     "日记/2023-10-09.md",
