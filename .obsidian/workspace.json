@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e596d02ed3bc3350",
+        "id": "b9b05fb1640a0cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee94f2fbac38490",
+            "id": "bc0aac10e96345d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-10-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dabe5c1db0c6e305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-10-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-10-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/软件工程.md",
+                "file": "日记/2023-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/软件工程.md"
+                "file": "日记/2023-10-18.md"
               }
             }
           },
@@ -165,12 +177,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ee94f2fbac38490",
+  "active": "bc0aac10e96345d6",
   "lastOpenFiles": [
+    "日记/2023-10-16.md",
+    "华为ICT/HCIA-Datacom/3.华为VRP系统.pdf",
+    "华为ICT/HCIA-Datacom/2.网络参考模型.pdf",
+    "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf",
+    "日记/2023-10-18.md",
     "杂项/软工项目README.md",
     "杂项/软件工程.md",
     "杂项/进程与线程.md",
-    "日记/2023-10-18.md",
     "操作系统/学校资料/复习/操作系统练习题.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/教材/计算机操作系统(第3版)课后习题答案.pdf",
@@ -179,9 +195,6 @@
     "操作系统/学校资料/第3版习题答案/第9章习题及答案.doc",
     "操作系统/学校资料/第3版习题答案/第8章习题及答案.doc",
     "操作系统/学校资料/第3版习题答案/第7章习题及答案.doc",
-    "操作系统/学校资料/第3版习题答案/第6章习题及答案.docx",
-    "操作系统/学校资料/第3版习题答案/第5章习题及答案.doc",
-    "操作系统/学校资料/第3版习题答案/第4章习题及答案.doc",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/assets/Pasted image 20231018145123.png",
     "计算机网络/assets/Pasted image 20231018145113.png",
@@ -194,7 +207,6 @@
     "计算机网络/assets/Pasted image 20231018105300.png",
     "计算机网络/assets/Pasted image 20231018104151.png",
     "日记/2023-10-17.md",
-    "日记/2023-10-16.md",
     "日记/2023-10-15.md",
     "杂项/Oceanbase/数据库存储结构.md",
     "Oceanbase/MiniOB框架.md",
