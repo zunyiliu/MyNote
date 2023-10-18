@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+                "file": "计算机网络/学习笔记/第六章.md"
               }
             }
           },
@@ -176,18 +175,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cfd8d5b234089343",
+  "active": "683cbc3dfc609dd3",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20231018101644.png",
     "计算机网络/学习笔记/第六章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
-    "Pasted image 20231018111727.png",
-    "Pasted image 20231018111333.png",
-    "Pasted image 20231018105300.png",
     "计算机网络/学习笔记/第五章.md",
-    "Pasted image 20231018104151.png",
-    "Pasted image 20231018104103.png",
-    "Pasted image 20231018102746.png",
-    "Pasted image 20231018101644.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/assets/Pasted image 20231018111727.png",
+    "计算机网络/assets/Pasted image 20231018111333.png",
+    "计算机网络/assets/Pasted image 20231018105300.png",
+    "计算机网络/assets/Pasted image 20231018104151.png",
+    "计算机网络/assets/Pasted image 20231018104103.png",
+    "计算机网络/assets/Pasted image 20231018102746.png",
     "Pasted image 20231018101604.png",
     "计算机网络/assets/Pasted image 20231018084436.png",
     "计算机网络/assets/Pasted image 20231018093214.png",
