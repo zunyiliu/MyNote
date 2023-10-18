@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
               }
             }
           },
@@ -175,18 +176,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "683cbc3dfc609dd3",
+  "active": "cfd8d5b234089343",
   "lastOpenFiles": [
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "Pasted image 20231018111727.png",
+    "Pasted image 20231018111333.png",
+    "Pasted image 20231018105300.png",
+    "计算机网络/学习笔记/第五章.md",
+    "Pasted image 20231018104151.png",
+    "Pasted image 20231018104103.png",
+    "Pasted image 20231018102746.png",
     "Pasted image 20231018101644.png",
     "Pasted image 20231018101604.png",
     "计算机网络/assets/Pasted image 20231018084436.png",
     "计算机网络/assets/Pasted image 20231018093214.png",
-    "计算机网络/assets/Pasted image 20231018092957.png",
-    "计算机网络/assets/Pasted image 20231018092753.png",
-    "计算机网络/assets/Pasted image 20231018090121.png",
-    "计算机网络/assets/Pasted image 20231018083825.png",
     "日记/2023-10-18.md",
     "日记/2023-10-17.md",
     "日记/2023-10-16.md",
@@ -215,13 +219,10 @@
     "杂项/2023三好学生答辩演讲稿.md",
     "杂项/wsl卡死无法启动.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
-    "计算机网络/assets/Pasted image 20231016102357.png",
-    "计算机网络/assets/Pasted image 20231016102341.png",
     "日记/2023-10-11.md",
     "日记/2023-10-10.md",
     "日记/2023-10-09.md",
     "日记/2023-10-08.md",
-    "日记/2023-10-12.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
