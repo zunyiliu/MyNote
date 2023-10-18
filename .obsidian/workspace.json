@@ -11,8 +11,12 @@
             "id": "8ee94f2fbac38490",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "杂项/软件工程.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "杂项/软件工程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "杂项/软件工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校资料/教材/计算机操作系统(第3版)课后习题答案.pdf"
+                "file": "杂项/软件工程.md"
               }
             }
           },
@@ -159,8 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "8ee94f2fbac38490",
   "lastOpenFiles": [
+    "杂项/软工项目README.md",
+    "杂项/软件工程.md",
+    "杂项/进程与线程.md",
+    "日记/2023-10-18.md",
+    "操作系统/学校资料/复习/操作系统练习题.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+    "操作系统/学校资料/教材/计算机操作系统(第3版)课后习题答案.pdf",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "计算机网络/学习笔记/第五章.md",
     "操作系统/学校资料/第3版习题答案/第9章习题及答案.doc",
@@ -169,11 +182,6 @@
     "操作系统/学校资料/第3版习题答案/第6章习题及答案.docx",
     "操作系统/学校资料/第3版习题答案/第5章习题及答案.doc",
     "操作系统/学校资料/第3版习题答案/第4章习题及答案.doc",
-    "操作系统/学校资料/第3版习题答案/第3章习题及答案.docx",
-    "操作系统/学校资料/第3版习题答案/第2章习题及答案.docx",
-    "操作系统/学校资料/第3版习题答案/第1章习题及答案.docx",
-    "操作系统/学校资料/第3版习题答案",
-    "日记/2023-10-18.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/assets/Pasted image 20231018145123.png",
     "计算机网络/assets/Pasted image 20231018145113.png",
@@ -192,14 +200,11 @@
     "Oceanbase/MiniOB框架.md",
     "Oceanbase/Oceanbase资源.md",
     "计算机网络/学习笔记/第四章.md",
-    "杂项/软件工程.md",
     "函数式编程/作业3.md",
     "函数式编程/课堂小测.md",
     "杂项/VScode C++环境配置.md",
-    "杂项/README.md",
     "杂项/python导出exe文件.md",
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
-    "杂项/进程与线程.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "杂项/wsl卡死无法启动.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
