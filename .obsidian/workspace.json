@@ -13,25 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-17.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f686200030f3e246",
+            "id": "cfd8d5b234089343",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-10-16.md",
-                "mode": "source",
-                "source": false
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-17.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-17.md",
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-17.md"
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
               }
             }
           },
@@ -177,10 +176,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "683cbc3dfc609dd3",
+  "active": "cfd8d5b234089343",
   "lastOpenFiles": [
-    "日记/2023-10-16.md",
+    "计算机网络/学习笔记/第六章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "Pasted image 20231018090121.png",
+    "Pasted image 20231018084436.png",
+    "Pasted image 20231018083825.png",
+    "日记/2023-10-18.md",
     "日记/2023-10-17.md",
+    "日记/2023-10-16.md",
     "日记/2023-10-15.md",
     "华为ICT/HCIA-Security/HCIA-Security V4.0 培训教材.pdf",
     "华为ICT/HCIA-Datacom/2.网络参考模型.pdf",
@@ -191,11 +196,9 @@
     "华为ICT/HCIA-Datacom/21.网络编程与自动化.pdf.crdownload",
     "华为ICT/HCIA-Datacom/20.SDN与NFV概述.pdf",
     "华为ICT/HCIA-Datacom/20.SDN与NFV概述.pdf.crdownload",
-    "华为ICT/HCIA-Datacom/19.IPv6基础.pdf",
     "杂项/Oceanbase/数据库存储结构.md",
     "Oceanbase/MiniOB框架.md",
     "Oceanbase/Oceanbase资源.md",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第四章.md",
     "杂项/软件工程.md",
     "函数式编程/作业3.md",
@@ -215,15 +218,11 @@
     "计算机网络/assets/Pasted image 20231016095558.png",
     "计算机网络/assets/Pasted image 20231016093930.png",
     "计算机网络/assets/Pasted image 20231016091843.png",
-    "计算机网络/assets/Pasted image 20231016085906.png",
-    "计算机网络/assets/Pasted image 20231016084359.png",
-    "计算机网络/assets/Pasted image 20231016083822.png",
     "日记/2023-10-11.md",
     "日记/2023-10-10.md",
     "日记/2023-10-09.md",
     "日记/2023-10-08.md",
     "日记/2023-10-12.md",
-    "日记/2023-10-04.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
