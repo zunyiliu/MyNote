@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51e799046428b5a4",
+        "id": "aaa9f1050ab930dc",
         "type": "tabs",
         "children": [
           {
-            "id": "2683e6f40c088b38",
+            "id": "458bdab25540493e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2683e6f40c088b38",
+  "active": "458bdab25540493e",
   "lastOpenFiles": [
+    "操作系统/学校笔记/课程介绍与绪论.md",
+    "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
+    "日记/2023-10-20.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/HCIA-Datacom/8.以太网链路聚合与交换机堆叠集群.pdf",
@@ -189,8 +192,6 @@
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
     "华为ICT/HCIA-Datacom/2.网络参考模型-Y.pdf",
-    "华为ICT/HCIA-Datacom/3.华为VRP系统-Y.pdf",
-    "日记/2023-10-20.md",
     "日记/2023-10-19.md",
     "日记/2023-10-16.md",
     "日记/2023-10-18.md",
