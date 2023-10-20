@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "556bf0106f036309",
+            "id": "4a91755957b74402",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf"
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置.pdf"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf",
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf",
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf"
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置.pdf"
               }
             }
           },
@@ -186,12 +186,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "556bf0106f036309",
+  "active": "4a91755957b74402",
   "lastOpenFiles": [
     "华为ICT/Datacom笔记/交换技术.md",
+    "华为ICT/HCIA-Datacom/6.VLAN原理与配置.pdf",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "Pasted image 20231020112745.png",
+    "Pasted image 20231020111146.png",
+    "Pasted image 20231020110826.png",
+    "Pasted image 20231020110800.png",
+    "Pasted image 20231020110708.png",
+    "华为ICT/HCIA-Datacom/4.网络层协议及IP编址.pdf",
     "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf",
     "华为ICT/assets/Pasted image 20231020102131.png",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/assets/Pasted image 20231020102947.png",
     "计算机网络/学习笔记/第六章.md",
     "华为ICT/assets/Pasted image 20231020102558.png",
@@ -203,14 +210,7 @@
     "计算机网络/assets/Pasted image 20231006105553.png",
     "华为ICT/HCIA-Datacom/2.网络参考模型.pdf",
     "华为ICT/HCIA-Datacom/3.华为VRP系统.pdf",
-    "华为ICT/assets/Pasted image 20231020095016.png",
-    "华为ICT/assets/Pasted image 20231020094515.png",
     "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf",
-    "华为ICT/assets/Pasted image 20231020094207.png",
-    "华为ICT/assets/Pasted image 20231020094050.png",
-    "Pasted image 20231020093951.png",
-    "华为ICT/assets",
-    "华为ICT/HCIA-Datacom/4.网络层协议及IP编址.pdf",
     "日记/2023-10-20.md",
     "日记/2023-10-19.md",
     "日记/2023-10-16.md",
