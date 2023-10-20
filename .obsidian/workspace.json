@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/Datacom笔记/数通基础知识.md",
+                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b67d4edee4a9003b",
+            "id": "556bf0106f036309",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf"
+                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf"
               }
             }
           },
           {
-            "id": "f6340b3d14cad4d8",
+            "id": "c307a08712a089d1",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf",
+                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf",
+                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf"
+                "file": "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf"
               }
             }
           },
@@ -186,38 +186,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b67d4edee4a9003b",
+  "active": "556bf0106f036309",
   "lastOpenFiles": [
-    "华为ICT/Datacom笔记/数通基础知识.md",
-    "Pasted image 20231020093600.png",
-    "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf",
-    "Pasted image 20231020093542.png",
+    "华为ICT/Datacom笔记/交换技术.md",
+    "华为ICT/HCIA-Datacom/5.以太网交换基础.pdf",
+    "华为ICT/assets/Pasted image 20231020102131.png",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/assets/Pasted image 20231020093459.png",
-    "Pasted image 20231020093438.png",
-    "华为ICT/assets",
-    "华为ICT/HCIA-Datacom/3.华为VRP系统.pdf",
+    "华为ICT/assets/Pasted image 20231020102947.png",
+    "计算机网络/学习笔记/第六章.md",
+    "华为ICT/assets/Pasted image 20231020102558.png",
+    "华为ICT/assets/Pasted image 20231020102150.png",
+    "华为ICT/Datacom笔记/数通基础知识.md",
+    "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+    "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
+    "计算机网络/assets/Pasted image 20231006105553.png",
     "华为ICT/HCIA-Datacom/2.网络参考模型.pdf",
+    "华为ICT/HCIA-Datacom/3.华为VRP系统.pdf",
+    "华为ICT/assets/Pasted image 20231020095016.png",
+    "华为ICT/assets/Pasted image 20231020094515.png",
+    "华为ICT/HCIA-Datacom/1.数据通信网络基础.pdf",
+    "华为ICT/assets/Pasted image 20231020094207.png",
+    "华为ICT/assets/Pasted image 20231020094050.png",
+    "Pasted image 20231020093951.png",
+    "华为ICT/assets",
     "华为ICT/HCIA-Datacom/4.网络层协议及IP编址.pdf",
-    "华为ICT/Datacom笔记",
-    "华为ICT/HCIA-Datacom/HCIA-Datacom V1.0 培训教材.pdf",
-    "华为ICT/HCIA-Datacom/9.IP路由基础.pdf",
-    "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
     "日记/2023-10-20.md",
     "日记/2023-10-19.md",
     "日记/2023-10-16.md",
     "日记/2023-10-18.md",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "杂项/软工项目README.md",
     "杂项/软件工程.md",
     "杂项/进程与线程.md",
-    "计算机网络/assets/Pasted image 20231018145123.png",
-    "计算机网络/assets/Pasted image 20231018145113.png",
-    "计算机网络/assets/Pasted image 20231018145042.png",
-    "计算机网络/assets/Pasted image 20231018144305.png",
-    "计算机网络/assets/Pasted image 20231018144249.png",
-    "计算机网络/assets/Pasted image 20231018101644.png",
     "日记/2023-10-17.md",
     "日记/2023-10-15.md",
     "杂项/Oceanbase/数据库存储结构.md",
@@ -232,7 +233,6 @@
     "杂项/2023三好学生答辩演讲稿.md",
     "杂项/wsl卡死无法启动.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
-    "日记/2023-10-11.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
