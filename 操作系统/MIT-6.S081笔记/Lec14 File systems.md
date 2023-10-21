@@ -227,3 +227,204 @@ struct dinode {
 - 字段`size`记录文件中内容的字节数
 - `addrs`数组记录保存文件内容的磁盘块的块号。
 
+内存inode如下，实际上就是磁盘inode的复制
+```C
+// in-memory copy of an inode  
+struct inode {        //这部分内容是内存中inode保存的  
+  uint dev;           // Device number  
+  uint inum;          // Inode number  
+  int ref;            // Reference count  
+  struct sleeplock lock; // protects everything below here  
+  int valid;          // inode has been read from disk?  
+  
+  short type;         // copy of disk inode->这部分内容都是copy过来的  
+  short major;  
+  short minor;  
+  short nlink;  
+  uint size;  
+  uint addrs[NDIRECT+1];  
+};
+```
+
+icache就是内存inode的数组
+```C
+struct {  
+  struct spinlock lock;  
+  struct inode inode[NINODE];  
+} icache;//显然icache就是内存inode的数组
+```
+
+## ialloc
+```C
+//为一个设备分配一个内存inode  
+struct inode*  
+ialloc(uint dev, short type)  
+{  
+  int inum;  
+  struct buf *bp;  
+  struct dinode *dip;  
+  
+  for(inum = 1; inum < sb.ninodes; inum++){  
+      //得到该inum对应的inode所在的块->一个块中有多个inode  
+    bp = bread(dev, IBLOCK(inum, sb));  
+    //得到该dinode  
+    dip = (struct dinode*)bp->data + inum%IPB;  
+    if(dip->type == 0){  // a free inode  
+      memset(dip, 0, sizeof(*dip));  
+      dip->type = type;  
+      log_write(bp);   // mark it allocated on the disk  
+      brelse(bp);  
+      return iget(dev, inum);//获得inum对应的内存inode  
+    }  
+    brelse(bp);  
+  }  
+  panic("ialloc: no inodes");  
+}
+```
+
+## iget()
+```C
+//查找编号为 inum 且设备号为 dev 的 inode 并返回内存副本。  
+static struct inode*  
+iget(uint dev, uint inum)  
+{  
+  struct inode *ip, *empty;  
+  
+  acquire(&icache.lock);  
+  
+  // Is the inode already cached?  
+  empty = 0;  
+  for(ip = &icache.inode[0]; ip < &icache.inode[NINODE]; ip++){  
+    if(ip->ref > 0 && ip->dev == dev && ip->inum == inum){  
+      ip->ref++;  
+      release(&icache.lock);  
+      return ip;  
+    }  
+    if(empty == 0 && ip->ref == 0)    // Remember empty slot.  
+      empty = ip;  
+  }  
+  
+  // Recycle an inode cache entry.  
+  if(empty == 0)  
+    panic("iget: no inodes");  
+  
+  ip = empty;  
+  ip->dev = dev;  
+  ip->inum = inum;  
+  ip->ref = 1;  
+  ip->valid = 0;  
+  release(&icache.lock);  
+  
+  return ip;  
+}
+```
+
+## iput()
+```C
+// 负责释放一个内存inode
+void  
+iput(struct inode *ip)  
+{  
+  acquire(&icache.lock);  
+  //释放这个内存inode  
+  if(ip->ref == 1 && ip->valid && ip->nlink == 0){  
+    // inode has no links and no other references: truncate and free.  
+  
+    // ip->ref == 1 means no other process can have ip locked,  
+    // so this acquiresleep() won't block (or deadlock).  
+    acquiresleep(&ip->lock);  
+  
+    release(&icache.lock);  
+  
+    itrunc(ip);  
+    ip->type = 0;  
+    iupdate(ip);  
+    ip->valid = 0;  
+  
+    releasesleep(&ip->lock);  
+  
+    acquire(&icache.lock);  
+  }  
+  
+  ip->ref--;  
+  release(&icache.lock);  
+}
+```
+
+## 辅助函数bmap
+以下是dinode中存储的块号数组。
+
+前面的`NDIRECT`个数据块被列在数组中的前`NDIRECT`个元素中，这些块称为直接块（direct blocks）。
+
+接下来的`NINDIRECT`个数据块不在inode中列出，而是在称为间接块（indirect block）的数据块中列出，`addrs`数组中的最后一个元素给出了间接块的地址。
+![[Pasted image 20231021111322.png]]
+
+bmap就是一个辅助函数：
+```C
+// 找到ip这个inode中块号为bn的块  
+static uint  
+bmap(struct inode *ip, uint bn)  
+{  
+  uint addr, *a;  
+  struct buf *bp;  
+  //如果是直接块，就直接返回  
+  if(bn < NDIRECT){  
+    if((addr = ip->addrs[bn]) == 0)  
+      ip->addrs[bn] = addr = balloc(ip->dev);  
+    return addr;  
+  }  
+  //否则就位于间接块中，这里先获取简介块中的序号  
+  bn -= NDIRECT;  
+  
+  if(bn < NINDIRECT){  
+    // Load indirect block, allocating if necessary.  
+    // 间接块相当于一个指针，其中的data存储了256个间接块的地址  
+    if((addr = ip->addrs[NDIRECT]) == 0)  
+      ip->addrs[NDIRECT] = addr = balloc(ip->dev);  
+    bp = bread(ip->dev, addr);  
+    a = (uint*)bp->data;  
+    // 这里获取到间接块，是直接用数组形式访问的  
+    if((addr = a[bn]) == 0){  
+      a[bn] = addr = balloc(ip->dev);  
+      log_write(bp);  
+    }  
+    brelse(bp);  
+    return addr;  
+  }  
+  
+  panic("bmap: out of range");  
+}
+```
+
+## readi与writei
+`Bmap`使`readi`和`writei`很容易获取inode的数据。这两个函数可以直接去看代码。
+
+# 目录层
+目录实际上就是特殊的inode，其`type`为`T_DIR`，其数据是一系列目录条目（directory entries）。每个条目（entry）都是一个`struct dirent`（**_kernel/fs.h_**:56），其中包含一个名称`name`和一个inode编号`inum`。名称最多为`DIRSIZ`（14）个字符；如果较短，则以`NUL`（0）字节终止。inode编号为零的条目是空的。
+
+条目结构如下：
+```C
+struct dirent {  
+  ushort inum;  
+  char name[DIRSIZ];  
+};
+```
+
+## dirlookup
+函数`dirlookup`（**_kernel/fs.c_**:527）在目录中搜索具有给定名称的条目。如果找到一个，它将返回一个指向相应inode的指针，解开锁定，并将`*poff`设置为目录中条目的字节偏移量，以满足调用方希望对其进行编辑的情形。
+
+# 路径名层
+路径名查找涉及一系列对`dirlookup`的调用，每个路径组件调用一个。
+
+`Namei`（**_kernel/fs.c_**:661）计算`path`并返回相应的inode。函数`nameiparent`是一个变体：它在最后一个元素之前停止，返回父目录的inode并将最后一个元素复制到`name`中。两者都调用通用函数`namex`来完成实际工作。
+
+这三个函数都直接看代码吧，感觉都比较细节，没有必要细看了。
+
+# 文件描述符层
+Unix界面的一个很酷的方面是，Unix中的大多数资源都表示为文件，包括控制台、管道等设备，当然还有真实文件。文件描述符层是实现这种一致性的层。
+
+每个打开的文件都由一个`struct file`（**_kernel/file.h_**:1）表示，它是inode或管道的封装，加上一个I/O偏移量。
+
+每次调用`open`都会创建一个新的打开文件（一个新的`struct file`）：如果多个进程独立地打开同一个文件，那么不同的实例将具有不同的I/O偏移量。
+
+系统中所有打开的文件都保存在全局文件表`ftable`中。文件表具有分配文件（`filealloc`）、创建重复引用（`filedup`）、释放引用（`fileclose`）以及读取和写入数据（`fileread`和`filewrite`）的函数。
