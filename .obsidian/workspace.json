@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
+                "file": "日记/2023-10-21.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a6f566a36058d3e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
+                "file": "日记/2023-10-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
+                "file": "日记/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md"
+                "file": "日记/2023-10-21.md"
               }
             }
           },
