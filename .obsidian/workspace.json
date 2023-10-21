@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-20.md",
+                "file": "日记/2023-10-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-20.md",
+                "file": "日记/2023-10-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-20.md",
+                "file": "日记/2023-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-20.md"
+                "file": "日记/2023-10-21.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "458bdab25540493e",
   "lastOpenFiles": [
+    "日记/2023-10-20.md",
+    "日记/2023-10-21.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
-    "日记/2023-10-20.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/HCIA-Datacom/8.以太网链路聚合与交换机堆叠集群.pdf",
@@ -212,7 +213,6 @@
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "杂项/wsl卡死无法启动.md",
-    "杂项/管理员模式运行cmd或Window Terminal.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
