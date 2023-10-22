@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16e47779c0742a5c",
+        "id": "1c26cca1ea1d6505",
         "type": "tabs",
         "children": [
           {
-            "id": "a528a13af6b094b1",
+            "id": "9ecb6929b06687ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,15 +157,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a528a13af6b094b1",
+  "active": "9ecb6929b06687ba",
   "lastOpenFiles": [
-    "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
-    "华为ICT/Datacom笔记/交换技术.md",
+    "计算机网络/学习笔记/第六章.md",
     "日记/2023-10-22.md",
+    "华为ICT/Datacom笔记/交换技术.md",
+    "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/学习笔记/第五章.md",
-    "计算机网络/学习笔记/第六章.md",
     "日记/2023-10-21.md",
     "华为ICT/HCIA-Datacom/4.网络层协议及IP编址-Y.pdf",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
@@ -183,7 +175,6 @@
     "华为ICT/HCIA-Datacom/13.AAA原理与配置.pdf",
     "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf",
     "华为ICT/HCIA-Datacom/11.OSPF基础.pdf",
-    "华为ICT/HCIA-Datacom/9.IP路由基础.pdf",
     "华为ICT/assets/Pasted image 20231022101323.png",
     "华为ICT/assets/Pasted image 20231022110621.png",
     "华为ICT/assets/Pasted image 20231022110535.png",
