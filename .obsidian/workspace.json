@@ -8,18 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ec36701ad561e88",
+            "id": "94c14147cc1d58bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-21.md",
+                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "15a41e056513ec48",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华为ICT/HCIA-Datacom/7.生成树.pdf"
+              }
+            }
+          },
+          {
+            "id": "4ec36701ad561e88",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-21.md",
+                "file": "华为ICT/HCIA-Datacom/7.生成树.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-21.md",
+                "file": "华为ICT/HCIA-Datacom/7.生成树.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-21.md"
+                "file": "华为ICT/HCIA-Datacom/7.生成树.pdf"
               }
             }
           },
@@ -165,13 +186,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ec36701ad561e88",
+  "active": "15a41e056513ec48",
   "lastOpenFiles": [
-    "日记/2023-10-16.md",
-    "日记/2023-10-21.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/HCIA-Datacom/8.以太网链路聚合-Y.pdf",
+    "华为ICT/HCIA-Datacom/7.生成树.pdf",
+    "计算机网络/学习笔记/第六章.md",
+    "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
+    "日记/2023-10-22.md",
+    "日记/2023-10-21.md",
+    "日记/2023-10-16.md",
+    "华为ICT/HCIA-Datacom/8.以太网链路聚合-Y.pdf",
     "华为ICT/assets/Pasted image 20231021120134.png",
     "华为ICT/assets/Pasted image 20231021121339.png",
     "华为ICT/assets/Pasted image 20231021121220.png",
@@ -193,11 +218,8 @@
     "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
     "华为ICT/HCIA-Datacom/4.网络层协议及IP编址.pdf",
     "华为ICT/HCIA-Datacom/5.以太网交换基础-Y.pdf",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
-    "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
-    "华为ICT/HCIA-Datacom/2.网络参考模型-Y.pdf",
     "日记/2023-10-19.md",
     "日记/2023-10-18.md",
     "计算机网络/学习笔记/第五章.md",
@@ -211,7 +233,6 @@
     "Oceanbase/Oceanbase资源.md",
     "计算机网络/学习笔记/第四章.md",
     "函数式编程/作业3.md",
-    "函数式编程/课堂小测.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
