@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee5989493ec5408a",
+        "id": "c1ee7bc048c1f552",
         "type": "tabs",
         "children": [
           {
-            "id": "e738503c523f8bc7",
+            "id": "d5f2c892c06e0549",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "97ced7d3603e0806",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/01-introduction.pdf"
               }
             }
           }
@@ -175,10 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e738503c523f8bc7",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "数据库/CMU15445实验文档",
     "数据库/CMU15445课件/01-introduction.pdf",
+    "数据库/assets/Pasted image 20231023163542.png",
+    "数据库/assets/Pasted image 20231023163744.png",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
+    "Pasted image 20231023164239.png",
+    "数据库/assets/Pasted image 20231023164137.png",
     "日记/2023-10-23.md",
     "数据库/Oceanbase/数据库存储结构.md",
     "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf",
@@ -198,10 +193,6 @@
     "Pasted image 20231023104525.png",
     "Pasted image 20231023104352.png",
     "计算机网络/学习笔记/第六章.md",
-    "Pasted image 20231023103320.png",
-    "华为ICT/assets/Pasted image 20231023103312.png",
-    "Pasted image 20231023103256.png",
-    "Pasted image 20231023103234.png",
     "计算机网络/学习笔记/第五章.md",
     "华为ICT/Datacom笔记/交换技术.md",
     "计算机网络/作业/第四+第五章.md",
