@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e738503c523f8bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "97ced7d3603e0806",
             "type": "leaf",
             "state": {
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/01-introduction.pdf",
+                "file": "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/01-introduction.pdf",
+                "file": "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/01-introduction.pdf"
+                "file": "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md"
               }
             }
           },
@@ -163,13 +175,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "97ced7d3603e0806",
+  "active": "e738503c523f8bc7",
   "lastOpenFiles": [
-    "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/CMU15445课件/01-introduction.pdf",
+    "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
+    "日记/2023-10-23.md",
+    "数据库/Oceanbase/数据库存储结构.md",
     "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf",
     "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf.crdownload",
-    "日记/2023-10-23.md",
     "数据库/CMU15445笔记",
     "数据库/CMU15445课件/01-introduction.pdf.crdownload",
     "数据库/CMU15445课件",
@@ -209,7 +222,6 @@
     "日记/2023-10-19.md",
     "日记/2023-10-18.md",
     "杂项/软工项目README.md",
-    "杂项/软件工程.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
