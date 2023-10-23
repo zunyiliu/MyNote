@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4496bfc4068a15d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/学习笔记/第五章.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bc47aad7204adc79",
             "type": "leaf",
             "state": {
@@ -32,16 +20,17 @@
             }
           },
           {
-            "id": "3424efe11fdb9eb7",
+            "id": "96f114ea4ccbca0f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/9.IP路由基础.pdf"
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md",
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md",
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第五章.md"
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
               }
             }
           },
@@ -187,27 +176,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4496bfc4068a15d1",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
     "华为ICT/Datacom笔记/路由技术.md",
-    "计算机网络/学习笔记/第五章.md",
-    "华为ICT/HCIA-Datacom/9.IP路由基础.pdf",
-    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
-    "Pasted image 20231023094744.png",
-    "华为ICT/assets/Pasted image 20231023094000.png",
-    "Pasted image 20231023093950.png",
-    "华为ICT/assets/Pasted image 20231023093731.png",
-    "华为ICT/assets/Pasted image 20231023093555.png",
-    "华为ICT/assets/Pasted image 20231023093312.png",
-    "华为ICT/assets/Pasted image 20231023093119.png",
-    "华为ICT/assets/Pasted image 20231023093047.png",
-    "Pasted image 20231023093038.png",
-    "华为ICT/Datacom笔记/交换技术.md",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "计算机网络/作业/第四+第五章.md",
-    "日记/2023-10-23.md",
-    "日记/2023-10-22.md",
+    "华为ICT/assets/Pasted image 20231023104609.png",
+    "Pasted image 20231023104525.png",
+    "Pasted image 20231023104352.png",
     "计算机网络/学习笔记/第六章.md",
+    "Pasted image 20231023103320.png",
+    "华为ICT/assets/Pasted image 20231023103312.png",
+    "Pasted image 20231023103256.png",
+    "Pasted image 20231023103234.png",
+    "华为ICT/assets/Pasted image 20231023102656.png",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "计算机网络/学习笔记/第五章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
+    "华为ICT/HCIA-Datacom/9.IP路由基础.pdf",
+    "日记/2023-10-23.md",
+    "计算机网络/assets/Pasted image 20231023095634.png",
+    "计算机网络/assets/Pasted image 20231023094744.png",
+    "华为ICT/Datacom笔记/交换技术.md",
+    "计算机网络/作业/第四+第五章.md",
+    "日记/2023-10-22.md",
     "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "日记/2023-10-21.md",
@@ -216,8 +207,6 @@
     "华为ICT/HCIA-Datacom/15.网络服务与应用.pdf",
     "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
     "华为ICT/HCIA-Datacom/13.AAA原理与配置.pdf",
-    "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf",
-    "华为ICT/assets/Pasted image 20231022101323.png",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记/第四章.md",
