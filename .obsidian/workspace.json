@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+                "file": "日记/2023-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+                "file": "日记/2023-10-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+                "file": "日记/2023-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md"
+                "file": "日记/2023-10-24.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "lastOpenFiles": [
     "日记/2023-10-24.md",
     "日记/2023-10-23.md",
+    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "数据库/CMU15445实验文档",
     "数据库/CMU15445课件/01-introduction.pdf",
     "数据库/assets/Pasted image 20231023163542.png",
@@ -204,7 +205,6 @@
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第一章.md",
     "日记/2023-10-16.md",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
