@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46295fa43989d89c",
+        "id": "93e2584640a6601e",
         "type": "tabs",
         "children": [
           {
-            "id": "e201c52841aca69d",
+            "id": "e88ae2209953ae9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
+                "file": "日记/2023-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
+                "file": "日记/2023-10-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
+                "file": "日记/2023-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md"
+                "file": "日记/2023-10-24.md"
               }
             }
           },
@@ -165,13 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e201c52841aca69d",
+  "active": "e88ae2209953ae9c",
   "lastOpenFiles": [
-    "Pasted image 20231024145808.png",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
-    "Pasted image 20231024143409.png",
-    "Pasted image 20231024143302.png",
+    "操作系统/assets/Pasted image 20231024145808.png",
+    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+    "操作系统/assets/Pasted image 20231024143409.png",
+    "操作系统/assets/Pasted image 20231024143302.png",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-10-24.md",
     "日记/2023-10-23.md",
@@ -195,7 +195,6 @@
     "华为ICT/assets/Pasted image 20231023112406.png",
     "华为ICT/assets/Pasted image 20231023112347.png",
     "华为ICT/assets/Pasted image 20231023112151.png",
-    "华为ICT/assets/Pasted image 20231023104609.png",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "华为ICT/Datacom笔记/交换技术.md",
