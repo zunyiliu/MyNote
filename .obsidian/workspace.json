@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1ee7bc048c1f552",
+        "id": "46295fa43989d89c",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f2c892c06e0549",
+            "id": "e201c52841aca69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-24.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-24.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-24.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-24.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md"
               }
             }
           },
@@ -165,11 +165,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5f2c892c06e0549",
+  "active": "e201c52841aca69d",
   "lastOpenFiles": [
+    "Pasted image 20231024145808.png",
+    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
+    "Pasted image 20231024143409.png",
+    "Pasted image 20231024143302.png",
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-10-24.md",
     "日记/2023-10-23.md",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "数据库/CMU15445实验文档",
     "数据库/CMU15445课件/01-introduction.pdf",
     "数据库/assets/Pasted image 20231023163542.png",
@@ -191,8 +196,6 @@
     "华为ICT/assets/Pasted image 20231023112347.png",
     "华为ICT/assets/Pasted image 20231023112151.png",
     "华为ICT/assets/Pasted image 20231023104609.png",
-    "Pasted image 20231023104525.png",
-    "Pasted image 20231023104352.png",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "华为ICT/Datacom笔记/交换技术.md",
@@ -207,12 +210,9 @@
     "日记/2023-10-16.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2023-10-20.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "日记/2023-10-19.md",
-    "日记/2023-10-18.md",
-    "杂项/软工项目README.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
