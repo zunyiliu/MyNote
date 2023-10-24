@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-23.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-23.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-23.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-23.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "d5f2c892c06e0549",
   "lastOpenFiles": [
+    "日记/2023-10-24.md",
     "日记/2023-10-23.md",
     "数据库/CMU15445实验文档",
     "数据库/CMU15445课件/01-introduction.pdf",
