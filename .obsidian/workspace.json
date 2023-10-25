@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "517d5e540f1742f0",
+        "id": "77c258108bdee109",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f3bab3b430663a",
+            "id": "4bcabc59e88feffa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf"
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf"
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
               }
             }
           },
@@ -163,12 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b1f3bab3b430663a",
+  "active": "4bcabc59e88feffa",
   "lastOpenFiles": [
+    "日记/2023-10-25.md",
+    "日记/2023-10-23.md",
     "华为ICT/HCIA-Datacom/HCIP-Datacom培训教材.pdf",
     "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
     "华为ICT/HCIA-Datacom/HCIP-Datacom-Core Technology V1.0 培训教材.pdf.crdownload",
-    "日记/2023-10-25.md",
     "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
     "TinyKv项目文档/project.md",
@@ -192,7 +195,6 @@
     "华为ICT/HCIA-Datacom/11.OSPF基础-Y.pdf",
     "华为ICT/assets/Pasted image 20231025100816.png",
     "华为ICT/assets/Pasted image 20231025100802.png",
-    "日记/2023-10-23.md",
     "日记/2023-10-24.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
@@ -201,7 +203,6 @@
     "数据库/CMU15445课件/01-introduction.pdf",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/Oceanbase/数据库存储结构.md",
-    "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-22.md",
