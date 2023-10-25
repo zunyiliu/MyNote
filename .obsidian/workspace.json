@@ -11,21 +11,19 @@
             "id": "a4b9717e342927dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "华为ICT/Datacom笔记/路由技术.md",
-                "mode": "source",
-                "source": false
+                "file": "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf"
               }
             }
           },
           {
-            "id": "1d63d0adfc92e592",
+            "id": "519100e023eaa30c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf"
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf",
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf",
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf"
+                "file": "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf"
               }
             }
           },
@@ -176,24 +174,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d63d0adfc92e592",
+  "active": "519100e023eaa30c",
   "lastOpenFiles": [
+    "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
+    "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
-    "华为ICT/HCIA-Datacom/12.ACL原理与配置.pdf",
+    "TinyKv项目文档/project.md",
+    "TinyKv项目文档/project2.md",
+    "TinyKv项目文档/project3.md",
+    "TinyKv项目文档/project4.md",
+    "TinyKv项目文档/TinyKv资源汇总.md",
     "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
+    "华为ICT/assets/Pasted image 20231025110437.png",
+    "华为ICT/HCIA-Datacom/12.ACL原理与配置-Y.pdf",
+    "华为ICT/assets/Pasted image 20231025112129.png",
+    "华为ICT/assets/Pasted image 20231025112114.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
+    "计算机网络/学习笔记/第六章.md",
+    "华为ICT/assets/Pasted image 20231025110654.png",
+    "华为ICT/assets/Pasted image 20231025110621.png",
+    "华为ICT/assets/Pasted image 20231025110516.png",
     "华为ICT/辅导视频主题.png",
     "华为ICT/assets/Pasted image 20231025094707.png",
     "华为ICT/HCIA-Datacom/11.OSPF基础-Y.pdf",
     "华为ICT/assets/Pasted image 20231025100816.png",
     "华为ICT/assets/Pasted image 20231025100802.png",
-    "华为ICT/assets/Pasted image 20231025100657.png",
-    "华为ICT/assets/Pasted image 20231025100643.png",
-    "华为ICT/assets/Pasted image 20231025095934.png",
-    "华为ICT/assets/Pasted image 20231025095913.png",
-    "华为ICT/assets/Pasted image 20231025095632.png",
-    "华为ICT/assets/Pasted image 20231025095621.png",
     "日记/2023-10-23.md",
     "日记/2023-10-25.md",
     "日记/2023-10-24.md",
@@ -207,8 +213,6 @@
     "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf",
     "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf.crdownload",
     "数据库/CMU15445笔记",
-    "数据库/CMU15445课件/01-introduction.pdf.crdownload",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-22.md",
@@ -218,11 +222,6 @@
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第一章.md",
-    "日记/2023-10-16.md",
-    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
-    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
-    "日记/2023-10-20.md",
-    "操作系统/学校笔记/课程介绍与绪论.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
