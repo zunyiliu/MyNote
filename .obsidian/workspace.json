@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c40d47d171319507",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+              }
+            }
           }
         ]
       }
@@ -167,14 +177,15 @@
   },
   "active": "e88ae2209953ae9c",
   "lastOpenFiles": [
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "日记/2023-10-24.md",
+    "日记/2023-10-23.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/assets/Pasted image 20231024145808.png",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/assets/Pasted image 20231024143409.png",
     "操作系统/assets/Pasted image 20231024143302.png",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
-    "日记/2023-10-24.md",
-    "日记/2023-10-23.md",
     "数据库/CMU15445实验文档",
     "数据库/CMU15445课件/01-introduction.pdf",
     "数据库/assets/Pasted image 20231023163542.png",
