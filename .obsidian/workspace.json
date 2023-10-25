@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e02ebef551f35735",
+        "id": "8a36c200f98acc79",
         "type": "tabs",
         "children": [
           {
-            "id": "62fa51a0250686d9",
+            "id": "66035f79436846e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf"
+                "file": "华为ICT/Datacom笔记/路由技术.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf"
+                "file": "华为ICT/Datacom笔记/路由技术.md"
               }
             }
           },
@@ -163,23 +165,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62fa51a0250686d9",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "华为ICT/Datacom笔记/路由技术.md",
+    "华为ICT/HCIA-Datacom/HCIP-Datacom培训教材.pdf",
+    "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
+    "华为ICT/Datacom笔记/数通基础知识.md",
+    "华为ICT/Datacom笔记/交换技术.md",
+    "华为ICT/assets/Pasted image 20231025184941.png",
+    "华为ICT/assets/Pasted image 20231025191345.png",
+    "华为ICT/assets/Pasted image 20231025190857.png",
+    "华为ICT/assets/Pasted image 20231025185425.png",
+    "华为ICT/assets/Pasted image 20231025185303.png",
+    "华为ICT/assets/Pasted image 20231025185102.png",
+    "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
+    "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-25.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "日记/2023-10-23.md",
-    "华为ICT/HCIA-Datacom/HCIP-Datacom培训教材.pdf",
-    "华为ICT/HCIA-Datacom/10.实现VLAN间通信.pdf",
     "华为ICT/HCIA-Datacom/HCIP-Datacom-Core Technology V1.0 培训教材.pdf.crdownload",
-    "华为ICT/HCIA-Datacom/6.VLAN原理与配置-Y.pdf",
-    "华为ICT/Datacom笔记/交换技术.md",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project4.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/assets/Pasted image 20231025110437.png",
     "华为ICT/HCIA-Datacom/12.ACL原理与配置-Y.pdf",
@@ -188,13 +198,7 @@
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
     "华为ICT/assets/Pasted image 20231025110654.png",
-    "华为ICT/assets/Pasted image 20231025110621.png",
-    "华为ICT/assets/Pasted image 20231025110516.png",
-    "华为ICT/辅导视频主题.png",
-    "华为ICT/assets/Pasted image 20231025094707.png",
     "华为ICT/HCIA-Datacom/11.OSPF基础-Y.pdf",
-    "华为ICT/assets/Pasted image 20231025100816.png",
-    "华为ICT/assets/Pasted image 20231025100802.png",
     "日记/2023-10-24.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
@@ -203,14 +207,11 @@
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/Oceanbase/数据库存储结构.md",
     "计算机网络/学习笔记/第五章.md",
-    "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-22.md",
-    "华为ICT/Datacom笔记/数通基础知识.md",
     "日记/2023-10-21.md",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记/第四章.md",
-    "计算机网络/学习笔记/第一章.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
