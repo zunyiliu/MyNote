@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6344332e3bd3f2",
+        "id": "223a3da951c7112b",
         "type": "tabs",
         "children": [
           {
-            "id": "55999f9949302d31",
+            "id": "fc6ed8237a095291",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-10-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2023-10-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2023-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2023-10-26.md"
+              }
             }
           },
           {
@@ -157,10 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55999f9949302d31",
+  "active": "fc6ed8237a095291",
   "lastOpenFiles": [
-    "日记/2023-10-23.md",
+    "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
+    "操作系统/学校资料/第3版习题答案/答案在doc文档中.md",
     "日记/2023-10-26.md",
+    "计算机网络/assets/IMG_20231026_190212.jpg",
+    "计算机网络/assets/IMG_20231026_190204.jpg",
+    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
+    "计算机网络/作业/第六章.md",
+    "计算机网络/hust课件/msoF23E.tmp",
+    "计算机网络/hust课件/msoAD36.tmp",
+    "计算机网络/hust课件/~$第6章 链路层和局域网（完整版）.pptx",
+    "计算机网络/hust课件/第6章 链路层和局域网（完整版）.pptx",
+    "计算机网络/hust课件/第6章 链路层和局域网（完整版）.tmp",
+    "日记/2023-10-23.md",
     "日记/2023-10-25.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
@@ -180,31 +199,20 @@
     "计算机网络/作业/第四+第五章.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
-    "华为ICT/HCIA-Datacom/HCIP-Datacom-Core Technology V1.0 培训教材.pdf.crdownload",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project4.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "华为ICT/assets/Pasted image 20231025110437.png",
-    "华为ICT/HCIA-Datacom/12.ACL原理与配置-Y.pdf",
-    "华为ICT/assets/Pasted image 20231025112129.png",
-    "华为ICT/assets/Pasted image 20231025112114.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
-    "华为ICT/HCIA-Datacom/11.OSPF基础-Y.pdf",
     "日记/2023-10-24.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
-    "数据库/CMU15445实验文档",
-    "数据库/CMU15445课件/01-introduction.pdf",
     "数据库/Oceanbase/数据库存储结构.md",
     "计算机网络/学习笔记/第五章.md",
     "日记/2023-10-22.md",
     "日记/2023-10-21.md",
-    "计算机网络/学习笔记/第三章.md",
-    "计算机网络/学习笔记/第二章.md",
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
