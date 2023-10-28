@@ -4,38 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b51b4f216c48ab0d",
+        "id": "ed8e4bbd6901871f",
         "type": "tabs",
         "children": [
           {
-            "id": "bda4c1f14288a3ec",
+            "id": "c4f84ff3c69457aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
+                "file": "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db9d61b4123a6ab7",
+            "id": "1767df8ab15dffde",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf"
-              }
-            }
-          },
-          {
-            "id": "13f28b3b05bce975",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+                "file": "数据库/CMU15445课件/02-modernsql.pdf"
               }
             }
           }
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
+                "file": "数据库/CMU15445课件/02-modernsql.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
+                "file": "数据库/CMU15445课件/02-modernsql.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf"
+                "file": "数据库/CMU15445课件/02-modernsql.pdf"
               }
             }
           },
@@ -186,13 +176,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "db9d61b4123a6ab7",
+  "active": "1767df8ab15dffde",
   "lastOpenFiles": [
+    "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
+    "数据库/CMU15445课件/02-modernsql.pdf",
+    "Pasted image 20231028134411.png",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
+    "华为ICT/HCIA-Datacom/17.广域网技术终稿-Y.pdf",
+    "华为ICT/Datacom笔记/广域网技术.md",
+    "华为ICT/assets/Pasted image 20231028125816.png",
     "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
+    "华为ICT/assets/Pasted image 20231028130032.png",
+    "华为ICT/HCIA-Datacom/18.网络管理与运维-Y.pdf",
+    "华为ICT/assets/Pasted image 20231028125947.png",
+    "华为ICT/assets/Pasted image 20231028125930.png",
+    "华为ICT/assets/Pasted image 20231028125836.png",
     "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
-    "华为ICT/HCIA-Datacom/17.广域网技术终稿.pdf",
     "华为ICT/HCIA-Datacom/21.网络编程与自动化-Y.pdf",
     "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/assets/Pasted image 20231028114015.png",
@@ -201,20 +200,13 @@
     "华为ICT/assets/Pasted image 20231028114224.png",
     "华为ICT/assets/Pasted image 20231028114135.png",
     "华为ICT/assets/Pasted image 20231028114128.png",
-    "华为ICT/assets/Pasted image 20231028114121.png",
-    "华为ICT/assets/Pasted image 20231028114050.png",
-    "华为ICT/assets/Pasted image 20231028104604.png",
     "华为ICT/Datacom笔记/IPv6技术.md",
     "华为ICT/HCIA-Datacom/19.IPv6基础-Y.pdf",
-    "华为ICT/assets/Pasted image 20231028112510.png",
-    "华为ICT/assets/Pasted image 20231028112444.png",
-    "华为ICT/assets/Pasted image 20231028112217.png",
     "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-28.md",
     "日记/2023-10-27.md",
     "日记/2023-10-23.md",
-    "数据库/CMU15445课件/02-modernsql.pdf",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/CMU15445课件/02-modernsql.pdf.crdownload",
     "操作系统/学校实验/环境配置.md",
@@ -231,8 +223,6 @@
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project4.md",
-    "TinyKv项目文档/TinyKv资源汇总.md",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
