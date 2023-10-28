@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-28.md",
+                "file": "计算机网络/作业/第四+第五章.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a50ffbb022e9f6fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-28.md",
+                "file": "计算机网络/作业/第四+第五章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-28.md",
+                "file": "计算机网络/作业/第四+第五章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-28.md"
+                "file": "计算机网络/作业/第四+第五章.md"
               }
             }
           },
@@ -177,9 +167,9 @@
   },
   "active": "2619a2cbe0b06324",
   "lastOpenFiles": [
+    "日记/2023-10-28.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "日记/2023-10-23.md",
-    "日记/2023-10-28.md",
     "日记/2023-10-27.md",
     "日记/2023-10-24.md",
     "华为ICT/assets/Pasted image 20231028164417.png",
