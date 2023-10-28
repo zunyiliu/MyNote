@@ -35,3 +35,16 @@ MySQL这个指令比较常见
 LIMIT 20 OFFSET 10相当于从第10个记录开始，返回20条记录
 
 # NESTED QUERY（嵌套查询）
+![[Pasted image 20231028145108.png]]
+
+![[Pasted image 20231028145208.png]]
+
+# WINDOW FUNCTION（窗口函数）
+![[Pasted image 20231028151335.png]]
+感觉就是一个简单的划分函数
+![[Pasted image 20231028151942.png]]
+
+# CTE（COMMON TABLE EXPRESSION）
+![[Pasted image 20231028152400.png]]
+比嵌套查询更清晰的一种方式，提前创建一个选好的临时表，在select语句中只需要引用这个临时表就行。
+

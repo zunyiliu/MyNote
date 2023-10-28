@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed8e4bbd6901871f",
+        "id": "645a63b186aa1883",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f84ff3c69457aa",
+            "id": "1c45a386c27f8c2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1767df8ab15dffde",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/02-modernsql.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/02-modernsql.pdf",
+                "file": "数据库/assets/Pasted image 20231028143757.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/02-modernsql.pdf",
+                "file": "数据库/assets/Pasted image 20231028143757.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/02-modernsql.pdf"
+                "file": "数据库/assets/Pasted image 20231028143757.png"
               }
             }
           },
@@ -176,23 +161,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1767df8ab15dffde",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/CMU15445课件/02-modernsql.pdf",
-    "Pasted image 20231028144606.png",
-    "Pasted image 20231028144137.png",
-    "Pasted image 20231028143757.png",
+    "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
+    "数据库/assets/Pasted image 20231028152400.png",
+    "数据库/assets/Pasted image 20231028151942.png",
+    "数据库/assets/Pasted image 20231028151335.png",
+    "数据库/assets/Pasted image 20231028145208.png",
+    "数据库/assets/Pasted image 20231028145108.png",
+    "数据库/assets/Pasted image 20231028144606.png",
+    "数据库/assets/Pasted image 20231028144137.png",
+    "数据库/assets/Pasted image 20231028143757.png",
     "数据库/assets/Pasted image 20231028134411.png",
     "数据库/assets/Pasted image 20231028140837.png",
-    "数据库/assets/Pasted image 20231028135838.png",
-    "数据库/assets/Pasted image 20231028135351.png",
-    "数据库/assets/Pasted image 20231028134842.png",
-    "数据库/assets/Pasted image 20231028134757.png",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/HCIA-Datacom/17.广域网技术终稿-Y.pdf",
     "华为ICT/Datacom笔记/广域网技术.md",
-    "华为ICT/assets/Pasted image 20231028125816.png",
     "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
     "华为ICT/HCIA-Datacom/18.网络管理与运维-Y.pdf",
     "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
