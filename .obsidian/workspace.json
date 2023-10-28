@@ -4,32 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7a620f1bfab00f44",
+        "id": "b51b4f216c48ab0d",
         "type": "tabs",
         "children": [
           {
-            "id": "40cfdabd5d00f9cc",
+            "id": "bda4c1f14288a3ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/Datacom笔记/IPv6技术.md",
+                "file": "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e8d6bf9ac2f2b9c7",
+            "id": "db9d61b4123a6ab7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/HCIA-Datacom/19.IPv6基础.pdf"
+                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Datacom笔记/IPv6技术.md",
+                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Datacom笔记/IPv6技术.md",
+                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Datacom笔记/IPv6技术.md"
+                "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf"
               }
             }
           },
@@ -175,42 +176,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40cfdabd5d00f9cc",
+  "active": "db9d61b4123a6ab7",
   "lastOpenFiles": [
-    "华为ICT/HCIA-Datacom/19.IPv6基础.pdf",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
+    "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
+    "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
+    "华为ICT/HCIA-Datacom/17.广域网技术终稿.pdf",
+    "华为ICT/HCIA-Datacom/21.网络编程与自动化-Y.pdf",
+    "华为ICT/Datacom笔记/路由技术.md",
+    "华为ICT/assets/Pasted image 20231028114015.png",
+    "华为ICT/Datacom笔记/网络安全技术.md",
+    "华为ICT/HCIA-Datacom/13.AAA原理与配置-Y.pdf",
+    "华为ICT/assets/Pasted image 20231028114224.png",
+    "华为ICT/assets/Pasted image 20231028114135.png",
+    "华为ICT/assets/Pasted image 20231028114128.png",
+    "华为ICT/assets/Pasted image 20231028114121.png",
+    "华为ICT/assets/Pasted image 20231028114050.png",
+    "华为ICT/assets/Pasted image 20231028104604.png",
     "华为ICT/Datacom笔记/IPv6技术.md",
-    "Pasted image 20231028104617.png",
-    "Pasted image 20231028104604.png",
+    "华为ICT/HCIA-Datacom/19.IPv6基础-Y.pdf",
+    "华为ICT/assets/Pasted image 20231028112510.png",
+    "华为ICT/assets/Pasted image 20231028112444.png",
+    "华为ICT/assets/Pasted image 20231028112217.png",
     "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-10-28.md",
     "日记/2023-10-27.md",
     "日记/2023-10-23.md",
-    "华为ICT/辅导视频主题.png",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "数据库/CMU15445课件/02-modernsql.pdf",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/CMU15445课件/02-modernsql.pdf.crdownload",
-    "数据库/CMU15445课件/数据库系统概念（中文第六版）.pdf",
     "操作系统/学校实验/环境配置.md",
-    "操作系统/学校实验",
-    "华为ICT/HCIA-Datacom/10.实现VLAN间通信-Y.pdf",
-    "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "日记/2023-10-26.md",
     "操作系统/学校资料/第3版习题答案/答案在doc文档中.md",
-    "计算机网络/assets/IMG_20231026_190212.jpg",
-    "计算机网络/assets/IMG_20231026_190204.jpg",
     "计算机网络/作业/第六章.md",
-    "计算机网络/hust课件/msoF23E.tmp",
     "日记/2023-10-25.md",
-    "华为ICT/Datacom笔记/路由技术.md",
-    "华为ICT/assets/Pasted image 20231025200620.png",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "华为ICT/Datacom笔记/交换技术.md",
-    "华为ICT/assets/Pasted image 20231025184941.png",
-    "华为ICT/assets/Pasted image 20231025191345.png",
-    "华为ICT/assets/Pasted image 20231025190857.png",
-    "华为ICT/assets/Pasted image 20231025185425.png",
     "计算机网络/作业/第四+第五章.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
@@ -220,8 +223,6 @@
     "TinyKv项目文档/project4.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "计算机网络/学习笔记/第六章.md",
-    "日记/2023-10-24.md",
-    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
