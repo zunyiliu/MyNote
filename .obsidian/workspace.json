@@ -28,6 +28,16 @@
                 "file": "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf"
               }
             }
+          },
+          {
+            "id": "13f28b3b05bce975",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -179,8 +189,8 @@
   "active": "db9d61b4123a6ab7",
   "lastOpenFiles": [
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
     "华为ICT/HCIA-Datacom/18.网络管理与运维.pdf",
+    "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
     "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
     "华为ICT/HCIA-Datacom/17.广域网技术终稿.pdf",
     "华为ICT/HCIA-Datacom/21.网络编程与自动化-Y.pdf",
