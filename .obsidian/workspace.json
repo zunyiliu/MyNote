@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "645a63b186aa1883",
+        "id": "f252352b22af66c8",
         "type": "tabs",
         "children": [
           {
-            "id": "1c45a386c27f8c2a",
+            "id": "81d935fec729d91a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "华为ICT/Datacom笔记/路由技术.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/assets/Pasted image 20231028143757.png",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/assets/Pasted image 20231028143757.png",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/assets/Pasted image 20231028143757.png"
+                "file": "华为ICT/Datacom笔记/路由技术.md"
               }
             }
           },
@@ -161,21 +165,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "81d935fec729d91a",
   "lastOpenFiles": [
+    "Pasted image 20231028164640.png",
+    "Pasted image 20231028164632.png",
+    "Pasted image 20231028164524.png",
+    "Pasted image 20231028164430.png",
+    "Pasted image 20231028164417.png",
+    "Pasted image 20231028164411.png",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "数据库/assets/Pasted image 20231028143757.png",
     "数据库/CMU15445课件/02-modernsql.pdf",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/assets/Pasted image 20231028152400.png",
     "数据库/assets/Pasted image 20231028151942.png",
     "数据库/assets/Pasted image 20231028151335.png",
     "数据库/assets/Pasted image 20231028145208.png",
-    "数据库/assets/Pasted image 20231028145108.png",
-    "数据库/assets/Pasted image 20231028144606.png",
-    "数据库/assets/Pasted image 20231028144137.png",
-    "数据库/assets/Pasted image 20231028143757.png",
-    "数据库/assets/Pasted image 20231028134411.png",
-    "数据库/assets/Pasted image 20231028140837.png",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/HCIA-Datacom/17.广域网技术终稿-Y.pdf",
     "华为ICT/Datacom笔记/广域网技术.md",
     "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
