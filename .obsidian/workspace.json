@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7c46a20ed9a03a",
+        "id": "543946c8fc4c67cc",
         "type": "tabs",
         "children": [
           {
-            "id": "ebec159ded50f1a9",
+            "id": "79c4238fcafa740c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab4：trap.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab4：trap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab4：trap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab4：trap.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,11 +157,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ebec159ded50f1a9",
+  "active": "79c4238fcafa740c",
   "lastOpenFiles": [
+    "日记/2023-10-29.md",
+    "日记/2023-10-28.md",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "日记/2023-10-29.md",
     "操作系统/学校实验/环境配置.md",
     "操作系统/学校实验/实验答案.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
@@ -207,7 +200,6 @@
     "华为ICT/assets/Pasted image 20231020093459.png",
     "华为ICT/assets/Pasted image 20231029095328.png",
     "华为ICT/assets/Pasted image 20231029102511.png",
-    "日记/2023-10-28.md",
     "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-23.md",
     "日记/2023-10-27.md",
