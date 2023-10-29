@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d81e027e786daaa",
+        "id": "9bbb17c642c78028",
         "type": "tabs",
         "children": [
           {
-            "id": "dd792ac9ecd07719",
+            "id": "2b01ffb3bc91eb6a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "华为ICT/HCIA-Security/HCIA-Security V4.0 培训教材.pdf"
-              }
-            }
-          },
-          {
-            "id": "85b8180198244c0e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+                "file": "日记/2023-10-29.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
+                "file": "日记/2023-10-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
+                "file": "日记/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+                "file": "日记/2023-10-29.md"
               }
             }
           },
@@ -174,12 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "85b8180198244c0e",
+  "active": "2b01ffb3bc91eb6a",
   "lastOpenFiles": [
-    "华为ICT/HCIA-Security/HCIA-Security V4.0 培训教材.pdf",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/HCIA-WLAN/HCIA-WLAN V3.0 培训教材.pdf",
-    "华为ICT/HCIA-Security/HCIA-Security V4.0 培训教材.pdf.crdownload",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/HCIA-WLAN/HCIP-WLAN V2.0 培训教材.pdf",
+    "华为ICT/辅导视频主题.png",
+    "华为ICT/HCIA-WLAN/HCIA-WLAN V3.0 培训教材.jpg",
+    "华为ICT/HCIA-WLAN/HCIA-WLAN V3.0 培训教材.png",
+    "华为ICT/HCIA-WLAN/HCIA-WLAN.pdf",
+    "华为ICT/HCIA-WLAN/HCIA-WLAN V3.0 培训教材.pdf.crdownload",
+    "华为ICT/HCIA-WLAN/HCIA-WLAN.pdf.crdownload",
+    "华为ICT/HCIA-WLAN/HCIP-WLAN V2.0 培训教材.pdf.crdownload",
+    "华为ICT/HCIA-Security/HCIP-Security V4.0 培训教材.pdf",
+    "华为ICT/HCIA-Security/HCIA-Security V4.0 培训教材.pdf",
+    "华为ICT/HCIA-Security/HCIP-Security V4.0 培训教材.pdf.crdownload",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
@@ -189,7 +189,6 @@
     "华为ICT/Datacom笔记/广域网技术.md",
     "华为ICT/assets/Pasted image 20231029111651.png",
     "华为ICT/assets/Pasted image 20231029112026.png",
-    "华为ICT/HCIA-Datacom/HCIP-Datacom培训教材.pdf",
     "华为ICT/assets/Pasted image 20231029111949.png",
     "华为ICT/assets/Pasted image 20231029111911.png",
     "TinyKv项目文档/project3.md",
@@ -201,22 +200,13 @@
     "华为ICT/assets/Pasted image 20231020093459.png",
     "华为ICT/assets/Pasted image 20231029095328.png",
     "华为ICT/assets/Pasted image 20231029102511.png",
-    "华为ICT/assets/Pasted image 20231029102451.png",
-    "华为ICT/assets/Pasted image 20231029100910.png",
-    "华为ICT/assets/Pasted image 20231029100809.png",
     "日记/2023-10-29.md",
     "日记/2023-10-28.md",
     "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-23.md",
     "日记/2023-10-27.md",
     "日记/2023-10-24.md",
-    "数据库/CMU15445课件/02-modernsql.pdf",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
-    "华为ICT/HCIA-Datacom/17.广域网技术终稿-Y.pdf",
-    "华为ICT/HCIA-Datacom/18.网络管理与运维-Y.pdf",
-    "华为ICT/HCIA-Datacom/14.网络地址转换.pdf",
-    "华为ICT/HCIA-Datacom/21.网络编程与自动化-Y.pdf",
-    "华为ICT/HCIA-Datacom/13.AAA原理与配置-Y.pdf",
     "计算机网络/学习笔记/第四章.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "操作系统/学校实验/环境配置.md",
