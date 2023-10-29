@@ -83,7 +83,7 @@ func (d *storeWorker) maybeCreatePeer(regionID uint64, msg *rspb.RaftMessage) (b
 
 ### Split
 Split用于一个region的容量超出阈值时，进行分裂操作，生成两个region。一方面这样可以进行更精细的处理，另一方面这样实现了并发性，提高了访问性能。
-![](project3/keyspace.png)
+![](keyspace.png)
 
 **Split触发**
 1. 与日志压缩类似，在onTick的onSplitRegionCheckTick()中会检查当前region是否满足split要求，如果满足就会发送一个SplitCheckTask到split_checker中。

@@ -5,7 +5,7 @@
   
 针对这两个问题，我们首先看一张图：
 
-![](project1/server.png)
+![](server.png)
 
 通过这张图我们可以知道本节需要实现的独立的存储引擎实际上就是`Engine`的一个`storage`接口，并增加对Engine的`Reader、Write、Start、Stop`。这一点也可以从代码中得出：
 ```GO

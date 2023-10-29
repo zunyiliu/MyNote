@@ -54,7 +54,7 @@ Raft算法论文可参考[Raft算法论文中文翻译](https://github.com/maemu
 
 ### Raft基础
 在Raft中，一个服务器只可能处于三种状态之一：领导者(Leader)、跟随者(Follower)、候选人(Candidate)。一个服务器集群中只会有一个Leader，负责接收客户端发来的指令日志，并将这些日志同步到其他Follower上，进而实现日志的一致性。当Leader无法工作时，就会有Follower成为Candidate，进行竞选，进而成为新的Leader。三种状态的切换如下：
-![](project2/raft-图4.png)
+![](raft-图4.png)
 
 ### 领导人选举
 Raft使用心跳机制来触发领导人选举，领导人每隔一段时间向跟随者发送心跳来维持自己的权威。一旦跟随者**选举超时**，它就会认为当前集群中没有领导人，就会触发选举。要开始选举，跟随者首先要转化为候选人，并自增任期，向各服务器发出请求投票的RPC。随后会有三种结果：
@@ -81,7 +81,7 @@ Raft使用心跳机制来触发领导人选举，领导人每隔一段时间向�
 * RawNode为Raft节点与上层的联系模块，用来接收上层传来的信息，将信息下传给 Raft 模块。同时还提供一些操作接口供上层使用。
 
 三者的关系可用下图表示(注：此图非本人创作)
-![](project2/raft关系图.png)
+![](raft关系图.png)
 
 ### RaftLog
 该模块主要在log.go文件中。
@@ -233,7 +233,7 @@ func (l *RaftLog) Term(i uint64) (uint64, error) {
 
 #### Msg的收发与处理
 Project2A到的消息处理如下图，主要为三种消息处理流程。MsgSnapshot、MsgTransferLeader、MsgTimeoutNow将分别在2C、3A中进行说明。注意，Project2A不用考虑消息如何在节点之间发送，若需要发送消息，只需要将消息推入raft结构中的msgs字段。
-![](project2/msg.png)
+![](msg.png)
 
 
 ##### MsgHup

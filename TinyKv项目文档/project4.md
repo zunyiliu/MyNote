@@ -25,7 +25,7 @@ TinyKV的事务设计遵循 Percolator；它是一个两阶段提交协议（2PC
 
 ## Project4A
 TinyKV使用三个列族（CF）：default用来保存用户值，lock用来存储锁，write用来记录变化。只使用 userkey 可以访问 lock CF；它存储一个序列化的 Lock 数据结构（在lock.go 中定义）。默认的 CF 使用 user key 和写入事务的开始时间戳进行访问；它只存储 user value。write CF 使用 user key 和写入事务的提交时间戳进行访问；它存储一个写入数据结构（在 write.go 中定义）。具体格式见下图：
-![](project4/key.drawio.png)
+![](key.drawio.png)
 
 user key 和时间戳被组合成一个编码的 key 。 key 的编码方式是编码后的 key 的升序首先是 user key（升序），然后是时间戳（降序）。这就保证了对编码后的 key 进行迭代时，会先给出最新的版本。
 

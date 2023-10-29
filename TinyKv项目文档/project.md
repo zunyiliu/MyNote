@@ -42,7 +42,7 @@ Region是TinyKv中一个非常重要的概念。前面提到TinyKv是一个巨�
 
 对于第二点，实际上就是Raft协议的具体实现，所有的读写都通过Leader进行，再有Leader复制给Follower。
 
-![./project/4_7d840f500e.png](./project/4_7d840f500e.png)
+![4_7d840f500e.png](4_7d840f500e.png)
 
 ## 调度
 ### 调度操作
