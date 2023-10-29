@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-                "mode": "source",
+                "file": "操作系统/学校实验/实验答案.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+                "file": "操作系统/学校实验/实验答案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+                "file": "操作系统/学校实验/实验答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md"
+                "file": "操作系统/学校实验/实验答案.md"
               }
             }
           },
@@ -167,9 +167,11 @@
   },
   "active": "016b616fd8c12f3d",
   "lastOpenFiles": [
+    "操作系统/学校实验/环境配置.md",
+    "操作系统/学校实验/实验答案.md",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "日记/2023-10-29.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
-    "操作系统/学校实验/环境配置.md",
     "华为ICT/HCIA-WLAN/HCIA-WLAN V3.0 培训教材.pdf",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/HCIA-WLAN/HCIP-WLAN V2.0 培训教材.pdf",
@@ -211,8 +213,6 @@
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "计算机网络/学习笔记/第四章.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
-    "日记/2023-10-26.md",
-    "操作系统/学校资料/第3版习题答案/答案在doc文档中.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
