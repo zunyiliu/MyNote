@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-29.md",
+                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-29.md",
+                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-29.md",
+                "file": "华为ICT/Datacom笔记/交换技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-29.md"
+                "file": "华为ICT/Datacom笔记/交换技术.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "2b01ffb3bc91eb6a",
   "lastOpenFiles": [
+    "日记/2023-10-29.md",
     "华为ICT/HCIA-WLAN/HCIA-WLAN V3.0 培训教材.pdf",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/HCIA-WLAN/HCIP-WLAN V2.0 培训教材.pdf",
@@ -200,7 +201,6 @@
     "华为ICT/assets/Pasted image 20231020093459.png",
     "华为ICT/assets/Pasted image 20231029095328.png",
     "华为ICT/assets/Pasted image 20231029102511.png",
-    "日记/2023-10-29.md",
     "日记/2023-10-28.md",
     "计算机网络/作业/第四+第五章.md",
     "日记/2023-10-23.md",
