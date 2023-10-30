@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d95ac05d8346d867",
+            "id": "7e3afef37c033da0",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/03-storage1.pdf",
+                "file": "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/03-storage1.pdf",
+                "file": "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/03-storage1.pdf"
+                "file": "数据库/CMU15445笔记/Lecture 03：Database Storage I.md"
               }
             }
           },
@@ -176,12 +175,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d95ac05d8346d867",
+  "active": "8a0fd094c0d1585c",
   "lastOpenFiles": [
-    "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
-    "Pasted image 20231030171851.png",
     "数据库/CMU15445课件/03-storage1.pdf",
+    "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
+    "Pasted image 20231030190246.png",
+    "Pasted image 20231030183927.png",
+    "Pasted image 20231030182327.png",
+    "数据库/assets/Pasted image 20231030182218.png",
     "日记/2023-10-30.md",
+    "数据库/assets/Pasted image 20231030171851.png",
     "操作系统/学校实验/实验答案.md",
     "华为ICT/Security笔记/安全通信.md",
     "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
@@ -197,10 +200,6 @@
     "华为ICT/assets/Pasted image 20231030093226.png",
     "华为ICT/assets/Pasted image 20231030093122.png",
     "华为ICT/assets/Pasted image 20231030093112.png",
-    "华为ICT/assets/Pasted image 20231030092934.png",
-    "华为ICT/assets/Pasted image 20231030092847.png",
-    "华为ICT/assets/Pasted image 20231030092747.png",
-    "华为ICT/assets/Pasted image 20231030092704.png",
     "华为ICT/Datacom资料/14.网络地址转换.pdf",
     "华为ICT/Security笔记",
     "日记/2023-10-23.md",
