@@ -11,13 +11,26 @@
             "id": "8a0fd094c0d1585c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d95ac05d8346d867",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "数据库/CMU15445课件/03-storage1.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +176,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "d95ac05d8346d867",
   "lastOpenFiles": [
+    "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
+    "Pasted image 20231030171851.png",
+    "数据库/CMU15445课件/03-storage1.pdf",
     "日记/2023-10-30.md",
     "操作系统/学校实验/实验答案.md",
     "华为ICT/Security笔记/安全通信.md",
@@ -185,7 +201,6 @@
     "华为ICT/assets/Pasted image 20231030092847.png",
     "华为ICT/assets/Pasted image 20231030092747.png",
     "华为ICT/assets/Pasted image 20231030092704.png",
-    "华为ICT/assets/Pasted image 20231030092640.png",
     "华为ICT/Datacom资料/14.网络地址转换.pdf",
     "华为ICT/Security笔记",
     "日记/2023-10-23.md",
@@ -201,7 +216,6 @@
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
-    "华为ICT/WLAN资料/HCIP-WLAN V2.0 培训教材.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
@@ -209,7 +223,6 @@
     "华为ICT/Datacom笔记/网络管理与网络编程自动化技术.md",
     "华为ICT/Datacom笔记/IPv6技术.md",
     "华为ICT/Datacom笔记/广域网技术.md",
-    "TinyKv项目文档/project3.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
