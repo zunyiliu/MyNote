@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/Security笔记/安全通信.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "423f582c45e48098",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+                "file": "操作系统/学校实验/环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+                "file": "操作系统/学校实验/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
+                "file": "操作系统/学校实验/环境配置.md"
               }
             }
           },
@@ -176,10 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "d659db98223dd9f1",
   "lastOpenFiles": [
-    "华为ICT/Security笔记/安全通信.md",
     "日记/2023-10-30.md",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/Security笔记/安全通信.md",
     "数据库/assets/Pasted image 20231030183927.png",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445课件/03-storage1.pdf",
@@ -199,7 +189,6 @@
     "函数式编程/课程报告/CS2105_U202115469_周楷.docx",
     "函数式编程/课程报告",
     "函数式编程/作业",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/Security笔记/信息安全.md",
     "华为ICT/Datacom资料/14.网络地址转换.pdf",
     "华为ICT/Security笔记",
