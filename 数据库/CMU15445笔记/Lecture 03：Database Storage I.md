@@ -48,8 +48,27 @@ page是固定大小的数据块：
 2. 操作系统页：这是操作系统文件系统的页
 3. 数据库页：数据库页大小不定，如果大于硬件页大小，我们就需要额外的手段保证我们每次写入或读出一个数据库页是原子性的
 
+## Heap File
+Heap File是一个无序的page集合，其中的tuple以随机顺序存储：
+- 如果一个数据库只有一个Heap File，那么显然我们只要有页面ID，我们就能轻松从Heap File中获取该页面
+- 如果一个数据库有多个Heap File，那么我们还面临在哪个Heap File中找到page的问题。
 
+我们需要设置特殊page，用于存储哪些Heap File存储了哪些内容，这就是directory。除此以外，这些directory还需要存储一些meta-data，用于管理page。
+![[Pasted image 20231030191830.png]]
 
 # Page Layout
+对于任何页面存储架构，我们现在都需要决定如何组织页面内部的数据。 
+
+最经典的组织架构：
+![[Pasted image 20231030194135.png]]
+每个槽（slot）将会追踪page存储的每一个tuple。每个tuple将会分配一个独立的id，通常就可以通过这个id得知该tuple在page中的存储位置。
+
+![[Pasted image 20231030194546.png]]
+在这个例子中，我们就可以查询一张表中每一个tuple对应的file、page、slot。可以看到删除其中一项后，slot并不会立即改变，如果执行“垃圾回收”功能，就可以看到slot前移，对应的tuple在page中也前移。
 
 # Tuple Layout
+tuple本质上是一个字节序列。数据库管理系统的工作就是将这些字节解释为属性类型和值。 
+
+![[Pasted image 20231030195631.png]]
+实际上就是每个tuple自己也会有一个header，用于解释这里边存了什么东西
+
