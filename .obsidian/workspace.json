@@ -23,9 +23,11 @@
             "id": "f184658baf970e6f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
+                "file": "日记/2023-10-30.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+                "file": "日记/2023-10-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+                "file": "日记/2023-10-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
+                "file": "日记/2023-10-30.md"
               }
             }
           },
@@ -179,8 +181,8 @@
   "active": "f184658baf970e6f",
   "lastOpenFiles": [
     "日记/2023-10-30.md",
-    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
     "华为ICT/Security笔记/安全通信.md",
+    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
     "函数式编程/课程报告/CS2105_U202115469_周楷.pdf",
     "函数式编程/作业/课堂小测.md",
     "函数式编程/课程报告/CS2105_U202115469_周楷.docx",
