@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/04-storage2.pdf",
+                "file": "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/04-storage2.pdf",
+                "file": "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/04-storage2.pdf"
+                "file": "数据库/CMU15445笔记/Lecture 04：Database Storage II.md"
               }
             }
           },
@@ -176,11 +175,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95aac1b11e642d91",
+  "active": "d3b40b9a7dc729e3",
   "lastOpenFiles": [
-    "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
-    "Pasted image 20231031191332.png",
+    "Pasted image 20231031202325.png",
     "数据库/CMU15445课件/04-storage2.pdf",
+    "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
+    "Pasted image 20231031202223.png",
+    "Pasted image 20231031194136.png",
+    "Pasted image 20231031194008.png",
+    "Pasted image 20231031193911.png",
+    "Pasted image 20231031191332.png",
     "Pasted image 20231031190850.png",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445课件/04-storage2.pdf.crdownload",
@@ -201,10 +205,6 @@
     "华为ICT/assets/Pasted image 20231031161137.png",
     "华为ICT/assets/Pasted image 20231031161658.png",
     "华为ICT/assets/Pasted image 20231031161351.png",
-    "华为ICT/assets/Pasted image 20231031151055.png",
-    "华为ICT/assets/Pasted image 20231031152522.png",
-    "华为ICT/assets/Pasted image 20231031152358.png",
-    "华为ICT/assets/Pasted image 20231031152338.png",
     "华为ICT/Security笔记/信息安全.md",
     "华为ICT/Security笔记/安全通信.md",
     "操作系统/学校实验/实验答案.md",
