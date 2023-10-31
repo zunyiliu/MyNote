@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce16cf7b88b1e137",
+            "id": "6e9e909e567ad5f8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf"
+                "file": "日记/2023-10-31.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2023-10-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2023-10-31.md"
+              }
             }
           },
           {
@@ -159,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "905f6fc649ee1e62",
+  "active": "6e9e909e567ad5f8",
   "lastOpenFiles": [
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
