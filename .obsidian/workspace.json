@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/assets/Pasted image 20231031105258.png",
+                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/assets/Pasted image 20231031105258.png",
+                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/assets/Pasted image 20231031105258.png"
+                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
               }
             }
           },
@@ -176,11 +176,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "8b07c6af667e7cdc",
   "lastOpenFiles": [
-    "华为ICT/Security笔记/VPN技术.md",
-    "华为ICT/assets/Pasted image 20231031110835.png",
+    "日记/2023-10-31.md",
     "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+    "华为ICT/Security笔记/VPN技术.md",
+    "日记/2023-10-30.md",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/assets/Pasted image 20231031105258.png",
+    "华为ICT/assets/Pasted image 20231031110835.png",
     "华为ICT/assets/Pasted image 20231031110746.png",
     "华为ICT/assets/Pasted image 20231031110659.png",
     "华为ICT/assets/Pasted image 20231031110456.png",
@@ -188,13 +192,9 @@
     "华为ICT/assets/Pasted image 20231031105425.png",
     "华为ICT/assets/Pasted image 20231031105357.png",
     "华为ICT/assets/Pasted image 20231031105318.png",
-    "华为ICT/assets/Pasted image 20231031105258.png",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/Security笔记/信息安全.md",
     "华为ICT/Security笔记/安全通信.md",
     "华为ICT/assets/Pasted image 20231031095720.png",
-    "日记/2023-10-31.md",
-    "日记/2023-10-30.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445课件/03-storage1.pdf",
     "操作系统/学校实验/实验答案.md",
