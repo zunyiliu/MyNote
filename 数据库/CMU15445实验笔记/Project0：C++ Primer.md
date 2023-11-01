@@ -54,3 +54,90 @@ class TrieNodeWithValue : public TrieNode {
 ```
 TrieNodeWithValue类是对TrieNode类的继承，新增了value_这个成员，表示最后节点的键值。
 
+# Trie 类
+```c++
+class Trie {  
+ private:  
+  /* Root node of the trie */  
+  std::unique_ptr<TrieNode> root_;  
+  /* Read-write lock for the trie */  
+  ReaderWriterLatch latch_;
+```
+Trie 类就是整个Trie数据结构的代表，这里包含一个TrieNode的根节点和一个读写锁。
+
+## 插入函数
+```C++
+template <typename T>  
+bool Insert(const std::string &key, T value) {  
+  if (key.empty()) {  
+    return false;  
+  }  
+  latch_.WLock();  
+  std::unique_ptr<TrieNode> *pt = &root_;  
+  for (uint64_t i = 0; i < key.size() - 1; i++) {  
+    if (!(*pt)->HasChild(key[i])) {  
+      pt = (*pt)->InsertChildNode(key[i], std::make_unique<TrieNode>(key[i]));  
+    } else {  
+      pt = (*pt)->GetChildNode(key[i]);  
+    }  
+  }  
+  
+  std::unique_ptr<TrieNode> *end_node = (*pt)->GetChildNode(key[key.size() - 1]);  
+  if (end_node != nullptr && end_node->get()->IsEndNode()) {  
+    latch_.WUnlock();  
+    return false;  
+  }  
+  if (end_node != nullptr) {  
+    auto new_node = new TrieNodeWithValue(std::move(**end_node), value);  
+    end_node->reset(new_node);  
+    latch_.WUnlock();  
+    return true;  
+  }  
+  
+  pt = (*pt)->InsertChildNode(key[key.size() - 1], std::make_unique<TrieNode>(key[key.size() - 1]));  
+  auto new_node = new TrieNodeWithValue(std::move(**pt), value);  
+  pt->reset(new_node);  
+  latch_.WUnlock();  
+  return true;  
+}
+```
+1. 先查找到最后一个char字符的父节点
+2. 判断子节点是否存在
+	- 如果已经存在，且是TrieNodeWithValue节点，直接返回false
+	- 如果已经存在，但不是TrieNodeWithValue节点，将其转化为TrieNodeWithValue节点
+3. 子节点不存在，就直接创建
+
+## 移除函数
+```c++
+bool Remove(const std::string &key) {  
+  if (key.empty()) {  
+    return false;  
+  }  
+  latch_.WLock();  
+  std::stack<std::pair<char, std::unique_ptr<TrieNode> *>> s;  
+  std::unique_ptr<TrieNode> *pt = &root_;  
+  for (char i : key) {  
+    if (!(*pt)->HasChild(i)) {  
+      latch_.WUnlock();  
+      return false;  
+    }  
+    s.push(make_pair(i, pt));  
+    pt = (*pt)->GetChildNode(i);  
+  }  
+  
+  while (!s.empty()) {  
+    auto nkey = s.top().first;  
+    auto node = s.top().second;  
+    pt = (*node)->GetChildNode(nkey);  
+    s.pop();  
+    if (pt != nullptr && (*pt)->HasChildren()) {  
+      continue;  
+    }  
+    (*node)->RemoveChildNode(nkey);  
+  }  
+  latch_.WUnlock();  
+  return true;  
+}
+```
+这里利用栈存储每个字符的父节点，然后依次判断能否递归删除。
+
