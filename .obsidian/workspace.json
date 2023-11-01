@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md",
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/学习笔记/第六章.md"
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf"
               }
             }
           },
@@ -176,8 +175,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a03d0866106dfabd",
+  "active": "e66edfd66694f4f8",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第六章.md",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/习题/第二章.md",
     "计算机网络/习题/第一章.md",
@@ -197,7 +197,6 @@
     "数据库/assets/Pasted image 20231031191332.png",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445课件/04-storage2.pdf.crdownload",
-    "计算机网络/学习笔记/第六章.md",
     "日记/2023-10/2023-10-30.md",
     "计算机网络/学习笔记/计算机网络-自顶向下方法第七版.pdf",
     "计算机网络/作业/第六章.md",
