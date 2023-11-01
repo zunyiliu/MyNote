@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e1568eecce2689f0",
+        "id": "d3d460c3e4d64ea9",
         "type": "tabs",
         "children": [
           {
-            "id": "13b45f1d4449c6c2",
+            "id": "e66edfd66694f4f8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf"
+              }
+            }
+          },
+          {
+            "id": "a03d0866106dfabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-10-31.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-10-31.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-10-31.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-10-31.md"
+                "file": "计算机网络/学习笔记/第六章.md"
               }
             }
           },
@@ -165,8 +176,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13b45f1d4449c6c2",
+  "active": "a03d0866106dfabd",
   "lastOpenFiles": [
+    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
+    "计算机网络/习题/第二章.md",
+    "计算机网络/习题/第一章.md",
+    "日记/2023-07/2023-07-31.md",
+    "日记/2023-10/2023-10-01.md",
+    "日记/2023-11-01.md",
+    "日记/2023-10",
+    "日记/2023-10/2023-10-31.md",
     "数据库/assets/Pasted image 20231031190850.png",
     "数据库/CMU15445课件/04-storage2.pdf",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
@@ -178,10 +197,8 @@
     "数据库/assets/Pasted image 20231031191332.png",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445课件/04-storage2.pdf.crdownload",
-    "日记/2023-10-31.md",
     "计算机网络/学习笔记/第六章.md",
-    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
-    "日记/2023-10-30.md",
+    "日记/2023-10/2023-10-30.md",
     "计算机网络/学习笔记/计算机网络-自顶向下方法第七版.pdf",
     "计算机网络/作业/第六章.md",
     "计算机网络/hust课件/msoA4B3.tmp",
@@ -190,7 +207,6 @@
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）.pptx",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）.tmp",
     "华为ICT/辅导视频主题.png",
-    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
     "华为ICT/Security笔记/VPN技术.md",
     "华为ICT/assets/Pasted image 20231031161137.png",
     "华为ICT/assets/Pasted image 20231031161658.png",
@@ -198,20 +214,15 @@
     "华为ICT/Security笔记/安全通信.md",
     "操作系统/学校实验/实验答案.md",
     "函数式编程/作业/课堂小测.md",
-    "日记/2023-10-23.md",
-    "日记/2023-10-22.md",
-    "日记/2023-10-26.md",
-    "日记/2023-10-25.md",
-    "日记/2023-10-24.md",
-    "日记/2023-10-28.md",
-    "日记/2023-10-29.md",
+    "日记/2023-10/2023-10-23.md",
+    "日记/2023-10/2023-10-22.md",
+    "日记/2023-10/2023-10-26.md",
+    "日记/2023-10/2023-10-25.md",
+    "日记/2023-10/2023-10-24.md",
+    "日记/2023-10/2023-10-28.md",
+    "日记/2023-10/2023-10-29.md",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "操作系统/学校实验/环境配置.md",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "操作系统/学校笔记/课程介绍与绪论.md",
-    "华为ICT/Datacom笔记/交换技术.md",
-    "华为ICT/Datacom笔记/路由技术.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
