@@ -38,3 +38,37 @@
 ![[Pasted image 20231102104015.png]]
 
 # WLAN组网架构
+## WLAN基本概念
+![[Pasted image 20231102144611.png]]
+
+![[Pasted image 20231102144627.png]]
+
+![[Pasted image 20231102144725.png]]
+
+## WLAN组网架构——FAT AP架构
+![[Pasted image 20231102144829.png]]
+
+## WLAN组网架构——AC+FIT AP架构
+![[Pasted image 20231102145013.png]]
+
+**组网：二层与三层组网**
+![[Pasted image 20231102145348.png]]
+
+**组网：直连组网和旁挂式组网**
+![[Pasted image 20231102145417.png]]
+
+**规划：VLAN规划**
+![[Pasted image 20231102145716.png]]
+
+**规划：IP地址规划**
+![[Pasted image 20231102150052.png]]
+
+**可靠性：AC可靠性**
+![[Pasted image 20231102150120.png]]
+
+**可靠性：业务可靠性**
+无
+
+## 其他架构
+![[Pasted image 20231102150236.png]]
+
