@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/WLAN笔记/WLAN基础业务.md",
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,19 +28,8 @@
                 "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf"
               }
             }
-          },
-          {
-            "id": "0a1d2e8ebd6153b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf"
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md"
               }
             }
           },
@@ -186,11 +175,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1ddbda0bbe804772",
+  "active": "7502e5a1e0e26f57",
   "lastOpenFiles": [
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
+    "华为ICT/WLAN笔记/WLAN高级特性.md",
+    "Pasted image 20231102104706.png",
+    "Pasted image 20231102104518.png",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
+    "华为ICT/assets/Pasted image 20231102104015.png",
+    "华为ICT/assets/Pasted image 20231102103956.png",
+    "操作系统/学校笔记/课程介绍与绪论.md",
+    "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
+    "操作系统/学校资料/操作系统课件/1-绪论.pdf",
+    "华为ICT/assets/Pasted image 20231102095819.png",
+    "华为ICT/assets/Pasted image 20231102101502.png",
+    "华为ICT/assets/Pasted image 20231102101345.png",
+    "华为ICT/assets/Pasted image 20231102101338.png",
+    "华为ICT/assets/Pasted image 20231102101216.png",
+    "Pasted image 20231102100919.png",
     "日记/2023-11-02.md",
     "华为ICT/WLAN笔记",
     "操作系统/学校实验/环境配置.md",
@@ -200,17 +203,7 @@
     "数据库/CMU15445实验笔记",
     "日记/2023-10/2023-10-30.md",
     "计算机网络/学习笔记/第七章.md",
-    "计算机网络/assets/Pasted image 20231101155050.png",
-    "计算机网络/assets/Pasted image 20231101155300.png",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
-    "计算机网络/assets/Pasted image 20231101154114.png",
-    "计算机网络/assets/Pasted image 20231101154437.png",
-    "计算机网络/assets/Pasted image 20231101154336.png",
-    "计算机网络/assets/Pasted image 20231101154305.png",
-    "计算机网络/assets/Pasted image 20231101154227.png",
-    "计算机网络/assets/Pasted image 20231101154214.png",
-    "计算机网络/assets/Pasted image 20231101154151.png",
-    "计算机网络/assets/Pasted image 20231101151559.png",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/习题/第二章.md",
     "计算机网络/习题/第一章.md",
@@ -221,8 +214,6 @@
     "数据库/CMU15445课件/04-storage2.pdf",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
-    "数据库/CMU15445课件/04-storage2.pdf.crdownload",
-    "计算机网络/学习笔记/计算机网络-自顶向下方法第七版.pdf",
     "计算机网络/作业/第六章.md",
     "华为ICT/Security笔记/VPN技术.md",
     "华为ICT/Security笔记/信息安全.md",
@@ -231,8 +222,6 @@
     "函数式编程/作业/课堂小测.md",
     "日记/2023-10/2023-10-23.md",
     "日记/2023-10/2023-10-22.md",
-    "日记/2023-10/2023-10-26.md",
-    "日记/2023-10/2023-10-25.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
