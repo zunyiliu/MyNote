@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a52003aa1529ee5d",
+        "id": "e767b40e7dcf1bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "7502e5a1e0e26f57",
+            "id": "fc2643e9067f9e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
+                "file": "华为ICT/WLAN笔记/WLAN基础业务.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ddbda0bbe804772",
+            "id": "e8eb97197bcd971a",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
+                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
+                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/WLAN笔记/WLAN高级特性.md"
+                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf"
               }
             }
           },
@@ -175,25 +176,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7502e5a1e0e26f57",
+  "active": "e8eb97197bcd971a",
   "lastOpenFiles": [
-    "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
-    "华为ICT/WLAN笔记/WLAN高级特性.md",
-    "Pasted image 20231102104706.png",
-    "Pasted image 20231102104518.png",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
-    "华为ICT/assets/Pasted image 20231102104015.png",
-    "华为ICT/assets/Pasted image 20231102103956.png",
+    "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/WLAN笔记/WLAN高级特性.md",
+    "华为ICT/assets/Pasted image 20231102104518.png",
+    "华为ICT/assets/Pasted image 20231102105404.png",
+    "华为ICT/assets/Pasted image 20231102105352.png",
+    "华为ICT/assets/Pasted image 20231102105340.png",
+    "华为ICT/assets/Pasted image 20231102105327.png",
+    "华为ICT/assets/Pasted image 20231102105314.png",
+    "华为ICT/assets/Pasted image 20231102105241.png",
+    "华为ICT/assets/Pasted image 20231102105228.png",
+    "华为ICT/assets/Pasted image 20231102105219.png",
+    "华为ICT/assets/Pasted image 20231102105200.png",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
     "操作系统/学校资料/操作系统课件/1-绪论.pdf",
-    "华为ICT/assets/Pasted image 20231102095819.png",
-    "华为ICT/assets/Pasted image 20231102101502.png",
-    "华为ICT/assets/Pasted image 20231102101345.png",
-    "华为ICT/assets/Pasted image 20231102101338.png",
-    "华为ICT/assets/Pasted image 20231102101216.png",
-    "Pasted image 20231102100919.png",
     "日记/2023-11-02.md",
     "华为ICT/WLAN笔记",
     "操作系统/学校实验/环境配置.md",
