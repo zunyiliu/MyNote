@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e0b5df3071ccc63",
+        "id": "92a30e5d7b5026db",
         "type": "tabs",
         "children": [
           {
-            "id": "225e3b7193b5f6b1",
+            "id": "2603c9720e171ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-02.md",
+                "file": "日记/2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-02.md",
+                "file": "日记/2023-11-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-02.md",
+                "file": "日记/2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-02.md"
+                "file": "日记/2023-11-03.md"
               }
             }
           },
@@ -165,11 +165,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "225e3b7193b5f6b1",
+  "active": "2603c9720e171ad6",
   "lastOpenFiles": [
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "日记/2023-11-02.md",
+    "日记/2023-11-03.md",
+    "日记/2023-08/2023-08-30.md",
+    "日记/2023-08/2023-08-29.md",
+    "日记/2023-08/2023-08-28.md",
+    "日记/2023-08/2023-08-27.md",
+    "日记/2023-08/2023-08-26.md",
     "日记/2023-10/2023-10-30.md",
+    "日记/2023-11-02.md",
     "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
     "华为ICT/assets/Pasted image 20231102144611.png",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
@@ -206,12 +212,6 @@
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "计算机网络/作业/第六章.md",
     "华为ICT/Security笔记/VPN技术.md",
-    "华为ICT/Security笔记/信息安全.md",
-    "华为ICT/Security笔记/安全通信.md",
-    "操作系统/学校实验/实验答案.md",
-    "函数式编程/作业/课堂小测.md",
-    "日记/2023-10/2023-10-23.md",
-    "日记/2023-10/2023-10-22.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
