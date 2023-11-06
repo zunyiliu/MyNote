@@ -11,8 +11,12 @@
             "id": "0efe3b2bae60ff7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-11-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
+                "file": "日记/2023-11-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
+                "file": "日记/2023-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf"
+                "file": "日记/2023-11-06.md"
               }
             }
           },
@@ -161,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "0efe3b2bae60ff7c",
   "lastOpenFiles": [
     "日记/2023-11-06.md",
     "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
