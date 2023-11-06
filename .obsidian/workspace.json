@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4ed0a7a80825e4",
+        "id": "a507d2ac41ec00cd",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6f1b2cd10e16f0",
+            "id": "0efe3b2bae60ff7c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf"
+              }
             }
           },
           {
@@ -157,12 +161,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f6f1b2cd10e16f0",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-11-06.md",
+    "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
+    "嵌入式系统",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/Datacom笔记/IPv6技术.md",
     "华为ICT/Datacom笔记/路由技术.md",
-    "日记/2023-11-06.md",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "华为ICT/Datacom资料/15.网络服务与应用.pdf",
@@ -198,8 +204,6 @@
     "华为ICT/WLAN笔记",
     "操作系统/学校实验/环境配置.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
-    "数据库/CMU15445课件/01-introduction.pdf",
-    "数据库/CMU15445实验笔记",
     "计算机网络/学习笔记/第七章.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/习题/第二章.md",
