@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2659fa221336703a",
+        "id": "ae3d3aabd4177b43",
         "type": "tabs",
         "children": [
           {
-            "id": "73b67eb9c363991e",
+            "id": "1d6e055f8daf6e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/题目笔记/Datacom题目笔记.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "863a8435103d49c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/Datacom资料/12.ACL原理与配置-Y.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/题目笔记/Datacom题目笔记.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/题目笔记/Datacom题目笔记.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/题目笔记/Datacom题目笔记.md"
+                "file": "操作系统/学校实验/环境配置.md"
               }
             }
           },
@@ -175,28 +165,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "73b67eb9c363991e",
+  "active": "1d6e055f8daf6e8d",
   "lastOpenFiles": [
-    "Pasted image 20231106200729.png",
+    "日记/2023-11-06.md",
+    "华为ICT/题目笔记/Datacom题目笔记.md",
+    "华为ICT/辅导视频主题.png",
+    "华为ICT/assets/Pasted image 20231106194225.png",
+    "华为ICT/assets/Pasted image 20231106200729.png",
     "Pasted image 20231106200713.png",
-    "Pasted image 20231106200644.png",
-    "Pasted image 20231106200550.png",
+    "华为ICT/assets/Pasted image 20231106200644.png",
+    "华为ICT/assets/Pasted image 20231106200550.png",
     "华为ICT/Datacom资料/12.ACL原理与配置-Y.pdf",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/Datacom资料/14.网络地址转换.pdf",
     "华为ICT/Datacom资料/3.华为VRP系统-Y.pdf",
-    "Pasted image 20231106194922.png",
+    "华为ICT/assets/Pasted image 20231106194922.png",
     "华为ICT/Datacom资料/17.广域网技术终稿-Y.pdf",
-    "Pasted image 20231106194326.png",
-    "Pasted image 20231106194242.png",
-    "Pasted image 20231106194235.png",
-    "Pasted image 20231106194225.png",
+    "华为ICT/assets/Pasted image 20231106194326.png",
+    "华为ICT/assets/Pasted image 20231106194242.png",
+    "华为ICT/assets/Pasted image 20231106194235.png",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/题目笔记",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
     "华为ICT/Datacom笔记/路由技术.md",
-    "日记/2023-11-06.md",
     "华为ICT/Datacom笔记/广域网技术.md",
     "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
     "嵌入式系统",
@@ -215,8 +206,6 @@
     "日记/2023-08/2023-08-26.md",
     "日记/2023-10/2023-10-30.md",
     "日记/2023-11-02.md",
-    "华为ICT/assets/Pasted image 20231102144611.png",
-    "华为ICT/assets/Pasted image 20231102150236.png",
     "华为ICT/WLAN笔记/WLAN高级特性.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "操作系统/学校实验/环境配置.md",
