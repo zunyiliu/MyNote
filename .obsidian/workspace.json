@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4c8c64814dbccda",
+            "id": "0ce3dead575e04e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md",
+                "file": "华为ICT/Datacom笔记/路由技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Datacom笔记/交换技术.md"
+                "file": "华为ICT/Datacom笔记/路由技术.md"
               }
             }
           },
@@ -175,9 +175,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d4c8c64814dbccda",
+  "active": "0ce3dead575e04e3",
   "lastOpenFiles": [
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "华为ICT/Datacom资料/15.网络服务与应用.pdf",
@@ -221,7 +222,6 @@
     "计算机网络/习题/第二章.md",
     "计算机网络/习题/第一章.md",
     "日记/2023-07/2023-07-31.md",
-    "日记/2023-10/2023-10-01.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
