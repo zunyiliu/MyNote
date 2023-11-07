@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-07.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-07.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-07.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-07.md"
+                "file": "操作系统/学校实验/环境配置.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "6923121fc7bb15b4",
   "lastOpenFiles": [
-    "日记/2023-11-06.md",
     "日记/2023-11-07.md",
+    "嵌入式系统/学校资料/1.第一讲.pdf",
+    "日记/2023-11-06.md",
     "数据库/CMU15445课件/02-modernsql.pdf",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
@@ -187,7 +188,6 @@
     "华为ICT/Security笔记/信息安全.md",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "嵌入式系统/学校资料/4.实验-2023树莓派.tmp",
-    "嵌入式系统/学校资料/1.第一讲.pdf",
     "嵌入式系统/学校资料/1.第一讲.ppt",
     "嵌入式系统/学校资料/1.第一讲.tmp",
     "嵌入式系统/学校资料",
