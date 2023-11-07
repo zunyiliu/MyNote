@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
+                "file": "数据库/CMU15445课件/05-storage3.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
+                "file": "数据库/CMU15445课件/05-storage3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md"
+                "file": "数据库/CMU15445课件/05-storage3.pdf"
               }
             }
           },
@@ -175,10 +176,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5165c3b09201466b",
+  "active": "ac1b54fc603d96fc",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/05-storage3.pdf",
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
+    "Pasted image 20231107155230.png",
+    "数据库/CMU15445课件/05-storage3.pdf",
+    "Pasted image 20231107155135.png",
+    "Pasted image 20231107155050.png",
     "Pasted image 20231107152011.png",
     "日记/2023-11-07.md",
     "华为ICT/Security笔记/VPN技术.md",
@@ -202,12 +206,9 @@
     "Pasted image 20231107100648.png",
     "华为ICT/assets/Pasted image 20231107100641.png",
     "华为ICT/assets/Pasted image 20231107100457.png",
-    "华为ICT/assets/Pasted image 20231107100443.png",
-    "华为ICT/assets/Pasted image 20231107093323.png",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
     "日记/2023-11-06.md",
     "操作系统/学校实验/环境配置.md",
-    "华为ICT/辅导视频主题.png",
     "华为ICT/Datacom笔记/路由技术.md",
     "华为ICT/Datacom笔记/IPv6技术.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
