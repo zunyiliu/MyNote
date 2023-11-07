@@ -19,6 +19,9 @@ RSTP的3种状态：Discarding、Learning、Forwarding
 
 ![[Pasted image 20231106200729.png]]
 
+边缘端口：
+![[Pasted image 20231107093323.png]]
+
 # MPLS
 标签总长度为4Byte
 
@@ -55,3 +58,8 @@ CAPWAP是基于UDP的
 
 CAPWAP的两种隧道：数据隧道、管理隧道
 
+AP发现AC的方式：
+- 静态方式
+- DHCP
+- DNS
+- 广播/多播
