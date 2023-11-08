@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "455a6ac4a109ddb8",
+        "id": "6dd3ded479abdc4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5109518b2bb40994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "华为ICT/Security笔记/安全通信.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "494703d67a535bea",
+            "id": "f182b9c6a341c464",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
+                "file": "数据库/CMU15445课件/06-bufferpool.pdf"
+              }
+            }
+          },
+          {
+            "id": "51681654c77716ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
+                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf"
               }
             }
           },
@@ -176,24 +174,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "494703d67a535bea",
+  "active": "51681654c77716ae",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/06-bufferpool.pdf",
+    "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
+    "日记/2023-11-08.md",
+    "数据库/CMU15445课件/06-bufferpool(翻译).pdf.crdownload",
+    "数据库/CMU15445课件/06-bufferpool.pdf.crdownload",
+    "华为ICT/assets/Pasted image 20231108114112.png",
+    "华为ICT/题目笔记/Security题目笔记.md",
+    "华为ICT/assets/Pasted image 20231108115012.png",
+    "华为ICT/assets/Pasted image 20231108115007.png",
+    "华为ICT/assets/Pasted image 20231108114926.png",
+    "华为ICT/assets/Pasted image 20231108114901.png",
+    "华为ICT/assets/Pasted image 20231108114842.png",
+    "华为ICT/assets/Pasted image 20231108114815.png",
+    "华为ICT/assets/Pasted image 20231108114619.png",
+    "华为ICT/Security笔记/VPN技术.md",
     "华为ICT/Security笔记/安全通信.md",
     "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
-    "Pasted image 20231108105426.png",
-    "Pasted image 20231108105348.png",
-    "Pasted image 20231108105315.png",
-    "Pasted image 20231108105149.png",
-    "华为ICT/assets/Pasted image 20231108094455.png",
-    "华为ICT/assets/Pasted image 20231108100030.png",
-    "华为ICT/assets/Pasted image 20231108100000.png",
-    "华为ICT/assets/Pasted image 20231108095530.png",
-    "华为ICT/assets/Pasted image 20231108094706.png",
+    "华为ICT/assets/Pasted image 20231108114443.png",
+    "华为ICT/assets/Pasted image 20231108114431.png",
+    "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
-    "华为ICT/assets/Pasted image 20231108092740.png",
     "华为ICT/Datacom资料/14.网络地址转换.pdf",
-    "华为ICT/Security笔记/VPN技术.md",
-    "日记/2023-11-08.md",
     "日记/2023-11-06.md",
     "华为ICT/Security笔记/信息安全.md",
     "日记/2023-11-07.md",
@@ -206,12 +210,7 @@
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/CMU15445课件/05-storage3.pdf",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.tmp",
-    "嵌入式系统/学校资料/1.第一讲.ppt",
     "华为ICT/Datacom笔记/交换技术.md",
-    "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/Datacom笔记/广域网技术.md",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
     "操作系统/学校实验/环境配置.md",
@@ -222,7 +221,6 @@
     "日记/2023-11-03.md",
     "日记/2023-08/2023-08-30.md",
     "日记/2023-08/2023-08-29.md",
-    "日记/2023-08/2023-08-28.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
