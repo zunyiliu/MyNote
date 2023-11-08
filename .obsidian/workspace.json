@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd3ded479abdc4b",
+        "id": "8e35d64593ec8974",
         "type": "tabs",
         "children": [
           {
-            "id": "f182b9c6a341c464",
+            "id": "faabe2943c1beafe",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -16,19 +16,8 @@
                 "file": "数据库/CMU15445课件/06-bufferpool.pdf"
               }
             }
-          },
-          {
-            "id": "51681654c77716ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
+                "file": "数据库/CMU15445课件/06-bufferpool.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
+                "file": "数据库/CMU15445课件/06-bufferpool.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/06-bufferpool(翻译).pdf"
+                "file": "数据库/CMU15445课件/06-bufferpool.pdf"
               }
             }
           },
@@ -174,11 +163,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51681654c77716ae",
+  "active": "faabe2943c1beafe",
   "lastOpenFiles": [
+    "日记/2023-11-08.md",
     "数据库/CMU15445课件/06-bufferpool.pdf",
     "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
-    "日记/2023-11-08.md",
     "数据库/CMU15445课件/06-bufferpool(翻译).pdf.crdownload",
     "数据库/CMU15445课件/06-bufferpool.pdf.crdownload",
     "华为ICT/assets/Pasted image 20231108114112.png",
