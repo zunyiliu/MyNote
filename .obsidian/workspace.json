@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/Security笔记/安全通信.md",
+                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/Security笔记/安全通信.md",
+                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/Security笔记/安全通信.md"
+                "file": "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf"
               }
             }
           },
@@ -175,22 +176,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5109518b2bb40994",
+  "active": "494703d67a535bea",
   "lastOpenFiles": [
-    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
     "华为ICT/Security笔记/安全通信.md",
-    "Pasted image 20231108100030.png",
-    "Pasted image 20231108100000.png",
-    "Pasted image 20231108095530.png",
-    "Pasted image 20231108094706.png",
-    "Pasted image 20231108094455.png",
+    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+    "Pasted image 20231108105426.png",
+    "Pasted image 20231108105348.png",
+    "Pasted image 20231108105315.png",
+    "Pasted image 20231108105149.png",
+    "华为ICT/assets/Pasted image 20231108094455.png",
+    "华为ICT/assets/Pasted image 20231108100030.png",
+    "华为ICT/assets/Pasted image 20231108100000.png",
+    "华为ICT/assets/Pasted image 20231108095530.png",
+    "华为ICT/assets/Pasted image 20231108094706.png",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "华为ICT/assets/Pasted image 20231108092740.png",
     "华为ICT/Datacom资料/14.网络地址转换.pdf",
-    "华为ICT/assets/Pasted image 20231108092924.png",
-    "华为ICT/assets/Pasted image 20231108092851.png",
-    "华为ICT/assets/Pasted image 20231108092826.png",
-    "华为ICT/assets/Pasted image 20231108092800.png",
     "华为ICT/Security笔记/VPN技术.md",
     "日记/2023-11-08.md",
     "日记/2023-11-06.md",
