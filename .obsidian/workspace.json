@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "476f0d94cec41bb5",
+        "id": "7936c9b837ac79ae",
         "type": "tabs",
         "children": [
           {
-            "id": "fa9c5c1b35cf553e",
+            "id": "62820834068434cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc1aca979523c5f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "华为ICT/WLAN笔记/WLAN高级特性.md"
+              }
             }
           },
           {
@@ -157,11 +175,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "62820834068434cc",
   "lastOpenFiles": [
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/WLAN笔记/WLAN高级特性.md",
+    "华为ICT/WLAN笔记/WLAN基础业务.md",
+    "日记/2023-11-08.md",
+    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
+    "可信软件开发（华为）/课件/面向对象设计方法.pdf",
+    "可信软件开发（华为）/课件/面向对象设计方法.pdf.crdownload",
+    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf.crdownload",
+    "可信软件开发（华为）/课件",
+    "可信软件开发（华为）",
     "杂项/软工项目README.md",
     "杂项/软件工程.md",
-    "日记/2023-11-08.md",
     "杂项/软工算法流程.md",
     "数据库/CMU15445课件/06-bufferpool(ppt).pdf",
     "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
@@ -170,15 +197,12 @@
     "数据库/assets/Pasted image 20231108164734.png",
     "数据库/assets/Pasted image 20231108163812.png",
     "数据库/CMU15445课件/06-bufferpool.pdf",
-    "数据库/CMU15445课件/06-bufferpool(ppt).pdf.crdownload",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
-    "数据库/CMU15445课件/06-bufferpool(翻译).pdf.crdownload",
-    "数据库/CMU15445课件/06-bufferpool.pdf.crdownload",
     "华为ICT/assets/Pasted image 20231108114112.png",
     "华为ICT/题目笔记/Security题目笔记.md",
     "华为ICT/assets/Pasted image 20231108115012.png",
@@ -189,22 +213,15 @@
     "华为ICT/assets/Pasted image 20231108114815.png",
     "华为ICT/Security笔记/VPN技术.md",
     "华为ICT/Security笔记/安全通信.md",
-    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
     "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
-    "华为ICT/Datacom资料/14.网络地址转换.pdf",
     "日记/2023-11-06.md",
     "华为ICT/Security笔记/信息安全.md",
     "日记/2023-11-07.md",
-    "嵌入式系统/嵌入式系统 课程大纲（2021版）.pdf",
-    "嵌入式系统/学校资料/1.第一讲.pdf",
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/Datacom笔记/广域网技术.md",
-    "华为ICT/WLAN笔记/WLAN基础业务.md",
     "操作系统/学校实验/环境配置.md",
     "华为ICT/Datacom笔记/路由技术.md",
-    "华为ICT/Datacom笔记/IPv6技术.md",
-    "日记/2023-11-05.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
