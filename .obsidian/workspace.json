@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7936c9b837ac79ae",
+        "id": "b8cb7bc3b5cb0c06",
         "type": "tabs",
         "children": [
           {
-            "id": "71bd9602e0e2e940",
+            "id": "fb2912025a64efaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "华为ICT/WLAN笔记/WLAN安全.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3dc76a4b01c7ed5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -176,26 +157,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b3dc76a4b01c7ed5",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-11-09.md",
+    "华为ICT/题目笔记/Security题目笔记.md",
+    "华为ICT/题目笔记/Datacom题目笔记.md",
+    "华为ICT/WLAN笔记/WLAN高级特性.md",
+    "计算机网络/学习笔记/第七章.md",
+    "华为ICT/WLAN笔记/WLAN基础业务.md",
     "华为ICT/WLAN笔记/WLAN安全.md",
     "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
-    "Pasted image 20231109095910.png",
-    "Pasted image 20231109095838.png",
-    "Pasted image 20231109095752.png",
-    "Pasted image 20231109095358.png",
-    "Pasted image 20231109095113.png",
-    "Pasted image 20231109094917.png",
+    "华为ICT/assets/Pasted image 20231109101411.png",
+    "华为ICT/assets/Pasted image 20231109101559.png",
+    "华为ICT/assets/Pasted image 20231109101547.png",
+    "华为ICT/assets/Pasted image 20231109101533.png",
+    "华为ICT/assets/Pasted image 20231109101520.png",
+    "华为ICT/assets/Pasted image 20231109094917.png",
+    "华为ICT/assets/Pasted image 20231109095910.png",
+    "华为ICT/assets/Pasted image 20231109095838.png",
+    "华为ICT/assets/Pasted image 20231109095752.png",
+    "华为ICT/assets/Pasted image 20231109095358.png",
     "华为ICT/Security笔记/安全通信.md",
     "华为ICT/Security笔记/信息安全.md",
     "华为ICT/Security笔记/VPN技术.md",
-    "华为ICT/WLAN笔记/WLAN基础业务.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/辅导视频主题.png",
-    "日记/2023-11-09.md",
     "日记/2023-11-06.md",
     "日记/2023-11-08.md",
-    "华为ICT/WLAN笔记/WLAN高级特性.md",
     "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
     "可信软件开发（华为）/课件/面向对象设计方法.pdf",
     "可信软件开发（华为）/课件/面向对象设计方法.pdf.crdownload",
@@ -207,18 +194,13 @@
     "杂项/软工算法流程.md",
     "数据库/CMU15445课件/06-bufferpool(ppt).pdf",
     "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
-    "数据库/assets/Pasted image 20231108163453.png",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
-    "数据库/assets/Pasted image 20231108164734.png",
-    "数据库/assets/Pasted image 20231108163812.png",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
-    "华为ICT/题目笔记/Security题目笔记.md",
-    "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
     "日记/2023-11-07.md",
     "华为ICT/Datacom笔记/交换技术.md",
