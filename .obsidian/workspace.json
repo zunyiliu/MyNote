@@ -8,14 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb2912025a64efaa",
+            "id": "d21efaeeb4ef2ec2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "华为ICT/题目笔记/Security题目笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a126563993a3fce5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+              }
             }
           },
           {
@@ -157,10 +176,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "a126563993a3fce5",
   "lastOpenFiles": [
     "日记/2023-11-09.md",
     "华为ICT/题目笔记/Security题目笔记.md",
+    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
+    "华为ICT/Security笔记/信息安全.md",
+    "华为ICT/Security笔记/安全通信.md",
+    "华为ICT/考试大纲-实践赛网络赛道.pdf",
+    "华为ICT/Security笔记/VPN技术.md",
     "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/WLAN笔记/WLAN高级特性.md",
     "计算机网络/学习笔记/第七章.md",
@@ -177,10 +201,6 @@
     "华为ICT/assets/Pasted image 20231109095838.png",
     "华为ICT/assets/Pasted image 20231109095752.png",
     "华为ICT/assets/Pasted image 20231109095358.png",
-    "华为ICT/Security笔记/安全通信.md",
-    "华为ICT/Security笔记/信息安全.md",
-    "华为ICT/Security笔记/VPN技术.md",
-    "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "日记/2023-11-06.md",
     "日记/2023-11-08.md",
     "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
@@ -193,7 +213,6 @@
     "杂项/软件工程.md",
     "杂项/软工算法流程.md",
     "数据库/CMU15445课件/06-bufferpool(ppt).pdf",
-    "数据库/CMU15445课件/06-bufferpool(翻译).pdf",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
@@ -204,7 +223,6 @@
     "华为ICT/Datacom笔记/数通基础知识.md",
     "日记/2023-11-07.md",
     "华为ICT/Datacom笔记/交换技术.md",
-    "华为ICT/Datacom笔记/广域网技术.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
