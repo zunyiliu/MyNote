@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a126563993a3fce5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
+                "file": "日记/2023-11-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf",
+                "file": "日记/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华为ICT/考试大纲-实践赛网络赛道.pdf"
+                "file": "日记/2023-11-09.md"
               }
             }
           },
@@ -176,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a126563993a3fce5",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
     "日记/2023-08/2023-08-27.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
