@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-09.md",
+                "file": "杂项/软工演示流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-09.md",
+                "file": "杂项/软工演示流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-09.md",
+                "file": "杂项/软工演示流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-09.md"
+                "file": "杂项/软工演示流程.md"
               }
             }
           },
@@ -165,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "d21efaeeb4ef2ec2",
   "lastOpenFiles": [
-    "日记/2023-11-06.md",
     "日记/2023-11-09.md",
+    "日记/2023-11-06.md",
     "日记/2023-08/2023-08-27.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
     "华为ICT/Security笔记/安全通信.md",
