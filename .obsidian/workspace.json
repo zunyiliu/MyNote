@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2023-11-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2023-11-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2023-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md"
+                "file": "日记/2023-11-10.md"
               }
             }
           },
@@ -167,7 +167,12 @@
   },
   "active": "5a84245141df3179",
   "lastOpenFiles": [
+    "嵌入式系统/实验笔记/香橙派.md",
     "日记/2023-11-10.md",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "嵌入式系统/assets",
+    "嵌入式系统/assets/Pasted image 20231110143044.png",
+    "嵌入式系统/实验笔记",
     "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/assets/Pasted image 20231110110146.png",
     "华为ICT/assets/Pasted image 20231110110122.png",
@@ -200,18 +205,13 @@
     "华为ICT/assets/Pasted image 20231109101533.png",
     "华为ICT/assets/Pasted image 20231109101520.png",
     "华为ICT/assets/Pasted image 20231109094917.png",
-    "华为ICT/assets/Pasted image 20231109095910.png",
     "日记/2023-11-08.md",
     "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
     "可信软件开发（华为）/课件/面向对象设计方法.pdf",
     "可信软件开发（华为）/课件/面向对象设计方法.pdf.crdownload",
     "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf.crdownload",
-    "可信软件开发（华为）/课件",
-    "可信软件开发（华为）",
     "杂项/软工项目README.md",
     "杂项/软件工程.md",
-    "数据库/CMU15445课件/06-bufferpool(ppt).pdf",
-    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
