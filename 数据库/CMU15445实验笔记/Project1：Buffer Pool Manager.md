@@ -93,4 +93,27 @@ auto ExtendibleHashTable<K, V>::RedistributeBucket(std::shared_ptr<Bucket> bucke
   }  
 }
 ```
-这一步我们先找到这两个Bucket原理啊d
+这一步我们先找到这两个Bucket原来的低depth位，然后根据新的一位来区分每个元素，并将它们划分到两个Bucket中。
+
+接着遍历Directory，将原来链接到该Bucket的dir重新判断并链接。
+
+**易错点**
+numBucket是目前创建的Bucket的数量，而不是Directory的大小，Directory的大小是$2^{GlobalDepth}$
+
+
+# 任务2-LRU-K 替换策略
+## 数据结构
+```C++
+size_t current_timestamp_{0};  
+size_t curr_size_{0};  
+size_t replacer_size_;  
+size_t k_;  
+std::mutex latch_;  
+  
+std::unordered_map<frame_id_t, std::deque<size_t>> buf_{};  
+std::unordered_map<frame_id_t, bool> st_{};
+```
+- current_timestamp_：LRUKReplacer自带的时间戳，用整数表示
+- curr_size_：LRUKReplacer的evictable frame的数量，初始为0
+- repalcer_size_：LRUKReplacer的大小，填入的frame_id不能大于等于该大小
+- k_：表示k的大小
