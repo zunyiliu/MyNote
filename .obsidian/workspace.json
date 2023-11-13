@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d6cd4fc9d92d69",
+        "id": "c11ef55af15fa6f2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a84245141df3179",
+            "id": "e424dd81b08400fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5de96ce2f469a9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-11-06.md",
+                "file": "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-06.md",
+                "file": "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-06.md",
+                "file": "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-06.md"
+                "file": "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md"
               }
             }
           },
@@ -178,14 +165,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5de96ce2f469a9ea",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "CSAPP/资料",
+    "数据库/assets/Pasted image 20231113163508.png",
+    "日记/2023-11-13.md",
+    "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
+    "日记/2023-11-12.md",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
     "日记/2023-11-11.md",
+    "日记/2023-11-10.md",
+    "日记/2023-11-09.md",
+    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
+    "可信软件开发（华为）/课件/面向对象设计方法.pdf",
+    "CSAPP/深入理解计算机系统（第三版）.pdf.baiduyun.p.downloading",
+    "CSAPP",
+    "新建文件夹",
+    "日记/2023-10/2023-11-12.md",
+    "计算机网络/学习笔记/第三章.md",
+    "计算机网络/学习笔记/第二章.md",
     "日记/2023-11-06.md",
     "日记/2023-11-07.md",
-    "日记/2023-11-10.md",
     "嵌入式系统/实验笔记/香橙派.md",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "嵌入式系统/assets",
     "嵌入式系统/assets/Pasted image 20231110143044.png",
     "嵌入式系统/实验笔记",
@@ -204,28 +206,13 @@
     "华为ICT/Security笔记/VPN技术.md",
     "华为ICT/Security笔记/安全通信.md",
     "华为ICT/Datacom笔记/数通基础知识.md",
-    "日记/2023-11-09.md",
     "杂项/软工演示流程.md",
-    "日记/2023-08/2023-08-27.md",
     "华为ICT/考试大纲-实践赛网络赛道.pdf",
-    "华为ICT/题目笔记/Security题目笔记.md",
-    "华为ICT/Security资料/HCIA-Security V4.0 培训教材.pdf",
-    "华为ICT/Security笔记/信息安全.md",
-    "计算机网络/学习笔记/第七章.md",
-    "华为ICT/WLAN笔记/WLAN安全.md",
-    "华为ICT/WLAN资料/HCIA-WLAN V3.0 培训教材.pdf",
     "华为ICT/assets/Pasted image 20231109101411.png",
     "华为ICT/assets/Pasted image 20231109101559.png",
     "华为ICT/assets/Pasted image 20231109101547.png",
     "华为ICT/assets/Pasted image 20231109101533.png",
     "华为ICT/assets/Pasted image 20231109101520.png",
-    "华为ICT/assets/Pasted image 20231109094917.png",
-    "日记/2023-11-08.md",
-    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
-    "可信软件开发（华为）/课件/面向对象设计方法.pdf",
-    "可信软件开发（华为）/课件/面向对象设计方法.pdf.crdownload",
-    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf.crdownload",
-    "杂项/软工项目README.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
