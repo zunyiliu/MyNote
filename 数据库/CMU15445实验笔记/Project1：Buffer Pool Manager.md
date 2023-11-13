@@ -110,10 +110,72 @@ size_t replacer_size_;
 size_t k_;  
 std::mutex latch_;  
   
-std::unordered_map<frame_id_t, std::deque<size_t>> buf_{};  
-std::unordered_map<frame_id_t, bool> st_{};
+std::deque<size_t> *buf_;  
+bool *st_;
 ```
 - current_timestamp_：LRUKReplacer自带的时间戳，用整数表示
 - curr_size_：LRUKReplacer的evictable frame的数量，初始为0
 - repalcer_size_：LRUKReplacer的大小，填入的frame_id不能大于等于该大小
 - k_：表示k的大小
+- buf_：用于每个frame的记录
+- st_：用于每个frame是否evictable的标记
+
+## Evict操作
+LRUK规则：
+- 如果没有K次历史记录，直接使用inf
+- 如果都有K次历史记录或都没有K次历史记录，就对比最早的历史记录，谁最早谁就替换
+
+根据以上规则找到目前带有evictable标记中最应该被替换掉的frame
+
+## RecordAccess操作
+- 刷新当前时间戳，即current_timestamp_++
+- 判断需要更新的frame的队列，如果大小为k，则先出队一个，在进行入队
+
+## SetEvictable操作
+- 如果该frame不存在，直接返回
+- 如果set_evictable与frame状态有区别，更新current_timestamp_
+- 更新st_
+
+## Remove操作
+- 如果该frame不存在，直接返回
+- 清除st_记录
+- 清除buf_记录
+- curr_size_--
+
+# 任务3-缓冲池管理器实例
+## 数据结构
+```C++
+/** Number of pages in the buffer pool. */  
+const size_t pool_size_;  
+/** The next page id to be allocated  */  
+std::atomic<page_id_t> next_page_id_ = 0;  
+/** Bucket size for the extendible hash table */  
+const size_t bucket_size_ = 4;  
+  
+/** Array of buffer pool pages. */  
+Page *pages_;  
+/** Pointer to the disk manager. */  
+DiskManager *disk_manager_ __attribute__((__unused__));  
+/** Pointer to the log manager. Please ignore this for P1. */  
+LogManager *log_manager_ __attribute__((__unused__));  
+/** Page table for keeping track of buffer pool pages. */  
+ExtendibleHashTable<page_id_t, frame_id_t> *page_table_;  
+/** Replacer to find unpinned pages for replacement. */  
+LRUKReplacer *replacer_;  
+/** List of free frames that don't have any pages on them. */  
+std::list<frame_id_t> free_list_;  
+/** This latch protects shared data structures. We recommend updating this comment to describe what it protects. */  
+/*以上这些变量都需要保护*/  
+std::mutex latch_;
+```
+- 一个缓冲区管理器包含了disk_manager、page_table_、replacer_、free_list_
+- disk_manager用于写入和读出page
+- page_table_ 用于标记page的在哪个frame
+- replacer_ 用于LRUK替换策略
+
+## NewPgImp操作
+该函数用于在缓冲区中创建新的page
+- 选出空闲的frame，如果没有空闲的frame，直接返回nullptr
+- 若从replacer_中选取frame，需进行以下操作：
+	- 调用Evict函数，驱逐一个frame
+	- 若该frame对应的page 是脏页，需要写回磁盘
