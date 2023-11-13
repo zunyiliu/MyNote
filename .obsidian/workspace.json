@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c770358a1c9bf1b6",
+            "id": "e34a05e87ff1dea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc049c2d31b0d9ac",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -26,9 +38,18 @@
                 "file": "数据库/CMU15445课件/07-hashtables (翻译).pdf"
               }
             }
+          },
+          {
+            "id": "6f687c6d9c1a11df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/07-hashtables (ppt).pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/07-hashtables (翻译).pdf",
+                "file": "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/07-hashtables (翻译).pdf",
+                "file": "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/07-hashtables (翻译).pdf"
+                "file": "数据库/CMU15445笔记/Lecture 07：Hash Tables.md"
               }
             }
           },
@@ -174,10 +195,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd5d8e7a694745fc",
+  "active": "e34a05e87ff1dea5",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/07-hashtables.pdf",
     "数据库/CMU15445课件/07-hashtables (翻译).pdf",
+    "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
+    "Pasted image 20231113205318.png",
+    "数据库/CMU15445课件/07-hashtables.pdf",
+    "数据库/CMU15445课件/07-hashtables (ppt).pdf",
+    "Pasted image 20231113203933.png",
+    "Pasted image 20231113203521.png",
+    "数据库/CMU15445课件/07-hashtables (ppt).pdf.crdownload",
+    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
     "数据库/CMU15445课件/07-hashtables (翻译).pdf.crdownload",
     "数据库/Oceanbase/数据库存储结构.md",
@@ -193,8 +221,6 @@
     "日记/2023-11-09.md",
     "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
     "可信软件开发（华为）/课件/面向对象设计方法.pdf",
-    "CSAPP/深入理解计算机系统（第三版）.pdf.baiduyun.p.downloading",
-    "CSAPP",
     "日记/2023-10/2023-11-12.md",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/学习笔记/第二章.md",
@@ -214,13 +240,8 @@
     "华为ICT/Datacom笔记/交换技术.md",
     "华为ICT/WLAN笔记/WLAN基础业务.md",
     "华为ICT/WLAN笔记/WLAN高级特性.md",
-    "华为ICT/Security笔记/VPN技术.md",
-    "华为ICT/Security笔记/安全通信.md",
     "华为ICT/assets/Pasted image 20231109101411.png",
     "华为ICT/assets/Pasted image 20231109101559.png",
-    "华为ICT/assets/Pasted image 20231109101547.png",
-    "华为ICT/assets/Pasted image 20231109101533.png",
-    "华为ICT/assets/Pasted image 20231109101520.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
