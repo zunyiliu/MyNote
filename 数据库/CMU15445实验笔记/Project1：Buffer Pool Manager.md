@@ -174,8 +174,51 @@ std::mutex latch_;
 - replacer_ 用于LRUK替换策略
 
 ## NewPgImp操作
-该函数用于在缓冲区中创建新的page
+该函数用于在缓冲区中创建新的page：
 - 选出空闲的frame，如果没有空闲的frame，直接返回nullptr
 - 若从replacer_中选取frame，需进行以下操作：
 	- 调用Evict函数，驱逐一个frame
-	- 若该frame对应的page 是脏页，需要写回磁盘
+	- 若该frame对应的page是脏页，需要写回磁盘
+	- 从page_table中去除该page的对应关系，保证page_table只有缓冲池中的对应关系
+	- 重置page的data和metadata，包含is_dirty, pin_count, page_id, data
+	- 保证从replacer中取出的frame和从free_list中取出的一样
+- 调用AllocataPage（），获取下一个page_id
+- 准备好frame：设置page_id和pin_count
+- 更新page_table
+- 更新replacer_
+- 返回对应的page
+
+## FetchPgImp操作
+该函数用于从缓冲区取出对应page_id的page：
+- 先从缓冲区中找，如果已经在缓冲区，就直接返回：
+	- 调用page_table的Find函数，我们已经保证了page_table只储存缓冲区中的对应关系
+	- 更新replacer中的记录
+	- pin_count++
+- 如果不在缓冲区中，且缓冲区没有空闲frame，直接返回nullptr。否则就要从磁盘中读取page
+- 下面操作和NewPgImp中的一样
+
+## UnpinPgImp操作
+该函数用于Unpin缓冲区中的page：
+- 如果目标page不在缓冲区中，或目标page对应的pin_count == 0，直接返回false
+- pin_count_--
+- 设置is_dirty_
+- 如果pin_count == 0，调用replacer_->SetEvictable(frame_id, true)；
+
+## FlushPgImp操作
+该函数用于将目标page写入磁盘：
+- 如果缓冲区中没有目标page，直接返回false
+- 写入磁盘，更新is_dirty_
+
+## FlushAllPgsImp操作
+该函数和FlushPgImp一样
+
+## DeletePgImp操作
+该函数用于删除目标page：
+- 如果目标page不在缓冲区中，直接返回true
+- 如果目标page被pin住，就不能删除，直接返回false
+- 清除page_table记录
+- 清除replacer记录
+- 将frame重新加入free_list_
+- 重置page
+
+
