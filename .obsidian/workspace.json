@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26ff318ed2535a32",
+        "id": "cfca9fa5c9a7aa4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd7d7a61e5baa90",
+            "id": "5357035e4db55997",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/08-trees.pdf"
-              }
-            }
-          },
-          {
-            "id": "f9f0e8dc400c20bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/08-trees (翻译).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/08-trees.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/08-trees.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据库/CMU15445课件/08-trees.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -173,15 +157,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cd7d7a61e5baa90",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/08-trees (翻译).pdf",
     "数据库/CMU15445课件/08-trees.pdf",
-    "日记/2023-11-13.md",
+    "数据库/CMU15445课件/08-trees (翻译).pdf",
     "日记/2023-11-14.md",
-    "数据库/CMU15445课件/08-trees (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/08-trees.pdf.crdownload",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "日记/2023-11-13.md",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校资料/复习/操作系统练习题.pdf",
+    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
+    "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
+    "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
+    "操作系统/学校资料/操作系统课件/6-处理机调度.pdf",
+    "操作系统/学校资料/操作系统课件/8-设备管理.pdf",
+    "操作系统/学校资料/操作系统课件/~$8-设备管理.pptx",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
     "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
     "嵌入式系统/assets/Pasted image 20231114174307.png",
@@ -190,19 +179,14 @@
     "嵌入式系统/assets/Pasted image 20231114172352.png",
     "嵌入式系统/assets/Pasted image 20231114172212.png",
     "操作系统/学校实验/实验答案.md",
-    "数据库/CMU15445课件/07-hashtables (ppt).pdf",
-    "数据库/CMU15445课件/07-hashtables (翻译).pdf",
-    "数据库/CMU15445课件/07-hashtables.pdf",
     "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
     "数据库/assets/Pasted image 20231113212723.png",
     "数据库/assets/Pasted image 20231113213639.png",
     "数据库/assets/Pasted image 20231113213533.png",
     "数据库/assets/Pasted image 20231113212844.png",
     "数据库/assets/Pasted image 20231113212800.png",
-    "数据库/CMU15445课件/07-hashtables (ppt).pdf.crdownload",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "操作系统/学校笔记/课程介绍与绪论.md",
-    "数据库/CMU15445课件/07-hashtables (翻译).pdf.crdownload",
     "数据库/Oceanbase/数据库存储结构.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "日记/2023-11-12.md",
