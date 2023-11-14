@@ -4,18 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a5547d887d891bfc",
+        "id": "26ff318ed2535a32",
         "type": "tabs",
         "children": [
           {
-            "id": "77bbedb904d5fe07",
+            "id": "5cd7d7a61e5baa90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-11-14.md",
-                "mode": "source",
-                "source": false
+                "file": "数据库/CMU15445课件/08-trees.pdf"
+              }
+            }
+          },
+          {
+            "id": "f9f0e8dc400c20bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/08-trees (翻译).pdf"
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-14.md",
+                "file": "数据库/CMU15445课件/08-trees.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-14.md",
+                "file": "数据库/CMU15445课件/08-trees.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-14.md"
+                "file": "数据库/CMU15445课件/08-trees.pdf"
               }
             }
           },
@@ -165,19 +173,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "5cd7d7a61e5baa90",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/08-trees (翻译).pdf",
+    "数据库/CMU15445课件/08-trees.pdf",
+    "日记/2023-11-13.md",
+    "日记/2023-11-14.md",
+    "数据库/CMU15445课件/08-trees (翻译).pdf.crdownload",
+    "数据库/CMU15445课件/08-trees.pdf.crdownload",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
     "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
     "嵌入式系统/assets/Pasted image 20231114174307.png",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "嵌入式系统/assets/Pasted image 20231114172006.png",
     "嵌入式系统/assets/Pasted image 20231114172711.png",
     "嵌入式系统/assets/Pasted image 20231114172352.png",
     "嵌入式系统/assets/Pasted image 20231114172212.png",
-    "日记/2023-11-14.md",
     "操作系统/学校实验/实验答案.md",
-    "日记/2023-11-13.md",
     "数据库/CMU15445课件/07-hashtables (ppt).pdf",
     "数据库/CMU15445课件/07-hashtables (翻译).pdf",
     "数据库/CMU15445课件/07-hashtables.pdf",
@@ -192,15 +204,11 @@
     "操作系统/学校笔记/课程介绍与绪论.md",
     "数据库/CMU15445课件/07-hashtables (翻译).pdf.crdownload",
     "数据库/Oceanbase/数据库存储结构.md",
-    "CSAPP/资料",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "日记/2023-11-12.md",
-    "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
     "日记/2023-11-11.md",
     "日记/2023-11-10.md",
     "日记/2023-11-09.md",
-    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
-    "可信软件开发（华为）/课件/面向对象设计方法.pdf",
     "日记/2023-10/2023-11-12.md",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/学习笔记/第二章.md",
