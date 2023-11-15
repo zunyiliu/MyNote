@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d9265ed410152a06",
+        "id": "b85785be56ead14b",
         "type": "tabs",
         "children": [
           {
-            "id": "7499ed19c73f3de1",
+            "id": "fba458cdb8b3dc61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校笔记/绪论.md",
+                "file": "操作系统/学校笔记/操作系统的结构和硬件支持.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e13160cccb83c835",
+            "id": "0690bba3c097bef1",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校笔记/绪论.md",
+                "file": "操作系统/学校笔记/操作系统的结构和硬件支持.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校笔记/绪论.md",
+                "file": "操作系统/学校笔记/操作系统的结构和硬件支持.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校笔记/绪论.md"
+                "file": "操作系统/学校笔记/操作系统的结构和硬件支持.md"
               }
             }
           },
@@ -175,14 +175,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7499ed19c73f3de1",
+  "active": "fba458cdb8b3dc61",
   "lastOpenFiles": [
-    "Pasted image 20231115094255.png",
-    "Pasted image 20231115093233.png",
+    "Pasted image 20231115104753.png",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校笔记/操作系统的结构和硬件支持.md",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校笔记/绪论.md",
+    "操作系统/assets/Pasted image 20231115094255.png",
+    "操作系统/assets/Pasted image 20231115093233.png",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校笔记/课程介绍.md",
     "操作系统/学校实验/环境配置.md",
     "操作系统/学校实验/实验答案.md",
@@ -207,7 +209,6 @@
     "数据库/assets/Pasted image 20231113212723.png",
     "数据库/assets/Pasted image 20231113213639.png",
     "数据库/assets/Pasted image 20231113213533.png",
-    "数据库/assets/Pasted image 20231113212844.png",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/Oceanbase/数据库存储结构.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
@@ -222,7 +223,6 @@
     "日记/2023-11-07.md",
     "华为ICT/题目笔记/Datacom题目笔记.md",
     "华为ICT/Datacom笔记/广域网技术.md",
-    "华为ICT/Datacom笔记/IPv6技术.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
