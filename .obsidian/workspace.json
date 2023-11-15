@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae4f35108d4c6e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/学校笔记/绪论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -167,6 +179,8 @@
   },
   "active": "cfe73aad3f69efe4",
   "lastOpenFiles": [
+    "操作系统/学校笔记/绪论.md",
+    "日记/2023-11-15.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
@@ -179,14 +193,12 @@
     "操作系统/assets/Pasted image 20231115112550.png",
     "操作系统/assets/Pasted image 20231115104753.png",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "操作系统/学校笔记/绪论.md",
     "操作系统/assets/Pasted image 20231115094255.png",
     "操作系统/assets/Pasted image 20231115093233.png",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校笔记/课程介绍.md",
     "操作系统/学校实验/环境配置.md",
     "操作系统/学校实验/实验答案.md",
-    "日记/2023-11-15.md",
     "日记/2023-11-14.md",
     "数据库/CMU15445课件/08-trees.pdf",
     "数据库/CMU15445课件/08-trees (翻译).pdf",
