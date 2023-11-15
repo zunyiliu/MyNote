@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e9c511a33ed94810",
+        "id": "327b35e3dc956997",
         "type": "tabs",
         "children": [
           {
-            "id": "cfe73aad3f69efe4",
+            "id": "43b69efc3c0ee6d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
+                "file": "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af3065801fa2f0f0",
+            "id": "732dcaeaddcabb2f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+                "file": "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+                "file": "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
+                "file": "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md"
               }
             }
           },
@@ -176,13 +175,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "af3065801fa2f0f0",
+  "active": "43b69efc3c0ee6d1",
   "lastOpenFiles": [
-    "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
+    "Pasted image 20231115205552.png",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
+    "Pasted image 20231115204853.png",
+    "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
+    "日记/2023-11-15.md",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
     "嵌入式系统/学校资料/2.第二讲.pdf",
-    "日记/2023-11-15.md",
     "操作系统/学校笔记/绪论.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
@@ -215,14 +217,12 @@
     "嵌入式系统/assets/Pasted image 20231114172352.png",
     "嵌入式系统/assets/Pasted image 20231114172212.png",
     "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
-    "数据库/assets/Pasted image 20231113212723.png",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/Oceanbase/数据库存储结构.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "日记/2023-11-12.md",
     "日记/2023-11-11.md",
     "日记/2023-11-10.md",
-    "日记/2023-11-09.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
