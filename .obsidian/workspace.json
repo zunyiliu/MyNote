@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61cb6720bfc9d093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/学校笔记/第4章：进程及进程管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e24b49b594b496cc",
             "type": "leaf",
             "state": {
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校笔记/第4章：进程及进程管理.md",
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校笔记/第4章：进程及进程管理.md",
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校笔记/第4章：进程及进程管理.md"
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
               }
             }
           },
@@ -175,11 +163,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "e24b49b594b496cc",
   "lastOpenFiles": [
-    "操作系统/assets/Pasted image 20231116115738.png",
+    "日记/2023-11-16.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
+    "操作系统/assets/Pasted image 20231116115738.png",
     "操作系统/assets/Pasted image 20231116115047.png",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "操作系统/assets/Pasted image 20231116112142.png",
@@ -188,7 +177,6 @@
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/assets/Pasted image 20231116100516.png",
     "操作系统/学校笔记/课程介绍.md",
-    "日记/2023-11-16.md",
     "日记/2023-11-15.md",
     "嵌入式系统/assets/Pasted image 20231115204853.png",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
@@ -208,7 +196,6 @@
     "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
     "操作系统/assets/Pasted image 20231115112550.png",
     "操作系统/assets/Pasted image 20231115104753.png",
-    "操作系统/assets/Pasted image 20231115094255.png",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校实验/环境配置.md",
     "操作系统/学校实验/实验答案.md",
