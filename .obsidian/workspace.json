@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统总复习.pdf",
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统总复习.pdf",
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
               }
             }
           },
@@ -163,9 +163,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e24b49b594b496cc",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
     "日记/2023-11-16.md",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "操作系统/assets/Pasted image 20231116115738.png",
@@ -179,7 +180,6 @@
     "操作系统/学校笔记/课程介绍.md",
     "日记/2023-11-15.md",
     "嵌入式系统/assets/Pasted image 20231115204853.png",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "嵌入式系统/assets/Pasted image 20231115205552.png",
     "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
     "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
