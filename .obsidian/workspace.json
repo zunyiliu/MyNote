@@ -11,9 +11,11 @@
             "id": "e24b49b594b496cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
+                "file": "日记/2023-11-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+                "file": "日记/2023-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+                "file": "日记/2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
+                "file": "日记/2023-11-16.md"
               }
             }
           },
@@ -163,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "e24b49b594b496cc",
   "lastOpenFiles": [
     "日记/2023-11-16.md",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
