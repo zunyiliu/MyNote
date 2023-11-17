@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d5617a841ba7a7",
+        "id": "c113ea641c7f6138",
         "type": "tabs",
         "children": [
           {
-            "id": "d62bce60b2a48342",
+            "id": "5f98449487e93689",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -163,10 +163,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "5f98449487e93689",
   "lastOpenFiles": [
-    "日记/2023-11-17.md",
+    "嵌入式系统/学校资料/嵌入式系统 课程大纲（2021版）.pdf",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+    "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
+    "嵌入式系统/assets/Pasted image 20231117145939.png",
+    "日记/2023-11-17.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "操作系统/assets/Pasted image 20231117112027.png",
@@ -181,7 +185,6 @@
     "操作系统/assets/Pasted image 20231117104843.png",
     "操作系统/assets/Pasted image 20231117104642.png",
     "操作系统/assets/Pasted image 20231117095452.png",
-    "操作系统/assets/Pasted image 20231117095315.png",
     "日记/2023-11-16.md",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "操作系统/学校笔记/课程介绍.md",
@@ -208,8 +211,6 @@
     "操作系统/学校资料/复习/操作系统练习题.pdf",
     "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
     "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
-    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
-    "数据库/Oceanbase/数据库存储结构.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
