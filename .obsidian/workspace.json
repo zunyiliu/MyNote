@@ -11,11 +11,9 @@
             "id": "d62bce60b2a48342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-11-17.md",
-                "mode": "source",
-                "source": false
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-17.md",
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-17.md",
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-17.md"
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
               }
             }
           },
@@ -165,8 +163,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d62bce60b2a48342",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-11-17.md",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "操作系统/assets/Pasted image 20231117112027.png",
@@ -180,10 +180,8 @@
     "操作系统/assets/Pasted image 20231117105653.png",
     "操作系统/assets/Pasted image 20231117104843.png",
     "操作系统/assets/Pasted image 20231117104642.png",
-    "日记/2023-11-17.md",
     "操作系统/assets/Pasted image 20231117095452.png",
     "操作系统/assets/Pasted image 20231117095315.png",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "日记/2023-11-16.md",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "操作系统/学校笔记/课程介绍.md",
