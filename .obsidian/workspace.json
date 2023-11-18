@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c113ea641c7f6138",
+        "id": "bf774278df3aecfe",
         "type": "tabs",
         "children": [
           {
-            "id": "5f98449487e93689",
+            "id": "564fb3f1fc8db4c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
+                "file": "日记/2023-11-17.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+                "file": "日记/2023-11-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+                "file": "日记/2023-11-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
+                "file": "日记/2023-11-17.md"
               }
             }
           },
@@ -163,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5f98449487e93689",
+  "active": "564fb3f1fc8db4c5",
   "lastOpenFiles": [
-    "嵌入式系统/学校资料/嵌入式系统 课程大纲（2021版）.pdf",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "嵌入式系统/学校资料/嵌入式系统 课程大纲（2021版）.pdf",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
     "嵌入式系统/assets/Pasted image 20231117145939.png",
