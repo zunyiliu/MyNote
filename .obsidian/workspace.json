@@ -4,22 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bf774278df3aecfe",
+        "id": "6597d796e534c9bd",
         "type": "tabs",
         "children": [
           {
-            "id": "564fb3f1fc8db4c5",
+            "id": "366c6e8570452f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-11-17.md",
-                "mode": "source",
-                "source": false
+                "file": "数据库/CMU15445课件/08/08-trees.pdf"
+              }
+            }
+          },
+          {
+            "id": "b719633c9a31e534",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/08/08-trees (翻译).pdf"
+              }
+            }
+          },
+          {
+            "id": "b9a323d27fbf8722",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/08/08-trees (ppt).pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-17.md",
+                "file": "数据库/CMU15445课件/08/08-trees (翻译).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-17.md",
+                "file": "数据库/CMU15445课件/08/08-trees (翻译).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-17.md"
+                "file": "数据库/CMU15445课件/08/08-trees (翻译).pdf"
               }
             }
           },
@@ -165,22 +184,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "564fb3f1fc8db4c5",
+  "active": "b719633c9a31e534",
   "lastOpenFiles": [
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
-    "嵌入式系统/学校资料/嵌入式系统 课程大纲（2021版）.pdf",
+    "数据库/CMU15445课件/08/08-trees (ppt).pdf",
+    "数据库/CMU15445课件/08/08-trees (翻译).pdf",
+    "数据库/CMU15445课件/08",
+    "数据库/CMU15445课件/07",
+    "数据库/CMU15445课件/06",
+    "数据库/CMU15445课件/05",
+    "数据库/CMU15445课件/04",
+    "数据库/CMU15445课件/03",
+    "数据库/CMU15445课件/02",
+    "数据库/CMU15445课件/01",
+    "数据库/CMU15445课件/08-trees (ppt).pdf.crdownload",
+    "数据库/Oceanbase/数据库存储结构.md",
+    "日记/2023-11-18.md",
+    "日记/2023-11-17.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
     "嵌入式系统/assets/Pasted image 20231117145939.png",
-    "日记/2023-11-17.md",
-    "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "操作系统/assets/Pasted image 20231117112027.png",
     "操作系统/assets/Pasted image 20231117112021.png",
     "操作系统/assets/Pasted image 20231117111917.png",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
-    "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
     "操作系统/assets/Pasted image 20231117102742.png",
     "操作系统/assets/Pasted image 20231117110326.png",
     "操作系统/assets/Pasted image 20231117105653.png",
@@ -194,7 +220,6 @@
     "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
     "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
-    "嵌入式系统/学校资料/2.第二讲.pdf",
     "操作系统/学校笔记/第1章：绪论.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
@@ -207,12 +232,6 @@
     "操作系统/学校实验/环境配置.md",
     "操作系统/学校实验/实验答案.md",
     "日记/2023-11-14.md",
-    "数据库/CMU15445课件/08-trees.pdf",
-    "数据库/CMU15445课件/08-trees (翻译).pdf",
-    "日记/2023-11-13.md",
-    "操作系统/学校资料/复习/操作系统练习题.pdf",
-    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
-    "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
