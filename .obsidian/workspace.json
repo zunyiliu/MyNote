@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6597d796e534c9bd",
+        "id": "ed41d571643192df",
         "type": "tabs",
         "children": [
           {
-            "id": "370fef05d5779370",
+            "id": "90b8da0de0609c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
+                "file": "日记/2023-11-18.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "366c6e8570452f75",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/08/08-trees.pdf"
-              }
-            }
-          },
-          {
-            "id": "b719633c9a31e534",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/08/08-trees (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "b9a323d27fbf8722",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/08/08-trees (ppt).pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/08/08-trees (ppt).pdf",
+                "file": "日记/2023-11-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/08/08-trees (ppt).pdf",
+                "file": "日记/2023-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/08/08-trees (ppt).pdf"
+                "file": "日记/2023-11-18.md"
               }
             }
           },
@@ -196,12 +165,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9a323d27fbf8722",
+  "active": "90b8da0de0609c66",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/08/08-trees (翻译).pdf",
+    "数据库/assets/Pasted image 20231118115023.png",
+    "数据库/assets/Pasted image 20231118115435.png",
     "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
+    "数据库/CMU15445课件/08/08-trees (翻译).pdf",
     "数据库/CMU15445课件/08/08-trees (ppt).pdf",
+    "数据库/assets/Pasted image 20231118115042.png",
+    "Pasted image 20231118114942.png",
     "数据库/CMU15445课件/08/08-trees.pdf",
+    "Pasted image 20231118113659.png",
+    "数据库/assets/Pasted image 20231118113651.png",
+    "数据库/assets/Pasted image 20231118113202.png",
+    "Pasted image 20231118113153.png",
+    "数据库/assets/Pasted image 20231118110942.png",
+    "数据库/assets/Pasted image 20231118112440.png",
     "数据库/CMU15445笔记/Lecture 07：Hash Tables.md",
     "数据库/CMU15445课件/08",
     "数据库/CMU15445课件/07",
@@ -215,17 +194,7 @@
     "日记/2023-11-17.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
-    "嵌入式系统/assets/Pasted image 20231117145939.png",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
-    "操作系统/assets/Pasted image 20231117112027.png",
-    "操作系统/assets/Pasted image 20231117112021.png",
-    "操作系统/assets/Pasted image 20231117111917.png",
-    "操作系统/assets/Pasted image 20231117102742.png",
-    "操作系统/assets/Pasted image 20231117110326.png",
-    "操作系统/assets/Pasted image 20231117105653.png",
-    "操作系统/assets/Pasted image 20231117104843.png",
-    "操作系统/assets/Pasted image 20231117104642.png",
-    "操作系统/assets/Pasted image 20231117095452.png",
     "日记/2023-11-16.md",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "操作系统/学校笔记/课程介绍.md",
