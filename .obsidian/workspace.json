@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-18.md",
+                "file": "计算机网络/学习笔记/第一章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-18.md",
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-18.md",
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-18.md"
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf"
               }
             }
           },
@@ -165,8 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90b8da0de0609c66",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "计算机网络/学习笔记/第一章.md",
+    "日记/2023-11-18.md",
+    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.tmp",
+    "计算机网络/hust课件/计算机通信与网络A卷试题 - 2022年A卷.tmp",
+    "计算机网络/习题/第一章.md",
     "数据库/assets/Pasted image 20231118115023.png",
     "数据库/assets/Pasted image 20231118115435.png",
     "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
@@ -185,12 +192,7 @@
     "数据库/CMU15445课件/08",
     "数据库/CMU15445课件/07",
     "数据库/CMU15445课件/06",
-    "数据库/CMU15445课件/05",
-    "数据库/CMU15445课件/04",
-    "数据库/CMU15445课件/03",
-    "数据库/CMU15445课件/02",
     "数据库/Oceanbase/数据库存储结构.md",
-    "日记/2023-11-18.md",
     "日记/2023-11-17.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
@@ -210,8 +212,6 @@
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
-    "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
-    "操作系统/学校实验/环境配置.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
