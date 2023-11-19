@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "ed41d571643192df",
+        "id": "1bb071639daf125b",
         "type": "tabs",
         "children": [
           {
-            "id": "90b8da0de0609c66",
+            "id": "1da1ccb9e65dd7e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-18.md",
+                "file": "计算机网络/学习笔记/第三章.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "138bb97c0f8a5a7d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+              }
+            }
+          },
+          {
+            "id": "facef90dba9aaefb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/学习笔记/教材答案.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-18.md",
+                "file": "计算机网络/学习笔记/教材答案.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-18.md",
+                "file": "计算机网络/学习笔记/教材答案.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-18.md"
+                "file": "计算机网络/学习笔记/教材答案.pdf"
               }
             }
           },
@@ -165,31 +186,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90b8da0de0609c66",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "日记/2023-11-13.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "计算机网络/学习笔记/教材答案.pdf",
+    "计算机网络/学习笔记/教材答案.pdf.crdownload",
+    "计算机网络/学习笔记/第三章.md",
+    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/~$机通信与网络知识点汇总v7.docx",
+    "计算机网络/hust课件/计网总结.md",
+    "计算机网络/习题/第二章.md",
+    "日记/2023-11-19.md",
     "日记/2023-11-18.md",
+    "日记/2023-11-13.md",
     "计算机网络/assets/Pasted image 20231118182538.png",
     "计算机网络/assets/Pasted image 20231118183418.png",
     "计算机网络/assets/Pasted image 20231118183334.png",
     "计算机网络/assets/Pasted image 20231118183103.png",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
-    "计算机网络/习题/第二章.md",
     "计算机网络/assets/Pasted image 20231118182703.png",
     "计算机网络/学习笔记/第二章.md",
-    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
     "计算机网络/习题/第一章.md",
-    "计算机网络/hust课件/计网总结.md",
     "计算机网络/hust课件/计网总结.md.crdownload",
-    "计算机网络/hust课件/~$机通信与网络知识点汇总v7.docx",
     "计算机网络/hust课件/计算机通信与网络知识点汇总v7.docx",
     "计算机网络/hust课件/计算机通信与网络知识点汇总v7.tmp",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
-    "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/学习笔记/第七章.md",
     "计算机网络/学习笔记/第一章.md",
-    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.tmp",
     "数据库/assets/Pasted image 20231118115023.png",
     "数据库/assets/Pasted image 20231118115435.png",
     "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
@@ -210,9 +234,6 @@
     "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
     "操作系统/学校笔记/第1章：绪论.md",
-    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
-    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
