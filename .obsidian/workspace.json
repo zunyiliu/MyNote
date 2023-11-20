@@ -11,15 +11,24 @@
             "id": "0c2b63e623ac0cda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-11-20.md",
-                "mode": "source",
-                "source": false
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency.pdf"
+              }
+            }
+          },
+          {
+            "id": "6972d294e182c7a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-20.md",
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-20.md",
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-20.md"
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf"
               }
             }
           },
@@ -165,8 +174,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "6972d294e182c7a4",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/09/09-indexconcurrency.pdf",
+    "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
+    "日记/2023-11-20.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第三章.md",
@@ -177,7 +189,6 @@
     "计算机网络/assets/Pasted image 20231120112201.png",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
-    "日记/2023-11-20.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
@@ -194,7 +205,6 @@
     "计算机网络/assets/Pasted image 20231118183418.png",
     "计算机网络/assets/Pasted image 20231118183334.png",
     "计算机网络/assets/Pasted image 20231118183103.png",
-    "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
     "计算机网络/assets/Pasted image 20231118182703.png",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/习题/第一章.md",
