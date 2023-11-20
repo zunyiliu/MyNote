@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c2b63e623ac0cda",
+            "id": "14f84899cfc58083",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445课件/09/09-indexconcurrency.pdf"
+                "file": "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,9 +28,19 @@
                 "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf"
               }
             }
+          },
+          {
+            "id": "9ec2675bf07e76bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (ppt).pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (ppt).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (ppt).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf"
+                "file": "数据库/CMU15445课件/09/09-indexconcurrency (ppt).pdf"
               }
             }
           },
@@ -174,10 +186,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6972d294e182c7a4",
+  "active": "9ec2675bf07e76bc",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/09/09-indexconcurrency.pdf",
     "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
+    "数据库/CMU15445课件/09/09-indexconcurrency (ppt).pdf",
+    "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
+    "数据库/CMU15445课件/09/09-indexconcurrency.pdf",
     "日记/2023-11-20.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
     "计算机网络/学习笔记/第四章.md",
@@ -196,8 +210,6 @@
     "计算机网络/学习笔记/教材答案.pdf",
     "计算机网络/学习笔记/教材答案.pdf.crdownload",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/~$机通信与网络知识点汇总v7.docx",
     "计算机网络/习题/第二章.md",
     "日记/2023-11-18.md",
     "日记/2023-11-13.md",
@@ -221,7 +233,6 @@
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "日记/2023-11-16.md",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
-    "操作系统/学校笔记/课程介绍.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
