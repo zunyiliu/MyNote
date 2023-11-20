@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "72daa30d11010bfc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
-              }
-            }
-          },
-          {
             "id": "8c90af251811c5c7",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/学习笔记/第三章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+                "file": "计算机网络/学习笔记/第三章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf"
+                "file": "计算机网络/学习笔记/第三章.md"
               }
             }
           },
@@ -186,12 +175,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72daa30d11010bfc",
+  "active": "e4cdaa7c4489e7b1",
   "lastOpenFiles": [
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
-    "计算机网络/学习笔记/第三章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "日记/2023-11-20.md",
+    "计算机网络/学习笔记/第三章.md",
+    "计算机网络/学习笔记/第六章.md",
+    "计算机网络/学习笔记/第五章.md",
+    "计算机网络/学习笔记/第四章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
     "日记/2023-11-19.md",
     "计算机网络/学习笔记/教材答案.pdf",
     "计算机网络/学习笔记/教材答案.pdf.crdownload",
@@ -212,7 +205,6 @@
     "计算机网络/习题/第一章.md",
     "计算机网络/hust课件/计网总结.md.crdownload",
     "计算机网络/hust课件/计算机通信与网络知识点汇总v7.docx",
-    "计算机网络/hust课件/计算机通信与网络知识点汇总v7.tmp",
     "计算机网络/学习笔记/第七章.md",
     "计算机网络/学习笔记/第一章.md",
     "数据库/assets/Pasted image 20231118115023.png",
@@ -231,9 +223,6 @@
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "操作系统/学校笔记/课程介绍.md",
     "日记/2023-11-15.md",
-    "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
-    "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
-    "嵌入式系统/实验笔记/实验一：环境配置.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
