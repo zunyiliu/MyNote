@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad1c7a7f21a1364a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-19.md",
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-19.md",
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-19.md"
+                "file": "嵌入式系统/学校资料/4.实验-2023树莓派.pdf"
               }
             }
           },
@@ -165,9 +176,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d9cba2bd79c74f9",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
     "日记/2023-11-20.md",
+    "日记/2023-11-19.md",
     "数据库/assets/Pasted image 20231120163445.png",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "数据库/CMU15445课件/09/09-indexconcurrency.pdf",
@@ -192,7 +204,6 @@
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第3章.pdf",
-    "日记/2023-11-19.md",
     "计算机网络/学习笔记/教材答案.pdf",
     "计算机网络/学习笔记/教材答案.pdf.crdownload",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
