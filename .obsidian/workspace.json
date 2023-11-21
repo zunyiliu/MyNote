@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6295491c530c27f9",
+        "id": "d590fac7472e2f67",
         "type": "tabs",
         "children": [
           {
-            "id": "3c41e7043ef4aa65",
+            "id": "d3e5d188bd44d91f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/习题/第六章.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/习题/第六章.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/习题/第六章.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/习题/第六章.md"
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md"
               }
             }
           },
@@ -165,21 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c41e7043ef4aa65",
+  "active": "d3e5d188bd44d91f",
   "lastOpenFiles": [
-    "Pasted image 20231121172030.png",
+    "日记/2023-11-21.md",
+    "计算机网络/assets/Pasted image 20231121172030.png",
     "计算机网络/作业/第六章.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/习题/第六章.md",
-    "Pasted image 20231121171901.png",
+    "计算机网络/assets/Pasted image 20231121171901.png",
     "计算机网络/hust课件/~$机通信与网络知识点汇总v7.docx",
-    "Pasted image 20231121170250.png",
+    "计算机网络/assets/Pasted image 20231121170250.png",
     "计算机网络/学习笔记/第七章.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
-    "日记/2023-11-21.md",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/assets/Pasted image 20231121115047.png",
     "计算机网络/习题/第五章.md",
@@ -201,7 +201,6 @@
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "数据库/assets/Pasted image 20231120163847.png",
     "数据库/assets/Pasted image 20231120163458.png",
-    "数据库/assets/Pasted image 20231120154542.png",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/hust课件/计网总结.md",
     "计算机网络/习题/第三章.md",
