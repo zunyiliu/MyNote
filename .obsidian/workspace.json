@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+                "file": "日记/2023-11-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+                "file": "日记/2023-11-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+                "file": "日记/2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md"
+                "file": "日记/2023-11-21.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "d3e5d188bd44d91f",
   "lastOpenFiles": [
+    "Pasted image 20231121200334.png",
     "日记/2023-11-21.md",
     "计算机网络/assets/Pasted image 20231121172030.png",
     "计算机网络/作业/第六章.md",
@@ -200,7 +201,6 @@
     "数据库/assets/Pasted image 20231120163445.png",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "数据库/assets/Pasted image 20231120163847.png",
-    "数据库/assets/Pasted image 20231120163458.png",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/hust课件/计网总结.md",
     "计算机网络/习题/第三章.md",
