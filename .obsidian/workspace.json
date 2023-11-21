@@ -11,8 +11,22 @@
             "id": "f942d8ebb48e2fe2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/学习笔记/第六章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2796d3a4864564d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机网络/学习笔记/第六章.md"
+              }
             }
           },
           {
@@ -157,12 +175,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "f942d8ebb48e2fe2",
   "lastOpenFiles": [
-    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
-    "日记/2023-11-21.md",
-    "计算机网络/学习笔记/第七章.md",
+    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/学习笔记/第六章.md",
+    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
+    "日记/2023-11-21.md",
+    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
+    "计算机网络/学习笔记/第七章.md",
     "计算机网络/assets/Pasted image 20231121115047.png",
     "计算机网络/习题/第五章.md",
     "计算机网络/assets/Pasted image 20231121115127.png",
@@ -170,7 +191,6 @@
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
     "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "计算机网络/习题/第四章.md",
     "计算机网络/assets/Pasted image 20231121102316.png",
@@ -183,8 +203,6 @@
     "数据库/assets/Pasted image 20231120163445.png",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "数据库/CMU15445课件/09/09-indexconcurrency.pdf",
-    "数据库/CMU15445课件/09/09-indexconcurrency (翻译).pdf",
-    "数据库/CMU15445课件/09/09-indexconcurrency (ppt).pdf",
     "数据库/assets/Pasted image 20231120163847.png",
     "数据库/assets/Pasted image 20231120163458.png",
     "数据库/assets/Pasted image 20231120154542.png",
@@ -193,7 +211,6 @@
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/hust课件/计网总结.md",
     "计算机网络/习题/第三章.md",
-    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/习题/第二章.md",
     "日记/2023-11-18.md",
     "日记/2023-11-13.md",
