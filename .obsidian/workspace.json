@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-20.md",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "da3d067873ca34c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-20.md",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-20.md",
+                "file": "计算机网络/学习笔记/第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-20.md"
+                "file": "计算机网络/学习笔记/第四章.md"
               }
             }
           },
@@ -167,8 +177,11 @@
   },
   "active": "58516e39cfc9fa46",
   "lastOpenFiles": [
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
+    "计算机网络/学习笔记/第四章.md",
+    "日记/2023-11-21.md",
     "日记/2023-11-20.md",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "日记/2023-11-19.md",
     "数据库/assets/Pasted image 20231120163445.png",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
@@ -181,8 +194,6 @@
     "数据库/assets/Pasted image 20231120160630.png",
     "数据库/assets/Pasted image 20231120160101.png",
     "数据库/assets/Pasted image 20231120155354.png",
-    "计算机网络/ustc课件/计算机网络-郑老师-第4章.pdf",
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/hust课件/计网总结.md",
     "计算机网络/assets/Pasted image 20231120111959.png",
@@ -211,7 +222,6 @@
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "日记/2023-11-16.md",
-    "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
