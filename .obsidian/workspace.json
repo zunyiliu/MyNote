@@ -11,9 +11,11 @@
             "id": "0826cf567184d1a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf"
+                "file": "日记/2023-11-22.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
+                "file": "日记/2023-11-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
+                "file": "日记/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf"
+                "file": "日记/2023-11-22.md"
               }
             }
           },
