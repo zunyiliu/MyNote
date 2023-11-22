@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "d590fac7472e2f67",
+        "id": "3cbf57c24405f92a",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e5d188bd44d91f",
+            "id": "30d641da8b63cd4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/习题/第六章.md",
+                "file": "计算机网络/学习笔记/第七章.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8da4f5a6eb6061a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/习题/第六章.md",
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/习题/第六章.md",
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/习题/第六章.md"
+                "file": "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf"
               }
             }
           },
@@ -165,15 +176,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d3e5d188bd44d91f",
+  "active": "c8da4f5a6eb6061a",
   "lastOpenFiles": [
-    "Pasted image 20231122092614.png",
-    "Pasted image 20231122092300.png",
-    "计算机网络/作业/第六章.md",
+    "计算机网络/学习笔记/第七章.md",
+    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
+    "计算机网络/assets/Pasted image 20231122085512.png",
     "计算机网络/习题/第六章.md",
-    "Pasted image 20231122090735.png",
-    "Pasted image 20231122085703.png",
-    "Pasted image 20231122085512.png",
+    "Pasted image 20231122092614.png",
+    "计算机网络/assets/Pasted image 20231122092300.png",
+    "计算机网络/作业/第六章.md",
+    "计算机网络/assets/Pasted image 20231122090735.png",
+    "计算机网络/assets/Pasted image 20231122085703.png",
     "日记/2023-11-22.md",
     "日记/2023-11-21.md",
     "Pasted image 20231121200334.png",
@@ -182,15 +195,12 @@
     "计算机网络/assets/Pasted image 20231121171901.png",
     "计算机网络/hust课件/~$机通信与网络知识点汇总v7.docx",
     "计算机网络/assets/Pasted image 20231121170250.png",
-    "计算机网络/学习笔记/第七章.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/assets/Pasted image 20231121115047.png",
     "计算机网络/习题/第五章.md",
-    "计算机网络/assets/Pasted image 20231121115127.png",
     "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
