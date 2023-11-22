@@ -23,9 +23,11 @@
             "id": "0826cf567184d1a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf"
+                "file": "日记/2023-11-22.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+                "file": "计算机网络/assets/Pasted image 20231122164026.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+                "file": "计算机网络/assets/Pasted image 20231122164026.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf"
+                "file": "计算机网络/assets/Pasted image 20231122164026.png"
               }
             }
           },
@@ -176,9 +178,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0826cf567184d1a1",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-11-22.md",
     "计算机网络/习题/第三章.md",
+    "计算机网络/assets/Pasted image 20231122170403.png",
+    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
+    "计算机网络/assets/Pasted image 20231122164058.png",
+    "计算机网络/assets/Pasted image 20231122164051.png",
+    "计算机网络/assets/Pasted image 20231122164034.png",
+    "计算机网络/assets/Pasted image 20231122164026.png",
+    "计算机网络/学习笔记/第三章.md",
+    "日记/2023-11-20.md",
     "计算机网络/assets/Pasted image 20231122150541.png",
     "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
     "计算机网络/习题/第二章.md",
@@ -187,16 +198,10 @@
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/assets/Pasted image 20231122145844.png",
     "计算机网络/assets/Pasted image 20231122150049.png",
-    "计算机网络/assets/Pasted image 20231122145919.png",
-    "计算机网络/assets/Pasted image 20231122143552.png",
     "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/习题/第一章.md",
-    "计算机网络/assets/Pasted image 20231122144118.png",
-    "计算机网络/assets/Pasted image 20231122144107.png",
-    "日记/2023-11-22.md",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/习题/第七章.md",
-    "计算机网络/assets/Pasted image 20231122112538.png",
     "计算机网络/学习笔记/第七章.md",
     "计算机网络/习题/第六章.md",
     "计算机网络/作业/第六章.md",
@@ -212,13 +217,10 @@
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
     "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
-    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "计算机网络/习题/第四章.md",
     "计算机网络/学习笔记/第四章.md",
-    "日记/2023-11-20.md",
     "日记/2023-11-19.md",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
-    "计算机网络/学习笔记/第三章.md",
     "计算机网络/hust课件/计网总结.md",
     "日记/2023-11-18.md",
     "日记/2023-11-13.md",
