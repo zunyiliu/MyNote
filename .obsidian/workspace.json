@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e1d9a063ea9c01a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/习题/第三章.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0826cf567184d1a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-11-22.md",
-                "mode": "source",
-                "source": false
+                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/assets/Pasted image 20231122164026.png",
+                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/assets/Pasted image 20231122164026.png",
+                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/assets/Pasted image 20231122164026.png"
+                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf"
               }
             }
           },
@@ -178,9 +163,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "0826cf567184d1a1",
   "lastOpenFiles": [
     "日记/2023-11-22.md",
+    "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
+    "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
+    "嵌入式系统/学校资料/4.实验-Orangepi-20221018.tmp",
     "计算机网络/习题/第三章.md",
     "计算机网络/assets/Pasted image 20231122170403.png",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
@@ -211,12 +199,9 @@
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
     "计算机网络/习题/第五章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第5章.pdf",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
-    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "计算机网络/习题/第四章.md",
     "计算机网络/学习笔记/第四章.md",
     "日记/2023-11-19.md",
