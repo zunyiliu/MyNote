@@ -11,11 +11,9 @@
             "id": "0826cf567184d1a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-11-22.md",
-                "mode": "source",
-                "source": false
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-22.md",
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-22.md",
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-22.md"
+                "file": "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf"
               }
             }
           },
@@ -167,6 +165,11 @@
   },
   "active": "0826cf567184d1a1",
   "lastOpenFiles": [
+    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
+    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/2019级A卷试题参考答案.pdf",
+    "日记/2023-11-23.md",
     "日记/2023-11-22.md",
     "嵌入式系统/学校资料/4.实验-2023树莓派.pdf",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
@@ -197,10 +200,7 @@
     "计算机网络/作业/第六章.md",
     "日记/2023-11-21.md",
     "计算机网络/作业/第三章.md",
-    "计算机网络/hust课件/~$机通信与网络知识点汇总v7.docx",
     "计算机网络/学习笔记/第六章.md",
-    "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
-    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
     "计算机网络/习题/第五章.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/作业/第四+第五章.md",
@@ -211,7 +211,6 @@
     "计算机网络/hust课件/计网总结.md",
     "日记/2023-11-18.md",
     "日记/2023-11-13.md",
-    "计算机网络/学习笔记/第一章.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
