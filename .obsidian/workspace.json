@@ -11,9 +11,11 @@
             "id": "ebc9dde1e73696a3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf"
+                "file": "日记/2023-11-23.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+                "file": "日记/2023-11-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+                "file": "日记/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf"
+                "file": "日记/2023-11-23.md"
               }
             }
           },
@@ -178,8 +180,8 @@
   "active": "ebc9dde1e73696a3",
   "lastOpenFiles": [
     "计算机网络/习题/第四章.md",
-    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
+    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "日记/2023-11-20.md",
     "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/习题/第三章.md",
