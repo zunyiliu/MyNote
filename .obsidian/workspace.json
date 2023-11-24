@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2023-11-24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +157,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "d6b28be6337c6322",
   "lastOpenFiles": [
-    "日记/2023-11-20.md",
     "日记/2023-11-24.md",
+    "日记/2023-11-20.md",
     "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
