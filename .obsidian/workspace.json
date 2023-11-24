@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1cba58d5c015421b",
+        "id": "6a0a544f46ea6c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d4d97bd31473da",
+            "id": "d6b28be6337c6322",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+                "file": "日记/2023-11-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+                "file": "日记/2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf"
+                "file": "日记/2023-11-24.md"
               }
             }
           },
@@ -163,16 +161,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a7d4d97bd31473da",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
+    "日记/2023-11-20.md",
+    "日记/2023-11-24.md",
+    "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/assets/Pasted image 20231124145556.png",
     "计算机网络/习题/第六章.md",
-    "日记/2023-11-20.md",
-    "日记/2023-11-24.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
     "计算机网络/assets/Pasted image 20231124113707.png",
@@ -207,7 +206,6 @@
     "计算机网络/作业/第三章.md",
     "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/2019级A卷试题参考答案.pdf",
-    "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
     "计算机网络/习题/第七章.md",
     "计算机网络/学习笔记/第七章.md",
     "计算机网络/hust课件/未命名.canvas",
