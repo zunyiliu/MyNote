@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-24.md",
+                "file": "操作系统/学校笔记/第5章：资源分配与调度.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5f1454a881b9657d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-24.md",
+                "file": "操作系统/学校笔记/第5章：资源分配与调度.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-24.md",
+                "file": "操作系统/学校笔记/第5章：资源分配与调度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-24.md"
+                "file": "操作系统/学校笔记/第5章：资源分配与调度.md"
               }
             }
           },
@@ -167,6 +177,9 @@
   },
   "active": "d6b28be6337c6322",
   "lastOpenFiles": [
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校笔记/第5章：资源分配与调度.md",
+    "日记/2023-11-25.md",
     "日记/2023-11-24.md",
     "日记/2023-11-20.md",
     "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
@@ -209,9 +222,6 @@
     "计算机网络/习题/第四章.md",
     "计算机网络/作业/第三章.md",
     "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/2019级A卷试题参考答案.pdf",
-    "计算机网络/习题/第七章.md",
-    "计算机网络/学习笔记/第七章.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
