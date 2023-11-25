@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6a0a544f46ea6c7a",
+        "id": "a5eac3cbbc691916",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b28be6337c6322",
+            "id": "26aa742b009cffff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校笔记/第5章：资源分配与调度.md",
+                "file": "日记/2023-11-25.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5f1454a881b9657d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校笔记/第5章：资源分配与调度.md",
+                "file": "日记/2023-11-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校笔记/第5章：资源分配与调度.md",
+                "file": "日记/2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校笔记/第5章：资源分配与调度.md"
+                "file": "日记/2023-11-25.md"
               }
             }
           },
@@ -175,41 +165,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6b28be6337c6322",
+  "active": "26aa742b009cffff",
   "lastOpenFiles": [
-    "操作系统/assets/Pasted image 20231125102029.png",
+    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
+    "日记/2023-11-25.md",
+    "计算机网络/hust课件/复习题(答案).pdf",
+    "计算机网络/hust课件/2018级计算机通信与网络A卷试题.pdf",
+    "计算机网络/hust课件/~$复习题(答案).pptx",
+    "计算机网络/hust课件/复习题(答案).pptx",
+    "计算机网络/hust课件/复习题(答案).tmp",
+    "计算机网络/hust课件/2018级计算机通信与网络A卷试题.tmp",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
+    "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/assets/Pasted image 20231125112441.png",
+    "操作系统/assets/Pasted image 20231125113532.png",
+    "操作系统/assets/Pasted image 20231125112847.png",
+    "操作系统/assets/Pasted image 20231125112823.png",
+    "操作系统/assets/Pasted image 20231125112756.png",
+    "操作系统/assets/Pasted image 20231125112617.png",
+    "操作系统/assets/Pasted image 20231125102029.png",
     "操作系统/assets/Pasted image 20231125102717.png",
     "操作系统/assets/Pasted image 20231125102455.png",
     "操作系统/assets/Pasted image 20231125102429.png",
-    "Pasted image 20231125102214.png",
-    "日记/2023-11-25.md",
     "日记/2023-11-24.md",
     "日记/2023-11-20.md",
     "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
     "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
-    "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
     "计算机网络/学习笔记/第六章.md",
-    "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
-    "计算机网络/assets/Pasted image 20231124145556.png",
     "计算机网络/习题/第六章.md",
     "计算机网络/学习笔记/第五章.md",
-    "计算机网络/hust课件/第4章 网络层（完整版）_20231009085451.pdf",
-    "计算机网络/assets/Pasted image 20231124113707.png",
     "计算机网络/学习笔记/第四章.md",
-    "计算机网络/assets/Pasted image 20231124112233.png",
-    "计算机网络/hust课件/第3章 运输层（完整版）_20230914085140.pdf",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/CS144实验笔记/Lab3.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/CS144实验笔记/Lab4.md",
-    "计算机网络/assets/Pasted image 20231124104535.png",
     "计算机网络/习题/第三章.md",
     "计算机网络/学习笔记/第二章.md",
-    "计算机网络/hust课件/第2章 应用层（完整版）_20230914085055.pdf",
-    "计算机网络/assets/Pasted image 20231124100505.png",
-    "计算机网络/hust课件/第1章 计算机网络与因特网（上课版）.pdf",
     "计算机网络/习题/第五章.md",
     "日记/2023-11-23.md",
     "日记/2023-11-22.md",
@@ -221,7 +213,6 @@
     "日记/2023-11-18.md",
     "计算机网络/习题/第四章.md",
     "计算机网络/作业/第三章.md",
-    "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
