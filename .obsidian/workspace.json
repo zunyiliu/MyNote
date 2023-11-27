@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-26.md",
+                "file": "操作系统/学校笔记/第6章：处理机调度.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b0e460abc68c6b6c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-26.md",
+                "file": "操作系统/学校笔记/第6章：处理机调度.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-26.md",
+                "file": "操作系统/学校笔记/第6章：处理机调度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-26.md"
+                "file": "操作系统/学校笔记/第6章：处理机调度.md"
               }
             }
           },
@@ -167,8 +177,14 @@
   },
   "active": "95806755046b9647",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第二章.md",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校笔记/第6章：处理机调度.md",
+    "Pasted image 20231127093559.png",
+    "Pasted image 20231127093458.png",
+    "Pasted image 20231127092719.png",
+    "日记/2023-11-27.md",
     "日记/2023-11-26.md",
+    "计算机网络/学习笔记/第二章.md",
     "计算机网络/assets/9(}]FD`K2AO}ZVEZ0PHTBB0_tmb.jpg",
     "计算机网络/习题/第一章.md",
     "计算机网络/习题/第二章.md",
@@ -194,15 +210,11 @@
     "计算机网络/assets/Pasted image 20231125141915.png",
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/hust课件/复习题(答案).pdf",
-    "计算机网络/hust课件/2020级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/计网总结.md",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
     "操作系统/assets/Pasted image 20231125112441.png",
     "操作系统/assets/Pasted image 20231125113532.png",
     "操作系统/assets/Pasted image 20231125112847.png",
-    "操作系统/assets/Pasted image 20231125112823.png",
-    "操作系统/assets/Pasted image 20231125112756.png",
-    "操作系统/assets/Pasted image 20231125112617.png",
     "日记/2023-11-24.md",
     "日记/2023-11-20.md",
     "计算机网络/学习笔记/第三章.md",
@@ -210,8 +222,6 @@
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/CS144实验笔记/Lab4.md",
     "日记/2023-11-23.md",
-    "日记/2023-11-22.md",
-    "日记/2023-11-21.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
