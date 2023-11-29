@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8c37b4a4ea6751b",
+        "id": "0932c54164a0efa9",
         "type": "tabs",
         "children": [
           {
-            "id": "95806755046b9647",
+            "id": "bf4f170de6781a9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,16 @@
                 "file": "操作系统/学校笔记/第7章：主存管理.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4c59e7997e544df5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
               }
             }
           }
@@ -165,15 +175,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95806755046b9647",
+  "active": "bf4f170de6781a9d",
   "lastOpenFiles": [
-    "日记/2023-11-28.md",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第7章：主存管理.md",
+    "日记/2023-11-28.md",
+    "日记/2023-11-29.md",
     "日记/2023-11-27.md",
     "日记/2023-11-26.md",
     "操作系统/学校笔记/第6章：处理机调度.md",
     "操作系统/assets/Pasted image 20231127103820.png",
-    "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/assets/Pasted image 20231127103326.png",
     "操作系统/assets/Pasted image 20231127095645.png",
     "操作系统/assets/Pasted image 20231127092719.png",
@@ -211,8 +222,6 @@
     "日记/2023-11-20.md",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/CS144实验笔记/Lab3.md",
-    "计算机网络/CS144实验笔记/Lab2.md",
-    "计算机网络/CS144实验笔记/Lab4.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
