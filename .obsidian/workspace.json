@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-27.md",
+                "file": "操作系统/学校笔记/第7章：主存管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-27.md",
+                "file": "操作系统/学校笔记/第7章：主存管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-27.md",
+                "file": "操作系统/学校笔记/第7章：主存管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-27.md"
+                "file": "操作系统/学校笔记/第7章：主存管理.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "95806755046b9647",
   "lastOpenFiles": [
-    "日记/2023-11-26.md",
+    "日记/2023-11-28.md",
+    "操作系统/学校笔记/第7章：主存管理.md",
     "日记/2023-11-27.md",
+    "日记/2023-11-26.md",
     "操作系统/学校笔记/第6章：处理机调度.md",
     "操作系统/assets/Pasted image 20231127103820.png",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
@@ -211,7 +213,6 @@
     "计算机网络/CS144实验笔记/Lab3.md",
     "计算机网络/CS144实验笔记/Lab2.md",
     "计算机网络/CS144实验笔记/Lab4.md",
-    "日记/2023-11-23.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
