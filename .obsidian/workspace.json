@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-29.md",
+                "file": "操作系统/学校笔记/第8章：设备管理.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d9e7df70829b1c14",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/操作系统总复习.pdf"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-29.md",
+                "file": "操作系统/学校笔记/第8章：设备管理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-29.md",
+                "file": "操作系统/学校笔记/第8章：设备管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-29.md"
+                "file": "操作系统/学校笔记/第8章：设备管理.md"
               }
             }
           },
@@ -167,11 +177,15 @@
   },
   "active": "afd8e32842162408",
   "lastOpenFiles": [
-    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校笔记/第8章：设备管理.md",
+    "Pasted image 20231130092718.png",
+    "Pasted image 20231130092459.png",
+    "日记/2023-11-30.md",
     "日记/2023-11-29.md",
+    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "总结与体会.md",
     "操作系统/学校笔记/第7章：主存管理.md",
-    "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/assets/Pasted image 20231129112954.png",
     "操作系统/assets/Pasted image 20231129112727.png",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
@@ -184,8 +198,6 @@
     "操作系统/assets/Pasted image 20231129105611.png",
     "Pasted image 20231129105603.png",
     "操作系统/assets/Pasted image 20231129105537.png",
-    "操作系统/assets/Pasted image 20231129102046.png",
-    "操作系统/assets/Pasted image 20231129102539.png",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "日记/2023-11-28.md",
     "日记/2023-11-27.md",
@@ -207,11 +219,8 @@
     "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/习题/第七章.md",
-    "计算机网络/学习笔记/第七章.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
-    "日记/2023-11-25.md",
     "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
-    "计算机网络/学习笔记/第四章.md",
     "计算机网络/hust课件/复习题(答案).pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
