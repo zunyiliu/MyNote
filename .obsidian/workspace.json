@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11-30.md",
+                "file": "日记/2023-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11-30.md",
+                "file": "日记/2023-12-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11-30.md",
+                "file": "日记/2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11-30.md"
+                "file": "日记/2023-12-01.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "c59dc88e36041fbc",
   "lastOpenFiles": [
+    "日记/2023-11-30.md",
+    "日记/2023-12-01.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第9章：文件系统.md",
     "操作系统/assets/Pasted image 20231130120413.png",
@@ -181,7 +183,6 @@
     "操作系统/assets/Pasted image 20231130114014.png",
     "操作系统/学校笔记/第8章：设备管理.md",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "日记/2023-11-30.md",
     "日记/2023-11-29.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "总结与体会.md",
