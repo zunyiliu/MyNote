@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-01.md",
+                "file": "日记/2023-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-01.md",
+                "file": "日记/2023-12-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-01.md",
+                "file": "日记/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-01.md"
+                "file": "日记/2023-12-02.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "c59dc88e36041fbc",
   "lastOpenFiles": [
     "日记/2023-12-01.md",
+    "日记/2023-12-02.md",
     "日记/2023-11-30.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
     "操作系统/学校笔记/第9章：文件系统.md",
@@ -205,7 +206,6 @@
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/习题/第六章.md",
     "计算机网络/hust课件/第6章 链路层和局域网（完整版）_20231026183439.pdf",
-    "计算机网络/学习笔记/第六章.md",
     "计算机网络/hust课件/2019级计算机通信与网络A卷试题.pdf",
     "计算机网络/hust课件/2019级A卷试题参考答案.pdf",
     "计算机网络/hust课件/2018级计算机通信与网络A卷试题.pdf",
