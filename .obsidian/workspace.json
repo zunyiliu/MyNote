@@ -26,9 +26,19 @@
                 "file": "数据库/CMU15445课件/10/10-sorting (翻译).pdf"
               }
             }
+          },
+          {
+            "id": "7441b2d1646a7dd6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
+                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
+                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (翻译).pdf"
+                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf"
               }
             }
           },
@@ -174,13 +184,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34e045becea53db9",
+  "active": "7441b2d1646a7dd6",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/10/10-sorting.pdf",
     "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
+    "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
+    "数据库/CMU15445课件/10/10-sorting.pdf",
     "日记/2023-12-03.md",
     "数据库/CMU15445课件/10/10-sorting (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
     "数据库/CMU15445课件/10/10-sorting (ppt).pdf.crdownload",
     "数据库/CMU15445课件/10/10-sorting.pdf.crdownload",
     "数据库/CMU15445课件/10",
