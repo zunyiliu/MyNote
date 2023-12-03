@@ -11,9 +11,11 @@
             "id": "c59dc88e36041fbc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "可信软件开发（华为）/课件/面向对象设计方法.pdf"
+                "file": "杂项/VScode C++环境配置.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可信软件开发（华为）/课件/面向对象设计方法.pdf",
+                "file": "杂项/VScode C++环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可信软件开发（华为）/课件/面向对象设计方法.pdf",
+                "file": "杂项/VScode C++环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可信软件开发（华为）/课件/面向对象设计方法.pdf"
+                "file": "杂项/VScode C++环境配置.md"
               }
             }
           },
@@ -165,8 +167,8 @@
   },
   "active": "c59dc88e36041fbc",
   "lastOpenFiles": [
-    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
     "日记/2023-12-02.md",
+    "可信软件开发（华为）/课件/开发者测试赋能(C++).pdf",
     "日记/2023-12-01.md",
     "日记/2023-11-30.md",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
@@ -210,7 +212,6 @@
     "计算机网络/hust课件/2020级A卷试题参考答案.pdf",
     "计算机网络/hust课件/第7章 无线网络和移动网络（完整版）_20231031162642.pdf",
     "计算机网络/ustc课件/计算机网络-郑老师-第6章.pdf",
-    "计算机网络/ustc课件/计算机网络-郑老师-第2章.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
