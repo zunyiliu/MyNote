@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cfbea1dd4e7915c",
+        "id": "ec17a179419cfbf3",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd93d640cda1463",
+            "id": "d5b5b1d0a744cb1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "日记/2023-12-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "日记/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md"
+                "file": "日记/2023-12-04.md"
               }
             }
           },
@@ -165,13 +161,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7dd93d640cda1463",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "Pasted image 20231204171346.png",
+    "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
+    "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf.crdownload",
+    "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf",
+    "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf.crdownload",
+    "数据库/CMU15445课件/12/12-queryexecution1.pdf",
+    "数据库/CMU15445课件/12/12-queryexecution1.pdf.crdownload",
+    "数据库/CMU15445课件/12",
+    "数据库/CMU15445课件/未命名.md",
+    "日记/2023-12-04.md",
+    "数据库/assets/Pasted image 20231204171346.png",
     "数据库/assets/Pasted image 20231204170349.png",
     "Pasted image 20231204170346.png",
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
-    "日记/2023-12-04.md",
     "数据库/CMU15445课件/11/11-joins (ppt).pdf",
     "数据库/CMU15445课件/11/11-joins (翻译).pdf",
     "数据库/CMU15445课件/11/11-joins.pdf",
@@ -183,24 +187,17 @@
     "数据库/assets/Pasted image 20231204161628.png",
     "数据库/assets/Pasted image 20231204160554.png",
     "数据库/assets/Pasted image 20231204155620.png",
-    "数据库/assets/Pasted image 20231204154425.png",
     "数据库/CMU15445课件/11/11-joins (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/11/11-joins(翻译).pdf",
-    "数据库/CMU15445课件/11/11-joins(翻译).pdf.crdownload",
     "现代C++/静态.md",
     "现代C++/C++类.md",
     "现代C++/关键字.md",
-    "现代C++",
     "日记/2023-12-03.md",
-    "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
     "日记/2023-12-02.md",
     "日记/2023-12-01.md",
     "日记/2023-11/2023-11-30.md",
     "日记/2023-11/2023-11-29.md",
     "日记/2023-11/2023-11-28.md",
     "日记/2023-11/2023-11-27.md",
-    "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
-    "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
     "数据库/CMU15445笔记/Lecture 10：Sorting & Aggregations Algorithms.md",
     "日记/2023-11/2023-11-23.md",
     "日记/2023-11/2023-11-25.md",
@@ -212,7 +209,6 @@
     "操作系统/学校笔记/第8章：设备管理.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "总结与体会.md",
-    "操作系统/学校笔记/第7章：主存管理.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
