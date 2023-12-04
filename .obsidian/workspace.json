@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2456e70b9f711c",
+        "id": "9cfbea1dd4e7915c",
         "type": "tabs",
         "children": [
           {
-            "id": "976a472fc76ecca8",
+            "id": "7dd93d640cda1463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 11：Joins Algorithms.md",
+                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd32e5fc1587e087",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/11/11-joins.pdf"
-              }
-            }
-          },
-          {
-            "id": "dde1a9c08cf68685",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/11/11-joins (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "b6b3a97826f728b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/11/11-joins (ppt).pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/11/11-joins (翻译).pdf",
+                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/11/11-joins (翻译).pdf",
+                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/11/11-joins (翻译).pdf"
+                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md"
               }
             }
           },
@@ -196,22 +165,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dde1a9c08cf68685",
+  "active": "7dd93d640cda1463",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/11/11-joins.pdf",
-    "数据库/CMU15445笔记/Lecture 11：Joins Algorithms.md",
+    "Pasted image 20231204171346.png",
+    "数据库/assets/Pasted image 20231204170349.png",
+    "Pasted image 20231204170346.png",
+    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+    "日记/2023-12-04.md",
     "数据库/CMU15445课件/11/11-joins (ppt).pdf",
     "数据库/CMU15445课件/11/11-joins (翻译).pdf",
-    "Pasted image 20231204161628.png",
-    "Pasted image 20231204160554.png",
-    "Pasted image 20231204160528.png",
+    "数据库/CMU15445课件/11/11-joins.pdf",
+    "数据库/CMU15445笔记/Lecture 11：Joins Algorithms.md",
+    "数据库/assets/Pasted image 20231204162826.png",
+    "数据库/assets/Pasted image 20231204162641.png",
+    "数据库/assets/Pasted image 20231204160528.png",
+    "数据库/assets/Pasted image 20231204162341.png",
+    "数据库/assets/Pasted image 20231204161628.png",
+    "数据库/assets/Pasted image 20231204160554.png",
     "数据库/assets/Pasted image 20231204155620.png",
     "数据库/assets/Pasted image 20231204154425.png",
-    "数据库/assets/Pasted image 20231204155158.png",
-    "Pasted image 20231204155147.png",
-    "数据库/assets/Pasted image 20231204154920.png",
-    "数据库/assets/Pasted image 20231204154553.png",
-    "日记/2023-12-04.md",
     "数据库/CMU15445课件/11/11-joins (翻译).pdf.crdownload",
     "数据库/CMU15445课件/11/11-joins(翻译).pdf",
     "数据库/CMU15445课件/11/11-joins(翻译).pdf.crdownload",
@@ -230,7 +202,6 @@
     "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
     "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
     "数据库/CMU15445笔记/Lecture 10：Sorting & Aggregations Algorithms.md",
-    "数据库/assets/Pasted image 20231203192348.png",
     "日记/2023-11/2023-11-23.md",
     "日记/2023-11/2023-11-25.md",
     "日记/2023-11/2023-11-26.md",
@@ -242,7 +213,6 @@
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "总结与体会.md",
     "操作系统/学校笔记/第7章：主存管理.md",
-    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
