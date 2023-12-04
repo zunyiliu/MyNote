@@ -8,14 +8,49 @@
         "type": "tabs",
         "children": [
           {
+            "id": "80707d0a8bda08b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5b5b1d0a744cb1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/12/12-queryexecution1.pdf"
+              }
+            }
+          },
+          {
+            "id": "d975021100d796f7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf"
+              }
+            }
+          },
+          {
+            "id": "27a85ce911116c97",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-04.md"
+                "file": "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf"
               }
             }
           },
@@ -161,17 +196,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "d975021100d796f7",
   "lastOpenFiles": [
+    "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
     "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
-    "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf.crdownload",
     "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf",
-    "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf.crdownload",
     "数据库/CMU15445课件/12/12-queryexecution1.pdf",
+    "Pasted image 20231204191912.png",
+    "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
+    "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
+    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
+    "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
+    "日记/2023-12-04.md",
+    "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf.crdownload",
+    "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf.crdownload",
     "数据库/CMU15445课件/12/12-queryexecution1.pdf.crdownload",
     "数据库/CMU15445课件/12",
     "数据库/CMU15445课件/未命名.md",
-    "日记/2023-12-04.md",
     "数据库/assets/Pasted image 20231204171346.png",
     "数据库/assets/Pasted image 20231204170349.png",
     "Pasted image 20231204170346.png",
@@ -186,8 +227,6 @@
     "数据库/assets/Pasted image 20231204162341.png",
     "数据库/assets/Pasted image 20231204161628.png",
     "数据库/assets/Pasted image 20231204160554.png",
-    "数据库/assets/Pasted image 20231204155620.png",
-    "数据库/CMU15445课件/11/11-joins (翻译).pdf.crdownload",
     "现代C++/静态.md",
     "现代C++/C++类.md",
     "现代C++/关键字.md",
@@ -204,11 +243,6 @@
     "日记/2023-11/2023-11-26.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
-    "杂项/VScode C++环境配置.md",
-    "操作系统/学校笔记/第9章：文件系统.md",
-    "操作系统/学校笔记/第8章：设备管理.md",
-    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
-    "总结与体会.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
