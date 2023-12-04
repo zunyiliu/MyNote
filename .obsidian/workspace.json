@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6675c325eae3ec5b",
+        "id": "f78f2322dad074ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba55a58850842c5",
+            "id": "f5d52dd4ae4574a0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting.pdf"
-              }
-            }
-          },
-          {
-            "id": "34e045becea53db9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "7441b2d1646a7dd6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf"
+                "file": "日记/2023-12-03.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
+                "file": "日记/2023-12-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
+                "file": "日记/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/10/10-sorting (ppt).pdf"
+                "file": "日记/2023-12-03.md"
               }
             }
           },
@@ -184,12 +165,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7441b2d1646a7dd6",
+  "active": "f5d52dd4ae4574a0",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
-    "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
-    "数据库/CMU15445课件/10/10-sorting.pdf",
+    "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
     "日记/2023-12-03.md",
+    "日记/2023-12-02.md",
+    "日记/2023-12-01.md",
+    "日记/2023-11/2023-11-30.md",
+    "日记/2023-11/2023-11-29.md",
+    "日记/2023-11/2023-11-28.md",
+    "日记/2023-11/2023-11-27.md",
+    "数据库/CMU15445课件/10/10-sorting (ppt).pdf",
+    "数据库/CMU15445课件/10/10-sorting (翻译).pdf",
+    "数据库/CMU15445课件/10/10-sorting.pdf",
+    "数据库/CMU15445笔记/Lecture 10：Sorting & Aggregations Algorithms.md",
+    "数据库/assets/Pasted image 20231203192348.png",
+    "数据库/assets/Pasted image 20231203192808.png",
+    "Pasted image 20231203192806.png",
+    "数据库/assets/Pasted image 20231203192636.png",
     "数据库/CMU15445课件/10/10-sorting (翻译).pdf.crdownload",
     "数据库/CMU15445课件/10/10-sorting (ppt).pdf.crdownload",
     "数据库/CMU15445课件/10/10-sorting.pdf.crdownload",
@@ -198,12 +191,6 @@
     "日记/2023-11",
     "日记/2023-11/2023-11-25.md",
     "日记/2023-11/2023-11-26.md",
-    "日记/2023-11/2023-11-27.md",
-    "日记/2023-11/2023-11-28.md",
-    "日记/2023-11/2023-11-29.md",
-    "日记/2023-11/2023-11-30.md",
-    "日记/2023-12-01.md",
-    "日记/2023-12-02.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
     "杂项/VScode C++环境配置.md",
@@ -216,10 +203,6 @@
     "操作系统/assets/Pasted image 20231130115541.png",
     "操作系统/assets/Pasted image 20231130115225.png",
     "操作系统/assets/Pasted image 20231130115129.png",
-    "操作系统/assets/Pasted image 20231130113057.png",
-    "操作系统/assets/Pasted image 20231130114035.png",
-    "操作系统/assets/Pasted image 20231130114025.png",
-    "操作系统/assets/Pasted image 20231130114014.png",
     "操作系统/学校笔记/第8章：设备管理.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "总结与体会.md",
@@ -230,7 +213,6 @@
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/学校笔记/第6章：处理机调度.md",
-    "计算机网络/学习笔记/第二章.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
