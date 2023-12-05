@@ -53,3 +53,87 @@ Search功能的入口函数如上，我们接收一个key，需要找到对应�
 ![[Pasted image 20231204171346.png]]
 与内部节点的LookUp函数原理差不多，利用std::lower_bound快速找到对应的value
 
+# Insert
+## 概述
+```cpp
+auto BPLUSTREE_TYPE::Insert(const KeyType &key, const ValueType &value, Transaction *transaction) -> bool
+```
+该接口提供key和value，需要在指定位置上进行插入，同时不允许重复键，如果插入失败就返回false
+
+大致流程如下：
+1. 如果为空树，需要创建一个B+树
+2. 如果不是空树，就找到该key应该插入的叶子节点
+3. 如果有重复键，就返回false
+4. 如果叶子节点插入后未满，就直接返回true
+5. 如果叶子节点满了，就需要分裂该叶子节点，并向上插入
+
+## Insert的上锁原则
+- 首先获取root_page_id_latch的WLatch
+- 获取根节点的WLatch，并作如下判断
+	- 如果根节点未满（叶子节点和内部节点要求不同），则可以释放root_page_id_latch，因为根节点不会发生变化
+- 每次获取儿子page后，获取其WLatch，并判断其是否安全，如果安全，就释放之前所获取的全部祖先节点的WULatch。
+	- 安全标准：假如该儿子节点发生Insert，仍然未满，就说明不会向上插入，也就说明是安全的。
+- 最后返回叶子节点时，**保证所有可能发生改变的节点都持有WLatch，且page位于transaction中**
+
+## ReleaseLatchFromQueue函数
+这个函数保证释放所有在transaction中的page的WULatch，并调用`buffer_pool_manager_->UnpinPage`，这样就释放了在FindLeaf中取出的page
+
+## Insert中的FindLeaf函数
+根据Insert的上锁原则，不断向下，最终获取叶子节点。
+- 最后返回时保证所有可能发生改变的祖先节点都持有WLatch并在transaction中。
+- 返回的
+
+## Insert中的Split函数
+概述：
+```cpp
+INDEX_TEMPLATE_ARGUMENTS  
+template <typename N>  
+auto BPLUSTREE_TYPE::Split(N *node) -> N *
+```
+这里采用模板N，可以同时接收内部节点和叶子节点的split
+
+大致流程：
+1. 接收一个需要分裂的节点参数
+2. 创建一个新page
+3. 将该节点的后半部分数据移到新的page中，这里分为叶子节点的MoveHalfTo和内部节点的MoveHalfTo
+
+关于叶子节点的MoveHalfTo：
+1. 接收一个需要转移的目标节点参数
+2. 设置自身节点大小为最小值
+3. 将后半部分的数据直接转移到目标节点的尾部
+
+关于内部节点的MoveHalfTo：
+1. 接收一个需要转移的目标节点参数和BufferPoolManager
+2. 设置自身节点大小为最小值
+3. 将后半部分的数据转移到目标节点的尾部，并从BufferPoolManager中取出儿子节点，修改其父亲节点id。这里由于我们已经持有了该节点的Latch，所以我们可以直接修改儿子节点的信息
+
+## Insert中的InsertIntoParent函数
+- 该函数是一个递归函数
+- 进入该函数时保证所有可能修改的祖先节点都已经上了WLatch，并保存在了transaction中。
+- 我们需要一直向上插入，直到不会分裂为止
+- 接收参数为old_node、new_node、需要向上插入的key、transaction
+
+大致流程如下：
+1. 判断old_node是否为根节点，根节点需要进行特殊处理，同时也是递归终止条件1
+	- 创建新page
+	- 将old_node和new_node分别设置为新page的儿子节点
+	- 设置old_node和new_node的父亲节点id
+	- 更新root_page_id，需要调用`UpdateRootPageId(0)`
+	- 调用`ReleaseLatchFromQueue(transaction);`，释放所有祖先节点的WULatch
+2. 根据old_node的parent_id找到父亲节点
+3. 如果`parent_node->GetSize() < internal_max_size_`，那么说明插入后不需要分裂，这是递归中止条件2
+	- 调用`InsertNodeAfter`函数
+	- 调用`ReleaseLatchFromQueue`，释放所有祖先节点的WULatch
+	- 调用`buffer_pool_manager_->UnpinPage`
+4. 否则我们调用`InsertNodeAfter`函数后，将该parent_node进行split，一样的套路递归调用自身
+
+代码如下：
+![[Pasted image 20231205170651.png]]
+每次递归调用后，我们都会调用`buffer_pool_manager_->UnpinPage`，这是因为`ReleaseLathFromQueue`保证释放所有写锁和之前FindLeaf中的获取的页，但这里需要保证设置这些改变的页为脏页
+
+关于内部节点的InsertNodeAfter：
+![[Pasted image 20231205171004.png]]
+我们找到old_node在父节点中的位置，在他后面插入new_key和new_node的page_id
+
+## Insert中的InsertIntoLeaf函数
+该函数才是实际上的Insert函数，主要就是对以上辅助函数的组织和调用，流程就是上面的大致流程。
