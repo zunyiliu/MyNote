@@ -81,7 +81,7 @@ auto BPLUSTREE_TYPE::Insert(const KeyType &key, const ValueType &value, Transact
 ## Insert中的FindLeaf函数
 根据Insert的上锁原则，不断向下，最终获取叶子节点。
 - 最后返回时保证所有可能发生改变的祖先节点都持有WLatch并在transaction中。
-- 返回的
+- 返回的叶子节点保证获取WLatch，但不位于transaction中
 
 ## Insert中的Split函数
 概述：
@@ -137,3 +137,4 @@ auto BPLUSTREE_TYPE::Split(N *node) -> N *
 
 ## Insert中的InsertIntoLeaf函数
 该函数才是实际上的Insert函数，主要就是对以上辅助函数的组织和调用，流程就是上面的大致流程。
+
