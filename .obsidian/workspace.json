@@ -8,18 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a5e975405a36019",
+            "id": "e76b1cc1569d7ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-05.md",
+                "file": "数据库/CMU15445笔记/Lecture 13：Query Execution II.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a5e975405a36019",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/13/13-queryexecution2.pdf"
+              }
+            }
+          },
+          {
+            "id": "a82c682703e72f46",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf"
+              }
+            }
+          },
+          {
+            "id": "7859e69422cdce6c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/13/13-queryexecution2 (ppt).pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-05.md",
+                "file": "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-05.md",
+                "file": "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-05.md"
+                "file": "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf"
               }
             }
           },
@@ -165,11 +196,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a5e975405a36019",
+  "active": "a82c682703e72f46",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/13/13-queryexecution2.pdf",
+    "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf",
+    "数据库/CMU15445课件/13/13-queryexecution2 (ppt).pdf",
+    "数据库/CMU15445笔记/Lecture 13：Query Execution II.md",
+    "日记/2023-12-05.md",
+    "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf.crdownload",
+    "数据库/CMU15445课件/13/13-queryexecution2 (1).pdf.crdownload",
+    "数据库/CMU15445课件/13/13-queryexecution2.pdf.crdownload",
+    "数据库/CMU15445课件/13",
     "现代C++/C++类.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "日记/2023-12-05.md",
     "日记/2023-12-04.md",
     "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf",
     "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
@@ -189,16 +228,9 @@
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
-    "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf.crdownload",
-    "数据库/CMU15445课件/12/12-queryexecution1.pdf.crdownload",
-    "数据库/CMU15445课件/12",
     "数据库/CMU15445课件/未命名.md",
     "数据库/assets/Pasted image 20231204171346.png",
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
-    "数据库/CMU15445课件/11/11-joins (ppt).pdf",
-    "数据库/CMU15445课件/11/11-joins (翻译).pdf",
-    "数据库/CMU15445课件/11/11-joins.pdf",
     "数据库/CMU15445笔记/Lecture 11：Joins Algorithms.md",
     "现代C++/静态.md",
     "现代C++/关键字.md",
@@ -211,8 +243,6 @@
     "日记/2023-11/2023-11-27.md",
     "数据库/CMU15445笔记/Lecture 10：Sorting & Aggregations Algorithms.md",
     "日记/2023-11/2023-11-23.md",
-    "日记/2023-11/2023-11-25.md",
-    "日记/2023-11/2023-11-26.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
