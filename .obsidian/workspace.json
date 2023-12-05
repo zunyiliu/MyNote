@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12658804654918ef",
+        "id": "3616b823867c7629",
         "type": "tabs",
         "children": [
           {
-            "id": "e76b1cc1569d7ff9",
+            "id": "611b68bd95444dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "日记/2023-12-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "日记/2023-12-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "日记/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md"
+                "file": "日记/2023-12-05.md"
               }
             }
           },
@@ -165,8 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e76b1cc1569d7ff9",
+  "active": "611b68bd95444dd7",
   "lastOpenFiles": [
+    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+    "Pasted image 20231205191428.png",
+    "数据库/assets/Pasted image 20231205191241.png",
+    "数据库/assets/Pasted image 20231205185814.png",
+    "数据库/assets/Pasted image 20231205190626.png",
+    "数据库/assets/Pasted image 20231205190353.png",
+    "数据库/assets/Pasted image 20231205190225.png",
     "数据库/assets/Pasted image 20231205171004.png",
     "数据库/assets/Pasted image 20231205170651.png",
     "日记/2023-12-05.md",
@@ -176,12 +183,6 @@
     "数据库/CMU15445课件/13/13-queryexecution2 (ppt).pdf",
     "Pasted image 20231205161211.png",
     "数据库/assets/Pasted image 20231205160456.png",
-    "数据库/assets/Pasted image 20231205160052.png",
-    "数据库/assets/Pasted image 20231205155600.png",
-    "数据库/assets/Pasted image 20231205152943.png",
-    "数据库/assets/Pasted image 20231205153322.png",
-    "数据库/assets/Pasted image 20231205153320.png",
-    "数据库/assets/Pasted image 20231205153105.png",
     "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf.crdownload",
     "数据库/CMU15445课件/13/13-queryexecution2 (1).pdf.crdownload",
     "数据库/CMU15445课件/13/13-queryexecution2.pdf.crdownload",
@@ -193,14 +194,12 @@
     "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
     "数据库/CMU15445课件/12/12-queryexecution1.pdf",
     "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
-    "数据库/assets/Pasted image 20231204200430.png",
     "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
     "数据库/CMU15445课件/未命名.md",
-    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "数据库/CMU15445笔记/Lecture 11：Joins Algorithms.md",
     "现代C++/静态.md",
     "现代C++/关键字.md",

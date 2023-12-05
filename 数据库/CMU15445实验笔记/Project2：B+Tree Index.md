@@ -138,3 +138,78 @@ auto BPLUSTREE_TYPE::Split(N *node) -> N *
 ## Insert中的InsertIntoLeaf函数
 该函数才是实际上的Insert函数，主要就是对以上辅助函数的组织和调用，流程就是上面的大致流程。
 
+# Delete
+## 概述
+```cpp
+void BPLUSTREE_TYPE::Remove(const KeyType &key, Transaction *transaction)
+```
+接收一个key，需要删除对应key的value
+
+大致流程：
+1. 找到叶子节点，并在叶子节点上进行删除
+2. 如果删除后的叶子节点仍然满足大小要求，直接返回
+3. 如果删除后的叶子节点不满足大小要求，进入`CoalesceOrRedistribute`函数，进行递归式的再分配或合并
+4. 将transaction中需要删除的page全部删除
+
+## Delete中的CoalesceOrRedistribute函数
+- 这是一个递归函数，用于将传入的节点进行再分配或合并，从而使B+树满足要求
+- 递归结束时，调用ReleaseLatchFromQueue，释放所有在FindLeaf中获取的锁和page
+
+关于再分配：
+- 再分配就是递归的终止条件，因为不再需要从父节点中删除key，也就不会发生改变
+- 需要从当前节点的前一个兄弟节点或后一个兄弟节点中借一个key/value
+- 完成借节点后还需要在父节点处修改对应的key
+
+关于合并：
+- 合并永远选择合并到前一个节点中
+- 合并后需要从父节点中删除一个key
+- 删除后需要递归调用CoalesceOrRedistribute函数，确保父节点满足要求
+
+## Delete中的FindLeaf函数
+和Insert的思路差不多，都是遵守安全的上锁原则，确保所有可能发生改变的节点都上了WLatch，且page位于transaction中
+
+## Delete中的Coalesce函数
+![[Pasted image 20231205185814.png]]
+- 我们确保neighbor_node是最后合并的节点，因而我们需要将node的所有key转移到兄弟节点中
+- 传入的index是node在parent中的index，这样就可以删除被移除节点在父节点中的key
+- 由于父节点发生变化，需要递归调用CoalesceOrRedistribute函数，参数为parent_node
+
+关于叶子节点的MoveAllTo函数
+![[Pasted image 20231205190225.png]]
+- 就是直接将所有key/value全部移到目标节点中
+- 由于我们确保合并进前一个节点，因而可以直接设置目标节点的下一个兄弟节点指针
+- 设置大小为0，表示删除
+
+关于内部节点的MoveAllTo函数
+![[Pasted image 20231205190353.png]]
+- 接收的middle_key是被合并节点的第0个key（在parent中）
+- 我们首先需要设备key\[0]，这样才能确保移交的key/value是正确的
+
+## Delete中的Redistribute函数
+![[Pasted image 20231205190626.png]]
+- 叶子节点和内部节点的处理不同，因而需要分开处理
+- 传入的from_prev表示邻居节点是否来自前一个，用于判断再分配函数
+
+## Delete中的Remove函数
+流程就是上述提到的大致流程
+
+# Iterator
+迭代器是位于叶子节点上的迭代器，具有迭代器的通用函数和操作，定义如下：
+![[Pasted image 20231205191241.png]]
+这里我们需要用到的变量包括：
+- buffer_pool_manager_：用于存取page
+- 当前所在的page和leaf
+- 当前遍历到的key/value的index
+
+## 构造函数
+除了对应变量的初始化外，我们保证获取到的page是已经上了RLatch的
+
+## 析构函数
+不仅要释放当前的page，还要将page的锁释放
+
+## operator++()
+先将下一个兄弟节点上RLatch，然后释放当前page，并转移到下一个page
+
+# Begin()、Begin(const KeyType &key)、End()
+都比较好处理，可以直接看代码
+
