@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "日记/2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "日记/2023-12-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "日记/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-04.md"
+                "file": "日记/2023-12-06.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "611b68bd95444dd7",
   "lastOpenFiles": [
+    "日记/2023-12-04.md",
+    "日记/2023-12-06.md",
     "日记/2023-12-05.md",
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "Pasted image 20231205191428.png",
@@ -189,7 +191,6 @@
     "数据库/CMU15445课件/13",
     "现代C++/C++类.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "日记/2023-12-04.md",
     "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf",
     "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
     "数据库/CMU15445课件/12/12-queryexecution1.pdf",
