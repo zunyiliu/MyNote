@@ -11,15 +11,24 @@
             "id": "611b68bd95444dd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "现代C++/关键字.md",
-                "mode": "source",
-                "source": false
+                "file": "数据库/CMU15445课件/14/14-optimization.pdf"
+              }
+            }
+          },
+          {
+            "id": "ed8f4523c4829d3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/14/14-optimization (翻译).pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "数据库/CMU15445课件/14/14-optimization (翻译).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "数据库/CMU15445课件/14/14-optimization (翻译).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "现代C++/关键字.md"
+                "file": "数据库/CMU15445课件/14/14-optimization (翻译).pdf"
               }
             }
           },
@@ -165,8 +174,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "611b68bd95444dd7",
+  "active": "ed8f4523c4829d3e",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/14/14-optimization.pdf",
+    "数据库/CMU15445课件/14/14-optimization (翻译).pdf",
+    "现代C++/关键字.md",
+    "数据库/CMU15445课件/14/14-optimization (翻译).pdf.crdownload",
+    "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
+    "数据库/CMU15445课件/14/14-optimization (ppt).pdf.crdownload",
+    "数据库/CMU15445课件/14/14-optimization.pdf.crdownload",
+    "数据库/CMU15445课件/14",
     "现代C++/C++类.md",
     "日记/2023-12-06.md",
     "日记/2023-12-04.md",
@@ -186,14 +203,7 @@
     "数据库/CMU15445课件/13/13-queryexecution2 (ppt).pdf",
     "Pasted image 20231205161211.png",
     "数据库/assets/Pasted image 20231205160456.png",
-    "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/13/13-queryexecution2 (1).pdf.crdownload",
-    "数据库/CMU15445课件/13/13-queryexecution2.pdf.crdownload",
-    "数据库/CMU15445课件/13",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "数据库/CMU15445课件/12/12-queryexecution1 (ppt).pdf",
-    "数据库/CMU15445课件/12/12-queryexecution1 (翻译).pdf",
-    "数据库/CMU15445课件/12/12-queryexecution1.pdf",
     "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
     "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
@@ -203,7 +213,6 @@
     "数据库/CMU15445课件/未命名.md",
     "数据库/CMU15445笔记/Lecture 11：Joins Algorithms.md",
     "现代C++/静态.md",
-    "现代C++/关键字.md",
     "日记/2023-12-03.md",
     "日记/2023-12-02.md",
     "日记/2023-12-01.md",
@@ -212,7 +221,6 @@
     "日记/2023-11/2023-11-28.md",
     "日记/2023-11/2023-11-27.md",
     "数据库/CMU15445笔记/Lecture 10：Sorting & Aggregations Algorithms.md",
-    "日记/2023-11/2023-11-23.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
