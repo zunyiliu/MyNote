@@ -8,49 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b43a45cc4fae2a4",
+            "id": "83b5a9536086a004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
+                "file": "日记/2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "611b68bd95444dd7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/14/14-optimization.pdf"
-              }
-            }
-          },
-          {
-            "id": "ed8f4523c4829d3e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/14/14-optimization (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "83b5a9536086a004",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
+                "file": "日记/2023-12-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
+                "file": "日记/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf"
+                "file": "日记/2023-12-06.md"
               }
             }
           },
