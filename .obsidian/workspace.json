@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
+                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
+                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md"
+                "file": "数据库/CMU15445课件/14/14-optimization (ppt).pdf"
               }
             }
           },
@@ -195,16 +196,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0b43a45cc4fae2a4",
+  "active": "83b5a9536086a004",
   "lastOpenFiles": [
-    "Pasted image 20231206153409.png",
-    "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
     "数据库/CMU15445课件/14/14-optimization (翻译).pdf",
     "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
-    "Pasted image 20231206153237.png",
+    "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
     "数据库/CMU15445课件/14/14-optimization.pdf",
-    "Pasted image 20231206152644.png",
-    "Pasted image 20231206151207.png",
+    "数据库/assets/Pasted image 20231206154425.png",
+    "数据库/assets/Pasted image 20231206151207.png",
+    "数据库/assets/Pasted image 20231206153425.png",
+    "数据库/assets/Pasted image 20231206153409.png",
+    "数据库/assets/Pasted image 20231206153237.png",
+    "数据库/assets/Pasted image 20231206152644.png",
     "现代C++/关键字.md",
     "数据库/CMU15445课件/14/14-optimization (翻译).pdf.crdownload",
     "数据库/CMU15445课件/14/14-optimization (ppt).pdf.crdownload",
@@ -219,9 +222,6 @@
     "数据库/assets/Pasted image 20231205191241.png",
     "数据库/assets/Pasted image 20231205185814.png",
     "数据库/assets/Pasted image 20231205190626.png",
-    "数据库/assets/Pasted image 20231205190353.png",
-    "数据库/assets/Pasted image 20231205190225.png",
-    "数据库/assets/Pasted image 20231205171004.png",
     "数据库/CMU15445笔记/Lecture 13：Query Execution II.md",
     "数据库/CMU15445课件/13/13-queryexecution2.pdf",
     "数据库/CMU15445课件/13/13-queryexecution2 (翻译).pdf",
