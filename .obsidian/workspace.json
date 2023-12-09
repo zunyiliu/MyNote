@@ -11,11 +11,9 @@
             "id": "3b4984ad01186d60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-12-04.md",
-                "mode": "source",
-                "source": false
+                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-04.md",
+                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-04.md"
+                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf"
               }
             }
           },
@@ -168,6 +166,7 @@
   "active": "3b4984ad01186d60",
   "lastOpenFiles": [
     "日记/2023-12-09.md",
+    "日记/阶段计划2023.12.9.md",
     "日记/2023-12-06.md",
     "日记/2023-12-07.md",
     "日记/2023-12-05.md",
@@ -212,7 +211,6 @@
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
     "数据库/CMU15445课件/未命名.md",
     "日记/2023-11/2023-11-30.md",
-    "日记/2023-11/2023-11-29.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
