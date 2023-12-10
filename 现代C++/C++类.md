@@ -79,5 +79,47 @@ Entity() : m_Name("Unknow"), m_Score(0)
 - 使用成员初始化列表的原因：代码风格简洁，**避免性能浪费**
 - 我们应该尽可能使用成员初始化列表来进行类成员初始化，一方面可以使构造函数内部简介，用于做其他的事情，另一方面是真的关乎性能。
 
+# 创建并初始化C++对象
+- 基本上，当我们编写了一个类并且到了我们实际开始使用该类的时候，就需要实例化它(除非它是完全静态的类)
+- 实例化类有两种选择，可以放在栈上，也可以放在堆上
+- 基本的初始化就是栈分配，用new就是堆分配
 
+# 隐式转换与explicit关键字
+## 隐式转换
+```cpp
+#include <iostream>
+
+class Entity
+{
+private:
+    std::string m_Name;
+    int m_Age;
+public:
+    Entity(const std::string& name)
+        : m_Name(name), m_Age(-1) {}
+
+    Entity(int age)
+        : m_Name("Unknown"), m_Age(age) {}
+};
+
+int main()
+{
+    Entity test1("lk");
+    Entity test2(23); 
+    Entity test3 = "lk"; //error!只能进行一次隐式转换
+    Entity test4 = std::string("lk");
+    Entity test5 = 23; //发生隐式转换
+    
+    std::cin.get();
+}
+```
+- **隐式转换只能进行一次**
+- test1、test2都是直接调用构造函数
+- test4、test5都是进行了一次隐式转换，即先将参数构造成Entity，再将Entity赋值给变量
+- 对于test3，`Entity test3 = "lk";`会报错，原因是**只能进行一次隐式转换**，`"lk"`是`const char`数组，这里需要先转换为`std::string`，再从string转换为Entity变量，两次隐式转换是不行的，所以会报错。
+- 我们在实际应用中应尽可能避免隐式转换
+
+## explicit关键字
+- explicit是用来当你想要显示地调用构造函数，而不是让C++编译器隐式地把任何整形转换成Entity
+- 如果你在构造函数前面加上explicit，这意味着这个构造函数不会进行隐式转换
 
