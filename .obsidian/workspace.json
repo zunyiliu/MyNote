@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4c545e19b54df4ce",
+        "id": "6702fb04c7070388",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4984ad01186d60",
+            "id": "038b26fdf452d6ab",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
+                "file": "日记/2023-12-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf",
+                "file": "日记/2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校资料/操作系统课件/课程介绍2023.pdf"
+                "file": "日记/2023-12-09.md"
               }
             }
           },
@@ -163,7 +161,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b4984ad01186d60",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
     "日记/2023-12-09.md",
     "日记/阶段计划2023.12.9.md",
