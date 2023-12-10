@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "现代C++/智能指针.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "现代C++/智能指针.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "现代C++/智能指针.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "现代C++/关键字.md"
+                "file": "现代C++/智能指针.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "038b26fdf452d6ab",
   "lastOpenFiles": [
-    "现代C++/C++类.md",
     "现代C++/关键字.md",
+    "现代C++/智能指针.md",
+    "现代C++/C++类.md",
     "日记/2023-12-10.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
@@ -212,7 +213,6 @@
     "数据库/CMU15445笔记/Lecture 08：Trees Indexes.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
-    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
