@@ -8,18 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cde470d9f7f6a771",
+            "id": "30d286541cdb152e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-12.md",
+                "file": "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cde470d9f7f6a771",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/15/15-concurrencycontrol.pdf"
+              }
+            }
+          },
+          {
+            "id": "9c6980c96d205f3d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/15/15-concurrencycontrol (翻译).pdf"
+              }
+            }
+          },
+          {
+            "id": "b5fe945339c73a2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-12.md",
+                "file": "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-12.md",
+                "file": "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-12.md"
+                "file": "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf"
               }
             }
           },
@@ -165,13 +196,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cde470d9f7f6a771",
+  "active": "b5fe945339c73a2a",
   "lastOpenFiles": [
+    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
+    "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf",
+    "数据库/CMU15445课件/15/15-concurrencycontrol (翻译).pdf",
+    "数据库/CMU15445课件/15/15-concurrencycontrol.pdf",
+    "日记/2023-12-12.md",
     "数据库/assets/Pasted image 20231212171757.png",
     "数据库/assets/Pasted image 20231212170936.png",
     "数据库/assets/Pasted image 20231212165553.png",
     "数据库/assets/Pasted image 20231212165233.png",
-    "日记/2023-12-12.md",
     "现代C++/智能指针.md",
     "现代C++/C++类.md",
     "现代C++/C++如何工作.md",
@@ -207,12 +242,7 @@
     "数据库/assets/Pasted image 20231206151207.png",
     "数据库/assets/Pasted image 20231206153425.png",
     "数据库/assets/Pasted image 20231206153409.png",
-    "数据库/assets/Pasted image 20231206153237.png",
     "数据库/CMU15445课件/14/14-optimization (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/14/14-optimization (ppt).pdf.crdownload",
-    "数据库/CMU15445课件/14/14-optimization.pdf.crdownload",
-    "数据库/CMU15445课件/14",
-    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
