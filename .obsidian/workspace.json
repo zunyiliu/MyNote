@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2023-12-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2023-12-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md"
+                "file": "日记/2023-12-12.md"
               }
             }
           },
@@ -167,6 +167,10 @@
   },
   "active": "cde470d9f7f6a771",
   "lastOpenFiles": [
+    "数据库/assets/Pasted image 20231212171757.png",
+    "数据库/assets/Pasted image 20231212170936.png",
+    "数据库/assets/Pasted image 20231212165553.png",
+    "数据库/assets/Pasted image 20231212165233.png",
     "日记/2023-12-12.md",
     "现代C++/智能指针.md",
     "现代C++/C++类.md",
@@ -204,15 +208,11 @@
     "数据库/assets/Pasted image 20231206153425.png",
     "数据库/assets/Pasted image 20231206153409.png",
     "数据库/assets/Pasted image 20231206153237.png",
-    "数据库/assets/Pasted image 20231206152644.png",
     "数据库/CMU15445课件/14/14-optimization (翻译).pdf.crdownload",
     "数据库/CMU15445课件/14/14-optimization (ppt).pdf.crdownload",
     "数据库/CMU15445课件/14/14-optimization.pdf.crdownload",
     "数据库/CMU15445课件/14",
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
-    "Pasted image 20231205191428.png",
-    "数据库/assets/Pasted image 20231205191241.png",
-    "数据库/CMU15445笔记/Lecture 13：Query Execution II.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
