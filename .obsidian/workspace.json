@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验一：环境配置.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验一：环境配置.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验一：环境配置.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验一：环境配置.md"
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13da2557182c2e48",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯 - 副本.txt",
+    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯 - 副本.md",
     "日记/2023-12-13.md",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
@@ -207,8 +209,6 @@
     "日记/2023-12-01.md",
     "日记/2023-12-02.md",
     "日记/2023-12-03.md",
-    "日记/2023-12-04.md",
-    "日记/2023-12-08.md",
     "数据库/CMU15445课件/14/14-optimization (翻译).pdf",
     "数据库/CMU15445课件/14/14-optimization (ppt).pdf",
     "数据库/CMU15445课件/14/14-optimization.pdf",

@@ -1,0 +1,31 @@
+本次实验需要我们配置香橙派，从而能够运行lab5的代码。
+
+1. 首先编辑配置文件
+	- `vim /etc/systemd/system/dbus-org.bluez.service`
+	- `ExecStart =/usr/lib/bluetooth/bluetoothd -C`
+	- `ExecStartPost=/usr/bin/sdptool add SP`
+	- 然后重启
+2. 然后启动蓝牙设备
+	- sudo bluetoothctl
+	- 进入蓝牙shell会显示\[bluetooth]#
+	- power on //启动设备
+	- discoverable on //让设备可被发现
+	- pairable on //让设备可匹配
+	- scan on //开启扫描
+	- scan off //关闭扫描
+	- paired-devices //查看已配对设备
+1. sudo rfcomm -r watch 0 1 //设置为等待连接，需要在另一个终端中进行
+2. 在手机上安装“SPP蓝牙串口”
+3. 在手机上搜索开发板的蓝牙设备，需要先配对；在手机上进入蓝牙串口程序，进行连接。建立连接后，在开发板上运行 lab5 的测试程序。
+
+实验结果：
+运行lab5程序可以在开发板屏幕上看到手机app发来的消息，点击屏幕上的send按钮可以向手机发送“hello”字样。
+
+踩坑：
+lab5代码还有点问题，具体表现为无法实现触屏，查看lab5代码并与lab4代码对比后发现，需要修改**触摸事件编号**，这样就能正确实现功能。
+
+两个香橙派之间的连接：
+- 服务器：`sudo rfcomm -r watch 0 1` //表示在通道0上等待连接
+- 客户端：`sudo rfcomm -r connect rfcomm0 D0:A4:6F:CF:B5:80` //表示通过设备rfcomm0连接到对应MAC地址
+- 两个设备需要先配对，配对方式已经在开发手册中写明，我们之后直接拿翁老师的开发板去检查就行。
+
