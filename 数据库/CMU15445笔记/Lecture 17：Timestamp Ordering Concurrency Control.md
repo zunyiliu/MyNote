@@ -31,4 +31,73 @@ Basic T/O如果不适用托马斯写规则有以下特点：
 - 它会生成一个可冲突序列化的调度
 - 它不能有死锁，因为没有事务在等待
 - 如果短事务持续产生冲突，则存在长事务“饥饿”的可能性（长事务时间戳早，短事务时间戳晚，如果长事务对短事务发生冲突，长事务就会中止）
-- 如果事务只在它读取的所有事务的更改提交之后提交，那么调度是可恢复的。 否则，DBMS 不能保证事务读取将在从崩溃中恢复后恢复的数据
+- 如果事务只在它读取的所有事务的更改提交之后提交，那么调度是可恢复的。 否则，DBMS 无法保证事务读取的数据会在崩溃恢复后被还原，**该条见下**：
+![[Pasted image 20231214193411.png]]
+
+
+>Andy is not aware of any DBMS that uses the basic T/O protocol described here. 
+>	→ It provides the building blocks for OCC / MVCC（它为OCC、MVCC提供了基础）
+
+潜在的问题：
+- 复制数据到事务工作区和更新时间戳的高开销（要求在本地保留读取的数据）
+- 长时间运行的事务可能会”饿死“
+- 在高并发系统上受到时间戳分配瓶颈的影响
+
+# Optimistic Concurrency Control (OCC)
+如果假定 txns 之间很少发生冲突，而且大多数 txns 的寿命都很短，那么强制 txns 获取锁或更新时间戳就会增加不必要的开销。这就引出了另一种优化方法——OCC
+
+OCC定义如下：
+- 乐观并发控制(OCC)是另一种乐观并发控制协议，它也使用时间戳来验证事务。
+- 在 OCC 中，DBMS 为每个事务创建一个私有工作区。事务的所有修改都应用到这个工作区中。
+- 任何读取的对象被复制到工作区中，任何写入的对象也被复制到工作区中并在那里进行修改。其他事务不能读取另一个事务在其私有工作区中所做的更改
+- 当事务提交时，DBMS 比较事务的工作空间写集，以查看它是否与其他事务冲突。如果没有冲突，写集就被安装到“全局”数据库中
+
+OCC包含三个阶段：
+1. Read Phase：在这里，DBMS 跟踪事务的读/写集，并将它们的写操作存储在一个私有工作区中
+2. Validation Phase（验证阶段）：当事务提交时，DBMS 检查它是否与其他事务冲突。
+3. Write Phase：如果验证成功，DBMS 将私有工作空间更改应用到数据库。否则，它中止并重新启动事务。
+
+## Validation Phase（验证阶段）
+- DBMS 在事务进入验证阶段时为其分配时间戳
+- 为了确保只允许可序列化的调度，DBMS 检查 Ti 与其他事务的 RW 和 WW 冲突，并确保所有冲突都是单向的，具体方法如下：
+
+**Approach 1：Backward validation (from younger transactions to older transactions)**
+![[Pasted image 20231214194838.png]]
+
+**Approach 2：Forward validation (from older transactions to younger transactions)**
+![[Pasted image 20231214194958.png]]
+DBMS 检查提交事务与所有其他正在运行的事务的时间戳顺序。 尚未进入验证阶段的事务被分配一个∞时间戳。
+
+若 TS(Ti)< TS(Tj)，则必须满足以下三个条件之一：
+1. 在 Tj 开始执行之前，Ti 完成了所有三个阶段(串行排序)
+2. Ti 在 Tj 开始写阶段之前完成，并且 Ti 不写入 Tj 读取的任何对象
+3. Ti 在 Tj 完成其 Read 阶段之前完成其 Read 阶段，并且 Ti 不会对 Tj 正在读取或写入的任何对象进行写入
+
+## 潜在的问题
+- 将本地数据复制到事务的私有工作区的高开销 
+- 验证/写入阶段的瓶颈
+- 与其他协议相比，终止可能更浪费，因为它们只发生在事务已经执行之后
+- 遭受时间戳分配瓶颈
+
+# 幻读
+![[Pasted image 20231214201610.png]]
+在这张图中我们展示了幻读的表现，其发生原因是我们上锁只能在已有记录上进行上锁，而无法在不存在的数据上上锁。
+
+解决幻读：
+- Approach 1: Re-Execute Scans
+	- 在提交时再次运行查询，查看是否会产生不同的结果，以确定遗漏的更改
+- Approach 2: Predicate Locking
+	- 在查询开始运行之前，从逻辑上确定谓词的重叠情况
+- Approach 3: Index Locking
+	- 在索引中使用键来保护范围
+
+## Approach 1: Re-Execute Scans
+简单粗暴的方式，基本不会使用
+
+## Approach 2: Predicate Locking
+除 HyPer（精确锁定）外，从未在任何系统中实施过
+
+## Approach 3: Index Locking
+insert、delete都需要更新索引，我们通过在索引上加锁来保证在不存在的数据上上锁
+
+
