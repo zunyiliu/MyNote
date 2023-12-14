@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "日记/2023-12-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "日记/2023-12-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "现代C++/关键字.md",
+                "file": "日记/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "现代C++/关键字.md"
+                "file": "日记/2023-12-14.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "b0c40aa27a31f2ee",
   "lastOpenFiles": [
+    "现代C++/关键字.md",
     "日记/2023-12-14.md",
     "杂项/VScode C++环境配置.md",
     "杂项/python导出exe文件.md",
@@ -181,7 +182,6 @@
     "日记/2023-12-13.md",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
     "日记/阶段计划2023.12.9.md",
-    "现代C++/关键字.md",
     "现代C++/静态.md",
     "现代C++/库.md",
     "现代C++/智能指针.md",
