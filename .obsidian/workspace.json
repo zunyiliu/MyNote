@@ -8,18 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0a2863200978956",
+            "id": "c79b19e4bd2be90a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-14.md",
+                "file": "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1acfa6e0880b5c93",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/17/17-timestampordering.pdf"
+              }
+            }
+          },
+          {
+            "id": "f0a2863200978956",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/17/17-timestampordering (翻译).pdf"
+              }
+            }
+          },
+          {
+            "id": "fe38dd0ac5aef300",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/17/17-timestampordering (ppt).pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-14.md",
+                "file": "数据库/CMU15445课件/17/17-timestampordering.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-14.md",
+                "file": "数据库/CMU15445课件/17/17-timestampordering.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-14.md"
+                "file": "数据库/CMU15445课件/17/17-timestampordering.pdf"
               }
             }
           },
@@ -165,8 +196,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0a2863200978956",
+  "active": "1acfa6e0880b5c93",
   "lastOpenFiles": [
+    "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
+    "数据库/CMU15445课件/17/17-timestampordering.pdf",
+    "数据库/CMU15445课件/17/17-timestampordering (翻译).pdf",
+    "数据库/CMU15445课件/17/17-timestampordering (ppt).pdf",
+    "Pasted image 20231214192233.png",
+    "Pasted image 20231214191232.png",
+    "Pasted image 20231214190821.png",
+    "TinyKv项目文档/project4.md",
+    "日记/2023-12-14.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/assets/Pasted image 20231214173028.png",
     "日记/2023-12-11.md",
@@ -181,10 +221,6 @@
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
     "数据库/assets/Pasted image 20231214151619.png",
     "数据库/assets/Pasted image 20231214160122.png",
-    "Pasted image 20231214160111.png",
-    "数据库/assets/Pasted image 20231214155833.png",
-    "数据库/assets/Pasted image 20231214155701.png",
-    "日记/2023-12-14.md",
     "现代C++/关键字.md",
     "杂项/VScode C++环境配置.md",
     "杂项/python导出exe文件.md",
@@ -204,14 +240,9 @@
     "现代C++/智能指针.md",
     "现代C++/C++类.md",
     "现代C++/C++如何工作.md",
-    "日记/2023-12-12.md",
     "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf",
     "数据库/CMU15445课件/15/15-concurrencycontrol (翻译).pdf",
     "数据库/CMU15445课件/15/15-concurrencycontrol.pdf",
-    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
-    "现代C++/未命名",
-    "嵌入式系统/学校资料/1.第一讲.pdf",
-    "嵌入式系统/学校资料/2.第二讲.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
