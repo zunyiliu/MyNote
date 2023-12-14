@@ -138,5 +138,17 @@ Left Join保证保留所有外表tuple，因而如果没有匹配的内表tuple�
 - NestedIndexJoinPlanNode提供一个右表的索引和提供左表的Node，我们需要对每个左表tuple，构造对应index的probe key，然后去右表索引中找到匹配tuple的rid
 
 ## 如何构造probe key
+根据index_->ScanKey的要求，我们需要一个tuple来从index中找到匹配的tuple的RID。构造方式如下：
+![[Pasted image 20231214173028.png]]
+- 我们首先从left_tuple中提取出join条件需要的Value
+- 利用这个Value和索引本身的schema构造tuple，这就是key
+- 调用index_info_->index_->ScanKey来找到对应的RID
+
+## 关于匹配数量
+根据文档所写，索引确保不会有重复的key-value对应情况。事实上这就是我们project2所写的内容，我们当时就确保了不会有重复的key值。
+
+## 关于查找tuple
+我们有了RID数组后，由于只可能匹配一个RID，因而我们直接取出RID，然后从table_heap中找到该tuple，然后就和NestedLoopJoin一样进行返回。
+
 
 
