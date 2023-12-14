@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b639d3a41c5d8977",
+        "id": "d24b66329f83ce09",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2c5c40ac9ad235",
+            "id": "bbcdfad3f5b3eb86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b0c40aa27a31f2ee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/16/16-twophaselocking.pdf"
-              }
-            }
-          },
-          {
-            "id": "3bdecb82b4c8e3c8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/16/16-twophaselocking (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "4b738dfc53eef988",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/16/16-twophaselocking (ppt).pdf"
               }
             }
           }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md"
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md"
               }
             }
           },
@@ -195,22 +165,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a2c5c40ac9ad235",
+  "active": "bbcdfad3f5b3eb86",
   "lastOpenFiles": [
-    "数据库/assets/Pasted image 20231214151619.png",
-    "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
+    "日记/2023-12-11.md",
+    "日记/2023-12-10.md",
+    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
+    "数据库/assets/Pasted image 20231214164808.png",
+    "数据库/assets/Pasted image 20231214171347.png",
+    "数据库/assets/Pasted image 20231214170450.png",
+    "数据库/assets/Pasted image 20231214165634.png",
     "数据库/CMU15445课件/16/16-twophaselocking (ppt).pdf",
     "数据库/CMU15445课件/16/16-twophaselocking (翻译).pdf",
     "数据库/CMU15445课件/16/16-twophaselocking.pdf",
+    "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
+    "数据库/assets/Pasted image 20231214151619.png",
     "数据库/assets/Pasted image 20231214160122.png",
     "Pasted image 20231214160111.png",
     "数据库/assets/Pasted image 20231214155833.png",
     "数据库/assets/Pasted image 20231214155701.png",
     "数据库/assets/Pasted image 20231214154819.png",
-    "数据库/assets/Pasted image 20231214145627.png",
-    "数据库/assets/Pasted image 20231214151312.png",
-    "Pasted image 20231214151302.png",
-    "数据库/assets/Pasted image 20231214150730.png",
     "日记/2023-12-14.md",
     "现代C++/关键字.md",
     "杂项/VScode C++环境配置.md",
@@ -236,9 +209,6 @@
     "数据库/CMU15445课件/15/15-concurrencycontrol (翻译).pdf",
     "数据库/CMU15445课件/15/15-concurrencycontrol.pdf",
     "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
-    "日记/2023-12-11.md",
-    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
-    "日记/2023-12-10.md",
     "现代C++/未命名",
     "嵌入式系统/学校资料/1.第一讲.pdf",
     "嵌入式系统/学校资料/2.第二讲.pdf",
