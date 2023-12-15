@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-14.md",
+                "file": "现代C++/函数指针.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-14.md",
+                "file": "现代C++/函数指针.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-14.md",
+                "file": "现代C++/函数指针.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-14.md"
+                "file": "现代C++/函数指针.md"
               }
             }
           },
@@ -167,6 +167,15 @@
   },
   "active": "fb34042574d927de",
   "lastOpenFiles": [
+    "现代C++/关键字.md",
+    "现代C++/函数指针.md",
+    "现代C++/静态.md",
+    "现代C++/库.md",
+    "现代C++/智能指针.md",
+    "现代C++/C++类.md",
+    "现代C++/C++如何工作.md",
+    "日记/2023-12-15.md",
+    "日记/2023-12-14.md",
     "数据库/CMU15445课件/17/17-timestampordering (ppt).pdf",
     "数据库/CMU15445课件/17/17-timestampordering (翻译).pdf",
     "数据库/CMU15445课件/17/17-timestampordering.pdf",
@@ -183,7 +192,6 @@
     "Pasted image 20231214194721.png",
     "数据库/assets/Pasted image 20231214193411.png",
     "TinyKv项目文档/project4.md",
-    "日记/2023-12-14.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "日记/2023-12-11.md",
     "日记/2023-12-10.md",
@@ -191,7 +199,6 @@
     "数据库/CMU15445课件/16/16-twophaselocking (翻译).pdf",
     "数据库/CMU15445课件/16/16-twophaselocking.pdf",
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
-    "现代C++/关键字.md",
     "杂项/VScode C++环境配置.md",
     "杂项/python导出exe文件.md",
     "杂项/Clion利用ssh连接虚拟机进行开发.md",
@@ -203,12 +210,6 @@
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯 - 副本.txt",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯 - 副本.md",
     "日记/2023-12-13.md",
-    "嵌入式系统/实验笔记/实验一：环境配置.md",
-    "日记/阶段计划2023.12.9.md",
-    "现代C++/静态.md",
-    "现代C++/库.md",
-    "现代C++/智能指针.md",
-    "现代C++/C++类.md",
     "数据库/CMU15445课件/15/15-concurrencycontrol (ppt).pdf",
     "数据库/CMU15445课件/15/15-concurrencycontrol (翻译).pdf",
     "数据库/CMU15445课件/15/15-concurrencycontrol.pdf",
