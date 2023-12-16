@@ -151,4 +151,45 @@ Left Join保证保留所有外表tuple，因而如果没有匹配的内表tuple�
 我们有了RID数组后，由于只可能匹配一个RID，因而我们直接取出RID，然后从table_heap中找到该tuple，然后就和NestedLoopJoin一样进行返回。
 
 
+# Sort
+Sort是SortPlanNode的执行器。SortPlanNode提供一组排序谓词order_bys_，并有一个提供需要排序的tuple的孩子节点。
+
+我们需要根据这一组排序谓词将所有tuple进行排序，然后一一返回。
+
+## 如何进行两tuple之间的比较
+我们需要遍历所有的排序谓词，用谓词得出两个需要比较的tuple的value，然后进行比较即可。代码如下：
+![[Pasted image 20231216160840.png]]
+
+## 如何进行sort
+我们利用std::sort，需要自行构建比较函数，这里我们就用到lambda函数的构造。
+- 对于捕获参数，我们需要用到所有的排序谓词order_bys，同时还需要孩子节点的schema，用于提取value。
+- 对于函数参数，自然是两个tuple
+- 对于返回内容，函数参数就是前后两个tuple，返回true表示不用进行交换，返回false表示需要进行交换。（在java中，返回负数不用交换，返回正数需要交换）
+
+## 如何返回答案
+根据文档所写，SortPlanNode不改变输出schema，因而直接进行返回即可。
+
+# Limit
+Limit是LimitPlanNode的执行器。LimitPlanNode有一个limit_数字，同时有一个提供tuple的孩子节点，我们需要从孩子节点中提取出前limit_个tuple进行输出，逻辑很简单。
+
+代码如下：
+![[Pasted image 20231216161707.png]]
+
+# Top-N Optimization Rule
+在默认情况下，如果需要取出前N个tuple，bustub将先进行Sort，然后采用Limti取出前N个。一个更好的方法是将两者合在一起进行，动态查找前N个tuple，这就是TopNExecutor
+
+本节分为两个任务：
+1. 修改优化器规则，生成TopNPlanNode
+2. 实现TopNExecutor
+
+## OptimizeSortLimitAsTopN
+优化器的规则需要参考其他已有优化器的实现。
+
+对于该优化器规则，我们需要判断当前PlanNode是否是一个LimitPlanNode且其唯一一个孩子是SortPlanNode，这样才能优化为TopNPlanNode。
+
+最后我们提取出创建TopNPlanNode所需的信息即可进行创建：
+![[Pasted image 20231216162726.png]]
+
+## 实现TopNExecutor
+tuple的比较逻辑与sort相同，区别在于我们需要利用一个优先队列进行动态存储前N个tuple。
 

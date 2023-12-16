@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7a11656db5ab214a",
+        "id": "05f4ce8235e58cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "57d712e905e8a732",
+            "id": "d56353a232d30f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
+                "file": "日记/2023-12-16.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fb34042574d927de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/18/18-multiversioning.pdf"
-              }
-            }
-          },
-          {
-            "id": "a91ba7c72b2657d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/18/18-multiversioning (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "f149cb1a31325703",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf"
               }
             }
           }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
+                "file": "日记/2023-12-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
+                "file": "日记/2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md"
+                "file": "日记/2023-12-16.md"
               }
             }
           },
@@ -195,16 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57d712e905e8a732",
+  "active": "d56353a232d30f4c",
   "lastOpenFiles": [
-    "数据库/CMU15445课件/18/18-multiversioning.pdf",
-    "数据库/CMU15445课件/18/18-multiversioning (翻译).pdf",
-    "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
+    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
+    "数据库/assets/Pasted image 20231216162726.png",
+    "数据库/assets/Pasted image 20231216161707.png",
+    "数据库/assets/Pasted image 20231216160840.png",
+    "数据库/assets/Pasted image 20231216150939.png",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
-    "Pasted image 20231216151951.png",
-    "Pasted image 20231216151805.png",
-    "Pasted image 20231216151513.png",
-    "Pasted image 20231216150939.png",
+    "数据库/CMU15445课件/18/18-multiversioning (翻译).pdf",
+    "数据库/CMU15445课件/18/18-multiversioning.pdf",
+    "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
+    "数据库/assets/Pasted image 20231216153613.png",
+    "数据库/assets/Pasted image 20231216151951.png",
+    "数据库/assets/Pasted image 20231216151805.png",
+    "数据库/assets/Pasted image 20231216151513.png",
     "日记/2023-12-16.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
@@ -235,10 +210,6 @@
     "数据库/CMU15445课件/17/17-timestampordering.pdf",
     "数据库/assets/Pasted image 20231214201610.png",
     "数据库/assets/Pasted image 20231214204145.png",
-    "数据库/assets/Pasted image 20231214204023.png",
-    "Pasted image 20231214203959.png",
-    "数据库/assets/Pasted image 20231214190821.png",
-    "数据库/assets/Pasted image 20231214194958.png",
     "数据库/CMU15445课件/16/16-twophaselocking (ppt).pdf",
     "数据库/CMU15445课件/16/16-twophaselocking (翻译).pdf",
     "数据库/CMU15445课件/16/16-twophaselocking.pdf",
