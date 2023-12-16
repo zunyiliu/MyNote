@@ -11,11 +11,19 @@
             "id": "d56353a232d30f4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2023-12-16.md",
-                "mode": "source",
-                "source": false
+                "file": "数据库/CMU15445课件/19/19-logging.pdf"
+              }
+            }
+          },
+          {
+            "id": "5d53908896e37ba9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/19/19-logging (翻译).pdf"
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-16.md",
+                "file": "数据库/CMU15445课件/19/19-logging.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-16.md",
+                "file": "数据库/CMU15445课件/19/19-logging.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-16.md"
+                "file": "数据库/CMU15445课件/19/19-logging.pdf"
               }
             }
           },
@@ -167,6 +175,15 @@
   },
   "active": "d56353a232d30f4c",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/19/19-logging (翻译).pdf",
+    "数据库/CMU15445课件/19/19-logging.pdf",
+    "日记/2023-12-16.md",
+    "数据库/CMU15445课件/19/19-logging (翻译).pdf.crdownload",
+    "数据库/CMU15445课件/19/19-logging (ppt).pdf",
+    "数据库/CMU15445课件/19/19-logging (ppt).pdf.crdownload",
+    "数据库/CMU15445课件/19/19-logging.pdf.crdownload",
+    "数据库/CMU15445课件/19",
+    "数据库/CMU15445课件/新建文件夹",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/assets/Pasted image 20231216162726.png",
     "数据库/assets/Pasted image 20231216161707.png",
@@ -174,19 +191,16 @@
     "数据库/assets/Pasted image 20231216150939.png",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
     "数据库/CMU15445课件/18/18-multiversioning (翻译).pdf",
-    "数据库/CMU15445课件/18/18-multiversioning.pdf",
     "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
     "数据库/assets/Pasted image 20231216153613.png",
     "数据库/assets/Pasted image 20231216151951.png",
     "数据库/assets/Pasted image 20231216151805.png",
     "数据库/assets/Pasted image 20231216151513.png",
-    "日记/2023-12-16.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "现代C++/线程与计时.md",
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
-    "数据库/CMU15445课件/04/04-storage2.pdf",
     "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
@@ -204,15 +218,8 @@
     "现代C++/智能指针.md",
     "现代C++/C++类.md",
     "现代C++/C++如何工作.md",
-    "日记/2023-12-14.md",
-    "数据库/CMU15445课件/17/17-timestampordering (ppt).pdf",
-    "数据库/CMU15445课件/17/17-timestampordering (翻译).pdf",
-    "数据库/CMU15445课件/17/17-timestampordering.pdf",
     "数据库/assets/Pasted image 20231214201610.png",
     "数据库/assets/Pasted image 20231214204145.png",
-    "数据库/CMU15445课件/16/16-twophaselocking (ppt).pdf",
-    "数据库/CMU15445课件/16/16-twophaselocking (翻译).pdf",
-    "数据库/CMU15445课件/16/16-twophaselocking.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
