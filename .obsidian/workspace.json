@@ -8,14 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5555a6f5830dcf87",
+            "id": "8716ecf5550deedc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-11/2023-11-27.md",
+                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5555a6f5830dcf87",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/20/20-recovery.pdf"
+              }
+            }
+          },
+          {
+            "id": "cdce4891ee0c066f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/20/20-recovery (翻译).pdf"
+              }
+            }
+          },
+          {
+            "id": "3022d4332de2cb9d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据库/CMU15445课件/20/20-recovery (ppt).pdf"
               }
             }
           }
@@ -85,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-11/2023-11-27.md",
+                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-11/2023-11-27.md",
+                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-11/2023-11-27.md"
+                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md"
               }
             }
           },
@@ -165,8 +195,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5555a6f5830dcf87",
+  "active": "8716ecf5550deedc",
   "lastOpenFiles": [
+    "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
+    "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
+    "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
+    "Pasted image 20231217153620.png",
+    "数据库/CMU15445课件/20/20-recovery.pdf",
+    "数据库/assets/Pasted image 20231217150820.png",
+    "数据库/assets/Pasted image 20231217150415.png",
+    "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
+    "日记/2023-12-17.md",
     "日记/2023-11/2023-11-26.md",
     "日记/2023-11/2023-11-25.md",
     "日记/2023-11/2023-11-24.md",
@@ -187,12 +226,9 @@
     "日记/2023-11/2023-11-17.md",
     "日记/2023-11/2023-11-16.md",
     "日记/2023-11/2023-11-15.md",
-    "日记/2023-12-17.md",
     "现代C++/类型转换.md",
     "日记/2023-12-16.md",
     "日记/2023-12-15.md",
-    "日记/2023-12-14.md",
-    "日记/2023-12-13.md",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf",
@@ -202,17 +238,10 @@
     "数据库/CMU15445课件/19/19-logging (翻译).pdf.crdownload",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf.crdownload",
     "数据库/CMU15445课件/19/19-logging.pdf.crdownload",
-    "数据库/CMU15445课件/19",
-    "数据库/CMU15445课件/新建文件夹",
     "数据库/assets/Pasted image 20231216162726.png",
     "数据库/assets/Pasted image 20231216161707.png",
     "数据库/assets/Pasted image 20231216160840.png",
     "数据库/assets/Pasted image 20231216150939.png",
-    "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
-    "数据库/CMU15445课件/18/18-multiversioning (翻译).pdf",
-    "数据库/assets/Pasted image 20231216153613.png",
-    "数据库/assets/Pasted image 20231216151951.png",
-    "数据库/assets/Pasted image 20231216151805.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
