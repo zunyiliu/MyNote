@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "05f4ce8235e58cb1",
+        "id": "bbcd3c0714d3de95",
         "type": "tabs",
         "children": [
           {
-            "id": "654d558c0283a649",
+            "id": "5555a6f5830dcf87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-17.md",
+                "file": "日记/2023-11/2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-17.md",
+                "file": "日记/2023-11/2023-11-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-17.md",
+                "file": "日记/2023-11/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-17.md"
+                "file": "日记/2023-11/2023-11-27.md"
               }
             }
           },
@@ -165,16 +165,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "5555a6f5830dcf87",
   "lastOpenFiles": [
+    "日记/2023-11/2023-11-26.md",
+    "日记/2023-11/2023-11-25.md",
+    "日记/2023-11/2023-11-24.md",
+    "日记/2023-12-04.md",
+    "日记/2023-12-03.md",
+    "日记/2023-12-02.md",
+    "日记/2023-12-01.md",
+    "日记/2023-11/2023-11-30.md",
+    "日记/2023-11/2023-11-29.md",
+    "日记/2023-11/2023-11-28.md",
+    "日记/2023-11/2023-11-27.md",
+    "日记/2023-11/2023-11-23.md",
+    "日记/2023-11/2023-11-22.md",
+    "日记/2023-11/2023-11-21.md",
+    "日记/2023-11/2023-11-20.md",
+    "日记/2023-11/2023-11-19.md",
+    "日记/2023-11/2023-11-18.md",
+    "日记/2023-11/2023-11-17.md",
+    "日记/2023-11/2023-11-16.md",
+    "日记/2023-11/2023-11-15.md",
+    "日记/2023-12-17.md",
+    "现代C++/类型转换.md",
     "日记/2023-12-16.md",
     "日记/2023-12-15.md",
     "日记/2023-12-14.md",
     "日记/2023-12-13.md",
-    "日记/2023-12-12.md",
-    "日记/2023-12-11.md",
-    "日记/2023-12-17.md",
-    "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf",
@@ -186,33 +204,15 @@
     "数据库/CMU15445课件/19/19-logging.pdf.crdownload",
     "数据库/CMU15445课件/19",
     "数据库/CMU15445课件/新建文件夹",
-    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/assets/Pasted image 20231216162726.png",
     "数据库/assets/Pasted image 20231216161707.png",
     "数据库/assets/Pasted image 20231216160840.png",
     "数据库/assets/Pasted image 20231216150939.png",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
     "数据库/CMU15445课件/18/18-multiversioning (翻译).pdf",
-    "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
     "数据库/assets/Pasted image 20231216153613.png",
     "数据库/assets/Pasted image 20231216151951.png",
     "数据库/assets/Pasted image 20231216151805.png",
-    "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
-    "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
-    "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
-    "现代C++/线程与计时.md",
-    "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
-    "数据库/CMU15445笔记/Lecture 05：Storage Models & Compression.md",
-    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
-    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
-    "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
-    "现代C++/命名空间.md",
-    "日记/2023-12-10.md",
-    "日记/2023-12-09.md",
-    "TinyKv项目文档/TinyKv资源汇总.md",
-    "现代C++/函数指针.md",
-    "现代C++/关键字.md",
-    "现代C++/静态.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
