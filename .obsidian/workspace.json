@@ -8,59 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7e4c970ed35e798",
+            "id": "654d558c0283a649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
+                "file": "日记/2023-12-17.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d56353a232d30f4c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/19/19-logging.pdf"
-              }
-            }
-          },
-          {
-            "id": "5d53908896e37ba9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/19/19-logging (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "4d036e19fee1f5b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/19/19-logging (ppt).pdf"
-              }
-            }
-          },
-          {
-            "id": "654d558c0283a649",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231216182902.png"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231216182902.png",
+                "file": "日记/2023-12-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231216182902.png",
+                "file": "日记/2023-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231216182902.png"
+                "file": "日记/2023-12-17.md"
               }
             }
           },
@@ -206,8 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "654d558c0283a649",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/2023-12-16.md",
+    "日记/2023-12-15.md",
+    "日记/2023-12-14.md",
+    "日记/2023-12-13.md",
+    "日记/2023-12-12.md",
+    "日记/2023-12-11.md",
+    "日记/2023-12-17.md",
     "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
@@ -215,7 +181,6 @@
     "Pasted image 20231216185810.png",
     "Pasted image 20231216185026.png",
     "Pasted image 20231216182902.png",
-    "日记/2023-12-16.md",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf.crdownload",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf.crdownload",
     "数据库/CMU15445课件/19/19-logging.pdf.crdownload",
@@ -242,17 +207,12 @@
     "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "现代C++/命名空间.md",
-    "日记/2023-12-15.md",
     "日记/2023-12-10.md",
     "日记/2023-12-09.md",
-    "日记/2023-12-11.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "现代C++/函数指针.md",
     "现代C++/关键字.md",
     "现代C++/静态.md",
-    "现代C++/库.md",
-    "现代C++/智能指针.md",
-    "现代C++/C++类.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
