@@ -4,49 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bbcd3c0714d3de95",
+        "id": "c97baba03a510d28",
         "type": "tabs",
         "children": [
           {
-            "id": "8716ecf5550deedc",
+            "id": "a0bae4a0e2f9ac40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5555a6f5830dcf87",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/20/20-recovery.pdf"
-              }
-            }
-          },
-          {
-            "id": "cdce4891ee0c066f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/20/20-recovery (翻译).pdf"
-              }
-            }
-          },
-          {
-            "id": "3022d4332de2cb9d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数据库/CMU15445课件/20/20-recovery (ppt).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据库/CMU15445笔记/Lecture 20：Database Recovery.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,17 +157,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8716ecf5550deedc",
+  "active": "a0bae4a0e2f9ac40",
   "lastOpenFiles": [
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
+    "数据库/CMU15445课件/20/20-recovery.pdf",
+    "日记/2023-12-17.md",
     "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
     "Pasted image 20231217153620.png",
-    "数据库/CMU15445课件/20/20-recovery.pdf",
     "数据库/assets/Pasted image 20231217150820.png",
     "数据库/assets/Pasted image 20231217150415.png",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
-    "日记/2023-12-17.md",
     "日记/2023-11/2023-11-26.md",
     "日记/2023-11/2023-11-25.md",
     "日记/2023-11/2023-11-24.md",
