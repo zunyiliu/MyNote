@@ -48,8 +48,19 @@
                 "file": "数据库/CMU15445课件/19/19-logging (ppt).pdf"
               }
             }
+          },
+          {
+            "id": "654d558c0283a649",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231216182902.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
+                "file": "Pasted image 20231216182902.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
+                "file": "Pasted image 20231216182902.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445笔记/Lecture 19：Database Logging.md"
+                "file": "Pasted image 20231216182902.png"
               }
             }
           },
@@ -195,11 +206,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e7e4c970ed35e798",
+  "active": "654d558c0283a649",
   "lastOpenFiles": [
+    "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
-    "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf",
     "Pasted image 20231216185810.png",
     "Pasted image 20231216185026.png",
