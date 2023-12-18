@@ -11,8 +11,12 @@
             "id": "a0bae4a0e2f9ac40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/阶段计划2023.12.9.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/阶段计划2023.12.9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/阶段计划2023.12.9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/阶段计划2023.12.9.md"
+              }
             }
           },
           {
@@ -159,10 +167,10 @@
   },
   "active": "a0bae4a0e2f9ac40",
   "lastOpenFiles": [
+    "日记/2023-12-17.md",
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
     "数据库/CMU15445课件/20/20-recovery.pdf",
-    "日记/2023-12-17.md",
     "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
     "Pasted image 20231217153620.png",
     "数据库/assets/Pasted image 20231217150820.png",
