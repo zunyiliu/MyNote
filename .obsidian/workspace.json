@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/阶段计划2023.12.9.md",
+                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/阶段计划2023.12.9.md",
+                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/阶段计划2023.12.9.md",
+                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/阶段计划2023.12.9.md"
+                "file": "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md"
               }
             }
           },
