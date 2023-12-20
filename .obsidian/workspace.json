@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c97baba03a510d28",
+        "id": "ffab2249a84b88a1",
         "type": "tabs",
         "children": [
           {
-            "id": "a0bae4a0e2f9ac40",
+            "id": "366dd3eb07eea819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-18.md",
+                "file": "数据库/图解MySQL/基础篇/MySQL的执行流程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-18.md",
+                "file": "数据库/图解MySQL/基础篇/MySQL的执行流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-18.md",
+                "file": "数据库/图解MySQL/基础篇/MySQL的执行流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-18.md"
+                "file": "数据库/图解MySQL/基础篇/MySQL的执行流程.md"
               }
             }
           },
@@ -165,11 +165,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a0bae4a0e2f9ac40",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "数据库/assets/Pasted image 20231220112611.png",
+    "数据库/assets/Pasted image 20231220111428.png",
+    "数据库/图解MySQL/基础篇",
+    "数据库/CMU15445笔记/Lecture 13：Query Execution II.md",
+    "数据库/图解MySQL/基础篇/MySQL的执行流程.md",
+    "数据库/图解MySQL",
+    "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
+    "日记/2023-12-20.md",
+    "日记/2023-12-18.md",
     "日记/2023-12-19.md",
     "日记/阶段计划2023.12.9.md",
-    "日记/2023-12-18.md",
     "日记/2023-12-17.md",
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
     "现代C++/单例模式.md",
@@ -195,11 +203,6 @@
     "日记/2023-11/2023-11-26.md",
     "日记/2023-11/2023-11-25.md",
     "日记/2023-11/2023-11-24.md",
-    "日记/2023-12-04.md",
-    "日记/2023-12-03.md",
-    "日记/2023-12-02.md",
-    "日记/2023-12-01.md",
-    "日记/2023-11/2023-11-30.md",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf",
@@ -207,12 +210,9 @@
     "Pasted image 20231216185026.png",
     "Pasted image 20231216182902.png",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/19/19-logging (ppt).pdf.crdownload",
-    "数据库/CMU15445课件/19/19-logging.pdf.crdownload",
     "数据库/assets/Pasted image 20231216162726.png",
     "数据库/assets/Pasted image 20231216161707.png",
     "数据库/assets/Pasted image 20231216160840.png",
-    "数据库/assets/Pasted image 20231216150939.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
