@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf"
+                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md"
               }
             }
           },
@@ -176,11 +175,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4eaa33c1733affbb",
+  "active": "366dd3eb07eea819",
   "lastOpenFiles": [
+    "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
+    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+    "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
     "嵌入式系统/实验笔记/实验三：图片显示和文本显示.md",
     "嵌入式系统/实验笔记/实验二： Linux framebuffer显示界面开发.md",
-    "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "嵌入式系统/实验笔记/实验一：环境配置.md",
     "日记/2023-12-20.md",
     "数据库/assets/Pasted image 20231220112611.png",
@@ -206,16 +207,13 @@
     "现代C++/命名空间.md",
     "现代C++/线程与计时.md",
     "现代C++/智能指针.md",
-    "现代C++/C++如何工作.md",
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
     "数据库/CMU15445课件/20/20-recovery.pdf",
-    "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
     "Pasted image 20231217153620.png",
     "数据库/assets/Pasted image 20231217150820.png",
     "数据库/assets/Pasted image 20231217150415.png",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
-    "日记/2023-11/2023-11-26.md",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf",
