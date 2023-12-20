@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffab2249a84b88a1",
+        "id": "736efb666a69679a",
         "type": "tabs",
         "children": [
           {
-            "id": "366dd3eb07eea819",
+            "id": "47e9aa21a744f81d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md",
+                "file": "日记/2023-12-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md",
+                "file": "日记/2023-12-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md",
+                "file": "日记/2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md"
+                "file": "日记/2023-12-20.md"
               }
             }
           },
@@ -165,11 +165,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "366dd3eb07eea819",
+  "active": "47e9aa21a744f81d",
   "lastOpenFiles": [
-    "Pasted image 20231220172808.png",
-    "日记/2023-12-20.md",
     "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md",
+    "数据库/assets/Pasted image 20231220172808.png",
+    "数据库/assets/Pasted image 20231220174500.png",
+    "数据库/assets/Pasted image 20231220173846.png",
+    "数据库/assets/Pasted image 20231220173615.png",
+    "数据库/assets/Pasted image 20231220173206.png",
+    "数据库/assets/Pasted image 20231220173118.png",
+    "日记/2023-12-20.md",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
@@ -203,16 +208,10 @@
     "数据库/CMU15445课件/20/20-recovery.pdf",
     "Pasted image 20231217153620.png",
     "数据库/assets/Pasted image 20231217150820.png",
-    "数据库/assets/Pasted image 20231217150415.png",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
     "数据库/CMU15445课件/19/19-logging (ppt).pdf",
-    "Pasted image 20231216185810.png",
-    "Pasted image 20231216185026.png",
-    "Pasted image 20231216182902.png",
-    "数据库/assets/Pasted image 20231216162726.png",
-    "数据库/assets/Pasted image 20231216161707.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
