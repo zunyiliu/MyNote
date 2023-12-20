@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-19.md",
+                "file": "日记/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-19.md",
+                "file": "日记/2023-12-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-19.md",
+                "file": "日记/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-19.md"
+                "file": "日记/2023-12-18.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "a0bae4a0e2f9ac40",
   "lastOpenFiles": [
+    "日记/2023-12-19.md",
+    "日记/阶段计划2023.12.9.md",
     "日记/2023-12-18.md",
     "日记/2023-12-17.md",
-    "日记/2023-12-19.md",
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
     "现代C++/单例模式.md",
     "现代C++/移动语义.md",
@@ -183,7 +184,6 @@
     "现代C++/线程与计时.md",
     "现代C++/智能指针.md",
     "现代C++/C++如何工作.md",
-    "日记/阶段计划2023.12.9.md",
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
     "数据库/CMU15445课件/20/20-recovery.pdf",
