@@ -165,8 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47e9aa21a744f81d",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "日记/阶段计划2023.12.9.md",
+    "日记/2023-12-18.md",
+    "日记/2023-12-20.md",
     "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md",
     "数据库/assets/Pasted image 20231220172808.png",
     "数据库/assets/Pasted image 20231220174500.png",
@@ -174,7 +177,6 @@
     "数据库/assets/Pasted image 20231220173615.png",
     "数据库/assets/Pasted image 20231220173206.png",
     "数据库/assets/Pasted image 20231220173118.png",
-    "日记/2023-12-20.md",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "嵌入式系统/实验笔记/实验四：多点触摸开发.md",
@@ -188,9 +190,7 @@
     "数据库/图解MySQL/基础篇/MySQL的执行流程.md",
     "数据库/图解MySQL",
     "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
-    "日记/2023-12-18.md",
     "日记/2023-12-19.md",
-    "日记/阶段计划2023.12.9.md",
     "日记/2023-12-17.md",
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
     "现代C++/单例模式.md",
