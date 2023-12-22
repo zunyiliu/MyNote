@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "736efb666a69679a",
+        "id": "49723902ac6ec8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "47e9aa21a744f81d",
+            "id": "381b7adc3244e209",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47e9aa21a744f81d",
+  "active": "381b7adc3244e209",
   "lastOpenFiles": [
+    "日记/阶段计划2023.12.9.md",
+    "日记/2023-12-21.md",
+    "杂项/自荐信.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
@@ -190,9 +193,6 @@
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "TinyKv项目文档/project4.md",
     "TinyKv项目文档/project3.md",
-    "TinyKv项目文档/project2.md",
-    "TinyKv项目文档/project1.md",
-    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
     "数据库/assets/Pasted image 20231221110227.png",
     "数据库/assets/Pasted image 20231220172808.png",
     "数据库/assets/Pasted image 20231220174500.png",
