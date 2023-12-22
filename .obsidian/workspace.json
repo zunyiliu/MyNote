@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-21.md",
+                "file": "数据库/图解MySQL/索引篇/索引常见面试题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-21.md",
+                "file": "数据库/图解MySQL/索引篇/索引常见面试题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-21.md",
+                "file": "数据库/图解MySQL/索引篇/索引常见面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-21.md"
+                "file": "数据库/图解MySQL/索引篇/索引常见面试题.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "381b7adc3244e209",
   "lastOpenFiles": [
-    "日记/阶段计划2023.12.9.md",
+    "日记/2023-12-22.md",
+    "数据库/图解MySQL/索引篇/索引常见面试题.md",
+    "数据库/图解MySQL/索引篇",
     "日记/2023-12-21.md",
+    "日记/阶段计划2023.12.9.md",
     "杂项/自荐信.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
@@ -191,8 +194,6 @@
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
-    "TinyKv项目文档/project4.md",
-    "TinyKv项目文档/project3.md",
     "数据库/assets/Pasted image 20231221110227.png",
     "数据库/assets/Pasted image 20231220172808.png",
     "数据库/assets/Pasted image 20231220174500.png",
@@ -212,7 +213,6 @@
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
     "数据库/CMU15445课件/19/19-logging.pdf",
     "数据库/CMU15445课件/19/19-logging (翻译).pdf",
-    "数据库/CMU15445课件/19/19-logging (ppt).pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
