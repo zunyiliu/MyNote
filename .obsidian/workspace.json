@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd15ff5457cf00c9",
+        "id": "27bf64b291d9c6e0",
         "type": "tabs",
         "children": [
           {
-            "id": "36c88f28502d457e",
+            "id": "b9029c995ff9db1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md",
+                "file": "日记/2023-12-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md",
+                "file": "日记/2023-12-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md",
+                "file": "日记/2023-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md"
+                "file": "日记/2023-12-23.md"
               }
             }
           },
@@ -165,21 +165,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36c88f28502d457e",
+  "active": "b9029c995ff9db1a",
   "lastOpenFiles": [
-    "Pasted image 20231223113856.png",
-    "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
+    "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
+    "Pasted image 20231223121221.png",
+    "数据库/assets/Pasted image 20231223121200.png",
+    "数据库/assets/Pasted image 20231223111445.png",
     "数据库/图解MySQL/事务篇/事务隔离级别.md",
+    "数据库/assets/Pasted image 20231223113856.png",
+    "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
     "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
     "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
-    "Pasted image 20231223113701.png",
-    "Pasted image 20231223112351.png",
-    "Pasted image 20231223111735.png",
-    "Pasted image 20231223111658.png",
-    "Pasted image 20231223111608.png",
+    "数据库/assets/Pasted image 20231223113701.png",
+    "数据库/assets/Pasted image 20231223112351.png",
+    "数据库/assets/Pasted image 20231223111735.png",
+    "数据库/assets/Pasted image 20231223111658.png",
+    "数据库/assets/Pasted image 20231223111608.png",
     "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
-    "Pasted image 20231223111445.png",
     "数据库/图解MySQL/事务篇",
     "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
     "日记/2023-12-23.md",
@@ -201,11 +204,7 @@
     "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "数据库/assets/Pasted image 20231221110227.png",
-    "数据库/assets/Pasted image 20231220172808.png",
-    "数据库/assets/Pasted image 20231220174500.png",
-    "数据库/assets/Pasted image 20231220173846.png",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "数据库/图解MySQL/基础篇",
     "数据库/图解MySQL",
