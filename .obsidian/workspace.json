@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49723902ac6ec8cf",
+        "id": "fd15ff5457cf00c9",
         "type": "tabs",
         "children": [
           {
-            "id": "381b7adc3244e209",
+            "id": "36c88f28502d457e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
+                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md"
+                "file": "数据库/图解MySQL/事务篇/事务隔离级别.md"
               }
             }
           },
@@ -165,8 +165,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "381b7adc3244e209",
+  "active": "36c88f28502d457e",
   "lastOpenFiles": [
+    "Pasted image 20231223113856.png",
+    "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
+    "数据库/图解MySQL/事务篇/事务隔离级别.md",
+    "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
+    "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
+    "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
+    "Pasted image 20231223113701.png",
+    "Pasted image 20231223112351.png",
+    "Pasted image 20231223111735.png",
+    "Pasted image 20231223111658.png",
+    "Pasted image 20231223111608.png",
+    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
+    "Pasted image 20231223111445.png",
+    "数据库/图解MySQL/事务篇",
+    "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
+    "日记/2023-12-23.md",
+    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
     "日记/2023-12-22.md",
     "数据库/图解MySQL/索引篇/索引常见面试题.md",
     "数据库/图解MySQL/索引篇",
@@ -185,34 +202,17 @@
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
-    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
-    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
-    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
-    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
-    "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "数据库/assets/Pasted image 20231221110227.png",
     "数据库/assets/Pasted image 20231220172808.png",
     "数据库/assets/Pasted image 20231220174500.png",
     "数据库/assets/Pasted image 20231220173846.png",
-    "数据库/assets/Pasted image 20231220173615.png",
-    "数据库/assets/Pasted image 20231220173206.png",
-    "数据库/assets/Pasted image 20231220173118.png",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
-    "数据库/assets/Pasted image 20231220112611.png",
-    "数据库/assets/Pasted image 20231220111428.png",
     "数据库/图解MySQL/基础篇",
     "数据库/图解MySQL",
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
     "数据库/CMU15445课件/20/20-recovery.pdf",
-    "Pasted image 20231217153620.png",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
-    "数据库/CMU15445课件/19/19-logging.pdf",
-    "数据库/CMU15445课件/19/19-logging (翻译).pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
