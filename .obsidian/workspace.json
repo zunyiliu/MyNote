@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a6441581cdd3e5",
+        "id": "302360f8a2aff3c8",
         "type": "tabs",
         "children": [
           {
-            "id": "621f7ea12a131f01",
+            "id": "3d85d8c4309d2e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,10 +165,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "621f7ea12a131f01",
+  "active": "3d85d8c4309d2e24",
   "lastOpenFiles": [
-    "日记/2023-12-23.md",
+    "数据库/assets/Pasted image 20231224120754.png",
+    "数据库/图解MySQL/锁篇/MySQL锁类型.md",
+    "数据库/assets/Pasted image 20231224120807.png",
+    "数据库/assets/Pasted image 20231224120801.png",
     "日记/2023-12-24.md",
+    "数据库/图解MySQL/锁篇",
+    "日记/2023-12-23.md",
     "现代C++/C++如何工作.md",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
     "数据库/assets/Pasted image 20231223193543.png",
@@ -185,9 +190,6 @@
     "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
     "数据库/assets/Pasted image 20231223113701.png",
     "数据库/assets/Pasted image 20231223112351.png",
-    "数据库/assets/Pasted image 20231223111735.png",
-    "数据库/assets/Pasted image 20231223111658.png",
-    "数据库/assets/Pasted image 20231223111608.png",
     "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
     "数据库/图解MySQL/事务篇",
     "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
@@ -204,15 +206,12 @@
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
-    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
-    "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "数据库/图解MySQL/基础篇",
     "数据库/图解MySQL",
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
     "数据库/CMU15445课件/20/20-recovery.pdf",
-    "数据库/CMU15445课件/20/20-recovery (翻译).pdf.crdownload",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
