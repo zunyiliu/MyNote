@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-25.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-25.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-25.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-25.md"
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "80fc857e5f4ed234",
   "lastOpenFiles": [
-    "数据库/图解MySQL/日志篇/MySQL 日志.md",
     "日记/2023-12-25.md",
+    "数据库/图解MySQL/日志篇/MySQL 日志.md",
     "日记/2023-12-24.md",
     "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
     "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
