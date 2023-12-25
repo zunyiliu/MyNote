@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6a8f4b85632b2b",
+        "id": "20624f39ae924c43",
         "type": "tabs",
         "children": [
           {
-            "id": "ac87596c787e01b9",
+            "id": "80fc857e5f4ed234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/图解MySQL/日志篇/MySQL 日志.md",
+                "file": "日记/2023-12-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/图解MySQL/日志篇/MySQL 日志.md",
+                "file": "日记/2023-12-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/图解MySQL/日志篇/MySQL 日志.md",
+                "file": "日记/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/图解MySQL/日志篇/MySQL 日志.md"
+                "file": "日记/2023-12-25.md"
               }
             }
           },
@@ -165,17 +165,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac87596c787e01b9",
+  "active": "80fc857e5f4ed234",
   "lastOpenFiles": [
-    "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
-    "日记/2023-12-25.md",
-    "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
     "数据库/图解MySQL/日志篇/MySQL 日志.md",
+    "日记/2023-12-25.md",
+    "日记/2023-12-24.md",
+    "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
+    "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
     "数据库/CMU15445实验笔记/Project4：Concurrency Control.md",
     "数据库/图解MySQL/日志篇",
     "数据库/图解MySQL/锁篇/MySQL怎么加行锁.md",
     "数据库/图解MySQL/锁篇/MySQL锁类型.md",
-    "日记/2023-12-24.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/assets/Pasted image 20231224120754.png",
     "数据库/assets/Pasted image 20231224120807.png",
