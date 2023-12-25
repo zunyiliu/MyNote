@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "杂项/Makefile与CMake.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "杂项/Makefile与CMake.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "杂项/Makefile与CMake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
+                "file": "杂项/Makefile与CMake.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "80fc857e5f4ed234",
   "lastOpenFiles": [
     "日记/2023-12-25.md",
+    "杂项/Makefile与CMake.md",
     "数据库/图解MySQL/日志篇/MySQL 日志.md",
     "日记/2023-12-24.md",
     "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
@@ -207,7 +208,6 @@
     "数据库/图解MySQL/索引篇",
     "日记/2023-12-21.md",
     "日记/阶段计划2023.12.9.md",
-    "杂项/自荐信.md",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "数据库/图解MySQL/基础篇",
     "数据库/图解MySQL",
