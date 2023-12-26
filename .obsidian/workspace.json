@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4d9fa08ba12fa94",
+        "id": "ca8ad38faeececa4",
         "type": "tabs",
         "children": [
           {
-            "id": "941dc92d7731cb9a",
+            "id": "98a75d08d333a79c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
+                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md"
               }
             }
           },
@@ -167,8 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "98a75d08d333a79c",
   "lastOpenFiles": [
+    "Pasted image 20231226173458.png",
+    "Pasted image 20231226173446.png",
+    "Pasted image 20231226173217.png",
+    "Pasted image 20231226173002.png",
+    "Pasted image 20231226172950.png",
+    "Pasted image 20231226172400.png",
+    "日记/2023-12-26.md",
+    "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
+    "操作系统/XV6操作系统笔记",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
@@ -178,14 +187,12 @@
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
-    "日记/2023-12-26.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
     "操作系统/assets/Pasted image 20231226114654.png",
     "操作系统/assets/Pasted image 20231226111044.png",
     "操作系统/assets/Pasted image 20231226113852.png",
     "操作系统/assets/Pasted image 20231226114408.png",
     "操作系统/assets/Pasted image 20231226114127.png",
-    "操作系统/assets/Pasted image 20231226114024.png",
     "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
     "操作系统/图解系统/内存管理",
     "操作系统/图解系统/操作系统结构",
@@ -200,21 +207,14 @@
     "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
     "操作系统/学校笔记/第1章：绪论.md",
     "日记/2023-12-25.md",
-    "数据库/assets/Pasted image 20231225202724.png",
     "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
-    "数据库/assets/Pasted image 20231225203531.png",
     "数据库/图解MySQL/内存篇",
     "杂项/Makefile与CMake.md",
-    "数据库/图解MySQL/日志篇/MySQL 日志.md",
-    "日记/2023-12-24.md",
     "数据库/图解MySQL/日志篇",
-    "数据库/assets/Pasted image 20231224120754.png",
-    "数据库/assets/Pasted image 20231224120807.png",
     "数据库/图解MySQL/锁篇",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
     "数据库/图解MySQL/事务篇",
     "数据库/图解MySQL/索引篇",
-    "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
