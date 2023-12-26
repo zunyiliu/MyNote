@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-26.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-26.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-26.md",
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-26.md"
+                "file": "操作系统/MIT-6.S081实验/Lab2：system calls.md"
               }
             }
           },
@@ -167,8 +167,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "941dc92d7731cb9a",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
+    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
+    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
+    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
+    "日记/2023-12-26.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
     "操作系统/assets/Pasted image 20231226114654.png",
     "操作系统/assets/Pasted image 20231226111044.png",
@@ -176,8 +186,6 @@
     "操作系统/assets/Pasted image 20231226114408.png",
     "操作系统/assets/Pasted image 20231226114127.png",
     "操作系统/assets/Pasted image 20231226114024.png",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
-    "日记/2023-12-26.md",
     "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
     "操作系统/图解系统/内存管理",
     "操作系统/图解系统/操作系统结构",
@@ -199,17 +207,10 @@
     "杂项/Makefile与CMake.md",
     "数据库/图解MySQL/日志篇/MySQL 日志.md",
     "日记/2023-12-24.md",
-    "数据库/CMU15445笔记/Lecture 19：Database Logging.md",
-    "数据库/CMU15445笔记/Lecture 20：Database Recovery.md",
-    "数据库/CMU15445实验笔记/Project4：Concurrency Control.md",
     "数据库/图解MySQL/日志篇",
-    "数据库/图解MySQL/锁篇/MySQL怎么加行锁.md",
-    "数据库/图解MySQL/锁篇/MySQL锁类型.md",
-    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/assets/Pasted image 20231224120754.png",
     "数据库/assets/Pasted image 20231224120807.png",
     "数据库/图解MySQL/锁篇",
-    "日记/2023-12-23.md",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
     "数据库/图解MySQL/事务篇",
     "数据库/图解MySQL/索引篇",
