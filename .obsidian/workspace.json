@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f57d553660c0b432",
+        "id": "72218fd8533436dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fd98bae08ce8e5",
+            "id": "e93b4200c4e3c846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-25.md",
+                "file": "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-25.md",
+                "file": "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-25.md",
+                "file": "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-25.md"
+                "file": "操作系统/图解系统/内存管理/为什么要有虚拟内存.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -165,12 +167,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e3fd98bae08ce8e5",
+  "active": "e93b4200c4e3c846",
   "lastOpenFiles": [
+    "Pasted image 20231226111044.png",
+    "日记/2023-12-26.md",
+    "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
+    "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
+    "操作系统/图解系统/内存管理",
+    "操作系统/图解系统/操作系统结构",
+    "操作系统/图解系统",
+    "操作系统/学校笔记/第5章：资源分配与调度.md",
+    "操作系统/学校笔记/第6章：处理机调度.md",
+    "操作系统/学校笔记/第4章：进程及进程管理.md",
+    "操作系统/学校笔记/第9章：文件系统.md",
+    "操作系统/学校笔记/第8章：设备管理.md",
+    "操作系统/学校笔记/第7章：主存管理.md",
+    "操作系统/学校笔记/第3章：操作系统的用户接口.md",
+    "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
+    "操作系统/学校笔记/第1章：绪论.md",
+    "日记/2023-12-25.md",
     "数据库/assets/Pasted image 20231225202724.png",
     "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
     "数据库/assets/Pasted image 20231225203531.png",
-    "日记/2023-12-25.md",
     "数据库/图解MySQL/内存篇",
     "杂项/Makefile与CMake.md",
     "数据库/图解MySQL/日志篇/MySQL 日志.md",
@@ -188,30 +206,15 @@
     "数据库/图解MySQL/锁篇",
     "日记/2023-12-23.md",
     "现代C++/C++如何工作.md",
-    "数据库/CMU15445实验笔记/Project5：Storage.md",
     "数据库/assets/Pasted image 20231223193543.png",
-    "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
-    "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "Pasted image 20231223121221.png",
     "数据库/assets/Pasted image 20231223121200.png",
     "数据库/assets/Pasted image 20231223111445.png",
-    "数据库/图解MySQL/事务篇/事务隔离级别.md",
     "数据库/assets/Pasted image 20231223113856.png",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
-    "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
-    "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
-    "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
-    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
     "数据库/图解MySQL/事务篇",
-    "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
-    "嵌入式系统/实验笔记/实验五：蓝牙无线互联通讯.md",
-    "日记/2023-12-22.md",
-    "数据库/图解MySQL/索引篇/索引常见面试题.md",
     "数据库/图解MySQL/索引篇",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
-    "数据库/图解MySQL/基础篇",
-    "数据库/图解MySQL",
-    "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
