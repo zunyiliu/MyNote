@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20624f39ae924c43",
+        "id": "f57d553660c0b432",
         "type": "tabs",
         "children": [
           {
-            "id": "80fc857e5f4ed234",
+            "id": "e3fd98bae08ce8e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂项/Makefile与CMake.md",
+                "file": "日记/2023-12-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂项/Makefile与CMake.md",
+                "file": "日记/2023-12-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂项/Makefile与CMake.md",
+                "file": "日记/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/Makefile与CMake.md"
+                "file": "日记/2023-12-25.md"
               }
             }
           },
@@ -165,9 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80fc857e5f4ed234",
+  "active": "e3fd98bae08ce8e5",
   "lastOpenFiles": [
+    "数据库/assets/Pasted image 20231225202724.png",
+    "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
+    "数据库/assets/Pasted image 20231225203531.png",
     "日记/2023-12-25.md",
+    "数据库/图解MySQL/内存篇",
     "杂项/Makefile与CMake.md",
     "数据库/图解MySQL/日志篇/MySQL 日志.md",
     "日记/2023-12-24.md",
@@ -197,8 +201,6 @@
     "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
     "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
     "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
-    "数据库/assets/Pasted image 20231223113701.png",
-    "数据库/assets/Pasted image 20231223112351.png",
     "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
     "数据库/图解MySQL/事务篇",
     "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
@@ -206,13 +208,10 @@
     "日记/2023-12-22.md",
     "数据库/图解MySQL/索引篇/索引常见面试题.md",
     "数据库/图解MySQL/索引篇",
-    "日记/2023-12-21.md",
-    "日记/阶段计划2023.12.9.md",
     "嵌入式系统/学校资料/4.实验-Orangepi-20221018.pdf",
     "数据库/图解MySQL/基础篇",
     "数据库/图解MySQL",
     "数据库/CMU15445课件/20/20-recovery (ppt).pdf",
-    "数据库/CMU15445课件/20/20-recovery (翻译).pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
