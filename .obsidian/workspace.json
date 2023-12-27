@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-26.md",
+                "file": "操作系统/MIT-6.S081实验/Lab8：Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-26.md",
+                "file": "操作系统/MIT-6.S081实验/Lab8：Locks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-26.md",
+                "file": "操作系统/MIT-6.S081实验/Lab8：Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-26.md"
+                "file": "操作系统/MIT-6.S081实验/Lab8：Locks.md"
               }
             }
           },
@@ -169,29 +169,35 @@
   },
   "active": "98a75d08d333a79c",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
+    "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
+    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
+    "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
+    "计算机网络/课件",
+    "操作系统/assets/Pasted image 20231227113049.png",
+    "操作系统/assets/Pasted image 20231227114004.png",
+    "操作系统/assets/Pasted image 20231227113950.png",
+    "操作系统/assets/Pasted image 20231227113257.png",
+    "操作系统/assets/Pasted image 20231227113208.png",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "日记/2023-12-27.md",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
+    "日记/2023-12-26.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
     "操作系统/assets/Pasted image 20231226172400.png",
     "操作系统/assets/Pasted image 20231226174015.png",
     "操作系统/assets/Pasted image 20231226173836.png",
     "操作系统/assets/Pasted image 20231226173745.png",
     "操作系统/assets/Pasted image 20231226173458.png",
-    "Pasted image 20231226173446.png",
-    "操作系统/assets/Pasted image 20231226173217.png",
-    "操作系统/assets/Pasted image 20231226173002.png",
-    "Pasted image 20231226172950.png",
-    "日记/2023-12-26.md",
     "操作系统/XV6操作系统笔记",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
-    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
-    "操作系统/assets/Pasted image 20231226114654.png",
     "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
     "操作系统/图解系统/内存管理",
     "操作系统/图解系统/操作系统结构",
@@ -204,16 +210,11 @@
     "操作系统/学校笔记/第7章：主存管理.md",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
     "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
-    "操作系统/学校笔记/第1章：绪论.md",
-    "日记/2023-12-25.md",
-    "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
     "数据库/图解MySQL/内存篇",
-    "杂项/Makefile与CMake.md",
     "数据库/图解MySQL/日志篇",
     "数据库/图解MySQL/锁篇",
     "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
     "数据库/图解MySQL/事务篇",
-    "数据库/图解MySQL/索引篇",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
