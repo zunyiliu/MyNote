@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bab76d16c4b99dd8",
+        "id": "9d3db0ec87e74cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "073d44c67d16cf66",
+            "id": "bb063d55f009de0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+                "file": "日记/2023-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+                "file": "日记/2023-12-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+                "file": "日记/2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md"
+                "file": "日记/2023-12-27.md"
               }
             }
           },
@@ -167,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "073d44c67d16cf66",
+  "active": "bb063d55f009de0e",
   "lastOpenFiles": [
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/XV6操作系统笔记/XV6的启动.md",
     "操作系统/assets/Pasted image 20231227172855.png",
     "操作系统/assets/Pasted image 20231227171625.png",
@@ -197,7 +198,6 @@
     "操作系统/XV6操作系统笔记",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
