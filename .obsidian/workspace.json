@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be5cb3f4d4e7b9c9",
+        "id": "bab76d16c4b99dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "9819f03353121451",
+            "id": "073d44c67d16cf66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-27.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-27.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-27.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-27.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md"
               }
             }
           },
@@ -167,13 +167,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9819f03353121451",
+  "active": "073d44c67d16cf66",
   "lastOpenFiles": [
+    "操作系统/XV6操作系统笔记/XV6的启动.md",
+    "操作系统/assets/Pasted image 20231227172855.png",
+    "操作系统/assets/Pasted image 20231227171625.png",
+    "操作系统/assets/Pasted image 20231227170908.png",
+    "1.png",
+    "日记/2023-12-27.md",
     "操作系统/assets/Pasted image 20231227121517.png",
     "操作系统/assets/Pasted image 20231227121321.png",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
-    "日记/2023-12-27.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
@@ -183,16 +188,11 @@
     "操作系统/assets/Pasted image 20231227114004.png",
     "操作系统/assets/Pasted image 20231227113950.png",
     "操作系统/assets/Pasted image 20231227113257.png",
-    "操作系统/assets/Pasted image 20231227113208.png",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "日记/2023-12-26.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
-    "操作系统/assets/Pasted image 20231226172400.png",
-    "操作系统/assets/Pasted image 20231226174015.png",
-    "操作系统/assets/Pasted image 20231226173836.png",
-    "操作系统/assets/Pasted image 20231226173745.png",
     "操作系统/XV6操作系统笔记",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
@@ -209,7 +209,6 @@
     "操作系统/学校笔记/第4章：进程及进程管理.md",
     "操作系统/学校笔记/第9章：文件系统.md",
     "操作系统/学校笔记/第8章：设备管理.md",
-    "操作系统/学校笔记/第7章：主存管理.md",
     "数据库/图解MySQL/内存篇",
     "数据库/图解MySQL/日志篇",
     "数据库/图解MySQL/锁篇",
