@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
+                "file": "日记/2023-12-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
+                "file": "日记/2023-12-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
+                "file": "日记/2023-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md"
+                "file": "日记/2023-12-26.md"
               }
             }
           },
@@ -169,14 +169,17 @@
   },
   "active": "98a75d08d333a79c",
   "lastOpenFiles": [
-    "Pasted image 20231226173458.png",
-    "Pasted image 20231226173446.png",
-    "Pasted image 20231226173217.png",
-    "Pasted image 20231226173002.png",
-    "Pasted image 20231226172950.png",
-    "Pasted image 20231226172400.png",
-    "日记/2023-12-26.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
+    "操作系统/assets/Pasted image 20231226172400.png",
+    "操作系统/assets/Pasted image 20231226174015.png",
+    "操作系统/assets/Pasted image 20231226173836.png",
+    "操作系统/assets/Pasted image 20231226173745.png",
+    "操作系统/assets/Pasted image 20231226173458.png",
+    "Pasted image 20231226173446.png",
+    "操作系统/assets/Pasted image 20231226173217.png",
+    "操作系统/assets/Pasted image 20231226173002.png",
+    "Pasted image 20231226172950.png",
+    "日记/2023-12-26.md",
     "操作系统/XV6操作系统笔记",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
@@ -189,10 +192,6 @@
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
     "操作系统/assets/Pasted image 20231226114654.png",
-    "操作系统/assets/Pasted image 20231226111044.png",
-    "操作系统/assets/Pasted image 20231226113852.png",
-    "操作系统/assets/Pasted image 20231226114408.png",
-    "操作系统/assets/Pasted image 20231226114127.png",
     "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
     "操作系统/图解系统/内存管理",
     "操作系统/图解系统/操作系统结构",
