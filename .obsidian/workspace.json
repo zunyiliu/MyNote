@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+                "file": "日记/2023-12-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+                "file": "日记/2023-12-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+                "file": "日记/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md"
+                "file": "日记/2023-12-28.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "424013cffff2094b",
   "lastOpenFiles": [
-    "操作系统/assets/Pasted image 20231228172121.png",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+    "操作系统/assets/Pasted image 20231228172121.png",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/XV6操作系统笔记/XV6的启动.md",
