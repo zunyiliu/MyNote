@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f035ae71fe799d3a",
+        "id": "ab36e04c722fcfa6",
         "type": "tabs",
         "children": [
           {
-            "id": "ec14b4c94161f6e5",
+            "id": "24e9aa674a8dde5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-12-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2023-12-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,9 +159,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ec14b4c94161f6e5",
+  "active": "24e9aa674a8dde5d",
   "lastOpenFiles": [
+    "日记/2023-12-28.md",
     "日记/2023-12-27.md",
+    "操作系统/图解系统/硬件结构/CPU如何执行程序.md",
+    "操作系统/图解系统/硬件结构",
+    "操作系统/图解系统/内存管理/预读失效与缓存污染.md",
+    "操作系统/MIT-6.S081实验/Lab9：File System.md",
+    "操作系统/图解系统/内存管理/Swap机制.md",
+    "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
+    "操作系统/assets/Pasted image 20231228111224.png",
+    "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
+    "操作系统/图解系统/内存管理/未命名",
+    "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
+    "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
     "日记/2023-12-26.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
@@ -182,17 +186,13 @@
     "1.png",
     "操作系统/assets/Pasted image 20231227121517.png",
     "操作系统/assets/Pasted image 20231227121321.png",
-    "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
-    "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
-    "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
     "计算机网络/课件",
     "操作系统/assets/Pasted image 20231227113049.png",
     "操作系统/assets/Pasted image 20231227114004.png",
     "操作系统/assets/Pasted image 20231227113950.png",
-    "操作系统/assets/Pasted image 20231227113257.png",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
     "操作系统/XV6操作系统笔记",
@@ -204,16 +204,9 @@
     "操作系统/图解系统/内存管理",
     "操作系统/图解系统/操作系统结构",
     "操作系统/图解系统",
-    "操作系统/学校笔记/第5章：资源分配与调度.md",
-    "操作系统/学校笔记/第6章：处理机调度.md",
-    "操作系统/学校笔记/第4章：进程及进程管理.md",
-    "操作系统/学校笔记/第9章：文件系统.md",
-    "操作系统/学校笔记/第8章：设备管理.md",
     "数据库/图解MySQL/内存篇",
     "数据库/图解MySQL/日志篇",
     "数据库/图解MySQL/锁篇",
-    "数据库/CMU15445课件/18/18-multiversioning (ppt).pdf",
-    "数据库/图解MySQL/事务篇",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
