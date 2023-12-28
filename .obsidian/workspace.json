@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec04 Page tables.md"
+                "file": "操作系统/XV6操作系统笔记/进程：从创建到清空.md"
               }
             }
           },
@@ -169,13 +169,17 @@
   },
   "active": "424013cffff2094b",
   "lastOpenFiles": [
+    "操作系统/assets/Pasted image 20231228172121.png",
+    "操作系统/XV6操作系统笔记/XV6的启动.md",
+    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+    "操作系统/XV6操作系统笔记/未命名",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "日记/2023-12-28.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "操作系统/图解系统/内存管理/Swap机制.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "日记/2023-12-27.md",
     "操作系统/图解系统/硬件结构/CPU如何执行程序.md",
     "操作系统/图解系统/硬件结构",
@@ -190,7 +194,6 @@
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081实验/Lab3：page tables.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "操作系统/XV6操作系统笔记/XV6的启动.md",
     "操作系统/assets/Pasted image 20231227172855.png",
     "操作系统/assets/Pasted image 20231227171625.png",
     "操作系统/assets/Pasted image 20231227170908.png",
@@ -207,14 +210,11 @@
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/XV6操作系统笔记",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/MIT-6.S081笔记/第一章 操作系统接口.md",
-    "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/图解系统/内存管理",
     "操作系统/图解系统/操作系统结构",
     "操作系统/图解系统",
     "数据库/图解MySQL/内存篇",
     "数据库/图解MySQL/日志篇",
-    "数据库/图解MySQL/锁篇",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
