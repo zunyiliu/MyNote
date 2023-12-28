@@ -7,5 +7,13 @@
       "key": "L"
     }
   ],
-  "editor:follow-link": []
+  "editor:follow-link": [],
+  "editor:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ]
 }

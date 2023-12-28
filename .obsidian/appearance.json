@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "cssTheme": "Things",
   "baseFontSize": 16,
-  "translucency": false
+  "translucency": false,
+  "nativeMenus": false
 }
