@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-28.md",
+                "file": "日记/2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-28.md",
+                "file": "日记/2023-12-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-28.md",
+                "file": "日记/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-28.md"
+                "file": "日记/2023-12-29.md"
               }
             }
           },
@@ -169,11 +169,12 @@
   },
   "active": "019b127f8f836549",
   "lastOpenFiles": [
+    "日记/2023-12-28.md",
+    "日记/2023-12-29.md",
     "操作系统/图解系统/进程管理/线程基础知识.md",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
     "操作系统/图解系统/进程管理",
-    "日记/2023-12-28.md",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/assets/Pasted image 20231228172121.png",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
