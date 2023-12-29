@@ -60,17 +60,41 @@
 >Q：将寄存器值存放到`proc->trapframe`时使用了`sscratch`寄存器，为什么该寄存器存着TRAPFRAME的虚拟地址？
 >A：答案在`userret`函数中
 >
+>Q：为什么`proc->trapframe`中存储了kernel的相关信息？
+>A：答案在`usertrapret`函数中
+>
 >Q：为什么能无缝衔接到内核空间，而不是因为页表出错而直接程序崩溃？
 >A：所有进程的用户空间和内核空间的TRAMPOLINE的虚拟地址相同，因而从用户页表切换到内核页表不会影响TRAMPOLINE虚拟地址的翻译。
 >
 >Q：为什么切换内核空间后就不能再使用TRAPFRAME的虚拟地址
 >A：因为内核空间中没有映射TRAPFRAME，因而相同的虚拟地址映射的不是TRAPFRAME
 
-# usertrap
+## usertrap
 该函数负责对来自用户空间Trap的情况进行分类处理，本次我们只讨论系统调用的处理情况。
 
 该函数步骤如下：
-1. 将`kernelvec`函数地址写入`stvec`中，这样来自内核的中断或yi'c
+1. 将`kernelvec`函数地址写入`stvec`中，这样来自内核的中断或异常就会跳转到`kernelvec`函数处理
+2. 从`sepc`寄存器中读取epc的值到`p->trapframe->epc`中，并加上`4`，表示返回地址是系统调用的下一条指令。这样做的目的是防止在执行系统调用时切换到了别的进程，这样`sepc`中的值就可能发生改变，因而保存到进程本身的结构中是最好的选择。
+3. 打开设备中断：进入Trap机制时，RISC-V硬件关闭了设备中断，这里要重新开启，从而可以接收来自外部设备的中断
+4. 调用`syscall`函数，从而能够执行相关系统调用
+5. 调用`usertrapret`函数
+
+## usertrapret
+该函数负责准备返回用户空间的工作。
+
+该函数步骤如下：
+1. 关闭设备中断，回到用户空间后RISC-V硬件会根据`SPIE`标志位重新打开
+2. 将`uservec`函数的地址写入`stvec`寄存器中
+3. 将`satp`寄存器的值写入`p->trapframe->kernel_satp`
+4. 将内核栈底的地址写入`p->trapframe->kernel_sp`
+5. 将`usertrap`函数地址写入`p->trapframe->kernel_trap`
+6. 将cpuid写入`p->trapframe->kernel_hartid`
+7. 设置`status`寄存器中的`SPP`标志位和`SPIE`标志位，这样回到用户空间后就会将模式设置为用户模式，并重新打开中断
+8. 将`p->trapframe->epc`写入`sepc`寄存器中，这样之后就能正确返回用户空间中的地址
+9. 调用`userret`函数
+
+## userret
+该函数步骤如下：
 
 
 

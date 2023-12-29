@@ -167,13 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c153556e23200db7",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "日记/2023-12-29.md",
-    "Pasted image 20231229165847.png",
-    "Pasted image 20231229165417.png",
+    "操作系统/assets/Pasted image 20231229165847.png",
+    "操作系统/assets/Pasted image 20231229165417.png",
     "Pasted image 20231229164902.png",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
