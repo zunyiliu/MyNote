@@ -95,8 +95,13 @@
 
 ## userret
 该函数步骤如下：
+1. 将用户页表物理地址加载到`satp`寄存器中，完成内核空间到用户空间的无缝衔接
+2. 将存在`p->trapframe`中的寄存器加载出来，从而恢复进程的用户空间状态
+3. 将TRAPFRAME的虚拟地址存在`sscratch`寄存器中
+4. `sret`回到`sepc`寄存器中的地址，也就是用户空间中的地址
 
+## 为什么进入Trap机制时，什么都准备好了
+这里我们解答问什么在进入Trap机制时，`stvec`存储了`uservec`函数的地址、`sscratch`寄存器存储着TRAPFRAME的虚拟地址、`proc->trapframe`中存储了kernel的寄存器信息。
 
-
-
+我们执行用户程序前肯定是分配了一个进程，`allocproc`函数中设置了`p->context.ra = (uint64)forkret`，因而当scheduler切换到该进程时，就会回到`forkret`函数，而该函数又调用了`usertrapret`函数，按照上述步骤，所有进入Trap所需的信息就都准备好了。
 

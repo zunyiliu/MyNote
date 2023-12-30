@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2023-12-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md"
+                "file": "日记/2023-12-29.md"
               }
             }
           },
@@ -167,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "c153556e23200db7",
   "lastOpenFiles": [
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
