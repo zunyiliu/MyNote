@@ -8,12 +8,16 @@
 - 从用户空间陷入；
 - 从内核空间陷入；
 
+按照`scause`寄存器原因可分为：
+![[Pasted image 20230925174928.png]]
+
 处理这些情况的机制被称为Trap。
 
 # Trap中的RISC-V硬件
 ## RISC-V重要寄存器
-- `PC`：程序计数器
-- `SATP`：指向当前页表的物理内存地址
+- `pc`：程序计数器
+- `satp`：指向当前页表的物理内存地址
+- `stval`：存放发生`page fault`的虚拟地址
 - `stvec`：内核在这里写入其陷阱处理程序的地址；RISC-V跳转到这里处理陷阱
 - `sepc`：当发生陷阱时，RISC-V会在这里保存程序计数器`pc`（因为`pc`会被`stvec`覆盖）。`sret`（从陷阱返回）指令会将`sepc`复制到`pc`。内核可以写入`sepc`来控制`sret`的去向
 - `scause`： RISC-V在这里放置一个描述陷阱原因的数字
@@ -125,7 +129,21 @@
 
 ## kerneltrap
 - `kerneltrap`为两种类型的陷阱做好了准备：设备中断和异常。
-- 它调用`devintr`(**_kernel/trap.c_**:177)来检查和处理前者，如果是或者则会返回0
+- 它调用`devintr`(_kernel/trap.c_:177)来检查和处理前者，如果是或者则会返回0
 - 如果陷阱不是设备中断，则必定是一个异常，内核中的异常将是一个致命的错误；内核调用`panic`并停止执行。
 - 如果`devintr`返回了2，表示是一个计时器中断，需要调用`yield`函数让出CPU
+
+# Trap机制：异常
+## 概述
+原始XV6对来自用户空间和内核空间的异常都是冷处理：
+- 如果来自用户空间，就杀死进程，并打印出错信息。
+- 如果来自内核空间，就直接内核崩溃。
+
+现代操作系统应该要对异常进行处理，同时我们也可以通过异常处理实现一些有用的功能。就`page fault`而言，我们可以实现以下虚拟内存管理的功能：
+- lazy allocation
+- copy-on-write fork
+- demand paging
+- memory mapped files
+
+这里我们将对*lazy allocation*和*copy-on-write fork*进行讲解，二者也都是实验内容。
 

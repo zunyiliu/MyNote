@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "757f19f737db7ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "81cfb2c3bf19586b",
             "type": "leaf",
             "state": {
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md"
+                "file": "操作系统/XV6操作系统笔记/Trap机制.md"
               }
             }
           },
@@ -167,24 +179,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81cfb2c3bf19586b",
+  "active": "757f19f737db7ed4",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
+    "日记/2023-12-30.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
+    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+    "操作系统/MIT-6.S081实验/Lab4：trap.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
     "操作系统/assets/Pasted image 20231230162208.png",
     "操作系统/XV6操作系统笔记/未命名.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/MIT-6.S081实验/Lab4：trap.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "日记/2023-12-30.md",
     "日记/2023-12-29.md",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/assets/Pasted image 20231229165847.png",
     "操作系统/assets/Pasted image 20231229165417.png",
     "Pasted image 20231229164902.png",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
     "Missing-Semester/Git.md",
     "Missing-Semester/Shell概述.md",
     "Missing-Semester/资源汇总.md",
@@ -197,9 +212,6 @@
     "日记/2023-12-19.md",
     "日记/2023-12-20.md",
     "日记/2023-12-21.md",
-    "日记/2023-12-22.md",
-    "日记/2023-12-23.md",
-    "日记/2023-12-24.md",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
     "操作系统/图解系统/进程管理",
