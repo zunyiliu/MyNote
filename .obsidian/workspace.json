@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-30.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-30.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-30.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-30.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec08 Page faults.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "c153556e23200db7",
   "lastOpenFiles": [
-    "日记/2023-12-29.md",
+    "操作系统/MIT-6.S081实验/Lab4：trap.md",
+    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "日记/2023-12-30.md",
+    "日记/2023-12-29.md",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "操作系统/assets/Pasted image 20231229165847.png",
@@ -196,13 +199,10 @@
     "日记/2023-12-24.md",
     "日记/2023-12-25.md",
     "日记/2023-12-26.md",
-    "日记/2023-12-27.md",
-    "操作系统/图解系统/进程管理/线程基础知识.md",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
     "操作系统/图解系统/进程管理",
     "操作系统/assets/Pasted image 20231228172121.png",
-    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/XV6操作系统笔记/未命名",
     "操作系统/图解系统/硬件结构",
     "操作系统/assets/Pasted image 20231228111224.png",
