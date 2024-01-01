@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef95aeb5d6a29e1",
+        "id": "631ba5bd262cb44b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d54eb9934bbbaa",
+            "id": "e7981e7005a5b577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2024-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2024-01-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md"
+                "file": "日记/2024-01-01.md"
               }
             }
           },
@@ -167,12 +167,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1d54eb9934bbbaa",
+  "active": "e7981e7005a5b577",
   "lastOpenFiles": [
-    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
-    "操作系统/XV6操作系统笔记/Trap机制.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
+    "操作系统/assets/Pasted image 20240101201906.png",
+    "操作系统/assets/Pasted image 20240101202749.png",
+    "操作系统/assets/Pasted image 20240101202531.png",
+    "操作系统/assets/Pasted image 20240101202446.png",
     "日记/2024-01-01.md",
+    "操作系统/图解系统/设备管理",
+    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+    "操作系统/XV6操作系统笔记/Trap机制.md",
+    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/操作系统课件/3-用户接口.pdf",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
@@ -191,7 +198,6 @@
     "日记/阶段计划.md",
     "日记/2023-12/2023-12-31.md",
     "日记/2023-12/2023-12-01.md",
-    "日记/2023-12",
     "日记/2023-12/2023-12-30.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
@@ -203,17 +209,11 @@
     "操作系统/XV6操作系统笔记/未命名.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "日记/2023-12/2023-12-29.md",
-    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/assets/Pasted image 20231229165847.png",
     "操作系统/assets/Pasted image 20231229165417.png",
     "Pasted image 20231229164902.png",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
-    "操作系统/assets/Pasted image 20231228172121.png",
-    "操作系统/assets/Pasted image 20231228111224.png",
-    "操作系统/assets/Pasted image 20231227172855.png",
-    "操作系统/assets/Pasted image 20231227171625.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
