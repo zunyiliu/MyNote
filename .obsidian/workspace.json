@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "26c9b6e038d4983c",
+        "id": "3b7ad3a7e1ee314b",
         "type": "tabs",
         "children": [
           {
-            "id": "757f19f737db7ed4",
+            "id": "d6bfbe7e09f730b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-12-31.md",
+                "file": "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "70d816b13709b44e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/操作系统课件/2-结构与硬件支持.pdf"
+              }
+            }
+          },
+          {
+            "id": "96b4df851777cf4f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
+              }
+            }
+          },
+          {
+            "id": "e87922f65e05bc76",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2023-12-31.md",
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2023-12-31.md",
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2023-12-31.md"
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
               }
             }
           },
@@ -167,12 +198,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "757f19f737db7ed4",
+  "active": "96b4df851777cf4f",
   "lastOpenFiles": [
+    "操作系统/学校资料/操作系统课件/2-结构与硬件支持.pdf",
+    "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
+    "操作系统/学校资料/操作系统课件/1-绪论.pdf",
+    "操作系统/学校笔记/第1章：绪论.md",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
+    "操作系统/学校资料/第3版习题答案/答案在doc文档中.md",
+    "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
+    "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
+    "操作系统/学校笔记/第8章：设备管理.md",
+    "操作系统/学校笔记/第9章：文件系统.md",
+    "操作系统/学校资料/复习/操作系统练习题.pdf",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "日记/2024-01-01.md",
+    "日记/阶段计划.md",
+    "日记/2023-12/2023-12-31.md",
+    "日记/2023-12/2023-12-01.md",
+    "日记/2023-12",
     "操作系统/XV6操作系统笔记/Trap机制.md",
-    "日记/2023-12-31.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "日记/2023-12-30.md",
+    "日记/2023-12/2023-12-30.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
@@ -184,37 +232,19 @@
     "操作系统/XV6操作系统笔记/未命名.md",
     "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "日记/2023-12-29.md",
+    "日记/2023-12/2023-12-29.md",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/assets/Pasted image 20231229165847.png",
     "操作系统/assets/Pasted image 20231229165417.png",
     "Pasted image 20231229164902.png",
     "Missing-Semester/Git.md",
-    "Missing-Semester/Shell概述.md",
-    "Missing-Semester/资源汇总.md",
-    "Missing-Semester/元编程.md",
-    "Missing-Semester/数据整理.md",
-    "Missing-Semester/命令行环境.md",
-    "Missing-Semester/课程感受.md",
     "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
-    "日记/2023-12-28.md",
-    "日记/2023-12-19.md",
-    "日记/2023-12-20.md",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
-    "操作系统/图解系统/进程管理",
     "操作系统/assets/Pasted image 20231228172121.png",
-    "操作系统/XV6操作系统笔记/未命名",
-    "操作系统/图解系统/硬件结构",
     "操作系统/assets/Pasted image 20231228111224.png",
-    "操作系统/图解系统/内存管理/未命名",
     "操作系统/assets/Pasted image 20231227172855.png",
     "操作系统/assets/Pasted image 20231227171625.png",
-    "计算机网络/课件",
-    "操作系统/XV6操作系统笔记",
-    "操作系统/图解系统/内存管理",
-    "操作系统/图解系统/操作系统结构",
-    "操作系统/图解系统",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
