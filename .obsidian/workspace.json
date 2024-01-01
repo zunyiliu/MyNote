@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2023-12-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2023-12-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md",
+                "file": "日记/2023-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/XV6操作系统笔记/Trap机制.md"
+                "file": "日记/2023-12-31.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "757f19f737db7ed4",
   "lastOpenFiles": [
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
+    "日记/2023-12-31.md",
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "日记/2023-12-30.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
@@ -199,7 +200,6 @@
     "日记/2023-12-28.md",
     "日记/2023-12-19.md",
     "日记/2023-12-20.md",
-    "日记/2023-12-21.md",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
     "操作系统/图解系统/进程管理",
