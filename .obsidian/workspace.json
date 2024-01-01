@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
+                "file": "操作系统/学校笔记/第3章：操作系统的用户接口.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "操作系统/学校资料/操作系统课件/2-结构与硬件支持.pdf"
+                "file": "操作系统/学校资料/操作系统课件/3-用户接口.pdf"
               }
             }
           },
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+                "file": "操作系统/学校资料/操作系统课件/3-用户接口.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+                "file": "操作系统/学校资料/操作系统课件/3-用户接口.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
+                "file": "操作系统/学校资料/操作系统课件/3-用户接口.pdf"
               }
             }
           },
@@ -198,17 +198,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96b4df851777cf4f",
+  "active": "70d816b13709b44e",
   "lastOpenFiles": [
+    "操作系统/学校笔记/第3章：操作系统的用户接口.md",
+    "操作系统/学校资料/操作系统课件/3-用户接口.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/操作系统课件/2-结构与硬件支持.pdf",
     "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
+    "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/操作系统课件/1-绪论.pdf",
     "操作系统/学校笔记/第1章：绪论.md",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/第3版习题答案/答案在doc文档中.md",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
-    "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
     "操作系统/学校笔记/第8章：设备管理.md",
     "操作系统/学校笔记/第9章：文件系统.md",
     "操作系统/学校资料/复习/操作系统练习题.pdf",
@@ -237,8 +239,6 @@
     "操作系统/assets/Pasted image 20231229165847.png",
     "操作系统/assets/Pasted image 20231229165417.png",
     "Pasted image 20231229164902.png",
-    "Missing-Semester/Git.md",
-    "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
     "Pasted image 20231228205353.png",
     "操作系统/assets/Pasted image 20231228204715.png",
     "操作系统/assets/Pasted image 20231228172121.png",
