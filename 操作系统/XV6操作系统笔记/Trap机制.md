@@ -134,7 +134,6 @@
 - 如果`devintr`返回了2，表示是一个计时器中断，需要调用`yield`函数让出CPU
 
 # Trap机制：异常
-## 概述
 原始XV6对来自用户空间和内核空间的异常都是冷处理：
 - 如果来自用户空间，就杀死进程，并打印出错信息。
 - 如果来自内核空间，就直接内核崩溃。
@@ -145,5 +144,5 @@
 - demand paging
 - memory mapped files
 
-这里我们将对*lazy allocation*和*copy-on-write fork*进行讲解，二者也都是实验内容。
+其中我们对*lazy allocation*和*copy-on-write fork*进行了实验，具体可以看实验笔记。
 
