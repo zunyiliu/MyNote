@@ -1,2 +1,0 @@
-[网址](https://blog.csdn.net/weixin_43376501/article/details/126957208?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-126957208-blog-117600570.235%5Ev38%5Epc_relevant_anti_vip&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-126957208-blog-117600570.235%5Ev38%5Epc_relevant_anti_vip&utm_relevant_index=1)
-按上面这个网址就行，实际上就是管理员模式运行cmd或命令行，输入`netsh winsock reset`后重启就行了。
