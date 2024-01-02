@@ -13,13 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-02.md",
+                "file": "操作系统/学校笔记/第4章：进程及进程管理.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "86ca296ec146260f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf"
+              }
+            }
+          },
+          {
+            "id": "f321d782013b93cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
+              }
+            }
+          },
+          {
+            "id": "82848926987718c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-02.md",
+                "file": "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-02.md",
+                "file": "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-02.md"
+                "file": "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf"
               }
             }
           },
@@ -167,8 +198,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fbc2fb0351e0ad7b",
+  "active": "86ca296ec146260f",
   "lastOpenFiles": [
+    "操作系统/学校笔记/第4章：进程及进程管理.md",
+    "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
+    "日记/2024-01-02.md",
     "操作系统/图解系统/进程管理/线程基础知识.md",
     "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
     "操作系统/图解系统/内存管理/Swap机制.md",
@@ -181,7 +217,6 @@
     "操作系统/图解系统/文件系统",
     "杂项/wsl相关教程.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
-    "日记/2024-01-02.md",
     "日记/2024-01-01.md",
     "操作系统/assets/Pasted image 20240101201906.png",
     "操作系统/assets/Pasted image 20240101202749.png",
@@ -192,11 +227,9 @@
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/操作系统课件/3-用户接口.pdf",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
     "操作系统/学校笔记/第3章：操作系统的用户接口.md",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/操作系统课件/2-结构与硬件支持.pdf",
     "操作系统/学校笔记/第2章：操作系统的结构和硬件支持.md",
     "操作系统/学校资料/操作系统课件/1-绪论.pdf",
@@ -205,10 +238,7 @@
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "操作系统/学校笔记/第8章：设备管理.md",
     "操作系统/学校笔记/第9章：文件系统.md",
-    "操作系统/学校资料/复习/操作系统练习题.pdf",
     "日记/阶段计划.md",
-    "日记/2023-12/2023-12-31.md",
-    "日记/2023-12/2023-12-01.md",
     "操作系统/assets/Pasted image 20231230162208.png",
     "操作系统/assets/Pasted image 20231229165847.png",
     "操作系统/assets/Pasted image 20231229165417.png",
