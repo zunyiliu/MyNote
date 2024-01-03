@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a3d8dac5209812b",
+            "id": "1dcb631afc1a0c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+                "file": "日记/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+                "file": "日记/2024-01-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+                "file": "日记/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md"
+                "file": "日记/2024-01-02.md"
               }
             }
           },
@@ -167,16 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a3d8dac5209812b",
+  "active": "1dcb631afc1a0c71",
   "lastOpenFiles": [
+    "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
+    "日记/2024-01-02.md",
+    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/学校笔记/第6章：处理机调度.md",
     "操作系统/学校笔记/第7章：主存管理.md",
-    "日记/2024-01-02.md",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
     "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
-    "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
@@ -199,7 +200,6 @@
     "操作系统/assets/Pasted image 20240101202531.png",
     "操作系统/assets/Pasted image 20240101202446.png",
     "操作系统/图解系统/设备管理",
-    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
