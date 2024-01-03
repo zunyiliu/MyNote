@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0d3631a4bea388",
+        "id": "09afd9634a98bd66",
         "type": "tabs",
         "children": [
           {
-            "id": "126e160a84663d0b",
+            "id": "1323af89b693e049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校笔记/第8章：设备管理.md",
+                "file": "日记/2024-01-03.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cb04d74ade2481bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/操作系统课件/8-设备管理.pdf"
-              }
-            }
-          },
-          {
-            "id": "3143acd8e69fcab5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf"
-              }
-            }
-          },
-          {
-            "id": "1db7996a9b1d7850",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf"
               }
             }
           }
@@ -115,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校笔记/第8章：设备管理.md",
+                "file": "日记/2024-01-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校笔记/第8章：设备管理.md",
+                "file": "日记/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校笔记/第8章：设备管理.md"
+                "file": "日记/2024-01-03.md"
               }
             }
           },
@@ -197,16 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "126e160a84663d0b",
+  "active": "1323af89b693e049",
   "lastOpenFiles": [
     "操作系统/学校资料/操作系统课件/8-设备管理.pdf",
-    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
     "操作系统/学校笔记/第8章：设备管理.md",
-    "操作系统/学校笔记/第7章：主存管理.md",
     "操作系统/学校资料/复习/2020-操作系统试题-A卷.pdf",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
+    "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
+    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
+    "操作系统/学校笔记/第7章：主存管理.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "日记/2024-01-02.md",
     "日记/2024-01-03.md",
     "日记/2023-07/2023-07-31.md",
@@ -223,7 +194,6 @@
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
     "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
-    "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/学校资料/操作系统课件/4-进程及进程管理.pdf",
     "操作系统/学校笔记/第4章：进程及进程管理.md",
@@ -238,7 +208,6 @@
     "操作系统/assets/Pasted image 20240101202749.png",
     "操作系统/assets/Pasted image 20240101202531.png",
     "操作系统/assets/Pasted image 20240101202446.png",
-    "操作系统/图解系统/设备管理",
     "操作系统/assets/Pasted image 20231230162208.png",
     "操作系统/assets/Pasted image 20231229165847.png",
     "操作系统/assets/Pasted image 20231229165417.png",
