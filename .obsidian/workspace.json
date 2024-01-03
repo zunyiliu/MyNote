@@ -20,11 +20,13 @@
             }
           },
           {
-            "id": "492a2974698c9e37",
+            "id": "cb04d74ade2481bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/操作系统课件/7-主存管理.pdf"
+              }
             }
           },
           {
@@ -114,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统/学校资料/操作系统课件/7-主存管理.pdf"
+              }
             }
           },
           {
@@ -192,17 +198,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "492a2974698c9e37",
+  "active": "cb04d74ade2481bd",
   "lastOpenFiles": [
-    "什么是操作系统.md",
-    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
     "操作系统/学校笔记/第7章：主存管理.md",
+    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
+    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
+    "日记/2024-01-02.md",
+    "日记/2024-01-03.md",
+    "日记/2023-07/2023-07-31.md",
+    "什么是操作系统.md",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/学校资料/复习/2020-操作系统试题-A卷答案.pdf",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "操作系统/学校资料/操作系统课件/6-处理机调度.pdf",
@@ -211,8 +220,6 @@
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.docx",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
     "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
-    "日记/2024-01-03.md",
-    "日记/2024-01-02.md",
     "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
@@ -227,8 +234,6 @@
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/图解系统/文件系统",
-    "杂项/wsl相关教程.md",
-    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/assets/Pasted image 20240101201906.png",
     "操作系统/assets/Pasted image 20240101202749.png",
     "操作系统/assets/Pasted image 20240101202531.png",
