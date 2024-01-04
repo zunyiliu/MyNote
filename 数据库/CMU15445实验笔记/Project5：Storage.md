@@ -53,15 +53,15 @@ Header中多种元数据，这些都包含在table page的4096字节当中。
 - 设置slot的offset和size
 - 返回该tuple的rid，包含page id和slot id
 
-# TablePage---MarkDelete
+## TablePage---MarkDelete
 - 根据rid找到指定的slot
 - 给tuple做上delete的标记
 
-# TablePage---GetTuple
+## TablePage---GetTuple
 - 根据rid找到指定的slot
 - 根据slot的offset找到指定区域，并将数据进行拷贝
 
-# TablePage---UpdateTuple
+## TablePage---UpdateTuple
 - 根据rid找到指定的slot
 - 将该tuple前的所有tuple继续前移，腾出位置
 - 在新的tuple位置上进行拷贝

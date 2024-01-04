@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-03.md",
+                "file": "操作系统/学校笔记/第9章：文件系统.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1990e7a443a802c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/操作系统课件/9-文件系统.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-03.md",
+                "file": "操作系统/学校资料/操作系统课件/9-文件系统.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-03.md",
+                "file": "操作系统/学校资料/操作系统课件/9-文件系统.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-03.md"
+                "file": "操作系统/学校资料/操作系统课件/9-文件系统.pdf"
               }
             }
           },
@@ -167,8 +178,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1323af89b693e049",
+  "active": "1990e7a443a802c4",
   "lastOpenFiles": [
+    "数据库/CMU15445实验笔记/Project5：Storage.md",
+    "操作系统/学校资料/操作系统课件/9-文件系统.pdf",
+    "操作系统/学校笔记/第9章：文件系统.md",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
+    "操作系统/学校资料/第3版习题答案/未命名",
+    "日记/2024-01-04.md",
     "日记/2024-01-03.md",
     "操作系统/学校资料/复习/2020-A卷.pdf",
     "操作系统/学校资料/复习/2021-操作系统试题-A卷.pdf",
@@ -192,11 +210,8 @@
     "操作系统/assets/Pasted image 20240103190703.png",
     "操作系统/assets/Pasted image 20240103190001.png",
     "操作系统/assets/Pasted image 20240103185729.png",
-    "操作系统/学校资料/操作系统课件/8-设备管理.pdf",
     "操作系统/学校笔记/第8章：设备管理.md",
-    "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
-    "操作系统/学校资料/操作系统课件/7-主存管理.pdf",
     "操作系统/学校笔记/第7章：主存管理.md",
     "日记/2024-01-02.md",
     "日记/2023-07/2023-07-31.md",
@@ -211,8 +226,6 @@
     "操作系统/学校笔记/第6章：处理机调度.md",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
-    "操作系统/学校笔记/第4章：进程及进程管理.md",
-    "数据库/CMU15445实验笔记/Project5：Storage.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
