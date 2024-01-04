@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-04.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-04.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-04.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-04.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md"
               }
             }
           },
@@ -169,6 +169,11 @@
   },
   "active": "82abfde23b528219",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081实验/Lab8：Locks.md",
+    "操作系统/MIT-6.S081实验/Lab9：File System.md",
+    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
+    "日记/2024-01-04.md",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "操作系统/学校资料/复习/操作系统练习题.pdf",
@@ -190,7 +195,6 @@
     "操作系统/学校资料/复习/2021-操作系统试题-A卷.pdf",
     "操作系统/学校资料/复习/2021-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/复习/操作系统总复习.pdf",
-    "日记/2024-01-04.md",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
     "操作系统/学校资料/第3版习题答案/未命名",
     "日记/2024-01-03.md",
@@ -211,9 +215,6 @@
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/MIT-6.S081实验/Lab8：Locks.md",
-    "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
