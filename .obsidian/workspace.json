@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3cfd1e46cfbb75a1",
+        "id": "f52d74e60bab5d09",
         "type": "tabs",
         "children": [
           {
-            "id": "317dbba0a8f8b527",
+            "id": "b84fe78771a97ffb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-A卷.pdf"
-              }
-            }
-          },
-          {
-            "id": "3b990a735647d4f0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-A卷答案.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-A卷.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-A卷.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-A卷.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -175,12 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "317dbba0a8f8b527",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
+    "操作系统/学校笔记/第5章：资源分配与调度.md",
+    "操作系统/学校笔记/第6章：处理机调度.md",
+    "日记/2024-01-04.md",
+    "日记/2024-01-05.md",
     "操作系统/学校资料/复习/2020-A卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷.pdf",
-    "日记/2024-01-05.md",
-    "日记/2024-01-04.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
@@ -220,8 +207,6 @@
     "日记/2024-01-02.md",
     "日记/2023-07/2023-07-31.md",
     "什么是操作系统.md",
-    "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
-    "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
