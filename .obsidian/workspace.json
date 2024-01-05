@@ -4,18 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8e4b1763af88aa",
+        "id": "3cfd1e46cfbb75a1",
         "type": "tabs",
         "children": [
           {
-            "id": "82abfde23b528219",
+            "id": "317dbba0a8f8b527",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2024-01-04.md",
-                "mode": "source",
-                "source": false
+                "file": "操作系统/学校资料/复习/2020-A卷.pdf"
+              }
+            }
+          },
+          {
+            "id": "3b990a735647d4f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-A卷答案.pdf"
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-04.md",
+                "file": "操作系统/学校资料/复习/2020-A卷.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-04.md",
+                "file": "操作系统/学校资料/复习/2020-A卷.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-04.md"
+                "file": "操作系统/学校资料/复习/2020-A卷.pdf"
               }
             }
           },
@@ -167,17 +175,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "82abfde23b528219",
+  "active": "317dbba0a8f8b527",
   "lastOpenFiles": [
+    "操作系统/学校资料/复习/2020-A卷答案.pdf",
+    "操作系统/学校资料/复习/2020-A卷.pdf",
+    "日记/2024-01-05.md",
+    "日记/2024-01-04.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
-    "日记/2024-01-04.md",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "操作系统/学校资料/复习/操作系统练习题.pdf",
-    "操作系统/学校资料/复习/2020-A卷.pdf",
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
     "操作系统/assets/Pasted image 20240104163714.png",
     "操作系统/assets/Pasted image 20240104170450.png",
@@ -198,7 +208,6 @@
     "数据库/CMU15445实验笔记/Project5：Storage.md",
     "操作系统/学校资料/第3版习题答案/未命名",
     "日记/2024-01-03.md",
-    "操作系统/学校资料/复习/2020-A卷答案.pdf",
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "日记/阶段计划.md",
     "操作系统/XV6操作系统笔记/read与write的全流程.md",
@@ -213,8 +222,6 @@
     "什么是操作系统.md",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
     "数据库/CMU15445笔记/Lecture 09：Index Concurrency Control.md",
-    "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
-    "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
