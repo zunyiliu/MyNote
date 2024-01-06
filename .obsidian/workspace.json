@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "96bd091d8de49a51",
+        "id": "7dfb88703f697ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "a73d1332979f7e55",
+            "id": "78228b498295810e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统练习题.pdf"
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统练习题.pdf",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统练习题.pdf",
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校资料/复习/操作系统练习题.pdf"
+                "file": "操作系统/MIT-6.S081笔记/Lec14 File systems.md"
               }
             }
           },
@@ -165,12 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a73d1332979f7e55",
+  "active": "78228b498295810e",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
+    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
+    "日记/2024-01-06.md",
+    "操作系统/学校资料/复习/操作系统练习题.pdf",
+    "操作系统/学校资料/操作系统课件/6-处理机调度.pdf",
     "日记/2024-01-04.md",
     "日记/2024-01-03.md",
     "日记/2024-01-05.md",
-    "日记/2024-01-06.md",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/assets/Pasted image 20240106115155.png",
@@ -181,12 +187,9 @@
     "操作系统/学校笔记/第6章：处理机调度.md",
     "操作系统/学校资料/复习/2020-A卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷.pdf",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
-    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
-    "操作系统/学校资料/复习/操作系统练习题.pdf",
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
     "操作系统/assets/Pasted image 20240104163714.png",
     "操作系统/assets/Pasted image 20240104170450.png",
@@ -200,7 +203,6 @@
     "操作系统/学校资料/操作系统课件/9-文件系统.pdf",
     "操作系统/学校笔记/第1章：绪论.md",
     "操作系统/学校资料/复习/2021-操作系统试题-A卷.pdf",
-    "操作系统/学校资料/复习/2021-操作系统试题-A卷答案.pdf",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "日记/阶段计划.md",
