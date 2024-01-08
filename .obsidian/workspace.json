@@ -4,18 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfb88703f697ad2",
+        "id": "d03bf76be5b3806b",
         "type": "tabs",
         "children": [
           {
-            "id": "78228b498295810e",
+            "id": "65b77d90082f0ad7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记/2024-01-06.md",
-                "mode": "source",
-                "source": false
+                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf"
+              }
+            }
+          },
+          {
+            "id": "646b272180f8ab8e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "操作系统/学校资料/复习/2020-os-b卷答案.pdf"
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-06.md",
+                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-06.md",
+                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-06.md"
+                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf"
               }
             }
           },
@@ -167,26 +175,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "78228b498295810e",
+  "active": "65b77d90082f0ad7",
   "lastOpenFiles": [
+    "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
+    "操作系统/学校资料/复习/2020-os-b卷.pdf",
+    "操作系统/学校资料/复习/2020-A卷答案.pdf",
+    "操作系统/学校资料/复习/2020-A卷.pdf",
+    "操作系统/学校资料/复习/2021-操作系统试题-A卷答案.pdf",
+    "操作系统/学校资料/复习/2021-操作系统试题-A卷.pdf",
+    "操作系统/学校资料/复习/操作系统总复习.pdf",
+    "日记/2024-01-07.md",
+    "日记/2024-01-06.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
-    "日记/2024-01-06.md",
     "操作系统/学校资料/复习/操作系统练习题.pdf",
     "操作系统/学校资料/操作系统课件/6-处理机调度.pdf",
     "日记/2024-01-04.md",
     "日记/2024-01-03.md",
     "日记/2024-01-05.md",
-    "操作系统/学校资料/复习/2020-os-b卷.pdf",
-    "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/assets/Pasted image 20240106115155.png",
     "操作系统/图解系统/进程管理/进程间通信.md",
     "操作系统/assets/Pasted image 20240106115524.png",
     "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
     "操作系统/学校笔记/第6章：处理机调度.md",
-    "操作系统/学校资料/复习/2020-A卷答案.pdf",
-    "操作系统/学校资料/复习/2020-A卷.pdf",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
@@ -200,9 +212,7 @@
     "操作系统/assets/Pasted image 20240104165939.png",
     "操作系统/学校笔记/第9章：文件系统.md",
     "操作系统/assets/Pasted image 20240104165252.png",
-    "操作系统/学校资料/操作系统课件/9-文件系统.pdf",
     "操作系统/学校笔记/第1章：绪论.md",
-    "操作系统/学校资料/复习/2021-操作系统试题-A卷.pdf",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
     "日记/阶段计划.md",
@@ -213,7 +223,6 @@
     "操作系统/学校笔记/第8章：设备管理.md",
     "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
     "操作系统/学校笔记/第7章：主存管理.md",
-    "日记/2024-01-02.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
