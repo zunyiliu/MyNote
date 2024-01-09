@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f0767dbf1c2f1dec",
+        "id": "ccd8eb83c698df25",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5bc5d881ba283c",
+            "id": "1bbdc4d7bffa57be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-01-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/assets/Pasted image 20240109155824.png",
+                "file": "日记/2024-01-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/assets/Pasted image 20240109155824.png",
+                "file": "日记/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/assets/Pasted image 20240109155824.png"
+                "file": "日记/2024-01-09.md"
               }
             }
           },
@@ -163,22 +167,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "1bbdc4d7bffa57be",
   "lastOpenFiles": [
-    "RDMA与PFS/assets/Pasted image 20240109160134.png",
-    "RDMA与PFS/RDMA杂谈/RDMA基本元素.md",
-    "RDMA与PFS/assets/Pasted image 20240109160737.png",
-    "RDMA与PFS/assets/Pasted image 20240109160639.png",
-    "RDMA与PFS/assets/Pasted image 20240109160619.png",
-    "RDMA与PFS/assets/Pasted image 20240109160506.png",
-    "RDMA与PFS/assets/Pasted image 20240109160412.png",
+    "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
+    "RDMA与PFS/assets/Pasted image 20240109171531.png",
+    "RDMA与PFS/assets/Pasted image 20240109171443.png",
+    "RDMA与PFS/assets/Pasted image 20240109171335.png",
+    "RDMA与PFS/assets/Pasted image 20240109171252.png",
+    "RDMA与PFS/assets/Pasted image 20240109171202.png",
+    "RDMA与PFS/RDMA杂谈/1.RDMA概述.md",
+    "RDMA与PFS/assets/Pasted image 20240109164445.png",
+    "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
+    "RDMA与PFS/assets/Pasted image 20240109164628.png",
+    "RDMA与PFS/assets/Pasted image 20240109164548.png",
+    "RDMA与PFS/RDMA杂谈/3.RDMA基本元素.md",
+    "RDMA与PFS/RDMA杂谈/2.传统以太网与RDMA技术的比较.md",
     "RDMA与PFS/assets/Pasted image 20240109155824.png",
-    "Pasted image 20240109155759.png",
-    "RDMA与PFS/RDMA杂谈/RDMA概述.md",
-    "RDMA与PFS/assets/Pasted image 20240109151019.png",
+    "RDMA与PFS/assets/Pasted image 20240109160134.png",
     "RDMA与PFS/assets",
-    "RDMA与PFS/RDMA杂谈/传统以太网与RDMA技术的比较.md",
-    "RDMA与PFS/assets/Pasted image 20240109153335.png",
     "RDMA与PFS/未命名.md",
     "RDMA与PFS/RDMA杂谈",
     "日记/2024-01-09.md",
@@ -208,8 +214,6 @@
     "操作系统/图解系统/进程管理/进程间通信.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
-    "操作系统/图解系统/文件系统/文件系统全家桶.md",
-    "操作系统/学校笔记/第9章：文件系统.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
