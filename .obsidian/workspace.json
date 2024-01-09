@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e861a91a1e7de98",
+        "id": "132efd707b0c9c78",
         "type": "tabs",
         "children": [
           {
-            "id": "93717a64ae4adaa5",
+            "id": "389a1bc81e181149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-09.md",
+                "file": "RDMA与PFS/RDMA杂谈/RDMA概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-09.md",
+                "file": "RDMA与PFS/RDMA杂谈/RDMA概述.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-09.md",
+                "file": "RDMA与PFS/RDMA杂谈/RDMA概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-09.md"
+                "file": "RDMA与PFS/RDMA杂谈/RDMA概述.md"
               }
             }
           },
@@ -167,20 +167,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "93717a64ae4adaa5",
+  "active": "389a1bc81e181149",
   "lastOpenFiles": [
-    "操作系统/assets/Pasted image 20240109111006.png",
+    "RDMA与PFS/assets/Pasted image 20240109151019.png",
+    "RDMA与PFS/assets",
+    "RDMA与PFS/RDMA杂谈/传统以太网与RDMA技术的比较.md",
+    "RDMA与PFS/assets/Pasted image 20240109153335.png",
+    "RDMA与PFS/assets/Pasted image 20240109153305.png",
+    "RDMA与PFS/assets/Pasted image 20240109153153.png",
+    "RDMA与PFS/assets/Pasted image 20240109153053.png",
+    "RDMA与PFS/RDMA杂谈/RDMA概述.md",
+    "RDMA与PFS/assets/Pasted image 20240109151749.png",
+    "RDMA与PFS/assets/Pasted image 20240109151714.png",
+    "RDMA与PFS/assets/Pasted image 20240109151604.png",
+    "RDMA与PFS/assets/Pasted image 20240109151316.png",
+    "RDMA与PFS/assets/Pasted image 20240109151025.png",
+    "RDMA与PFS/未命名.md",
+    "RDMA与PFS/RDMA杂谈",
+    "日记/2024-01-09.md",
+    "RDMA与PFS",
     "操作系统/图解系统/进程管理/悲观锁与乐观锁.md",
     "操作系统/图解系统/进程管理/如何避免死锁.md",
     "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "数据库/图解MySQL/锁篇/MySQL锁类型.md",
-    "操作系统/assets/Pasted image 20240109111105.png",
-    "操作系统/assets/Pasted image 20240109111048.png",
-    "操作系统/assets/Pasted image 20240109111026.png",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/学校笔记/第5章：资源分配与调度.md",
     "操作系统/学校笔记/第6章：处理机调度.md",
-    "日记/2024-01-09.md",
     "日记/2024-01-08.md",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
@@ -193,27 +205,15 @@
     "日记/2024-01-06.md",
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
-    "操作系统/学校资料/复习/操作系统练习题.pdf",
-    "操作系统/学校资料/操作系统课件/6-处理机调度.pdf",
     "日记/2024-01-04.md",
     "日记/2024-01-03.md",
     "日记/2024-01-05.md",
-    "操作系统/assets/Pasted image 20240106115155.png",
     "操作系统/图解系统/进程管理/进程间通信.md",
-    "操作系统/assets/Pasted image 20240106115524.png",
-    "操作系统/学校资料/操作系统课件/5-资源分配与调度.pdf",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
-    "操作系统/assets/Pasted image 20240104163714.png",
-    "操作系统/assets/Pasted image 20240104170450.png",
-    "操作系统/assets/Pasted image 20240104170316.png",
-    "操作系统/assets/Pasted image 20240104170243.png",
     "操作系统/学校笔记/第9章：文件系统.md",
     "操作系统/学校笔记/第1章：绪论.md",
-    "数据库/CMU15445实验笔记/Project5：Storage.md",
-    "操作系统/XV6操作系统笔记/Trap机制.md",
-    "日记/阶段计划.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
