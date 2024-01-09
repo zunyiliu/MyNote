@@ -11,19 +11,11 @@
             "id": "65b77d90082f0ad7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf"
-              }
-            }
-          },
-          {
-            "id": "646b272180f8ab8e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "操作系统/学校资料/复习/2020-os-b卷答案.pdf"
+                "file": "日记/2024-01-08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf",
+                "file": "日记/2024-01-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf",
+                "file": "日记/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校资料/复习/2020-os-b卷.pdf"
+                "file": "日记/2024-01-08.md"
               }
             }
           },
@@ -175,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65b77d90082f0ad7",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
+    "日记/2024-01-08.md",
+    "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷.pdf",
     "操作系统/学校资料/复习/2021-操作系统试题-A卷答案.pdf",
@@ -201,7 +194,6 @@
     "操作系统/学校笔记/第6章：处理机调度.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
-    "操作系统/学校资料/第3版习题答案/~$章习题及答案.doc",
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
     "操作系统/assets/Pasted image 20240104163714.png",
     "操作系统/assets/Pasted image 20240104170450.png",
@@ -222,7 +214,6 @@
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/学校笔记/第8章：设备管理.md",
     "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
-    "操作系统/学校笔记/第7章：主存管理.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
