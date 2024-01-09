@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-08.md",
+                "file": "日记/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-08.md",
+                "file": "日记/2024-01-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-08.md",
+                "file": "日记/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-08.md"
+                "file": "日记/2024-01-09.md"
               }
             }
           },
@@ -167,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "65b77d90082f0ad7",
   "lastOpenFiles": [
-    "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "日记/2024-01-08.md",
+    "日记/2024-01-09.md",
+    "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷.pdf",
