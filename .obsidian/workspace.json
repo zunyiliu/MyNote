@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac5c17ef2086c108",
+        "id": "c8572a39408a48ce",
         "type": "tabs",
         "children": [
           {
-            "id": "b728cb950b39bf41",
+            "id": "09a77552eaa593c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md"
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md"
               }
             }
           },
@@ -167,11 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b728cb950b39bf41",
+  "active": "09a77552eaa593c3",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
     "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
     "操作系统/图解系统/网络系统/零拷贝.md",
-    "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
     "RDMA与PFS/assets/Pasted image 20240110161614.png",
     "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
     "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
