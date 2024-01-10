@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md"
+                "file": "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md"
               }
             }
           },
@@ -169,26 +169,28 @@
   },
   "active": "b728cb950b39bf41",
   "lastOpenFiles": [
-    "Pasted image 20240110151343.png",
-    "RDMA与PFS/assets/Pasted image 20240109151316.png",
-    "RDMA与PFS/assets/Pasted image 20240109151025.png",
-    "RDMA与PFS/assets/Pasted image 20240109151019.png",
-    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
-    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
-    "RDMA与PFS/assets/Pasted image 20240110144914.png",
-    "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
+    "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
+    "操作系统/图解系统/网络系统/零拷贝.md",
+    "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
+    "RDMA与PFS/assets/Pasted image 20240110161614.png",
     "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
     "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
     "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
-    "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
+    "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
+    "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+    "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
+    "RDMA与PFS/assets/Pasted image 20240110153335.png",
+    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+    "RDMA与PFS/assets/Pasted image 20240110151343.png",
+    "RDMA与PFS/assets/Pasted image 20240109151316.png",
+    "RDMA与PFS/assets/Pasted image 20240109151025.png",
+    "RDMA与PFS/assets/Pasted image 20240109151019.png",
+    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
+    "RDMA与PFS/assets/Pasted image 20240110144914.png",
     "日记/2024-01-10.md",
-    "操作系统/图解系统/网络系统/零拷贝.md",
     "操作系统/assets/Pasted image 20240110113716.png",
     "操作系统/assets/Pasted image 20240110114413.png",
     "操作系统/assets/Pasted image 20240110114257.png",
-    "操作系统/assets/Pasted image 20240110114139.png",
-    "操作系统/assets/Pasted image 20240110113854.png",
-    "操作系统/assets/Pasted image 20240110113759.png",
     "操作系统/图解系统/网络系统",
     "操作系统/图解系统/文件系统/Page Cache.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
@@ -212,9 +214,6 @@
     "操作系统/学校资料/复习/2021-操作系统试题-A卷答案.pdf",
     "操作系统/学校资料/复习/2021-操作系统试题-A卷.pdf",
     "日记/2024-01-07.md",
-    "日记/2024-01-06.md",
-    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
