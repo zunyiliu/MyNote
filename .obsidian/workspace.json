@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+                "file": "日记/2024-01-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+                "file": "日记/2024-01-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+                "file": "日记/2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md"
+                "file": "日记/2024-01-10.md"
               }
             }
           },
