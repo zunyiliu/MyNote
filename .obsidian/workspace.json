@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8572a39408a48ce",
+        "id": "dc340753d458c6d8",
         "type": "tabs",
         "children": [
           {
-            "id": "09a77552eaa593c3",
+            "id": "a77d5b2c13708977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-10.md",
+                "file": "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-10.md",
+                "file": "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-10.md",
+                "file": "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-10.md"
+                "file": "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md"
               }
             }
           },
@@ -167,8 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09a77552eaa593c3",
+  "active": "a77d5b2c13708977",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
+    "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
+    "日记/2024-01-11.md",
+    "日记/2024-01-10.md",
     "RDMA与PFS/RDMA杂谈/2024.1.10组会分享.md",
     "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
     "操作系统/图解系统/网络系统/零拷贝.md",
@@ -178,16 +183,12 @@
     "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
     "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
-    "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
     "RDMA与PFS/assets/Pasted image 20240110153335.png",
-    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
     "RDMA与PFS/assets/Pasted image 20240110151343.png",
     "RDMA与PFS/assets/Pasted image 20240109151316.png",
     "RDMA与PFS/assets/Pasted image 20240109151025.png",
     "RDMA与PFS/assets/Pasted image 20240109151019.png",
-    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "RDMA与PFS/assets/Pasted image 20240110144914.png",
-    "日记/2024-01-10.md",
     "操作系统/assets/Pasted image 20240110113716.png",
     "操作系统/assets/Pasted image 20240110114413.png",
     "操作系统/assets/Pasted image 20240110114257.png",
