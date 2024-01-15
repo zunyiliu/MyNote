@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc340753d458c6d8",
+        "id": "9be47486a5758f75",
         "type": "tabs",
         "children": [
           {
-            "id": "a77d5b2c13708977",
+            "id": "53fe5bb4bab1c0c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
+                "file": "日记/2024-01-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
+                "file": "日记/2024-01-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
+                "file": "日记/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md"
+                "file": "日记/2024-01-15.md"
               }
             }
           },
@@ -169,10 +169,12 @@
   },
   "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "操作系统/图解系统/进程管理/线程基础知识.md",
-    "操作系统/图解系统/网络系统/IO 多路复用.md",
-    "Pasted image 20240115112414.png",
+    "日记/阶段计划.md",
     "日记/2024-01-15.md",
+    "操作系统/图解系统/网络系统/IO 多路复用.md",
+    "操作系统/assets/Pasted image 20240115124932.png",
+    "操作系统/图解系统/进程管理/线程基础知识.md",
+    "操作系统/assets/Pasted image 20240115112414.png",
     "日记/长春出行计划.md",
     "日记/2024-01-14.md",
     "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
@@ -196,7 +198,6 @@
     "RDMA与PFS/assets/Pasted image 20240109151019.png",
     "RDMA与PFS/assets/Pasted image 20240110144914.png",
     "操作系统/assets/Pasted image 20240110113716.png",
-    "操作系统/assets/Pasted image 20240110114413.png",
     "操作系统/图解系统/网络系统",
     "操作系统/图解系统/文件系统/Page Cache.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
@@ -208,7 +209,6 @@
     "操作系统/图解系统/进程管理/悲观锁与乐观锁.md",
     "操作系统/图解系统/进程管理/如何避免死锁.md",
     "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
-    "数据库/图解MySQL/锁篇/MySQL锁类型.md",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷答案.pdf",
