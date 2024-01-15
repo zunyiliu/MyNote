@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42de8b9394b0747d",
+        "id": "d4f3cdb09762323b",
         "type": "tabs",
         "children": [
           {
-            "id": "c41c7789ea8e6332",
+            "id": "9f6b78f7d600322d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
+                "file": "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
+                "file": "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
+                "file": "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md"
+                "file": "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md"
               }
             }
           },
@@ -167,14 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c41c7789ea8e6332",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "Pasted image 20240115151847.png",
-    "Pasted image 20240115151511.png",
-    "Pasted image 20240115151443.png",
-    "Pasted image 20240115151006.png",
-    "RDMA与PFS/assets/Pasted image 20240115143400.png",
+    "RDMA与PFS/assets/Pasted image 20240115160623.png",
+    "RDMA与PFS/assets/Pasted image 20240115160539.png",
+    "RDMA与PFS/assets/Pasted image 20240115151006.png",
+    "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
     "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
+    "RDMA与PFS/assets/Pasted image 20240115151847.png",
+    "RDMA与PFS/assets/Pasted image 20240115151511.png",
+    "RDMA与PFS/assets/Pasted image 20240115151443.png",
+    "RDMA与PFS/assets/Pasted image 20240115143400.png",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
     "RDMA与PFS/assets/Pasted image 20240115144052.png",
     "RDMA与PFS/assets/Pasted image 20240115143901.png",
@@ -188,7 +191,6 @@
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/assets/Pasted image 20240115124932.png",
     "操作系统/图解系统/进程管理/线程基础知识.md",
-    "操作系统/assets/Pasted image 20240115112414.png",
     "日记/2024-01-14.md",
     "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
     "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
@@ -197,7 +199,6 @@
     "日记/2024-01-10.md",
     "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
     "操作系统/图解系统/网络系统/零拷贝.md",
-    "RDMA与PFS/assets/Pasted image 20240110161614.png",
     "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
     "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
     "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
@@ -209,7 +210,6 @@
     "RDMA与PFS/未命名.md",
     "RDMA与PFS/RDMA杂谈",
     "RDMA与PFS",
-    "操作系统/图解系统/进程管理/悲观锁与乐观锁.md",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
     "操作系统/学校资料/复习/2020-A卷答案.pdf",
