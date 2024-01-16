@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b0e5e289e8bef8",
+        "id": "59d678369f62c3c0",
         "type": "tabs",
         "children": [
           {
-            "id": "2493cbf3381aebb0",
+            "id": "b69c79000c750eeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/长春出行计划.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/长春出行计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/长春出行计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/长春出行计划.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2493cbf3381aebb0",
+  "active": "b69c79000c750eeb",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
+    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+    "RDMA与PFS/assets/Pasted image 20240116155336.png",
     "日记/2024-01-16.md",
     "操作系统/assets/Pasted image 20240116115052.png",
     "操作系统/图解系统/网络系统/一致性哈希.md",
@@ -190,7 +185,6 @@
     "RDMA与PFS/RDMA杂谈/12. RDMA之Memory Window.md",
     "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
     "RDMA与PFS/assets/Pasted image 20240115160623.png",
-    "RDMA与PFS/assets/Pasted image 20240115160539.png",
     "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
     "RDMA与PFS/组会/2024.1.10组会分享.md",
@@ -204,7 +198,6 @@
     "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "日记/2024-01-11.md",
-    "日记/2024-01-10.md",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
     "RDMA与PFS/RDMA杂谈",
