@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "59d678369f62c3c0",
+        "id": "b13ff6676cfbdf15",
         "type": "tabs",
         "children": [
           {
-            "id": "b69c79000c750eeb",
+            "id": "65360550f070bf49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-01-16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记/2024-01-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "日记/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记/2024-01-16.md"
+              }
             }
           },
           {
@@ -159,12 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b69c79000c750eeb",
+  "active": "65360550f070bf49",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
+    "日记/2024-01-16.md",
     "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "RDMA与PFS/assets/Pasted image 20240116155336.png",
-    "日记/2024-01-16.md",
     "操作系统/assets/Pasted image 20240116115052.png",
     "操作系统/图解系统/网络系统/一致性哈希.md",
     "操作系统/assets/Pasted image 20240116115306.png",
@@ -197,7 +206,6 @@
     "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
     "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
-    "日记/2024-01-11.md",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
     "RDMA与PFS/RDMA杂谈",
