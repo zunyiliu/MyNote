@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "日记/长春出行计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "日记/长春出行计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "日记/长春出行计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-16.md"
+                "file": "日记/长春出行计划.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "2493cbf3381aebb0",
   "lastOpenFiles": [
+    "日记/2024-01-16.md",
     "操作系统/assets/Pasted image 20240116115052.png",
     "操作系统/图解系统/网络系统/一致性哈希.md",
     "操作系统/assets/Pasted image 20240116115306.png",
     "操作系统/assets/Pasted image 20240116115205.png",
     "操作系统/assets/Pasted image 20240116115134.png",
-    "日记/2024-01-16.md",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/assets/Pasted image 20240116112013.png",
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
