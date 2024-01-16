@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b13ff6676cfbdf15",
+        "id": "06f4a3fabf775b2c",
         "type": "tabs",
         "children": [
           {
-            "id": "65360550f070bf49",
+            "id": "02a92df23fadbf39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "日记/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "日记/2024-01-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "日记/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/长春出行计划.md"
+                "file": "日记/2024-01-16.md"
               }
             }
           },
@@ -167,10 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65360550f070bf49",
+  "active": "02a92df23fadbf39",
   "lastOpenFiles": [
-    "日记/阶段计划.md",
     "日记/2024-01-16.md",
+    "日记/2024-01-09.md",
+    "操作系统/XV6操作系统笔记/文件系统.md",
+    "日记/2024-01-10.md",
+    "日记/2024-01-11.md",
+    "日记/2024-01-14.md",
+    "日记/2024-01-15.md",
+    "日记/阶段计划.md",
     "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
     "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
@@ -191,7 +197,6 @@
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
     "操作系统/XV6操作系统笔记/设备read与write的全流程.md",
-    "日记/2024-01-15.md",
     "RDMA与PFS/RDMA杂谈/12. RDMA之Memory Window.md",
     "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
     "RDMA与PFS/assets/Pasted image 20240115160623.png",
@@ -201,11 +206,6 @@
     "RDMA与PFS/组会",
     "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
     "日记/长春出行计划.md",
-    "操作系统/图解系统/进程管理/线程基础知识.md",
-    "日记/2024-01-14.md",
-    "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
-    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
-    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
     "RDMA与PFS/RDMA杂谈",
