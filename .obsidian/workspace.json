@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "日记/长春出行计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "日记/长春出行计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "日记/长春出行计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-16.md"
+                "file": "日记/长春出行计划.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "65360550f070bf49",
   "lastOpenFiles": [
-    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
+    "日记/阶段计划.md",
     "日记/2024-01-16.md",
+    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
     "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "RDMA与PFS/assets/Pasted image 20240116155336.png",
@@ -200,7 +201,6 @@
     "RDMA与PFS/组会",
     "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
     "日记/长春出行计划.md",
-    "日记/阶段计划.md",
     "操作系统/图解系统/进程管理/线程基础知识.md",
     "日记/2024-01-14.md",
     "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
