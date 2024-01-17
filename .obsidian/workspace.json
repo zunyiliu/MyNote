@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-16.md",
+                "file": "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-16.md"
+                "file": "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md"
               }
             }
           },
@@ -169,6 +169,17 @@
   },
   "active": "02a92df23fadbf39",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
+    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+    "RDMA与PFS/RDMA杂谈/12. RDMA之Memory Window.md",
+    "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
+    "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
+    "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+    "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
+    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
+    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
+    "日记/2024-01-17.md",
     "日记/2024-01-16.md",
     "日记/2024-01-09.md",
     "操作系统/XV6操作系统笔记/文件系统.md",
@@ -177,9 +188,6 @@
     "日记/2024-01-14.md",
     "日记/2024-01-15.md",
     "日记/阶段计划.md",
-    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
-    "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
-    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "RDMA与PFS/assets/Pasted image 20240116155336.png",
     "操作系统/assets/Pasted image 20240116115052.png",
     "操作系统/图解系统/网络系统/一致性哈希.md",
@@ -196,16 +204,8 @@
     "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
-    "操作系统/XV6操作系统笔记/设备read与write的全流程.md",
-    "RDMA与PFS/RDMA杂谈/12. RDMA之Memory Window.md",
-    "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
     "RDMA与PFS/assets/Pasted image 20240115160623.png",
-    "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
-    "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
-    "RDMA与PFS/组会/2024.1.10组会分享.md",
     "RDMA与PFS/组会",
-    "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
-    "日记/长春出行计划.md",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
     "RDMA与PFS/RDMA杂谈",
