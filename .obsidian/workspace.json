@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/阶段计划.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/阶段计划.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/阶段计划.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/阶段计划.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md"
               }
             }
           },
@@ -169,6 +169,13 @@
   },
   "active": "5aa0541b0932805b",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
+    "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
+    "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
+    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "操作系统/XV6操作系统笔记/Trap机制.md",
+    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "日记/2024-01-18.md",
     "RDMA与PFS/组会/2024.1.17组会分享.md",
     "RDMA与PFS/组会/2024.1.17组会分享2.md",
@@ -197,13 +204,6 @@
     "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "RDMA与PFS/组会/2024.1.10组会分享.md",
-    "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
-    "RDMA与PFS/RDMA杂谈/12. RDMA之Memory Window.md",
-    "日记/2024-01-16.md",
-    "日记/2024-01-09.md",
-    "日记/2024-01-10.md",
-    "日记/2024-01-11.md",
-    "日记/2024-01-14.md",
     "RDMA与PFS/assets/Pasted image 20240116155336.png",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
