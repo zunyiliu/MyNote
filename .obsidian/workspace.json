@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-18.md",
+                "file": "日记/长春出行计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-18.md",
+                "file": "日记/长春出行计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-18.md",
+                "file": "日记/长春出行计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-18.md"
+                "file": "日记/长春出行计划.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "f981b362ffe29b5b",
   "lastOpenFiles": [
-    "计算机网络/学习笔记/第四章.md",
+    "日记/阶段计划.md",
     "日记/2024-01-18.md",
+    "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第三章.md",
     "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记/第一章.md",
@@ -203,7 +204,6 @@
     "RDMA与PFS/assets/Pasted image 20240117115300.png",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
-    "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
     "RDMA与PFS/assets/Pasted image 20240116155336.png",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
