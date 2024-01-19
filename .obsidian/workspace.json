@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/长春出行计划.md"
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md"
               }
             }
           },
@@ -169,6 +169,16 @@
   },
   "active": "f981b362ffe29b5b",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20240119104451.png",
+    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
+    "计算机网络/图解网络/HTTP篇",
+    "计算机网络/图解网络/基础篇",
+    "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
+    "计算机网络/assets/Pasted image 20240119105415.png",
+    "计算机网络/assets/Pasted image 20240119105125.png",
+    "日记/2024-01-19.md",
+    "计算机网络/图解网络",
+    "日记/长春出行计划.md",
     "日记/阶段计划.md",
     "日记/2024-01-18.md",
     "计算机网络/学习笔记/第四章.md",
@@ -195,16 +205,8 @@
     "操作系统/assets/Pasted image 20240117192658.png",
     "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
     "操作系统/assets/Pasted image 20240117182640.png",
-    "操作系统/XV6操作系统笔记/设备read与write的全流程.md",
-    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
     "操作系统/assets/Pasted image 20240117150100.png",
     "Pasted image 20240117145900.png",
-    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
-    "RDMA与PFS/assets/Pasted image 20240117115814.png",
-    "RDMA与PFS/assets/Pasted image 20240117115300.png",
-    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
-    "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
-    "RDMA与PFS/assets/Pasted image 20240116155336.png",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
@@ -212,9 +214,6 @@
     "RDMA与PFS",
     "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "操作系统/学校资料/复习/2020-os-b卷答案.pdf",
-    "操作系统/学校资料/复习/2020-A卷答案.pdf",
-    "操作系统/学校资料/复习/2020-A卷.pdf",
-    "操作系统/学校资料/复习/2021-操作系统试题-A卷答案.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
