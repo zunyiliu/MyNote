@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md"
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md"
               }
             }
           },
@@ -167,8 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bef0dab4664dfb7a",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "计算机网络/assets/Pasted image 20240119163317.png",
+    "Pasted image 20240119163251.png",
+    "计算机网络/学习笔记/第二章.md",
+    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "日记/2024-01-19.md",
     "日记/2023-12/2023-12-26.md",
     "日记/2023-12/2023-12-25.md",
@@ -185,7 +189,6 @@
     "操作系统/XV6操作系统笔记/XV6的启动.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
     "计算机网络/assets/Pasted image 20240119104451.png",
-    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
@@ -197,17 +200,14 @@
     "日记/2024-01-18.md",
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/学习笔记/第三章.md",
-    "计算机网络/学习笔记/第二章.md",
     "计算机网络/学习笔记/第一章.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第七章.md",
     "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
     "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
     "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
-    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/assets/Pasted image 20240117201401.png",
     "操作系统/assets/Pasted image 20240117160948.png",
-    "操作系统/assets/Pasted image 20240117194606.png",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
