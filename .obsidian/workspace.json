@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e94db004fbbdcda4",
+        "id": "237b1b10e3b098ae",
         "type": "tabs",
         "children": [
           {
-            "id": "da5eac7a4f8a7b91",
+            "id": "d962eb68cff65020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2024-01-19.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2024-01-19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,18 +159,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "da5eac7a4f8a7b91",
+  "active": "d962eb68cff65020",
   "lastOpenFiles": [
+    "计算机网络/图解网络/HTTP篇/既然有 HTTP 协议，为什么还要有 RPC？.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
+    "计算机网络/assets/Pasted image 20240120101659.png",
+    "计算机网络/assets/Pasted image 20240120101655.png",
+    "计算机网络/assets/Pasted image 20240120101636.png",
+    "计算机网络/assets/Pasted image 20240120094912.png",
+    "计算机网络/图解网络/HTTP篇/RPC.md",
+    "计算机网络/assets/Pasted image 20240120095058.png",
+    "日记/2024-01-20.md",
+    "日记/2024-01-19.md",
     "计算机网络/assets/Pasted image 20240119205306.png",
     "计算机网络/assets/Pasted image 20240119204406.png",
     "计算机网络/assets/Pasted image 20240119203113.png",
     "计算机网络/assets/Pasted image 20240119195807.png",
     "Pasted image 20240119195805.png",
     "计算机网络/学习笔记/第二章.md",
-    "计算机网络/assets/Pasted image 20240119163317.png",
-    "Pasted image 20240119163251.png",
-    "日记/2024-01-19.md",
     "日记/2023-12/2023-12-26.md",
     "日记/2023-12/2023-12-25.md",
     "日记/2023-12/2023-12-24.md",
@@ -186,9 +184,6 @@
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/XV6操作系统笔记/物理内存管理.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
-    "操作系统/assets/Pasted image 20240119153754.png",
-    "操作系统/assets/Pasted image 20240119154413.png",
-    "操作系统/assets/Pasted image 20240119154236.png",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "操作系统/XV6操作系统笔记/XV6的启动.md",
     "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
@@ -204,9 +199,6 @@
     "计算机网络/学习笔记/第一章.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第七章.md",
-    "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
-    "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
-    "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
