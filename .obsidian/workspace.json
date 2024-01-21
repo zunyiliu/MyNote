@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
+                "file": "日记/2024-01-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
+                "file": "日记/2024-01-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
+                "file": "日记/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md"
+                "file": "日记/2024-01-21.md"
               }
             }
           },
@@ -169,14 +169,19 @@
   },
   "active": "4ec5f9143b65f163",
   "lastOpenFiles": [
-    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
-    "RDMA与PFS/assets/Pasted image 20240121101439.png",
+    "RDMA与PFS/assets/Pasted image 20240121125046.png",
+    "RDMA与PFS/assets/Pasted image 20240121124549.png",
+    "RDMA与PFS/assets/Pasted image 20240121124144.png",
+    "RDMA与PFS/assets/Pasted image 20240121123920.png",
     "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
+    "Pasted image 20240121123409.png",
+    "RDMA与PFS/assets/Pasted image 20240121123349.png",
+    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
+    "RDMA与PFS/assets/Pasted image 20240121101439.png",
     "RDMA与PFS/assets/Pasted image 20240121104059.png",
     "RDMA与PFS/assets/Pasted image 20240121103229.png",
     "RDMA与PFS/assets/Pasted image 20240121103033.png",
-    "RDMA与PFS/assets/Pasted image 20240121101729.png",
     "日记/2024-01-21.md",
     "日记/2024-01-20.md",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
@@ -185,12 +190,7 @@
     "计算机网络/图解网络/HTTP篇/HTTP 与 WebSocket.md",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
-    "计算机网络/assets/Pasted image 20240120101659.png",
-    "计算机网络/assets/Pasted image 20240120101655.png",
-    "计算机网络/assets/Pasted image 20240120101636.png",
-    "计算机网络/assets/Pasted image 20240120094912.png",
     "计算机网络/图解网络/HTTP篇/RPC.md",
-    "计算机网络/assets/Pasted image 20240120095058.png",
     "日记/2024-01-19.md",
     "计算机网络/学习笔记/第二章.md",
     "日记/2023-12/2023-12-26.md",
@@ -208,7 +208,6 @@
     "计算机网络/图解网络",
     "日记/长春出行计划.md",
     "日记/阶段计划.md",
-    "日记/2024-01-18.md",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
