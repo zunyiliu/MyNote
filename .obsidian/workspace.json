@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "TinyKv项目文档/project1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "TinyKv项目文档/project1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "TinyKv项目文档/project1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-21.md"
+                "file": "TinyKv项目文档/project1.md"
               }
             }
           },
@@ -169,6 +169,10 @@
   },
   "active": "4ec5f9143b65f163",
   "lastOpenFiles": [
+    "TinyKv项目文档/TinyKv资源汇总.md",
+    "TinyKv项目文档/project1.md",
+    "TinyKv项目文档/project.md",
+    "日记/2024-01-21.md",
     "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
     "RDMA与PFS/assets/Pasted image 20240121125046.png",
     "RDMA与PFS/assets/Pasted image 20240121124549.png",
@@ -182,7 +186,6 @@
     "RDMA与PFS/assets/Pasted image 20240121104059.png",
     "RDMA与PFS/assets/Pasted image 20240121103229.png",
     "RDMA与PFS/assets/Pasted image 20240121103033.png",
-    "日记/2024-01-21.md",
     "日记/2024-01-20.md",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
@@ -206,8 +209,6 @@
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
     "计算机网络/图解网络",
-    "日记/长春出行计划.md",
-    "日记/阶段计划.md",
     "RDMA与PFS/组会",
     "操作系统/图解系统/网络系统",
     "RDMA与PFS/assets",
