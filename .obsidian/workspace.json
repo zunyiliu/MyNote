@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40be39aa609215d9",
+        "id": "64067d12933722ff",
         "type": "tabs",
         "children": [
           {
-            "id": "42e5bb111aa045f1",
+            "id": "85ad24a0d636d9d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,15 +159,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "42e5bb111aa045f1",
+  "active": "85ad24a0d636d9d0",
   "lastOpenFiles": [
+    "RDMA与PFS/assets/Pasted image 20240122112538.png",
+    "日记/2024-01-22.md",
+    "RDMA与PFS/assets/Pasted image 20240122112848.png",
+    "RDMA与PFS/assets/Pasted image 20240122112750.png",
+    "RDMA与PFS/assets/Pasted image 20240122112658.png",
     "RDMA与PFS/assets/Pasted image 20240122102831.png",
     "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
     "RDMA与PFS/RDMA杂谈/18. RDMA之基于Socket API的QP间建链.md",
     "RDMA与PFS/assets/Pasted image 20240122103411.png",
     "RDMA与PFS/assets/Pasted image 20240122103313.png",
     "RDMA与PFS/assets/Pasted image 20240122103015.png",
-    "日记/2024-01-22.md",
     "日记/2024-01-21.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project1.md",
@@ -183,11 +179,7 @@
     "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
     "RDMA与PFS/assets/Pasted image 20240121125046.png",
     "RDMA与PFS/assets/Pasted image 20240121124549.png",
-    "RDMA与PFS/assets/Pasted image 20240121124144.png",
-    "RDMA与PFS/assets/Pasted image 20240121123920.png",
     "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
-    "Pasted image 20240121123409.png",
-    "RDMA与PFS/assets/Pasted image 20240121123349.png",
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "日记/2024-01-20.md",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
