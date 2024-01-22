@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "日记/2024-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "日记/2024-01-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "日记/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-21.md"
+                "file": "日记/2024-01-22.md"
               }
             }
           },
@@ -169,10 +169,11 @@
   },
   "active": "4ec5f9143b65f163",
   "lastOpenFiles": [
+    "日记/2024-01-21.md",
+    "日记/2024-01-22.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project1.md",
     "TinyKv项目文档/project.md",
-    "日记/2024-01-21.md",
     "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
     "RDMA与PFS/assets/Pasted image 20240121125046.png",
     "RDMA与PFS/assets/Pasted image 20240121124549.png",
@@ -205,7 +206,6 @@
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "操作系统/XV6操作系统笔记/XV6的启动.md",
-    "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
     "计算机网络/图解网络",
