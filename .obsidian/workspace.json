@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4d0824886285ae",
+        "id": "3d7e228631363577",
         "type": "tabs",
         "children": [
           {
-            "id": "d453199fe2df7331",
+            "id": "f2b09fe764614498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md",
+                "file": "日记/2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md",
+                "file": "日记/2024-01-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md",
+                "file": "日记/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TinyKv项目文档/TinyKv资源汇总.md"
+                "file": "日记/2024-01-25.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d453199fe2df7331",
+  "active": "f2b09fe764614498",
   "lastOpenFiles": [
+    "杂项/vscode ssh远程免密连接.md",
     "日记/2024-01-25.md",
     "日记/2024-01-21.md",
     "日记/2024-01-22.md",
@@ -205,7 +206,6 @@
     "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
     "计算机网络/图解网络/HTTP篇/RPC.md",
     "日记/2024-01-19.md",
-    "计算机网络/学习笔记/第二章.md",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
     "计算机网络/图解网络",
