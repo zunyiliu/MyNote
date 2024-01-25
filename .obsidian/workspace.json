@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "日记/2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "日记/2024-01-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-21.md",
+                "file": "日记/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-21.md"
+                "file": "日记/2024-01-25.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "d453199fe2df7331",
   "lastOpenFiles": [
+    "日记/2024-01-21.md",
+    "日记/2024-01-25.md",
     "日记/2024-01-22.md",
     "日记/2024-01-24.md",
     "TinyKv项目文档/project2.md",
@@ -189,7 +191,6 @@
     "RDMA与PFS/assets/Pasted image 20240122103411.png",
     "RDMA与PFS/assets/Pasted image 20240122103313.png",
     "RDMA与PFS/assets/Pasted image 20240122103015.png",
-    "日记/2024-01-21.md",
     "TinyKv项目文档/project1.md",
     "TinyKv项目文档/project.md",
     "RDMA与PFS/assets/Pasted image 20240121125046.png",
@@ -205,7 +206,6 @@
     "计算机网络/图解网络/HTTP篇/RPC.md",
     "日记/2024-01-19.md",
     "计算机网络/学习笔记/第二章.md",
-    "日记/2023-12/2023-12-26.md",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
     "计算机网络/图解网络",
