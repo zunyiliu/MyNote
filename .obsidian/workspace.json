@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-25.md",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-25.md",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-25.md",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-25.md"
+                "file": "TinyKv项目文档/TinyKv资源汇总.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "d453199fe2df7331",
   "lastOpenFiles": [
-    "日记/2024-01-21.md",
     "日记/2024-01-25.md",
+    "日记/2024-01-21.md",
     "日记/2024-01-22.md",
     "日记/2024-01-24.md",
     "TinyKv项目文档/project2.md",
