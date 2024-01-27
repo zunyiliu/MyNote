@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TinyKv项目文档/project2.md",
+                "file": "日记/2024-01-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TinyKv项目文档/project2.md",
+                "file": "日记/2024-01-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TinyKv项目文档/project2.md",
+                "file": "日记/2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TinyKv项目文档/project2.md"
+                "file": "日记/2024-01-27.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "bec40ad0c55a8c07",
   "lastOpenFiles": [
-    "TinyKv项目文档/project1.md",
     "TinyKv项目文档/project2.md",
+    "TinyKv项目文档/project1.md",
     "日记/2024-01-27.md",
     "数据库/图解MySQL/事务篇/事务隔离级别.md",
     "数据库/图解MySQL/锁篇/MySQL锁类型.md",
