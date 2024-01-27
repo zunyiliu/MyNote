@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md"
+                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md"
               }
             }
           },
@@ -167,12 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "f41abb954b52d3d8",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+    "RDMA与PFS/RDMA杂谈/18. RDMA之基于Socket API的QP间建链.md",
     "RDMA与PFS/组会/2024.1.25组会分享.md",
     "日记/2024-01-27.md",
     "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
-    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "日记/2024-01-26.md",
@@ -186,7 +187,6 @@
     "日记/2024-01-22.md",
     "日记/2024-01-24.md",
     "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
-    "RDMA与PFS/RDMA杂谈/18. RDMA之基于Socket API的QP间建链.md",
     "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
     "RDMA与PFS/组会/2024.1.11组会分享.md",
     "RDMA与PFS/组会/2024.1.18组会分享.md",
