@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f066960309c09389",
+        "id": "08c70d55a8c94fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "f41abb954b52d3d8",
+            "id": "abef08d9e4d7d363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+                "file": "日记/2024-01-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+                "file": "日记/2024-01-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
+                "file": "日记/2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md"
+                "file": "日记/2024-01-27.md"
               }
             }
           },
@@ -167,8 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f41abb954b52d3d8",
+  "active": "abef08d9e4d7d363",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
+    "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
+    "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
+    "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
+    "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
+    "杂项/wsl相关教程.md",
+    "杂项/自荐信.md",
+    "杂项/Makefile与CMake.md",
+    "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "RDMA与PFS/RDMA杂谈/18. RDMA之基于Socket API的QP间建链.md",
     "RDMA与PFS/组会/2024.1.25组会分享.md",
@@ -186,10 +195,6 @@
     "日记/2024-01-21.md",
     "日记/2024-01-22.md",
     "日记/2024-01-24.md",
-    "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
-    "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
-    "RDMA与PFS/组会/2024.1.11组会分享.md",
-    "RDMA与PFS/组会/2024.1.18组会分享.md",
     "RDMA与PFS/assets/Pasted image 20240122112538.png",
     "RDMA与PFS/assets/Pasted image 20240122112848.png",
     "RDMA与PFS/assets/Pasted image 20240122112750.png",
@@ -198,13 +203,8 @@
     "RDMA与PFS/assets/Pasted image 20240122103411.png",
     "RDMA与PFS/assets/Pasted image 20240122103313.png",
     "RDMA与PFS/assets/Pasted image 20240122103015.png",
-    "TinyKv项目文档/project1.md",
-    "TinyKv项目文档/project.md",
     "RDMA与PFS/assets/Pasted image 20240121125046.png",
     "RDMA与PFS/assets/Pasted image 20240121124549.png",
-    "日记/2024-01-20.md",
-    "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
-    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
