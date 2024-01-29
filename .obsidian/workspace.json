@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-29.md",
+                "file": "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-29.md",
+                "file": "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-29.md",
+                "file": "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-29.md"
+                "file": "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "bec40ad0c55a8c07",
   "lastOpenFiles": [
-    "日记/2024-01-28.md",
+    "Pasted image 20240129112350.png",
     "日记/2024-01-29.md",
+    "日记/2024-01-28.md",
     "日记/2024-01-27.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
@@ -194,7 +195,6 @@
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "日记/2024-01-26.md",
-    "TinyKv项目文档/project3.md",
     "RDMA与PFS/assets/Pasted image 20240122112538.png",
     "RDMA与PFS/assets/Pasted image 20240122112848.png",
     "RDMA与PFS/assets/Pasted image 20240122112750.png",
