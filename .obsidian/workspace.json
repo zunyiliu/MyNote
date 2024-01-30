@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-29.md",
+                "file": "杂项/vscode ssh远程免密连接.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-29.md",
+                "file": "杂项/vscode ssh远程免密连接.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-29.md",
+                "file": "杂项/vscode ssh远程免密连接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-29.md"
+                "file": "杂项/vscode ssh远程免密连接.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "c8a94e0b151827ea",
   "lastOpenFiles": [
+    "日记/2024-01-30.md",
+    "日记/2024-01-29.md",
     "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
     "计算机网络/assets/Pasted image 20240129115035.png",
     "计算机网络/assets/Pasted image 20240129113817.png",
@@ -176,7 +178,6 @@
     "计算机网络/assets/Pasted image 20240129113448.png",
     "计算机网络/assets/Pasted image 20240129113003.png",
     "计算机网络/assets/Pasted image 20240129112829.png",
-    "日记/2024-01-29.md",
     "日记/2024-01-28.md",
     "日记/2024-01-27.md",
     "TinyKv项目文档/project2.md",
