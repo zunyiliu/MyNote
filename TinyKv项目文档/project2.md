@@ -623,7 +623,7 @@ func (ps *PeerStorage) FirstIndex() (uint64, error) {
 1. 如果快照的term小于节点term，直接拒绝
 2. 如果快照的index小于节点的committed，也得拒绝。因为已经commit的日志就一定会被应用，若接收了日志，就会丢弃这些已经提交的日志。
 3. 到这一步就正常接收快照。我们的策略是丢弃已有的日志，全部替换为快照，因而FirstIndex、committed、applied、stabled、entries都需要进行更新。pendingSnapshot进行赋值。
-4. 更具Snapshot中的ConfState更新r.Prs。
+4. 根据Snapshot中的ConfState更新r.Prs。
 5. 发送AppendResponse进行回复。
 
 **快照应用**
