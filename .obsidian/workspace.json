@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "file": "日记/2024-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "file": "日记/2024-02-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "file": "日记/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md"
+                "file": "日记/2024-02-01.md"
               }
             }
           },
@@ -169,8 +169,16 @@
   },
   "active": "c8a94e0b151827ea",
   "lastOpenFiles": [
+    "日记/2024-01/2024-01-25.md",
+    "日记/2024-01/2024-01-26.md",
+    "日记/2024-01/2024-01-27.md",
+    "日记/2024-01/2024-01-28.md",
+    "日记/2024-01/2024-01-29.md",
+    "日记/2024-01/2024-01-30.md",
+    "日记/2024-01/2024-01-31.md",
+    "日记/2024-01/2024-01-01.md",
+    "日记/2024-01",
     "日记/2024-02-01.md",
-    "日记/2024-01-31.md",
     "RDMA与PFS/assets/Pasted image 20240131103613.png",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
     "RDMA与PFS/assets/Pasted image 20240131114243.png",
@@ -187,13 +195,9 @@
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project.md",
-    "日记/2024-01-30.md",
     "计算机网络/assets/Pasted image 20240130122850.png",
-    "日记/2024-01-29.md",
     "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
     "计算机网络/assets/Pasted image 20240129115035.png",
-    "日记/2024-01-28.md",
-    "日记/2024-01-27.md",
     "TinyKv项目文档/project1.md",
     "数据库/图解MySQL/事务篇/事务隔离级别.md",
     "数据库/图解MySQL/锁篇/MySQL锁类型.md",
@@ -202,9 +206,6 @@
     "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
     "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
     "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
-    "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
-    "杂项/wsl相关教程.md",
-    "杂项/自荐信.md",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
@@ -214,7 +215,6 @@
     "RDMA与PFS/assets",
     "RDMA与PFS/RDMA杂谈",
     "RDMA与PFS",
-    "操作系统/学校资料/复习/2020-os-b卷.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
