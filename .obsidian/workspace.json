@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "杂项/腾讯实习生招聘.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "杂项/腾讯实习生招聘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/长春出行计划.md",
+                "file": "杂项/腾讯实习生招聘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/长春出行计划.md"
+                "file": "杂项/腾讯实习生招聘.md"
               }
             }
           },
@@ -169,6 +169,17 @@
   },
   "active": "c8a94e0b151827ea",
   "lastOpenFiles": [
+    "Pasted image 20240201202038.png",
+    "Pasted image 20240201201134.png",
+    "Pasted image 20240201200609.png",
+    "Pasted image 20240201200122.png",
+    "Pasted image 20240201195728.png",
+    "杂项/assets/Pasted image 20240201194148.png",
+    "杂项/腾讯实习生招聘.md",
+    "杂项/assets/Pasted image 20240201195358.png",
+    "杂项/assets/Pasted image 20240201195002.png",
+    "杂项/assets/Pasted image 20240201194514.png",
+    "杂项/assets/Pasted image 20240201194350.png",
     "日记/2024-02-01.md",
     "日记/2024-01/2024-01-25.md",
     "日记/2024-01/2024-01-26.md",
@@ -181,31 +192,20 @@
     "日记/2024-01",
     "RDMA与PFS/assets/Pasted image 20240131103613.png",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
-    "RDMA与PFS/assets/Pasted image 20240131114243.png",
-    "RDMA与PFS/assets/Pasted image 20240131104324.png",
-    "Pasted image 20240131100549.png",
-    "RDMA与PFS/assets/Pasted image 20240131113448.png",
-    "RDMA与PFS/assets/Pasted image 20240131112211.png",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第七章.md",
-    "RDMA与PFS/assets/Pasted image 20240131104510.png",
-    "Pasted image 20240131104458.png",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project.md",
-    "计算机网络/assets/Pasted image 20240130122850.png",
     "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
-    "计算机网络/assets/Pasted image 20240129115035.png",
     "TinyKv项目文档/project1.md",
     "数据库/图解MySQL/事务篇/事务隔离级别.md",
     "数据库/图解MySQL/锁篇/MySQL锁类型.md",
     "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
     "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
-    "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
-    "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
