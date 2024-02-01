@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-01-31.md",
-                "mode": "source",
+                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "71316fb62f436cce",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-01-31.md",
+                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-01-31.md",
+                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-01-31.md"
+                "file": "RDMA与PFS/组会/2024.2.1组会分享.md"
               }
             }
           },
@@ -169,6 +170,8 @@
   },
   "active": "c8a94e0b151827ea",
   "lastOpenFiles": [
+    "日记/2024-02-01.md",
+    "日记/2024-01-31.md",
     "RDMA与PFS/assets/Pasted image 20240131103613.png",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
     "RDMA与PFS/assets/Pasted image 20240131114243.png",
@@ -182,7 +185,6 @@
     "Pasted image 20240131104458.png",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
-    "日记/2024-01-31.md",
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project.md",
