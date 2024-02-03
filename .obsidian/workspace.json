@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-02.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-02.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-02.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-02.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md"
               }
             }
           },
@@ -169,8 +169,21 @@
   },
   "active": "d9b58ca680e82f33",
   "lastOpenFiles": [
-    "杂项/腾讯实习生招聘.md",
+    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
+    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
+    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
+    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
+    "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
+    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
+    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
+    "操作系统/MIT-6.S081实验/Lab4：trap.md",
+    "日记/2024-02-03.md",
+    "操作系统/学校笔记/课程介绍.md",
+    "操作系统/学校实验/环境配置.md",
     "日记/2024-02-02.md",
+    "杂项/腾讯实习生招聘.md",
     "日记/2024-02-01.md",
     "杂项/assets/Pasted image 20240201202038.png",
     "杂项/assets/Pasted image 20240201201134.png",
@@ -193,19 +206,6 @@
     "日记/2024-01",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
     "计算机网络/学习笔记/第六章.md",
-    "计算机网络/学习笔记/第七章.md",
-    "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
-    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
-    "TinyKv项目文档/project2.md",
-    "TinyKv项目文档/TinyKv资源汇总.md",
-    "TinyKv项目文档/project.md",
-    "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
-    "TinyKv项目文档/project1.md",
-    "数据库/图解MySQL/事务篇/事务隔离级别.md",
-    "数据库/图解MySQL/锁篇/MySQL锁类型.md",
-    "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
-    "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
-    "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
