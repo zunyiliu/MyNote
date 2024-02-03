@@ -11,8 +11,12 @@
             "id": "c885a6dc4075ab63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/学校实验/环境配置.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/lab1_challenge2.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/lab1_challenge2.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/lab1_challenge2.md"
+                "file": "操作系统/学校实验/环境配置.md"
               }
             }
           },
@@ -163,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "c885a6dc4075ab63",
   "lastOpenFiles": [
     "日记/2024-02-03.md",
     "操作系统/学校实验/lab1_challenge2.md",
