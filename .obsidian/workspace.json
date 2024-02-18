@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/阶段计划.md",
+                "file": "日记/2024-02-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/阶段计划.md",
+                "file": "日记/2024-02-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/阶段计划.md",
+                "file": "日记/2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/阶段计划.md"
+                "file": "日记/2024-02-18.md"
               }
             }
           },
@@ -169,33 +169,33 @@
   },
   "active": "a6cba751c7bc6433",
   "lastOpenFiles": [
-    "杂项/软件工程/软工项目README.md",
-    "杂项/软件工程/资源汇总.md",
+    "日记/2024-01/2024-01-30.md",
+    "日记/2024-01/2024-01-29.md",
+    "日记/2024-01/2024-01-28.md",
+    "日记/2024-01/2024-01-27.md",
+    "日记/2024-01/2024-01-31.md",
+    "日记/2024-02-01.md",
+    "日记/2024-02-02.md",
+    "日记/2024-02-03.md",
+    "日记/2024-02-06.md",
+    "日记/2024-02-18.md",
+    "日记/阶段计划.md",
+    "杂项/2023三好学生答辩演讲稿.md",
+    "杂项/管理员模式运行cmd或Window Terminal.md",
+    "杂项/进程与线程.md",
+    "杂项/腾讯实习生招聘.md",
+    "杂项/自荐信.md",
+    "杂项/Clion利用ssh连接虚拟机进行开发.md",
+    "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
+    "杂项/Makefile与CMake.md",
+    "杂项/python导出exe文件.md",
+    "杂项/VScode C++环境配置.md",
     "杂项/vscode ssh远程免密连接.md",
     "杂项/wsl相关教程.md",
-    "杂项/VScode C++环境配置.md",
-    "杂项/python导出exe文件.md",
-    "杂项/Makefile与CMake.md",
-    "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
+    "杂项/软件工程/软工项目README.md",
+    "杂项/软件工程/资源汇总.md",
     "杂项/软件工程",
     "嵌入式系统/学校资料/资源汇总.md",
-    "数据库/CMU15445笔记/资源汇总.md",
-    "计算机网络/学习笔记/资源汇总.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
-    "日记/2024-02-06.md",
-    "操作系统/学校实验/lab3_challenge2.md",
-    "操作系统/学校实验/lab2_challenge2.md",
-    "杂项/软件工程/软工演示流程.md",
-    "操作系统/学校实验/lab1_challenge2.md",
-    "操作系统/学校实验/lab4_challenge2.md",
-    "日记/2024-02-03.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
-    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
-    "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
-    "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
-    "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "杂项/assets/Pasted image 20240201202038.png",
     "杂项/assets/Pasted image 20240201201134.png",
     "杂项/assets/Pasted image 20240201200609.png",
