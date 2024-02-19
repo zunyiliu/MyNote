@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-19.md",
+                "file": "日记/阶段计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-19.md",
+                "file": "日记/阶段计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-19.md",
+                "file": "日记/阶段计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-19.md"
+                "file": "日记/阶段计划.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "a6cba751c7bc6433",
   "lastOpenFiles": [
-    "日记/2024-02-18.md",
     "日记/2024-02-19.md",
+    "日记/阶段计划.md",
+    "日记/2024-02-18.md",
     "日记/2024-01/2024-01-30.md",
     "日记/2024-01/2024-01-29.md",
     "日记/2024-01/2024-01-28.md",
@@ -180,7 +181,6 @@
     "日记/2024-02-02.md",
     "日记/2024-02-03.md",
     "日记/2024-02-06.md",
-    "日记/阶段计划.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
     "杂项/进程与线程.md",
