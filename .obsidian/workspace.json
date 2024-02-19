@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-18.md",
+                "file": "日记/2024-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-18.md",
+                "file": "日记/2024-02-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-18.md",
+                "file": "日记/2024-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-18.md"
+                "file": "日记/2024-02-19.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "a6cba751c7bc6433",
   "lastOpenFiles": [
+    "日记/2024-02-18.md",
+    "日记/2024-02-19.md",
     "日记/2024-01/2024-01-30.md",
     "日记/2024-01/2024-01-29.md",
     "日记/2024-01/2024-01-28.md",
@@ -178,7 +180,6 @@
     "日记/2024-02-02.md",
     "日记/2024-02-03.md",
     "日记/2024-02-06.md",
-    "日记/2024-02-18.md",
     "日记/阶段计划.md",
     "杂项/2023三好学生答辩演讲稿.md",
     "杂项/管理员模式运行cmd或Window Terminal.md",
@@ -195,7 +196,6 @@
     "杂项/软件工程/软工项目README.md",
     "杂项/软件工程/资源汇总.md",
     "杂项/软件工程",
-    "嵌入式系统/学校资料/资源汇总.md",
     "杂项/assets/Pasted image 20240201202038.png",
     "杂项/assets/Pasted image 20240201201134.png",
     "杂项/assets/Pasted image 20240201200609.png",
