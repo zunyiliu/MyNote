@@ -167,8 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6cba751c7bc6433",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "操作系统/图解系统/网络系统/IO 多路复用.md",
+    "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
+    "RDMA与PFS/组会/2024.2.1组会分享.md",
+    "日记/2024-02-20.md",
     "日记/2024-02-19.md",
     "日记/阶段计划.md",
     "日记/2024-02-18.md",
@@ -191,10 +195,6 @@
     "杂项/Makefile与CMake.md",
     "杂项/python导出exe文件.md",
     "杂项/VScode C++环境配置.md",
-    "杂项/vscode ssh远程免密连接.md",
-    "杂项/wsl相关教程.md",
-    "杂项/软件工程/软工项目README.md",
-    "杂项/软件工程/资源汇总.md",
     "杂项/软件工程",
     "杂项/assets/Pasted image 20240201202038.png",
     "杂项/assets/Pasted image 20240201201134.png",
