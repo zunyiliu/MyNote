@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbbcbb5997449084",
+        "id": "5e5c8845410e5322",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cba751c7bc6433",
+            "id": "0136adf6e8cb737c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-19.md",
+                "file": "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-19.md",
+                "file": "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-19.md",
+                "file": "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-19.md"
+                "file": "杂项/Git报错： Failed to connect to github.com port 443 解决方案.md"
               }
             }
           },
@@ -167,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6cba751c7bc6433",
+  "active": "0136adf6e8cb737c",
   "lastOpenFiles": [
     "日记/2024-02-20.md",
+    "日记/2024-02-19.md",
     "计算机网络/图解网络/IP篇/IP知识.md",
     "计算机网络/assets/Pasted image 20240220114834.png",
     "计算机网络/学习笔记/第四章.md",
@@ -181,7 +182,6 @@
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
-    "日记/2024-02-19.md",
     "日记/阶段计划.md",
     "日记/2024-02-18.md",
     "日记/2024-01/2024-01-30.md",
