@@ -441,6 +441,7 @@ RawNode是上层与Raft联系的桥梁。上层通过RawNode中的HasReady判断
 
 ## Project2B
 在这一部分中，我们将使用 Part A 中实现的 Raft 模块建立一个容错的KV存储服务。具体而言，我们在Project2A中没有考虑消息的发送，在这一部分中，我们就会实现消息的发送与处理。同时在Project2A中我们也没有考虑日志到底是如何持久化以及应用的，只是进行了指针的修改，这一部分我们就会实现日志在磁盘中持久化已经真正地应用。
+![[Pasted image 20240220144024.png]]
 
 ### 存储服务的读写流程
 * 客户端Client调用server中提供的Get、Put、Snap、Delete四种操作函数
