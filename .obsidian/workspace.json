@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-21.md",
+                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-21.md",
+                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-21.md",
+                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-21.md"
+                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md"
               }
             }
           },
@@ -167,10 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "c86d4fff1f8b6bec",
   "lastOpenFiles": [
-    "杂项/Java语法.md",
+    "Pasted image 20240221105836.png",
+    "Pasted image 20240221105622.png",
+    "Pasted image 20240221105419.png",
+    "Pasted image 20240221105407.png",
+    "Pasted image 20240221105350.png",
     "日记/2024-02-21.md",
+    "计算机网络/图解网络/IP篇/ping 的工作原理.md",
+    "杂项/Java语法.md",
     "日记/2024-02-20.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
@@ -197,16 +203,10 @@
     "日记/阶段计划.md",
     "日记/2024-02-18.md",
     "日记/2024-01/2024-01-30.md",
-    "日记/2024-01/2024-01-29.md",
-    "日记/2024-01/2024-01-28.md",
     "杂项/软件工程",
     "杂项/assets/Pasted image 20240201202038.png",
     "杂项/assets/Pasted image 20240201201134.png",
     "杂项/assets/Pasted image 20240201200609.png",
-    "杂项/assets/Pasted image 20240201200122.png",
-    "杂项/assets/Pasted image 20240201195728.png",
-    "杂项/assets/Pasted image 20240201194148.png",
-    "杂项/assets/Pasted image 20240201195358.png",
     "日记/2024-01",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇",
