@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "102d68701d4a64ea",
+        "id": "e55c487233d54891",
         "type": "tabs",
         "children": [
           {
-            "id": "c86d4fff1f8b6bec",
+            "id": "55405955b149cd64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md",
+                "file": "面经/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md",
+                "file": "面经/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md",
+                "file": "面经/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/图解网络/IP篇/ping 的工作原理.md"
+                "file": "面经/C++.md"
               }
             }
           },
@@ -167,15 +167,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c86d4fff1f8b6bec",
+  "active": "55405955b149cd64",
   "lastOpenFiles": [
-    "Pasted image 20240221105836.png",
-    "Pasted image 20240221105622.png",
-    "Pasted image 20240221105419.png",
-    "Pasted image 20240221105407.png",
-    "Pasted image 20240221105350.png",
     "日记/2024-02-21.md",
+    "面经/C++.md",
+    "面经/C++",
+    "面经",
+    "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
+    "计算机网络/assets/Pasted image 20240221112154.png",
     "计算机网络/图解网络/IP篇/ping 的工作原理.md",
+    "计算机网络/assets/Pasted image 20240221105836.png",
+    "计算机网络/assets/Pasted image 20240221105622.png",
+    "计算机网络/assets/Pasted image 20240221105419.png",
+    "计算机网络/assets/Pasted image 20240221105407.png",
+    "Pasted image 20240221105350.png",
     "杂项/Java语法.md",
     "日记/2024-02-20.md",
     "TinyKv项目文档/project3.md",
@@ -202,19 +207,14 @@
     "RDMA与PFS/组会/2024.2.1组会分享.md",
     "日记/阶段计划.md",
     "日记/2024-02-18.md",
-    "日记/2024-01/2024-01-30.md",
     "杂项/软件工程",
     "杂项/assets/Pasted image 20240201202038.png",
-    "杂项/assets/Pasted image 20240201201134.png",
-    "杂项/assets/Pasted image 20240201200609.png",
     "日记/2024-01",
     "计算机网络/图解网络/TCP篇",
     "计算机网络/图解网络/HTTP篇",
     "计算机网络/图解网络/基础篇",
     "计算机网络/图解网络",
     "RDMA与PFS/组会",
-    "操作系统/图解系统/网络系统",
-    "RDMA与PFS/assets",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
