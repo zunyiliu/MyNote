@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-20.md",
+                "file": "日记/2024-02-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-20.md",
+                "file": "日记/2024-02-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-20.md",
+                "file": "日记/2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-20.md"
+                "file": "日记/2024-02-21.md"
               }
             }
           },
@@ -167,8 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c86d4fff1f8b6bec",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "杂项/Java语法.md",
+    "日记/2024-02-21.md",
+    "日记/2024-02-20.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project2.md",
@@ -179,7 +182,6 @@
     "TinyKv项目文档/project2/Pasted image 20240220144024.png",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project1.md",
-    "日记/2024-02-20.md",
     "日记/2024-02-19.md",
     "计算机网络/图解网络/IP篇/IP知识.md",
     "计算机网络/assets/Pasted image 20240220114834.png",
@@ -197,8 +199,6 @@
     "日记/2024-01/2024-01-30.md",
     "日记/2024-01/2024-01-29.md",
     "日记/2024-01/2024-01-28.md",
-    "日记/2024-01/2024-01-27.md",
-    "日记/2024-01/2024-01-31.md",
     "杂项/软件工程",
     "杂项/assets/Pasted image 20240201202038.png",
     "杂项/assets/Pasted image 20240201201134.png",
