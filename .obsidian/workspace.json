@@ -167,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bed78ce0adc8298d",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "TinyKv项目文档/TinyKv资源汇总.md",
+    "日记/阶段计划.md",
     "TinyKv项目文档/project4.md",
+    "TinyKv项目文档/TinyKv资源汇总.md",
     "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "数据库/CMU15445笔记/Lecture 18：Multi-Version Concurrency Control.md",
     "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
@@ -205,7 +206,6 @@
     "计算机网络/assets/Pasted image 20240220114834.png",
     "计算机网络/学习笔记/第四章.md",
     "计算机网络/图解网络/IP篇",
-    "计算机网络/学习笔记/第五章.md",
     "计算机网络/assets/Pasted image 20240220110910.png",
     "杂项/软件工程",
     "杂项/assets/Pasted image 20240201202038.png",
