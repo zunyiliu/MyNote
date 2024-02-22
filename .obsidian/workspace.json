@@ -11,11 +11,9 @@
             "id": "56b392a84e1d50f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "面经/网络协议.md",
-                "mode": "source",
-                "source": false
+                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/网络协议.md",
+                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经/网络协议.md",
+                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/网络协议.md"
+                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf"
               }
             }
           },
@@ -169,8 +167,8 @@
   },
   "active": "56b392a84e1d50f5",
   "lastOpenFiles": [
-    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "面经/网络协议.md",
+    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
     "计算机网络/图解网络/HTTP篇/RPC.md",
     "计算机网络/图解网络/HTTP篇/HTTP 与 WebSocket.md",
