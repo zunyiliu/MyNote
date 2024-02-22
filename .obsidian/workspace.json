@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lab1_challenge",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed18eaccc73e5a7c",
+  "active": "d566dd19d5fe8691",
   "lastOpenFiles": [
     "日记/2024-02-22.md",
     "面经/春招公司.md",
