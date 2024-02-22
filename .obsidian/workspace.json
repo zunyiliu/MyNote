@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15c018892865644d",
+        "id": "dd7f43d34c7c9fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "56b392a84e1d50f5",
+            "id": "4aebe5fbc00eec98",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSAPP/资料/深入理解计算机系统（第三版）.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -165,15 +159,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "56b392a84e1d50f5",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "CSAPP/资料/学习方法.md",
+    "日记/2024-02-22.md",
     "面经/网络协议.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
     "计算机网络/图解网络/HTTP篇/RPC.md",
     "计算机网络/图解网络/HTTP篇/HTTP 与 WebSocket.md",
     "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
-    "日记/2024-02-22.md",
     "日记/2024-02-21.md",
     "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
     "面经/C++.md",
@@ -200,7 +195,6 @@
     "杂项/Java语法.md",
     "日记/2024-02-20.md",
     "TinyKv项目文档/project3.md",
-    "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project2/Pasted image 20240220144024.png",
     "计算机网络/assets/Pasted image 20240220114834.png",
     "计算机网络/图解网络/IP篇",
