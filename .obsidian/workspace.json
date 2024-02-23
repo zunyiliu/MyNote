@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译原理/学习笔记/Lec01：编译器介绍.md",
+                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/学习笔记/Lec01：编译器介绍.md",
+                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/学习笔记/Lec01：编译器介绍.md",
+                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/学习笔记/Lec01：编译器介绍.md"
+                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md"
               }
             }
           },
@@ -167,13 +167,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "67ebc1ac5425ea29",
   "lastOpenFiles": [
-    "编译原理/assets",
-    "Pasted image 20240223151658.png",
-    "Pasted image 20240223151325.png",
-    "编译原理/课件/中科大课件.pdf",
+    "日记/2024-02-23.md",
+    "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
+    "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
+    "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
+    "编译原理/assets/Pasted image 20240223155406.png",
+    "编译原理/assets/Pasted image 20240223151325.png",
     "编译原理/学习笔记/Lec01：编译器介绍.md",
+    "面经/春招公司.md",
+    "编译原理/assets",
+    "编译原理/assets/Pasted image 20240223151658.png",
+    "编译原理/课件/中科大课件.pdf",
     "编译原理/学习笔记",
     "编译原理/课件/编译原理 第二版 (龙书).pdf",
     "编译原理/课件/编译原理-龙书中文版.pdf",
@@ -182,10 +188,7 @@
     "编译原理/课件/overview.pdf",
     "编译原理/课件/PPT.pdf.crdownload",
     "编译原理/课件/overview-handout.pdf",
-    "编译原理/课件/overview-handout.pdf.crdownload",
-    "日记/2024-02-23.md",
     "面经/网络协议.md",
-    "面经/春招公司.md",
     "计算机网络/学习笔记/第三章.md",
     "日记/2024-02-22.md",
     "数据库/CMU15445实验笔记/Project4：Concurrency Control.md",
@@ -205,8 +208,6 @@
     "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
     "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
-    "操作系统/MIT-6.S081实验/Lab9：File System.md",
-    "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "CSAPP/assets/Pasted image 20240222171240.png",
     "Pasted image 20240222171230.png",
@@ -214,7 +215,6 @@
     "计算机网络/assets/Pasted image 20240221112154.png",
     "计算机网络/assets/Pasted image 20240221105836.png",
     "计算机网络/assets/Pasted image 20240221105622.png",
-    "计算机网络/assets/Pasted image 20240221105419.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
