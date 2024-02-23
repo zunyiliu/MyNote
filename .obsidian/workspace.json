@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07fdaba1d73ae1eb",
+        "id": "22f51381fbc32bb3",
         "type": "tabs",
         "children": [
           {
-            "id": "ed18eaccc73e5a7c",
+            "id": "f89111f91de1e881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-23.md",
+                "file": "面经/网络协议.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-23.md",
+                "file": "面经/网络协议.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-23.md",
+                "file": "面经/网络协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-23.md"
+                "file": "面经/网络协议.md"
               }
             }
           },
@@ -167,11 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed18eaccc73e5a7c",
+  "active": "f89111f91de1e881",
   "lastOpenFiles": [
-    "日记/2024-02-22.md",
-    "日记/2024-02-23.md",
     "面经/春招公司.md",
+    "面经/网络协议.md",
+    "计算机网络/学习笔记/第三章.md",
+    "日记/2024-02-23.md",
+    "日记/2024-02-22.md",
     "数据库/CMU15445实验笔记/Project4：Concurrency Control.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
@@ -193,8 +195,6 @@
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
     "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "TinyKv项目文档/project.md",
-    "TinyKv项目文档/project2.md",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "CSAPP/assets",
     "CSAPP/assets/Pasted image 20240222171240.png",
