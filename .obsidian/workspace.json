@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-22.md",
+                "file": "日记/2024-02-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-22.md",
+                "file": "日记/2024-02-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-22.md",
+                "file": "日记/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-22.md"
+                "file": "日记/2024-02-23.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "ed18eaccc73e5a7c",
   "lastOpenFiles": [
-    "面经/春招公司.md",
     "日记/2024-02-22.md",
+    "日记/2024-02-23.md",
+    "面经/春招公司.md",
     "数据库/CMU15445实验笔记/Project4：Concurrency Control.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
@@ -194,7 +195,6 @@
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project2.md",
-    "TinyKv项目文档/project1.md",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "CSAPP/assets",
     "CSAPP/assets/Pasted image 20240222171240.png",
