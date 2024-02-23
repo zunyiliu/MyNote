@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "22f51381fbc32bb3",
+        "id": "482e16ee43008feb",
         "type": "tabs",
         "children": [
           {
-            "id": "f89111f91de1e881",
+            "id": "67ebc1ac5425ea29",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "编译原理/课件/中科大课件.pdf"
+                "file": "编译原理/学习笔记/Lec01：编译器介绍.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译原理/课件/中科大课件.pdf",
+                "file": "编译原理/学习笔记/Lec01：编译器介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译原理/课件/中科大课件.pdf",
+                "file": "编译原理/学习笔记/Lec01：编译器介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译原理/课件/中科大课件.pdf"
+                "file": "编译原理/学习笔记/Lec01：编译器介绍.md"
               }
             }
           },
@@ -167,15 +169,21 @@
   },
   "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
-    "编译原理/课件/overview.pdf",
+    "编译原理/assets",
+    "Pasted image 20240223151658.png",
+    "Pasted image 20240223151325.png",
     "编译原理/课件/中科大课件.pdf",
+    "编译原理/学习笔记/Lec01：编译器介绍.md",
+    "编译原理/学习笔记",
+    "编译原理/课件/编译原理 第二版 (龙书).pdf",
+    "编译原理/课件/编译原理-龙书中文版.pdf",
+    "编译原理/课件/编译原理-龙书中文版.pdf.crdownload",
+    "编译原理/课件/编译原理 第二版 (龙书).pdf.crdownload",
+    "编译原理/课件/overview.pdf",
     "编译原理/课件/PPT.pdf.crdownload",
     "编译原理/课件/overview-handout.pdf",
     "编译原理/课件/overview-handout.pdf.crdownload",
     "日记/2024-02-23.md",
-    "编译原理/课件/overview.pdf.crdownload",
-    "编译原理/课件",
-    "编译原理",
     "面经/网络协议.md",
     "面经/春招公司.md",
     "计算机网络/学习笔记/第三章.md",
@@ -199,20 +207,14 @@
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "操作系统/MIT-6.S081实验/Lab9：File System.md",
     "操作系统/MIT-6.S081实验/Lab8：Locks.md",
-    "操作系统/MIT-6.S081实验/Lab7：Multithreading.md",
     "CSAPP/assets/Pasted image 20240222164638.png",
-    "CSAPP/assets",
     "CSAPP/assets/Pasted image 20240222171240.png",
     "Pasted image 20240222171230.png",
     "CSAPP/assets/Pasted image 20240222165141.png",
-    "CSAPP/学习笔记",
-    "面经/C++",
     "计算机网络/assets/Pasted image 20240221112154.png",
     "计算机网络/assets/Pasted image 20240221105836.png",
     "计算机网络/assets/Pasted image 20240221105622.png",
     "计算机网络/assets/Pasted image 20240221105419.png",
-    "计算机网络/assets/Pasted image 20240221105407.png",
-    "Pasted image 20240221105350.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
