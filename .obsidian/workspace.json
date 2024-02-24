@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02082a1c795e4ca2",
+        "id": "11af85d1b160ea48",
         "type": "tabs",
         "children": [
           {
-            "id": "6b7e6ae9feabddea",
+            "id": "42bfce3ad18a355f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面经/网络协议.md",
+                "file": "日记/2024-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/网络协议.md",
+                "file": "日记/2024-02-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经/网络协议.md",
+                "file": "日记/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/网络协议.md"
+                "file": "日记/2024-02-24.md"
               }
             }
           },
@@ -167,12 +167,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b7e6ae9feabddea",
+  "active": "42bfce3ad18a355f",
   "lastOpenFiles": [
+    "计算机网络/图解网络/TCP篇/TCP 连接，一端断电和进程崩溃有什么区别？.md",
+    "计算机网络/图解网络/TCP篇/已建立连接的TCP，收到SYN会发生什么？.md",
+    "计算机网络/assets/Pasted image 20240224115145.png",
+    "面经/网络协议.md",
     "计算机网络/图解网络/TCP篇/TCP Keepalive 和 HTTP Keep-Alive.md",
     "计算机网络/assets/Pasted image 20240224105139.png",
     "计算机网络/assets/Pasted image 20240224105058.png",
-    "面经/网络协议.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
     "面经/春招公司.md",
@@ -208,12 +211,10 @@
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
-    "操作系统/XV6操作系统笔记/设备read与write的全流程.md",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "CSAPP/assets/Pasted image 20240222171240.png",
     "Pasted image 20240222171230.png",
     "CSAPP/assets/Pasted image 20240222165141.png",
-    "计算机网络/assets/Pasted image 20240221112154.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
