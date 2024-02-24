@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
+                "file": "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77c2e8fac50827c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2024-02-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
+                "file": "日记/2024-02-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
+                "file": "日记/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md"
+                "file": "日记/2024-02-23.md"
               }
             }
           },
@@ -167,10 +180,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67ebc1ac5425ea29",
+  "active": "77c2e8fac50827c3",
   "lastOpenFiles": [
+    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
+    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "日记/2024-02-23.md",
+    "RDMA与PFS/RDMA杂谈/5. RDMA基本服务类型.md",
+    "RDMA与PFS/RDMA杂谈/4. RDMA操作类型.md",
     "RDMA与PFS/RDMA杂谈/3. RDMA基本元素.md",
+    "杂项/灵光一闪的创业想法.md",
     "RDMA与PFS/RDMA杂谈/2. 传统以太网与RDMA技术的比较.md",
     "RDMA与PFS/RDMA杂谈/1. RDMA概述.md",
     "编译原理/assets/Pasted image 20240223155406.png",
@@ -203,11 +221,6 @@
     "操作系统/XV6操作系统笔记/物理内存管理.md",
     "操作系统/XV6操作系统笔记/虚拟内存管理.md",
     "操作系统/XV6操作系统笔记/Trap机制.md",
-    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
-    "操作系统/MIT-6.S081实验/Lab4：trap.md",
-    "操作系统/MIT-6.S081实验/Lab5：lazy page allocation.md",
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
-    "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "CSAPP/assets/Pasted image 20240222171240.png",
     "Pasted image 20240222171230.png",
