@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/CMU15445实验笔记/Project2：B+Tree Index.md"
+                "file": "数据库/CMU15445实验笔记/Project3：Query Execution.md"
               }
             }
           },
@@ -169,11 +169,12 @@
   },
   "active": "6aa0b694663039e3",
   "lastOpenFiles": [
+    "数据库/CMU15445实验笔记/Project5：Storage.md",
+    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
+    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "面经/春招公司.md",
     "数据库/CMU15445笔记/资源汇总.md",
-    "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
     "数据库/CMU15445实验笔记/Project1：Buffer Pool Manager.md",
-    "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
     "日记/2024-02-25.md",
     "日记/2024-02-24.md",
@@ -196,7 +197,6 @@
     "编译原理/学习笔记/Lec01：编译器介绍.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
-    "CSAPP/学习笔记/第一章：计算机系统漫游.md",
     "计算机网络/assets/Pasted image 20240224115145.png",
     "计算机网络/assets/Pasted image 20240224105139.png",
     "计算机网络/assets/Pasted image 20240224105058.png",
