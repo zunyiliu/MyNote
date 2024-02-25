@@ -167,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ceb05be5b2164fcb",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
+    "RDMA与PFS/组会/2024.2.1组会分享.md",
     "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
-    "RDMA与PFS/组会/2024.2.1组会分享.md",
     "日记/2024-02-25.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
@@ -194,7 +195,6 @@
     "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
     "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
     "CSAPP/学习笔记/第二章：信息的表示和处理.md",
-    "编译原理/学习笔记/Lec01：编译器介绍.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
