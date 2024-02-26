@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59be078c8f231156",
+        "id": "c37ec1decb405b15",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb05be5b2164fcb",
+            "id": "07d6f782b6b0ed8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "file": "日记/2024-02-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "file": "日记/2024-02-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md",
+                "file": "日记/2024-02-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/组会/2024.2.1组会分享.md"
+                "file": "日记/2024-02-25.md"
               }
             }
           },
@@ -167,13 +167,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "07d6f782b6b0ed8c",
   "lastOpenFiles": [
+    "RDMA与PFS/文件系统/学习规划.md",
+    "日记/2024-02-25.md",
+    "RDMA与PFS/文件系统",
+    "文件系统",
+    "日记/2024-02-19.md",
+    "日记/2024-02-18.md",
     "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
     "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
-    "日记/2024-02-25.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
     "数据库/CMU15445实验笔记/Project5：Storage.md",
     "数据库/CMU15445实验笔记/Project2：B+Tree Index.md",
@@ -192,9 +197,6 @@
     "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
     "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
     "RDMA与PFS/RDMA杂谈/8. RDMA之Address Handle.md",
-    "RDMA与PFS/RDMA杂谈/7. RDMA之Protection Domain.md",
-    "RDMA与PFS/RDMA杂谈/6. RDMA之Memory Region.md",
-    "CSAPP/学习笔记/第二章：信息的表示和处理.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
@@ -211,8 +213,6 @@
     "编译原理/课件/编译原理-龙书中文版.pdf.crdownload",
     "编译原理/课件/编译原理 第二版 (龙书).pdf.crdownload",
     "编译原理/课件/overview.pdf",
-    "编译原理/课件/PPT.pdf.crdownload",
-    "编译原理/课件/overview-handout.pdf",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "CSAPP/assets/Pasted image 20240222171240.png",
     "计算机网络/hust课件/未命名.canvas",
