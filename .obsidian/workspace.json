@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c37ec1decb405b15",
+        "id": "ec888bba0a937fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "07d6f782b6b0ed8c",
+            "id": "958be797b4db95ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面经/操作系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3fbe5b40c15c2f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/图解系统/网络系统/IO 多路复用.md"
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
               }
             }
           },
@@ -180,17 +167,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b3fbe5b40c15c2f0",
+  "active": "958be797b4db95ff",
   "lastOpenFiles": [
-    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
+    "日记/2024-02-26.md",
+    "面经/操作系统.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
+    "操作系统/assets/Pasted image 20240226120252.png",
+    "操作系统/图解系统/调度管理",
+    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
     "操作系统/图解系统/网络系统/一致性哈希.md",
     "操作系统/图解系统/网络系统/零拷贝.md",
-    "面经/操作系统.md",
     "操作系统/图解系统/进程管理/进程间通信.md",
     "操作系统/图解系统/进程管理/线程基础知识.md",
     "面经/春招公司.md",
-    "日记/2024-02-26.md",
     "日记/2024-02-25.md",
     "RDMA与PFS/文件系统/学习规划.md",
     "RDMA与PFS/文件系统",
@@ -209,7 +198,6 @@
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
     "日记/2024-02-24.md",
     "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
-    "RDMA与PFS/RDMA杂谈/18. RDMA之基于Socket API的QP间建链.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
@@ -225,9 +213,7 @@
     "编译原理/课件/编译原理-龙书中文版.pdf",
     "编译原理/课件/编译原理-龙书中文版.pdf.crdownload",
     "编译原理/课件/编译原理 第二版 (龙书).pdf.crdownload",
-    "编译原理/课件/overview.pdf",
     "CSAPP/assets/Pasted image 20240222164638.png",
-    "CSAPP/assets/Pasted image 20240222171240.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
