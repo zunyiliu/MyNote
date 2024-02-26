@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-26.md",
+                "file": "面经/操作系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3fbe5b40c15c2f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-26.md",
+                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-26.md",
+                "file": "操作系统/图解系统/网络系统/IO 多路复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-26.md"
+                "file": "操作系统/图解系统/网络系统/IO 多路复用.md"
               }
             }
           },
@@ -167,8 +180,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "07d6f782b6b0ed8c",
+  "active": "b3fbe5b40c15c2f0",
   "lastOpenFiles": [
+    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
+    "操作系统/图解系统/网络系统/IO 多路复用.md",
+    "操作系统/图解系统/网络系统/一致性哈希.md",
+    "操作系统/图解系统/网络系统/零拷贝.md",
+    "面经/操作系统.md",
+    "操作系统/图解系统/进程管理/进程间通信.md",
+    "操作系统/图解系统/进程管理/线程基础知识.md",
     "面经/春招公司.md",
     "日记/2024-02-26.md",
     "日记/2024-02-25.md",
@@ -190,13 +210,6 @@
     "日记/2024-02-24.md",
     "RDMA与PFS/RDMA杂谈/19. RDMA之基于CM API的QP间建链.md",
     "RDMA与PFS/RDMA杂谈/18. RDMA之基于Socket API的QP间建链.md",
-    "RDMA与PFS/RDMA杂谈/17. RDMA之用户态MR Buffer.md",
-    "RDMA与PFS/RDMA杂谈/15. RDMA之RoCE & Soft-RoCE.md",
-    "RDMA与PFS/RDMA杂谈/14. RDMA之用户态与内核态交互.md",
-    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
-    "RDMA与PFS/RDMA杂谈/12. RDMA之Memory Window.md",
-    "RDMA与PFS/RDMA杂谈/11. RDMA之Shared Receive Queue.md",
-    "RDMA与PFS/RDMA杂谈/10. RDMA之Completion Queue.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
