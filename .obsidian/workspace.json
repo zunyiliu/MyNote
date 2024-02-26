@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec888bba0a937fd0",
+        "id": "a5dc74a1afbc1998",
         "type": "tabs",
         "children": [
           {
-            "id": "958be797b4db95ff",
+            "id": "0bb09cfa51c3b934",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
+                "file": "操作系统/学校实验/环境配置.md"
               }
             }
           },
@@ -167,9 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "958be797b4db95ff",
+  "active": "0bb09cfa51c3b934",
   "lastOpenFiles": [
     "日记/2024-02-26.md",
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "面经/操作系统.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/assets/Pasted image 20240226120252.png",
