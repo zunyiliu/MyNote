@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c0fef4d71f599a5",
+            "id": "0b7f3ff52a7ffe6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "面经/春招公司.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "面经/春招公司.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "面经/春招公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
+                "file": "面经/春招公司.md"
               }
             }
           },
@@ -167,10 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c0fef4d71f599a5",
+  "active": "0b7f3ff52a7ffe6f",
   "lastOpenFiles": [
-    "操作系统/学校实验/环境配置.md",
     "日记/2024-02-26.md",
+    "操作系统/学校实验/环境配置.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "面经/操作系统.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
