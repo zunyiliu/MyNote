@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a5dc74a1afbc1998",
+        "id": "39d2a2c38753c3c3",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb09cfa51c3b934",
+            "id": "2c0fef4d71f599a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac307fc884eb2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md"
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
               }
             }
           },
@@ -180,10 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ac307fc884eb2fa",
+  "active": "2c0fef4d71f599a5",
   "lastOpenFiles": [
-    "日记/2024-02-26.md",
     "操作系统/学校实验/环境配置.md",
+    "日记/2024-02-26.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "面经/操作系统.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
