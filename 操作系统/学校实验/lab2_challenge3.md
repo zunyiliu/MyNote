@@ -5,15 +5,15 @@ TODO-List：
 - [x] 物理内存分配代码打印要修改为多核方式
 - [x] 只能由一个内核初始化内核虚拟内存，多个内核共用一个内核页表（全局变量）
 - [x] 启用内核页表要多个内核都调用，因为要写入寄存器
-- [ ] `s_start`中的`sprint("kernel page table is on \n");`似乎在答案中没有
+- [x] `s_start`中的`sprint("kernel page table is on \n");`似乎在答案中没有
 - [x] `user_app`进程要划分
 - [x] `load_bincode_from_host_elf`中要根据内核加载对应的用户程序
 - [x] `load_user_program`中，修改trapframe中的tp寄存器为对应内核号
-- [ ] `s_start`中的hartid要修改为对应内核号
-- [ ] process.c中的current要修改为多内核模式，g_ufree_page也要修改为多内核模式
-- [ ] switch_to中好像没有要修改的
-- [ ] strap中修改current，读取对应的进程
-- [ ] strap中的gtick要修改为各自内核
-- [ ] `sys_user_allocate_page`中的g_ufree_page要修改为多内核
-- [ ] `sys_user_exit`中要进行同步
-- [ ] syscall.c中的current都要修改
+- [x] `s_start`中的hartid要修改为对应内核号
+- [x] process.c中的current要修改为多内核模式，g_ufree_page也要修改为多内核模式
+- [x] switch_to中好像没有要修改的
+- [x] strap中修改current，读取对应的进程
+- [x] strap中的gtick要修改为各自内核
+- [x] `sys_user_allocate_page`中的g_ufree_page要修改为多内核
+- [x] `sys_user_exit`中要进行同步
+- [x] syscall.c中的current都要修改
