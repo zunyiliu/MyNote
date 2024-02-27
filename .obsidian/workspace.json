@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
+                "file": "日记/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
+                "file": "日记/2024-02-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
+                "file": "日记/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md"
+                "file": "日记/2024-02-27.md"
               }
             }
           },
@@ -169,14 +169,14 @@
   },
   "active": "ab2ff39ce2e3f71e",
   "lastOpenFiles": [
-    "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
+    "面经/春招公司.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
+    "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
     "RDMA与PFS/assets/Pasted image 20240227201239.png",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS_-_A_Temporary_Distributed_File_System_for_HPC_Applications.pdf",
     "RDMA与PFS/文件系统/论文/GekkoFS",
     "日记/2024-02-27.md",
     "RDMA与PFS/文件系统/学习规划.md",
-    "面经/春招公司.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
     "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf.part",
     "RDMA与PFS/文件系统/论文",
