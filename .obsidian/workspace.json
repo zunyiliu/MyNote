@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9cda31ada01802",
+        "id": "5e13f529bdd58ea0",
         "type": "tabs",
         "children": [
           {
-            "id": "c11943d72a063285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/学校实验/lab3_challenge3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fd2c00eede5b8c9",
+            "id": "ab2ff39ce2e3f71e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3fd2c00eede5b8c9",
+  "active": "ab2ff39ce2e3f71e",
   "lastOpenFiles": [
-    "面经/操作系统.md",
     "日记/2024-02-27.md",
+    "操作系统/学校实验/lab3_challenge3.md",
+    "面经/操作系统.md",
     "操作系统/学校实验/环境配置.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
-    "操作系统/学校实验/lab3_challenge3.md",
     "操作系统/学校实验/lab2_challenge3.md",
     "操作系统/学校实验/lab1_challenge3.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
