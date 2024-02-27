@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面经/春招公司.md",
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS论文阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经/春招公司.md",
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS论文阅读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经/春招公司.md",
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经/春招公司.md"
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS论文阅读.md"
               }
             }
           },
@@ -169,6 +169,13 @@
   },
   "active": "ab2ff39ce2e3f71e",
   "lastOpenFiles": [
+    "RDMA与PFS/文件系统/学习规划.md",
+    "RDMA与PFS/文件系统/论文/GekkoFS论文阅读.md",
+    "面经/春招公司.md",
+    "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf",
+    "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf.part",
+    "RDMA与PFS/文件系统/论文/GekkoFS_-_A_Temporary_Distributed_File_System_for_HPC_Applications.pdf",
+    "RDMA与PFS/文件系统/论文",
     "日记/2024-02-27.md",
     "操作系统/学校实验/lab3_challenge3.md",
     "面经/操作系统.md",
@@ -186,9 +193,7 @@
     "操作系统/图解系统/网络系统/零拷贝.md",
     "操作系统/图解系统/进程管理/进程间通信.md",
     "操作系统/图解系统/进程管理/线程基础知识.md",
-    "面经/春招公司.md",
     "日记/2024-02-25.md",
-    "RDMA与PFS/文件系统/学习规划.md",
     "RDMA与PFS/文件系统",
     "文件系统",
     "日记/2024-02-19.md",
@@ -198,7 +203,6 @@
     "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
     "RDMA与PFS/RDMA杂谈/9. RDMA之Queue Pair.md",
     "数据库/CMU15445实验笔记/Project3：Query Execution.md",
-    "数据库/CMU15445实验笔记/Project5：Storage.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
@@ -210,10 +214,6 @@
     "编译原理/assets/Pasted image 20240223151658.png",
     "编译原理/课件/中科大课件.pdf",
     "编译原理/学习笔记",
-    "编译原理/课件/编译原理 第二版 (龙书).pdf",
-    "编译原理/课件/编译原理-龙书中文版.pdf",
-    "编译原理/课件/编译原理-龙书中文版.pdf.crdownload",
-    "编译原理/课件/编译原理 第二版 (龙书).pdf.crdownload",
     "CSAPP/assets/Pasted image 20240222164638.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
