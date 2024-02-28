@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c237c55a95a7c1e",
+        "id": "a9724fe133a69738",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb05a96c6b25e79",
+            "id": "bdbe06f4becddf84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校实验/lab4_challenge3.md",
+                "file": "日记/2024-02-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/lab4_challenge3.md",
+                "file": "日记/2024-02-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/lab4_challenge3.md",
+                "file": "日记/2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/lab4_challenge3.md"
+                "file": "日记/2024-02-28.md"
               }
             }
           },
@@ -167,16 +167,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3cb05a96c6b25e79",
+  "active": "bdbe06f4becddf84",
   "lastOpenFiles": [
-    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
-    "操作系统/学校实验/lab4_challenge3.md",
-    "操作系统/学校实验/lab2_challenge3.md",
-    "操作系统/学校实验/lab1_challenge3.md",
-    "操作系统/学校实验/lab4_challenge2.md",
-    "操作系统/学校实验/lab3_challenge3.md",
+    "面经/春招公司.md",
     "日记/2024-02-28.md",
     "操作系统/学校实验/环境配置.md",
+    "操作系统/学校实验/lab2_challenge2.md",
+    "操作系统/学校实验/lab2_challenge3.md",
+    "操作系统/学校实验/lab3_challenge2.md",
+    "操作系统/学校实验/lab3_challenge3.md",
+    "操作系统/学校实验/lab4_challenge2.md",
+    "操作系统/学校实验/lab4_challenge3.md",
+    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+    "操作系统/学校实验/lab1_challenge3.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications(翻译结果).pdf.part",
@@ -186,7 +189,6 @@
     "RDMA与PFS/文件系统/论文/新建文件夹",
     "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
-    "面经/春招公司.md",
     "RDMA与PFS/assets/Pasted image 20240228100411.png",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "日记/2024-02-27.md",
@@ -206,8 +208,6 @@
     "操作系统/图解系统/网络系统/零拷贝.md",
     "操作系统/图解系统/进程管理/进程间通信.md",
     "操作系统/图解系统/进程管理/线程基础知识.md",
-    "日记/2024-02-25.md",
-    "日记/2024-02-19.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
