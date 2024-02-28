@@ -11,8 +11,12 @@
             "id": "3cb05a96c6b25e79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/学校实验/lab4_challenge3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统/学校实验/lab4_challenge3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统/学校实验/lab4_challenge3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统/学校实验/lab4_challenge3.md"
+              }
             }
           },
           {
@@ -161,6 +169,15 @@
   },
   "active": "3cb05a96c6b25e79",
   "lastOpenFiles": [
+    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
+    "操作系统/学校实验/lab4_challenge3.md",
+    "操作系统/学校实验/lab2_challenge3.md",
+    "操作系统/学校实验/lab1_challenge3.md",
+    "操作系统/学校实验/lab4_challenge2.md",
+    "操作系统/学校实验/lab3_challenge3.md",
+    "日记/2024-02-28.md",
+    "操作系统/学校实验/环境配置.md",
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications(翻译结果).pdf.part",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
@@ -172,8 +189,6 @@
     "面经/春招公司.md",
     "RDMA与PFS/assets/Pasted image 20240228100411.png",
     "操作系统/XV6操作系统笔记/文件系统.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
-    "日记/2024-02-28.md",
     "日记/2024-02-27.md",
     "RDMA与PFS/assets/Pasted image 20240227201239.png",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS_-_A_Temporary_Distributed_File_System_for_HPC_Applications.pdf",
@@ -181,13 +196,8 @@
     "RDMA与PFS/文件系统/学习规划.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
     "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf.part",
-    "RDMA与PFS/文件系统/论文",
-    "操作系统/学校实验/lab3_challenge3.md",
     "面经/操作系统.md",
-    "操作系统/学校实验/环境配置.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
-    "操作系统/学校实验/lab2_challenge3.md",
-    "操作系统/学校实验/lab1_challenge3.md",
     "日记/2024-02-26.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/assets/Pasted image 20240226120252.png",
@@ -198,8 +208,6 @@
     "操作系统/图解系统/进程管理/线程基础知识.md",
     "日记/2024-02-25.md",
     "日记/2024-02-19.md",
-    "日记/2024-02-18.md",
-    "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
