@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9724fe133a69738",
+        "id": "5b87b2132a299507",
         "type": "tabs",
         "children": [
           {
-            "id": "bdbe06f4becddf84",
+            "id": "d15e3942666489cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-28.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-28.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-28.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-28.md"
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
               }
             }
           },
@@ -167,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bdbe06f4becddf84",
+  "active": "d15e3942666489cf",
   "lastOpenFiles": [
-    "面经/春招公司.md",
-    "日记/2024-02-28.md",
     "操作系统/学校实验/环境配置.md",
+    "日记/2024-02-28.md",
+    "面经/春招公司.md",
+    "日记/2024-02-26.md",
     "操作系统/学校实验/lab2_challenge2.md",
     "操作系统/学校实验/lab2_challenge3.md",
     "操作系统/学校实验/lab3_challenge2.md",
@@ -200,7 +201,6 @@
     "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf.part",
     "面经/操作系统.md",
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
-    "日记/2024-02-26.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/assets/Pasted image 20240226120252.png",
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
