@@ -35,12 +35,27 @@ GekkoFS可以分类为*node-local burst buffer* file systems，因为其使用�
 
 BurstFS与GekkoFS相似，但它是一个单机的burst buffer file system，并非分布式的。BeeOND是一个临时创建的分布式的burst buffer file system，但他提供完全的POSIX，因而在性能方面不如GekkoFS。
 
-文件系统的元数据的性能瓶颈在于：**多个进程在同一个目录下创建大量文件时，POSIX语义会导致所有的操作都是串行化的**。GettkoFS 用一个key-value的存储系统来保存文件系统的元数据，用于提高元数据的性能，同时也放松了POSIX的某些语义的实现：
-1. 不支持分布式锁（distribute locking）
-2. 所有的元数据操作没有缓存，避免缓存一致性等复杂问题。
-3. 不支持rename和link操作，因为HPC应用中parallel job 很少用到这两个操作。
+文件系统的元数据的性能瓶颈在于：**多个进程在同一个目录下创建大量文件时，POSIX语义会导致所有的操作都是串行化的**。GettkoFS 用一个key-value的存储系统来保存文件系统的元数据，用于提高元数据的性能。
 
 # Design And Implementation
+GekkoFS为某个计算任务提供一个用户空间的文件系统。它利用计算节点的本地存储（SSD）来分发数据和元数据，并将它们组织成单一的全局命名空间
 
+GekkoFS应该有以下特性：
+- 高可扩展：可以扩展到任意数量的计算节点
+- 提供大部分的POSIX，既能保证文件系统基本操作，又不会造成性能损失
+- 高兼容性：与存储硬件无关
 
+## A. POSIX relaxation
+GekkoFS提供了宽松的POSIX语义：
+- 不支持分布式锁，因而应用程序需要保证不会有冲突发生
+- 所有的元数据操作没有缓存，避免缓存一致性等复杂问题。
+- 不支持rename和link操作，因为HPC应用中parallel job 很少用到这两个操作
+- 不维护安全性，因为节点本地的文件系统已经有安全管理
+
+## B. Architecture
+GekkoFS架构包含两个主要部件：
+- 客户端库
+- 服务进程
+
+客户端以库的形式提供给应用程序使用，它截获所有的GekkoFS操作调用，并将其转发给服务进程运行。服务进程即*GekkoFS daemon*，运行在所有计算节点上，接收到客户端的调用后进行处理，完成后将结果发送回客户端。
 

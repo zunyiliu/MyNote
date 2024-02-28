@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-27.md",
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-27.md",
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-27.md",
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-27.md"
+                "file": "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md"
               }
             }
           },
@@ -169,13 +169,16 @@
   },
   "active": "ab2ff39ce2e3f71e",
   "lastOpenFiles": [
-    "面经/春招公司.md",
+    "操作系统/XV6操作系统笔记/文件系统.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
+    "日记/2024-02-28.md",
+    "日记/2024-02-27.md",
+    "面经/春招公司.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
     "RDMA与PFS/assets/Pasted image 20240227201239.png",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS_-_A_Temporary_Distributed_File_System_for_HPC_Applications.pdf",
     "RDMA与PFS/文件系统/论文/GekkoFS",
-    "日记/2024-02-27.md",
     "RDMA与PFS/文件系统/学习规划.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
     "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf.part",
@@ -186,7 +189,6 @@
     "操作系统/MIT-6.S081实验/Lab6：Copy-on-Write Fork for xv6.md",
     "操作系统/学校实验/lab2_challenge3.md",
     "操作系统/学校实验/lab1_challenge3.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "日记/2024-02-26.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/assets/Pasted image 20240226120252.png",
@@ -203,7 +205,6 @@
     "日记/2024-02-18.md",
     "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
-    "RDMA与PFS/RDMA杂谈/16. RDMA之Queue Buffer.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
