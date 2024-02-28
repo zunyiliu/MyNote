@@ -23,5 +23,5 @@ Burst Buffer是建立在一组SSD（固态硬盘）上的单独文件系统。�
 | Spectral       | 计算节点本地NVME盘      | 非分布式 | 不支持      |
 | GekkoFS        | 计算节点本地NVME盘      | 分布式  | 支持       |
 | BurstFS        | 计算节点本地NVME盘+DRAM | 分布式  | 支持       |
-| Gfarm/BB       | 计算节点本地NVME盘      | 分布式  | 支        |
+| Gfarm/BB       | 计算节点本地NVME盘      | 分布式  | 支持       |
 各文件系统的介绍可以直接看[博客](https://blog.csdn.net/qq_31910613/article/details/128281735)
