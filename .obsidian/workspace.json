@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校实验/challengeX.md",
+                "file": "CSAPP/学习笔记/第三章：程序的机器级表示.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/challengeX.md",
+                "file": "CSAPP/学习笔记/第三章：程序的机器级表示.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/challengeX.md",
+                "file": "CSAPP/学习笔记/第三章：程序的机器级表示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/challengeX.md"
+                "file": "CSAPP/学习笔记/第三章：程序的机器级表示.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "d15e3942666489cf",
   "lastOpenFiles": [
     "日记/2024-02-29.md",
+    "CSAPP/学习笔记/第三章：程序的机器级表示.md",
     "操作系统/学校实验/challengeX.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/学校实验/环境配置.md",
@@ -207,7 +208,6 @@
     "操作系统/assets/Pasted image 20240226120252.png",
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
     "操作系统/图解系统/网络系统/一致性哈希.md",
-    "操作系统/图解系统/网络系统/零拷贝.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
