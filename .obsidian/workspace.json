@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/学校实验/challengeX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/学校实验/challengeX.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/学校实验/challengeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
+                "file": "操作系统/学校实验/challengeX.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "d15e3942666489cf",
   "lastOpenFiles": [
+    "日记/2024-02-29.md",
+    "操作系统/学校实验/challengeX.md",
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/学校实验/环境配置.md",
     "日记/2024-02-28.md",
     "面经/春招公司.md",
@@ -181,7 +184,6 @@
     "操作系统/学校实验/lab4_challenge3.md",
     "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
     "操作系统/学校实验/lab1_challenge3.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications(翻译结果).pdf.part",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
@@ -206,8 +208,6 @@
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
     "操作系统/图解系统/网络系统/一致性哈希.md",
     "操作系统/图解系统/网络系统/零拷贝.md",
-    "操作系统/图解系统/进程管理/进程间通信.md",
-    "操作系统/图解系统/进程管理/线程基础知识.md",
     "CSAPP/assets/Pasted image 20240224154450.png",
     "CSAPP/assets/Pasted image 20240224152312.png",
     "计算机网络/assets/Pasted image 20240224115145.png",
