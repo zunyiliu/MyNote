@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-29.md",
+                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-29.md",
+                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-29.md",
+                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-29.md"
+                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "c97dbf495aa251a9",
   "lastOpenFiles": [
+    "日记/2024-02-29.md",
+    "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
     "面经/春招公司.md",
@@ -188,7 +190,6 @@
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
     "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
-    "日记/2024-02-29.md",
     "日记/阶段计划.md",
     "CSAPP/学习笔记/第三章：程序的机器级表示.md",
     "CSAPP/assets/Pasted image 20240229120436.png",
@@ -197,7 +198,6 @@
     "CSAPP/学习笔记/第二章：信息的表示和处理.md",
     "CSAPP/学习笔记/第一章：计算机系统漫游.md",
     "操作系统/学校实验/challengeX.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications(翻译结果).pdf.part",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
