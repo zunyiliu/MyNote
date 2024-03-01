@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "841872bca37b2832",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RDMA与PFS/文件系统/学习规划.md",
+                "file": "日记/2024-02-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
+                "file": "日记/2024-02-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
+                "file": "日记/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md"
+                "file": "日记/2024-02-29.md"
               }
             }
           },
@@ -181,9 +169,9 @@
   },
   "active": "c97dbf495aa251a9",
   "lastOpenFiles": [
+    "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "RDMA与PFS/文件系统/学习规划.md",
     "面经/春招公司.md",
-    "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
     "RDMA与PFS/assets/Pasted image 20240229194317.png",
     "RDMA与PFS/assets/Pasted image 20240229191924.png",
