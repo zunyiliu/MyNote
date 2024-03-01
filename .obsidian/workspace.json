@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd7c731a66a5b3b",
+        "id": "ab68b1df17ae422e",
         "type": "tabs",
         "children": [
           {
-            "id": "40ea8aa7f35f7ac0",
+            "id": "b68b67873f9ac235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "日记/2024-03-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "日记/2024-03-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "日记/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
+                "file": "日记/2024-03-01.md"
               }
             }
           },
@@ -167,9 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40ea8aa7f35f7ac0",
+  "active": "b68b67873f9ac235",
   "lastOpenFiles": [
+    "RDMA与PFS/组会/2024.3.1组会分享.md",
     "日记/2024-03-01.md",
+    "面经/春招公司.md",
     "数据库/图解Redis/面试篇/Redis 常见面试题.md",
     "数据库/assets/Pasted image 20240301171550.png",
     "数据库/assets/Pasted image 20240301165131.png",
@@ -195,14 +197,12 @@
     "面经/C++面经.md",
     "面经/网络协议面经.md",
     "面经/操作系统面经.md",
-    "面经/春招公司.md",
     "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "数据库/图解MySQL/事务篇/事务隔离级别.md",
     "数据库/图解MySQL/事务篇/MySQL事务隔离级别和实现原理.md",
     "数据库/assets/Pasted image 20240301152435.png",
     "RDMA与PFS/assets/Pasted image 20240301103224.png",
     "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
-    "RDMA与PFS/组会/2024.3.1组会分享.md",
     "日记/2024-02-29.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "RDMA与PFS/文件系统/学习规划.md",
