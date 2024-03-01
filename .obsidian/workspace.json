@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27614c9e2225da9c",
+        "id": "855779542aeab441",
         "type": "tabs",
         "children": [
           {
-            "id": "c97dbf495aa251a9",
+            "id": "2b7c8cb7eb9a21d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-02-29.md",
-                "mode": "source",
+                "file": "RDMA与PFS/组会/2024.3.1组会分享.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-02-29.md",
+                "file": "RDMA与PFS/组会/2024.3.1组会分享.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-02-29.md",
+                "file": "RDMA与PFS/组会/2024.3.1组会分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-02-29.md"
+                "file": "RDMA与PFS/组会/2024.3.1组会分享.md"
               }
             }
           },
@@ -167,8 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c97dbf495aa251a9",
+  "active": "2b7c8cb7eb9a21d8",
   "lastOpenFiles": [
+    "日记/2024-03-01.md",
+    "RDMA与PFS/assets/Pasted image 20240301103224.png",
+    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
+    "RDMA与PFS/组会/2024.3.1组会分享.md",
+    "日记/2024-02-29.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "RDMA与PFS/文件系统/学习规划.md",
     "面经/春招公司.md",
@@ -176,7 +181,6 @@
     "RDMA与PFS/assets/Pasted image 20240229194317.png",
     "RDMA与PFS/assets/Pasted image 20240229191924.png",
     "RDMA与PFS/assets/Pasted image 20240229192145.png",
-    "日记/2024-02-29.md",
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
     "面经/操作系统.md",
@@ -194,13 +198,9 @@
     "操作系统/图解系统/内存管理/Swap机制.md",
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
-    "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
-    "日记/阶段计划.md",
-    "CSAPP/学习笔记/第三章：程序的机器级表示.md",
     "CSAPP/assets/Pasted image 20240229120436.png",
     "CSAPP/assets/Pasted image 20240229120431.png",
     "CSAPP/assets/Pasted image 20240229120359.png",
-    "CSAPP/学习笔记/第二章：信息的表示和处理.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications(翻译结果).pdf.part",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
@@ -214,7 +214,6 @@
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
     "RDMA与PFS/文件系统/论文/GekkoFS(翻译结果).pdf.part",
     "操作系统/assets/Pasted image 20240226120252.png",
-    "CSAPP/assets/Pasted image 20240224154450.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
