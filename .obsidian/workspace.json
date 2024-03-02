@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "546bcc9fe51baee6",
+        "id": "eb4c121a2070e6c6",
         "type": "tabs",
         "children": [
           {
-            "id": "4e501a142455f344",
+            "id": "dcfa24a8741cc177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/图解系统/进程管理/线程基础知识.md",
+                "file": "操作系统/图解系统/文件系统/文件系统全家桶.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/图解系统/进程管理/线程基础知识.md",
+                "file": "操作系统/图解系统/文件系统/文件系统全家桶.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/图解系统/进程管理/线程基础知识.md",
+                "file": "操作系统/图解系统/文件系统/文件系统全家桶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/图解系统/进程管理/线程基础知识.md"
+                "file": "操作系统/图解系统/文件系统/文件系统全家桶.md"
               }
             }
           },
@@ -167,13 +167,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4e501a142455f344",
+  "active": "dcfa24a8741cc177",
   "lastOpenFiles": [
+    "面经/春招公司.md",
+    "操作系统/图解系统/文件系统/文件系统全家桶.md",
+    "操作系统/XV6操作系统笔记/文件系统.md",
+    "操作系统/图解系统/文件系统/Page Cache.md",
+    "操作系统/图解系统/网络系统/一致性哈希.md",
+    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
+    "面经/操作系统面经.md",
+    "操作系统/图解系统/网络系统/IO 多路复用.md",
+    "操作系统/图解系统/网络系统/零拷贝.md",
+    "操作系统/图解系统/设备管理/键盘敲入 A 字母时，操作系统期间发生了什么？.md",
+    "操作系统/图解系统/进程管理/如何避免死锁.md",
+    "操作系统/图解系统/进程管理/悲观锁与乐观锁.md",
     "操作系统/图解系统/进程管理/进程间通信.md",
+    "操作系统/图解系统/进程管理/线程基础知识.md",
     "面经/C++后端开发面经.md",
     "面经/C++面经.md",
-    "操作系统/图解系统/进程管理/线程基础知识.md",
-    "操作系统/图解系统/进程管理/悲观锁与乐观锁.md",
     "操作系统/图解系统/内存管理/Swap机制.md",
     "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
     "操作系统/图解系统/内存管理/预读失效与缓存污染.md",
@@ -181,30 +192,19 @@
     "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
     "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
     "日记/2024-03-02.md",
-    "面经/春招公司.md",
     "RDMA与PFS/组会/2024.2.1组会分享.md",
     "RDMA与PFS/组会/2024.1.25组会分享.md",
     "RDMA与PFS/组会/2024.1.18组会分享.md",
-    "RDMA与PFS/组会/2024.1.11组会分享.md",
-    "RDMA与PFS/组会/RDMA寒假学习心得.md",
-    "日记/2024-03-01.md",
-    "RDMA与PFS/组会/2024.3.1组会分享.md",
-    "数据库/图解Redis/面试篇/Redis 常见面试题.md",
     "数据库/assets/Pasted image 20240301171550.png",
     "数据库/assets/Pasted image 20240301165131.png",
     "数据库/assets/Pasted image 20240301165812.png",
     "数据库/assets/Pasted image 20240301165523.png",
     "数据库/assets/Pasted image 20240301165350.png",
     "数据库/assets/Pasted image 20240301165305.png",
-    "数据库/图解Redis/面试篇/Redis常见面试题.md",
     "数据库/图解Redis/面试篇",
     "数据库/图解Redis",
-    "数据库/图解MySQL/Redis.md",
     "数据库/图解Redis/面试篇",
     "数据库/图解Redis",
-    "数据库/图解MySQL/锁篇/MySQL锁类型.md",
-    "面经/数据库面经.md",
-    "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
     "数据库/assets/Pasted image 20240301152435.png",
     "RDMA与PFS/assets/Pasted image 20240301103224.png",
     "RDMA与PFS/assets/Pasted image 20240229194317.png",
