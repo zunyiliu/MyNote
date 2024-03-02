@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a835173e173899ac",
+        "id": "546bcc9fe51baee6",
         "type": "tabs",
         "children": [
           {
-            "id": "d0123afc5b637f5c",
+            "id": "4e501a142455f344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-03-02.md",
+                "file": "操作系统/图解系统/进程管理/线程基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-02.md",
+                "file": "操作系统/图解系统/进程管理/线程基础知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-02.md",
+                "file": "操作系统/图解系统/进程管理/线程基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-02.md"
+                "file": "操作系统/图解系统/进程管理/线程基础知识.md"
               }
             }
           },
@@ -167,11 +167,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0123afc5b637f5c",
+  "active": "4e501a142455f344",
   "lastOpenFiles": [
-    "日记/2024-03-01.md",
+    "操作系统/图解系统/进程管理/进程间通信.md",
+    "面经/C++后端开发面经.md",
+    "面经/C++面经.md",
+    "操作系统/图解系统/进程管理/线程基础知识.md",
+    "操作系统/图解系统/进程管理/悲观锁与乐观锁.md",
+    "操作系统/图解系统/内存管理/Swap机制.md",
+    "操作系统/图解系统/内存管理/malloc 是如何分配内存的？.md",
+    "操作系统/图解系统/内存管理/预读失效与缓存污染.md",
+    "操作系统/图解系统/内存管理/为什么要有虚拟内存.md",
+    "操作系统/图解系统/内存管理/内存满了，会发生什么？.md",
+    "操作系统/图解系统/操作系统结构/Linux内核与Windows内核.md",
     "日记/2024-03-02.md",
     "面经/春招公司.md",
+    "RDMA与PFS/组会/2024.2.1组会分享.md",
+    "RDMA与PFS/组会/2024.1.25组会分享.md",
+    "RDMA与PFS/组会/2024.1.18组会分享.md",
+    "RDMA与PFS/组会/2024.1.11组会分享.md",
+    "RDMA与PFS/组会/RDMA寒假学习心得.md",
+    "日记/2024-03-01.md",
     "RDMA与PFS/组会/2024.3.1组会分享.md",
     "数据库/图解Redis/面试篇/Redis 常见面试题.md",
     "数据库/assets/Pasted image 20240301171550.png",
@@ -189,24 +205,8 @@
     "数据库/图解MySQL/锁篇/MySQL锁类型.md",
     "面经/数据库面经.md",
     "数据库/CMU15445笔记/Lecture 17：Timestamp Ordering Concurrency Control.md",
-    "数据库/CMU15445笔记/Lecture 16：Two-Phase Locking Concurrency Control.md",
-    "数据库/CMU15445笔记/Lecture 15：Concurrency Control Theory.md",
-    "数据库/CMU15445笔记/Lecture 14：Query Planning & Optimization.md",
-    "数据库/CMU15445笔记/Lecture 13：Query Execution II.md",
-    "数据库/CMU15445笔记/Lecture 12：Query Execution I.md",
-    "日记/2024-02-26.md",
-    "面经/C++面经.md",
-    "面经/网络协议面经.md",
-    "面经/操作系统面经.md",
-    "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
-    "数据库/图解MySQL/事务篇/事务隔离级别.md",
-    "数据库/图解MySQL/事务篇/MySQL事务隔离级别和实现原理.md",
     "数据库/assets/Pasted image 20240301152435.png",
     "RDMA与PFS/assets/Pasted image 20240301103224.png",
-    "RDMA与PFS/RDMA杂谈/13. RDMA之Verbs.md",
-    "日记/2024-02-29.md",
-    "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
-    "RDMA与PFS/文件系统/学习规划.md",
     "RDMA与PFS/assets/Pasted image 20240229194317.png",
     "RDMA与PFS/assets/Pasted image 20240229191924.png",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
