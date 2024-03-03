@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-03-02.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-02.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-02.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-02.md"
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "c94ff07538eb53f3",
   "lastOpenFiles": [
+    "日记/2024-03-03.md",
+    "日记/2024-03-02.md",
     "RDMA与PFS/文件系统/论文/文件系统一致性/PFS一致性语义论文阅读.md",
     "RDMA与PFS/文件系统/学习规划.md",
     "RDMA与PFS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
@@ -178,7 +180,6 @@
     "RDMA与PFS/文件系统/论文/文件系统一致性",
     "RDMA与PFS/文件系统/论文/新建文件夹",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
-    "日记/2024-03-02.md",
     "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
@@ -199,7 +200,6 @@
     "面经/春招公司.md",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "操作系统/图解系统/文件系统/Page Cache.md",
-    "操作系统/图解系统/网络系统/一致性哈希.md",
     "数据库/assets/Pasted image 20240301171550.png",
     "数据库/assets/Pasted image 20240301165131.png",
     "数据库/assets/Pasted image 20240301165812.png",
