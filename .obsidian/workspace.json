@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-03-03.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-03.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-03.md",
+                "file": "操作系统/学校实验/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-03.md"
+                "file": "操作系统/学校实验/环境配置.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "3eb6e8455cf25899",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
+    "日记/2024-03-03.md",
     "操作系统/OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
     "操作系统/OS系统能力赛/内核旁路论文/内核旁路翻译.pdf",
-    "日记/2024-03-03.md",
     "操作系统/OS系统能力赛/内核旁路论文",
     "操作系统/OS系统能力赛",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "面经/春招公司.md",
     "操作系统/XV6操作系统笔记/物理内存管理.md",
