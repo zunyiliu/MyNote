@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b3b911abdb6dcf",
+        "id": "da90729ed6ee9117",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d12332174db445",
+            "id": "3eb6e8455cf25899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2024-03-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2024-03-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md",
+                "file": "日记/2024-03-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/学校实验/环境配置.md"
+                "file": "日记/2024-03-03.md"
               }
             }
           },
@@ -167,12 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f2d12332174db445",
+  "active": "3eb6e8455cf25899",
   "lastOpenFiles": [
+    "操作系统/OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
+    "操作系统/OS系统能力赛/内核旁路论文/内核旁路翻译.pdf",
+    "日记/2024-03-03.md",
+    "操作系统/OS系统能力赛/内核旁路论文",
+    "操作系统/OS系统能力赛",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "面经/春招公司.md",
-    "日记/2024-03-03.md",
     "操作系统/XV6操作系统笔记/物理内存管理.md",
     "操作系统/XV6操作系统笔记/虚拟内存管理.md",
     "操作系统/XV6操作系统笔记/设备read与write的全流程.md",
@@ -194,7 +198,6 @@
     "操作系统/学校实验/环境配置.md",
     "操作系统/学校实验/challengeX.md",
     "日记/2024-03-02.md",
-    "RDMA与PFS/文件系统/论文/文件系统一致性/PFS一致性语义论文阅读.md",
     "RDMA与PFS/文件系统/论文/文件系统一致性/File System Semantics Requirements of HPC Applications.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
     "RDMA与PFS/文件系统/论文/文件系统一致性/3431379.3460637.pdf.crdownload",
@@ -207,14 +210,10 @@
     "数据库/assets/Pasted image 20240301165350.png",
     "数据库/assets/Pasted image 20240301165305.png",
     "数据库/图解Redis/面试篇",
-    "数据库/图解Redis",
-    "数据库/图解Redis/面试篇",
-    "数据库/图解Redis",
     "数据库/assets/Pasted image 20240301152435.png",
     "RDMA与PFS/assets/Pasted image 20240301103224.png",
     "RDMA与PFS/assets/Pasted image 20240229194317.png",
     "RDMA与PFS/assets/Pasted image 20240229191924.png",
-    "RDMA与PFS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
