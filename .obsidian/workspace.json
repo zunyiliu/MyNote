@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5584a34a7fc180cd",
+        "id": "b920a54f3ac8d76f",
         "type": "tabs",
         "children": [
           {
-            "id": "c94ff07538eb53f3",
+            "id": "d3136250f58c40da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
+                "file": "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md"
               }
             }
           },
@@ -167,9 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c94ff07538eb53f3",
+  "active": "d3136250f58c40da",
   "lastOpenFiles": [
+    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
+    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
+    "操作系统/学校实验/环境配置.md",
     "日记/2024-03-03.md",
+    "操作系统/学校实验/challengeX.md",
     "日记/2024-03-02.md",
     "RDMA与PFS/文件系统/论文/文件系统一致性/PFS一致性语义论文阅读.md",
     "RDMA与PFS/文件系统/学习规划.md",
@@ -180,7 +184,6 @@
     "RDMA与PFS/文件系统/论文/文件系统一致性",
     "RDMA与PFS/文件系统/论文/新建文件夹",
     "RDMA与PFS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
-    "操作系统/MIT-6.S081笔记/Lec04 Page tables.md",
     "操作系统/MIT-6.S081笔记/Lec03 OS Organization and System Calls.md",
     "操作系统/MIT-6.S081笔记/Lec01 Introduction and Examples.md",
     "操作系统/XV6操作系统笔记/虚拟内存管理.md",
@@ -195,11 +198,8 @@
     "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
     "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "操作系统/MIT-6.S081笔记/Lec06 Isolation & system call.md",
-    "操作系统/MIT-6.S081笔记/Lec05 Calling conventions and stack frames RISC-V.md",
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
     "面经/春招公司.md",
-    "操作系统/XV6操作系统笔记/文件系统.md",
-    "操作系统/图解系统/文件系统/Page Cache.md",
     "数据库/assets/Pasted image 20240301171550.png",
     "数据库/assets/Pasted image 20240301165131.png",
     "数据库/assets/Pasted image 20240301165812.png",
