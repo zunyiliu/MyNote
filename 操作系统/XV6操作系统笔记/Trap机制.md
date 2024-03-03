@@ -65,7 +65,7 @@
 >Q：为什么`stvec`存储了`uservec`函数的地址？
 >A：答案在`usertrapret`函数中
 >
->Q：将寄存器值存放到`proc->trapframe`时使用了`sscratch`寄存器，为什么该寄存器存着TRAPFRAME的虚拟地址？
+>Q：将寄存器值存放到 `proc->trapframe` 时使用了 `sscratch` 寄存器，为什么该寄存器存着TRAPFRAME的虚拟地址？
 >A：答案在`userret`函数中
 >
 >Q：为什么`proc->trapframe`中存储了kernel的相关信息？
