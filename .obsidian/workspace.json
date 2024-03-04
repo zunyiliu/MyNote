@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff458950577769b",
+        "id": "cc3fc09213d548f4",
         "type": "tabs",
         "children": [
           {
-            "id": "061209ae82bd2579",
+            "id": "fe4ba082f6c1e8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "061209ae82bd2579",
+  "active": "fe4ba082f6c1e8c9",
   "lastOpenFiles": [
+    "日记/2024-03-04.md",
     "面经/网络协议面经.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
     "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
@@ -185,7 +186,6 @@
     "计算机网络/图解网络/HTTP篇/HTTP 与 WebSocket.md",
     "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
-    "日记/2024-03-04.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/学校实验/challengeX.md",
     "计算机网络/学习笔记/第六章.md",
