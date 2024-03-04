@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
+                "file": "日记/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
+                "file": "日记/2024-03-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
+                "file": "日记/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md"
+                "file": "日记/2024-03-04.md"
               }
             }
           },
@@ -167,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "fb376e0f9127c0d7",
   "lastOpenFiles": [
     "操作系统/学校实验/lab2_challenge3.md",
     "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
