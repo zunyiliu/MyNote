@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-03-04.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-04.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-04.md",
+                "file": "计算机网络/学习笔记/第六章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-04.md"
+                "file": "计算机网络/学习笔记/第六章.md"
               }
             }
           },
@@ -169,8 +169,21 @@
   },
   "active": "798e4698ee1394aa",
   "lastOpenFiles": [
-    "日记/2024-03-03.md",
+    "计算机网络/学习笔记/第五章.md",
+    "计算机网络/学习笔记/第四章.md",
+    "计算机网络/学习笔记/第六章.md",
+    "计算机网络/学习笔记/第三章.md",
+    "操作系统/图解系统/网络系统/IO 多路复用.md",
+    "计算机网络/学习笔记/第二章.md",
+    "操作系统/图解系统/文件系统/文件系统全家桶.md",
+    "操作系统/图解系统/网络系统/同步异步阻塞非阻塞.md",
+    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
+    "操作系统/图解系统/网络系统/一致性哈希.md",
+    "操作系统/图解系统/网络系统/零拷贝.md",
+    "面经/春招公司.md",
+    "计算机网络/学习笔记/第一章.md",
     "日记/2024-03-04.md",
+    "日记/2024-03-03.md",
     "日记/2024-02/2024-02-27.md",
     "日记/2024-02/2024-02-01.md",
     "日记/2024-02",
@@ -185,21 +198,8 @@
     "OS系统能力赛/内核旁路论文",
     "OS系统能力赛",
     "操作系统/XV6操作系统笔记/文件系统.md",
-    "面经/春招公司.md",
     "操作系统/XV6操作系统笔记/物理内存管理.md",
     "操作系统/XV6操作系统笔记/虚拟内存管理.md",
-    "操作系统/XV6操作系统笔记/设备read与write的全流程.md",
-    "操作系统/XV6操作系统笔记/Trap机制.md",
-    "操作系统/XV6操作系统笔记/进程：从创建到清空.md",
-    "操作系统/XV6操作系统笔记/XV6的启动.md",
-    "操作系统/XV6操作系统笔记/Makefile与操作系统编译.md",
-    "操作系统/MIT-6.S081笔记/Lec15 Crash recovery.md",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
-    "操作系统/MIT-6.S081笔记/Lec13 Sleep & Wake up.md",
-    "操作系统/MIT-6.S081笔记/Lec11 Thread switching.md",
-    "操作系统/MIT-6.S081笔记/Lec10 Multiprocessors and locking.md",
-    "操作系统/MIT-6.S081笔记/Lec09 Interrupts.md",
-    "操作系统/MIT-6.S081笔记/Lec08 Page faults.md",
     "RDMA与PFS/文件系统/论文/文件系统一致性/File System Semantics Requirements of HPC Applications.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
     "RDMA与PFS/文件系统/论文/文件系统一致性/3431379.3460637.pdf.crdownload",
