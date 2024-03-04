@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20918f73b1a17ed0",
+        "id": "5ff458950577769b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8889329182018fe",
+            "id": "061209ae82bd2579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
+                "file": "日记/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
+                "file": "日记/2024-03-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
+                "file": "日记/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md"
+                "file": "日记/2024-03-04.md"
               }
             }
           },
@@ -167,13 +167,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8889329182018fe",
+  "active": "061209ae82bd2579",
   "lastOpenFiles": [
     "面经/网络协议面经.md",
-    "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
-    "TinyKv项目文档/TinyKv资源汇总.md",
+    "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
+    "面经/操作系统面经.md",
+    "计算机网络/图解网络/IP篇/ping 的工作原理.md",
     "面经/春招公司.md",
+    "计算机网络/图解网络/IP篇/IP知识.md",
+    "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
+    "计算机网络/图解网络/TCP篇/已建立连接的TCP，收到SYN会发生什么？.md",
+    "计算机网络/图解网络/TCP篇/TCP Keepalive 和 HTTP Keep-Alive.md",
+    "计算机网络/图解网络/TCP篇/TCP 连接，一端断电和进程崩溃有什么区别？.md",
+    "计算机网络/图解网络/TCP篇/TCP 三次握手与四次挥手面试题.md",
+    "计算机网络/图解网络/HTTP篇/RPC.md",
+    "计算机网络/图解网络/HTTP篇/HTTP 与 WebSocket.md",
+    "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
+    "TinyKv项目文档/TinyKv资源汇总.md",
     "日记/2024-03-04.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/学校实验/challengeX.md",
@@ -184,18 +195,7 @@
     "操作系统/图解系统/网络系统/IO 多路复用.md",
     "计算机网络/学习笔记/第二章.md",
     "操作系统/图解系统/文件系统/文件系统全家桶.md",
-    "操作系统/图解系统/网络系统/同步异步阻塞非阻塞.md",
-    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
-    "操作系统/图解系统/网络系统/一致性哈希.md",
-    "操作系统/图解系统/网络系统/零拷贝.md",
-    "计算机网络/学习笔记/第一章.md",
-    "日记/2024-03-03.md",
-    "日记/2024-02/2024-02-27.md",
-    "日记/2024-02/2024-02-01.md",
     "日记/2024-02",
-    "日记/阶段计划.md",
-    "操作系统/学校实验/环境配置.md",
-    "操作系统/MIT-6.S081实验/Lab4：trap.md",
     "OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
     "OS系统能力赛/内核旁路论文/内核旁路翻译.pdf",
     "OS系统能力赛/内核旁路论文",
