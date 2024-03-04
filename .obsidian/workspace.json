@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2024-03-04.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-04.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-04.md",
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-04.md"
+                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "6df9af7308d0b486",
   "lastOpenFiles": [
     "日记/2024-03-04.md",
+    "操作系统/学校实验/challengeX.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
     "计算机网络/学习笔记/第四章.md",
@@ -199,7 +200,6 @@
     "OS系统能力赛",
     "操作系统/XV6操作系统笔记/文件系统.md",
     "操作系统/XV6操作系统笔记/物理内存管理.md",
-    "操作系统/XV6操作系统笔记/虚拟内存管理.md",
     "RDMA与PFS/文件系统/论文/文件系统一致性/File System Semantics Requirements of HPC Applications.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
     "RDMA与PFS/文件系统/论文/文件系统一致性/3431379.3460637.pdf.crdownload",
