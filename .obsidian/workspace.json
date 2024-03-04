@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3eac4a9db891c1",
+        "id": "20918f73b1a17ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "6df9af7308d0b486",
+            "id": "e8889329182018fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md",
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/MIT-6.S081笔记/资源汇总.md"
+                "file": "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md"
               }
             }
           },
@@ -167,9 +167,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6df9af7308d0b486",
+  "active": "e8889329182018fe",
   "lastOpenFiles": [
+    "面经/网络协议面经.md",
+    "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
+    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
+    "TinyKv项目文档/TinyKv资源汇总.md",
+    "面经/春招公司.md",
     "日记/2024-03-04.md",
+    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/学校实验/challengeX.md",
     "计算机网络/学习笔记/第六章.md",
     "计算机网络/学习笔记/第五章.md",
@@ -182,7 +188,6 @@
     "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
     "操作系统/图解系统/网络系统/一致性哈希.md",
     "操作系统/图解系统/网络系统/零拷贝.md",
-    "面经/春招公司.md",
     "计算机网络/学习笔记/第一章.md",
     "日记/2024-03-03.md",
     "日记/2024-02/2024-02-27.md",
@@ -190,16 +195,11 @@
     "日记/2024-02",
     "日记/阶段计划.md",
     "操作系统/学校实验/环境配置.md",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
     "操作系统/MIT-6.S081实验/Lab4：trap.md",
-    "操作系统/MIT-6.S081实验/Lab3：page tables.md",
-    "操作系统/MIT-6.S081实验/Lab2：system calls.md",
     "OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
     "OS系统能力赛/内核旁路论文/内核旁路翻译.pdf",
     "OS系统能力赛/内核旁路论文",
     "OS系统能力赛",
-    "操作系统/XV6操作系统笔记/文件系统.md",
-    "操作系统/XV6操作系统笔记/物理内存管理.md",
     "RDMA与PFS/文件系统/论文/文件系统一致性/File System Semantics Requirements of HPC Applications.pdf",
     "RDMA与PFS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
     "RDMA与PFS/文件系统/论文/文件系统一致性/3431379.3460637.pdf.crdownload",
