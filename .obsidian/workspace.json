@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb30319fd4b89c5",
+        "id": "ff9e11b5bce503d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9efa5eb9293e0a78",
+            "id": "b34aa54489dce6b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2024-03-05.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-05.md",
+                "file": "RDMA与PFS/文件系统/学习规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-05.md",
+                "file": "RDMA与PFS/文件系统/学习规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-05.md"
+                "file": "RDMA与PFS/文件系统/学习规划.md"
               }
             }
           },
@@ -167,14 +163,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9efa5eb9293e0a78",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
+    "RDMA与PFS/文件系统/学习规划.md",
+    "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
+    "日记/2024-03-05.md",
     "TinyKv项目文档/project4.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "TinyKv项目文档/project2.md",
     "面经/春招公司.md",
-    "日记/2024-03-05.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
     "操作系统/图解系统/进程管理/线程、协程基础知识.md",
     "操作系统/assets/Pasted image 20240305112728.png",
@@ -193,10 +192,7 @@
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
     "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
-    "日记/2024-03-04.md",
     "b4331d2ce03246b2e6ac86b5d1a6de5.jpg",
-    "周楷学生证扫描.md",
-    "操作系统/学校实验/lab2_challenge3.md",
     "OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
     "OS系统能力赛/README.md.crdownload",
     "OS系统能力赛/assets",
