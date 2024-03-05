@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41e839321148352b",
+        "id": "5cb5df8de555d518",
         "type": "tabs",
         "children": [
           {
-            "id": "fb376e0f9127c0d7",
+            "id": "fab4c881af27fa69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
+                "file": "TinyKv项目文档/TinyKv资源汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md"
+                "file": "TinyKv项目文档/TinyKv资源汇总.md"
               }
             }
           },
@@ -167,9 +167,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fb376e0f9127c0d7",
+  "active": "fab4c881af27fa69",
   "lastOpenFiles": [
+    "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
+    "操作系统/图解系统/进程管理/线程、协程基础知识.md",
+    "操作系统/assets/Pasted image 20240305112728.png",
     "面经/春招公司.md",
+    "数据库/图解MySQL/锁篇/MySQL锁类型.md",
+    "数据库/图解MySQL/索引篇/索引常见面试题.md",
+    "数据库/图解MySQL/日志篇/MySQL 日志.md",
+    "数据库/图解MySQL/事务篇/MySQL事务隔离级别和实现原理.md",
+    "数据库/图解MySQL/事务篇/MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
+    "数据库/图解MySQL/事务篇/事务隔离级别.md",
+    "数据库/图解MySQL/内存篇/揭开 Buffer Pool 的面纱.md",
     "数据库/图解MySQL/基础篇/MySQL的数据存储结构.md",
     "数据库/图解MySQL/基础篇/MySQL的执行流程.md",
     "数据库/CMU15445笔记/Lecture 06：Memory Management.md",
@@ -195,15 +205,6 @@
     "Pasted image 20240304195739.png",
     "Pasted image 20240304195730.png",
     "OS系统能力赛/内核旁路论文/内核旁路翻译.pdf",
-    "操作系统/MIT-6.S081笔记/资源汇总.md",
-    "面经/网络协议面经.md",
-    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
-    "计算机网络/图解网络/基础篇/键入网址到网页显示，期间发生了什么？.md",
-    "面经/操作系统面经.md",
-    "计算机网络/图解网络/IP篇/ping 的工作原理.md",
-    "计算机网络/图解网络/IP篇/IP知识.md",
-    "计算机网络/图解网络/IP篇/回环地址 127.0.0.1.md",
-    "计算机网络/图解网络/TCP篇/已建立连接的TCP，收到SYN会发生什么？.md",
     "日记/2024-02",
     "OS系统能力赛/内核旁路论文",
     "OS系统能力赛",
@@ -214,7 +215,6 @@
     "数据库/assets/Pasted image 20240301165131.png",
     "数据库/assets/Pasted image 20240301165812.png",
     "数据库/assets/Pasted image 20240301165523.png",
-    "数据库/assets/Pasted image 20240301165350.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
