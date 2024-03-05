@@ -11,8 +11,12 @@
             "id": "b34aa54489dce6b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与PFS/文件系统/学习规划.md",
+                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与PFS/文件系统/学习规划.md",
+                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与PFS/文件系统/学习规划.md"
+                "file": "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md"
               }
             }
           },
@@ -163,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "b34aa54489dce6b0",
   "lastOpenFiles": [
-    "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
     "RDMA与PFS/文件系统/学习规划.md",
     "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
+    "OS系统能力赛/assets/Pasted image 20240305191428.png",
+    "RDMA与PFS/文件系统/论文/GekkoFS/Burst Buffer.md",
     "日记/2024-03-05.md",
     "TinyKv项目文档/project4.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
@@ -191,7 +196,6 @@
     "数据库/CMU15445笔记/Lecture 04：Database Storage II.md",
     "数据库/CMU15445笔记/Lecture 03：Database Storage I.md",
     "数据库/CMU15445笔记/Lecture 02：Advanced SQL.md",
-    "数据库/CMU15445笔记/Lecture 01：Course Overview & Relational Model.md",
     "b4331d2ce03246b2e6ac86b5d1a6de5.jpg",
     "OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
     "OS系统能力赛/README.md.crdownload",
@@ -210,7 +214,6 @@
     "数据库/assets/Pasted image 20240301171550.png",
     "数据库/assets/Pasted image 20240301165131.png",
     "数据库/assets/Pasted image 20240301165812.png",
-    "数据库/assets/Pasted image 20240301165523.png",
     "计算机网络/hust课件/未命名.canvas",
     "未命名.canvas"
   ]
