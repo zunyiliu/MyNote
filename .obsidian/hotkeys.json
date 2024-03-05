@@ -23,5 +23,13 @@
       ],
       "key": "P"
     }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
