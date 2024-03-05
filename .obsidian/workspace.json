@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2024-03-04.md"
+                "file": "周楷学生证扫描.md"
               }
             }
           },
@@ -167,8 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fb376e0f9127c0d7",
+  "active": "d1172b30b6bb4c93",
   "lastOpenFiles": [
+    "b4331d2ce03246b2e6ac86b5d1a6de5.jpg",
+    "日记/2024-03-04.md",
+    "周楷学生证扫描.md",
     "操作系统/学校实验/lab2_challenge3.md",
     "OS系统能力赛/内核旁路论文/用户空间旁路论文阅读.md",
     "OS系统能力赛/内核旁路论文/Userspace_Bypass_Accelerating_Syscall_Intensive_Applications.pdf",
@@ -182,7 +183,6 @@
     "Pasted image 20240304195739.png",
     "Pasted image 20240304195730.png",
     "OS系统能力赛/内核旁路论文/内核旁路翻译.pdf",
-    "日记/2024-03-04.md",
     "操作系统/MIT-6.S081笔记/资源汇总.md",
     "面经/网络协议面经.md",
     "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
@@ -201,8 +201,6 @@
     "计算机网络/图解网络/HTTP篇/HTTP 与 RPC.md",
     "TinyKv项目文档/TinyKv资源汇总.md",
     "操作系统/学校实验/challengeX.md",
-    "计算机网络/学习笔记/第六章.md",
-    "计算机网络/学习笔记/第五章.md",
     "日记/2024-02",
     "OS系统能力赛/内核旁路论文",
     "OS系统能力赛",
