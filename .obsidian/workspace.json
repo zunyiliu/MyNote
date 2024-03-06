@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64aca4db8d6a3ef1",
+        "id": "eb379a0b07930cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "a5294d06d5c4cae6",
+            "id": "134b4f9582915488",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2024-03-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记/2024-03-06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,9 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1172b30b6bb4c93",
+  "active": "134b4f9582915488",
   "lastOpenFiles": [
     "日记/2024-03-06.md",
+    "RDMA与FS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
+    "RDMA与FS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
+    "RDMA与FS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
+    "RDMA与FS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
+    "面经/春招公司.md",
+    "面经/smartX-分布式文件系统.md",
     "面经/C++面经.md",
     "未命名.canvas",
     "日记/2024-03-01.md",
@@ -187,11 +189,6 @@
     "TinyKv项目文档/project.md",
     "TinyKv项目文档/project1.md",
     "数据库/CMU15445实验笔记/Project0：C++ Primer.md",
-    "操作系统/图解系统/网络系统/高性能网络模式：Reactor 和 Proactor.md",
-    "计算机网络/图解网络/HTTP篇/HTTP 常见面试题.md",
-    "操作系统/MIT-6.S081笔记/Lec14 File systems.md",
-    "面经/春招公司.md",
-    "操作系统/图解系统/进程管理/线程、协程基础知识.md",
     "RDMA与FS/文件系统/SPDK",
     "OS系统能力赛/assets/Pasted image 20240305203625.png",
     "OS系统能力赛/assets/Pasted image 20240305191428.png",
@@ -208,8 +205,6 @@
     "日记/2024-02",
     "OS系统能力赛/内核旁路论文",
     "OS系统能力赛",
-    "RDMA与FS/文件系统/论文/文件系统一致性/File System Semantics Requirements of HPC Applications.pdf",
-    "RDMA与FS/文件系统/论文/BurstFS/An_Ephemeral_Burst-Buffer_File_System_for_Scientific_Applications.pdf",
     "数据库/assets/Pasted image 20240301171550.png",
     "数据库/assets/Pasted image 20240301165131.png",
     "计算机网络/hust课件/未命名.canvas"
