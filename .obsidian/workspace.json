@@ -11,8 +11,12 @@
             "id": "134b4f9582915488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "面经/春招公司.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "面经/春招公司.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "面经/春招公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "面经/春招公司.md"
+              }
             }
           },
           {
@@ -161,12 +169,13 @@
   },
   "active": "134b4f9582915488",
   "lastOpenFiles": [
+    "RDMA与FS/组会/2024.1.11组会分享.md",
+    "面经/春招公司.md",
     "日记/2024-03-06.md",
     "RDMA与FS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "RDMA与FS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与FS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
     "RDMA与FS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
-    "面经/春招公司.md",
     "面经/smartX-分布式文件系统.md",
     "面经/C++面经.md",
     "未命名.canvas",
