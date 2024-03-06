@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK和GekkoFS_陈奕骁.pdf",
+                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK和GekkoFS_陈奕骁.pdf",
+                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK和GekkoFS_陈奕骁.pdf"
+                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf"
               }
             }
           },
@@ -176,10 +175,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ef44c19fa8da61b",
+  "active": "134b4f9582915488",
   "lastOpenFiles": [
-    "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
     "RDMA与FS/文件系统/SPDK/SPDK和GekkoFS_陈奕骁.pdf",
+    "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
+    "操作系统/图解系统/进程管理/进程间通信.md",
     "RDMA与FS/文件系统/SPDK/spdk_NVMe数据读写.pdf",
     "RDMA与FS/文件系统/SPDK/~$DK和GekkoFS_陈奕骁.docx",
     "RDMA与FS/文件系统/SPDK/~$DK技术分享（甘泉）.docx",
@@ -194,7 +194,6 @@
     "RDMA与FS/文件系统/论文/BurstFS/BurstFS论文阅读.md",
     "RDMA与FS/文件系统/论文/BurstFS/BurstFS（翻译）.pdf",
     "RDMA与FS/文件系统/论文/GekkoFS/GekkoFS论文阅读.md",
-    "RDMA与FS/文件系统/论文/GekkoFS/GekkoFS(翻译结果).pdf",
     "面经/smartX-分布式文件系统.md",
     "面经/C++面经.md",
     "未命名.canvas",
@@ -214,7 +213,6 @@
     "TinyKv项目文档/project2.md",
     "TinyKv项目文档/project3.md",
     "TinyKv项目文档/project4.md",
-    "TinyKv项目文档/project.md",
     "OS系统能力赛/assets/Pasted image 20240305203625.png",
     "OS系统能力赛/assets/Pasted image 20240305191428.png",
     "操作系统/assets/Pasted image 20240305112728.png",
