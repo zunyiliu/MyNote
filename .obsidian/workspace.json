@@ -4,26 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eb379a0b07930cb6",
+        "id": "977f93566ca3f9ca",
         "type": "tabs",
         "children": [
           {
-            "id": "134b4f9582915488",
+            "id": "529dbcdde0597164",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf"
-              }
-            }
-          },
-          {
-            "id": "7ef44c19fa8da61b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK和GekkoFS_陈奕骁.pdf"
+                "file": "日记/2024-03-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
+                "file": "日记/2024-03-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
+                "file": "日记/2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf"
+                "file": "日记/2024-03-06.md"
               }
             }
           },
@@ -175,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "134b4f9582915488",
+  "active": "529dbcdde0597164",
   "lastOpenFiles": [
     "RDMA与FS/文件系统/SPDK/SPDK和GekkoFS_陈奕骁.pdf",
     "RDMA与FS/文件系统/SPDK/SPDK技术分享（甘泉）.pdf",
